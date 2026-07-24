@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T11:56:10.308890Z",
+  "generated_at": "2026-07-24T14:13:21.197723Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -164,15 +164,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8831,
-      "importance": 0.8831,
-      "importance_score": 0.8831,
+      "score": 0.8774,
+      "importance": 0.8774,
+      "importance_score": 0.8774,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9695,
+        "recency": 0.938,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -199,7 +199,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T11:57:10.646238Z"
+        "scored_at": "2026-07-24T14:14:05.232818Z"
       }
     },
     {
@@ -247,15 +247,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8263,
-      "importance": 0.8263,
-      "importance_score": 0.8263,
+      "score": 0.8215,
+      "importance": 0.8215,
+      "importance_score": 0.8215,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8241,
+        "recency": 0.7973,
         "story_heat": 0.0
       },
       "category": "official",
@@ -282,7 +282,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T11:57:10.646238Z"
+        "scored_at": "2026-07-24T14:14:05.232818Z"
+      }
+    },
+    {
+      "story_id": "story_a69b2a307509",
+      "title": "Runway Agent 推出自然语言工作流功能 / Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+      "url": "https://x.com/runwayml/status/2080649234672439389",
+      "primary_url": "https://x.com/runwayml/status/2080649234672439389",
+      "source": "X：Runway (@runwayml)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "38b19e75307d67f7ea16deda84f93dc8f08bf77a",
+          "title": "Runway Agent 推出自然语言工作流功能 / Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+          "title_zh": "Runway Agent 推出自然语言工作流功能",
+          "title_en": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+          "title_original": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+          "summary": "在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。\n\n立即尝试，点击下方链接调用 / Workflow 技能。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/runwayml/status/2080649234672439389",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:40:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Runway (@runwayml)"
+      ],
+      "items": [
+        {
+          "id": "38b19e75307d67f7ea16deda84f93dc8f08bf77a",
+          "title": "Runway Agent 推出自然语言工作流功能 / Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+          "title_zh": "Runway Agent 推出自然语言工作流功能",
+          "title_en": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+          "title_original": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+          "summary": "在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。\n\n立即尝试，点击下方链接调用 / Workflow 技能。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/runwayml/status/2080649234672439389",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:40:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8116,
+      "importance": 0.8116,
+      "importance_score": 0.8116,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.992,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T13:40:08Z",
+      "latest_at": "2026-07-24T13:40:08Z",
+      "primary_item": {
+        "id": "38b19e75307d67f7ea16deda84f93dc8f08bf77a",
+        "title": "Runway Agent 推出自然语言工作流功能 / Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+        "title_zh": "Runway Agent 推出自然语言工作流功能",
+        "title_en": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+        "title_original": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+        "summary": "在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。\n\n立即尝试，点击下方链接调用 / Workflow 技能。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/runwayml/status/2080649234672439389",
+        "source": "X：Runway (@runwayml)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T14:14:05.232818Z"
       }
     },
     {
@@ -330,15 +412,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8206,
-      "importance": 0.8206,
-      "importance_score": 0.8206,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7921,
+        "recency": 0.7664,
         "story_heat": 0.0
       },
       "category": "official",
@@ -365,7 +447,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T11:57:10.646238Z"
+        "scored_at": "2026-07-24T14:14:05.232818Z"
       }
     },
     {
@@ -442,15 +524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7902,
-      "importance": 0.7902,
-      "importance_score": 0.7902,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9697,
+        "recency": 0.9383,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -477,169 +559,275 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T11:57:10.646238Z"
+        "scored_at": "2026-07-24T14:14:05.232818Z"
       }
     },
     {
-      "story_id": "story_bfadc5abab8d",
-      "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "primary_url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "story_id": "story_a1def1d5869a",
+      "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+      "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+      "primary_url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+      "source": "公众号：蚂蚁百灵（Ling）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cc31beb6a04d5fe1892b55856a826870a83fd214",
+          "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+          "title_zh": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+          "title_en": null,
+          "title_original": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+          "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10，000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:40:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：蚂蚁百灵（Ling）"
+      ],
+      "items": [
+        {
+          "id": "cc31beb6a04d5fe1892b55856a826870a83fd214",
+          "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+          "title_zh": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+          "title_en": null,
+          "title_original": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+          "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10，000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:40:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7752,
+      "importance": 0.7752,
+      "importance_score": 0.7752,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9921,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T13:40:30Z",
+      "latest_at": "2026-07-24T13:40:30Z",
+      "primary_item": {
+        "id": "cc31beb6a04d5fe1892b55856a826870a83fd214",
+        "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+        "title_zh": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+        "title_en": null,
+        "title_original": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+        "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10，000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+        "source": "公众号：蚂蚁百灵（Ling）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T14:14:05.232818Z"
+      }
+    },
+    {
+      "story_id": "story_6f64216575d4",
+      "title": "微软阐述开源模型助力美国竞争力路径 / Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+      "url": "https://x.com/satyanadella/status/2080646162483417097",
+      "primary_url": "https://x.com/satyanadella/status/2080646162483417097",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
+          "title": "微软阐述开源模型助力美国竞争力路径 / Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+          "title_zh": "微软阐述开源模型助力美国竞争力路径",
+          "title_en": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+          "title_original": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+          "summary": "开放权重模型对健康的 AI 生态系统至关重要。我们与行业同仁一道，正在规划一条路径，让开放权重模型在保护国家安全的同时，增强美国竞争力并扩大经济机会。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/satyanadella/status/2080646162483417097",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:27:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Satya Nadella (@satyanadella)"
+      ],
+      "items": [
+        {
+          "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
+          "title": "微软阐述开源模型助力美国竞争力路径 / Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+          "title_zh": "微软阐述开源模型助力美国竞争力路径",
+          "title_en": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+          "title_original": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+          "summary": "开放权重模型对健康的 AI 生态系统至关重要。我们与行业同仁一道，正在规划一条路径，让开放权重模型在保护国家安全的同时，增强美国竞争力并扩大经济机会。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/satyanadella/status/2080646162483417097",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:27:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9891,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T13:27:56Z",
+      "latest_at": "2026-07-24T13:27:56Z",
+      "primary_item": {
+        "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
+        "title": "微软阐述开源模型助力美国竞争力路径 / Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+        "title_zh": "微软阐述开源模型助力美国竞争力路径",
+        "title_en": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+        "title_original": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+        "summary": "开放权重模型对健康的 AI 生态系统至关重要。我们与行业同仁一道，正在规划一条路径，让开放权重模型在保护国家安全的同时，增强美国竞争力并扩大经济机会。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/satyanadella/status/2080646162483417097",
+        "source": "X：Satya Nadella (@satyanadella)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T14:14:05.232818Z"
+      }
+    },
+    {
+      "story_id": "story_b10cb29baa4b",
+      "title": "FLUX 3 x mimic：新一代视频动作模型",
+      "url": "https://bfl.ai/blog/flux-3-mimic",
+      "primary_url": "https://bfl.ai/blog/flux-3-mimic",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
-          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+          "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
+          "title": "FLUX 3 x mimic：新一代视频动作模型",
+          "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
           "title_en": null,
-          "title_original": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "summary": "DARPA 与美国空军成功试飞了由人工智能操控的 F-16 战机。该 AI 系统在真实空战环境中完成了自主飞行与战术机动测试，标志着 AI 在军事航空领域的重大进展。",
+          "title_original": "FLUX 3 x mimic：新一代视频动作模型",
+          "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
           "recommend_reason_zh": null,
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+          "url": "https://bfl.ai/blog/flux-3-mimic",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T20:11:31.906000Z"
+          "published_at": "2026-07-24T11:55:45.885000Z"
         },
         {
-          "id": "c4c7faebfc9cea5cf488d3f9f4881425a345456b",
-          "title": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
-          "title_zh": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
-          "title_en": null,
-          "title_original": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
+          "id": "0ee2e4b563ccc64d2b679ce830f9890b7a015ee5",
+          "title": "FLUX 3 x mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
+          "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
+          "title_en": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+          "title_original": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "www.darpa.mil",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T20:11:31.906000Z"
-        },
-        {
-          "id": "b7a4cbe5dbd46acf59b5103f767eff70ab52f6bc",
-          "title": "DARPA与美国空军驾驶AI操控的F-16 / DARPA, U.S. Air Force fly AI-controlled F-16",
-          "title_zh": "DARPA与美国空军驾驶AI操控的F-16",
-          "title_en": "DARPA, U.S. Air Force fly AI-controlled F-16",
-          "title_original": "DARPA, U.S. Air Force fly AI-controlled F-16",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49021597",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-23T16:20:01.800000Z"
-        },
-        {
-          "id": "33cce87c1d1999b5e8eb79cce6697396a9f41388",
-          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机 / DARPA, U.S. Air Force fly AI-controlled F-16",
-          "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "title_en": "DARPA, U.S. Air Force fly AI-controlled F-16",
-          "title_original": "DARPA, U.S. Air Force fly AI-controlled F-16",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T13:51:36Z"
+          "url": "https://bfl.ai/blog/flux-3-mimic",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-24T09:31:48Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.darpa.mil"
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
-          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+          "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
+          "title": "FLUX 3 x mimic：新一代视频动作模型",
+          "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
           "title_en": null,
-          "title_original": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "summary": "DARPA 与美国空军成功试飞了由人工智能操控的 F-16 战机。该 AI 系统在真实空战环境中完成了自主飞行与战术机动测试，标志着 AI 在军事航空领域的重大进展。",
+          "title_original": "FLUX 3 x mimic：新一代视频动作模型",
+          "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
           "recommend_reason_zh": null,
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+          "url": "https://bfl.ai/blog/flux-3-mimic",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T20:11:31.906000Z"
+          "published_at": "2026-07-24T11:55:45.885000Z"
         },
         {
-          "id": "c4c7faebfc9cea5cf488d3f9f4881425a345456b",
-          "title": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
-          "title_zh": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
-          "title_en": null,
-          "title_original": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
+          "id": "0ee2e4b563ccc64d2b679ce830f9890b7a015ee5",
+          "title": "FLUX 3 x mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
+          "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
+          "title_en": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+          "title_original": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "www.darpa.mil",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T20:11:31.906000Z"
-        },
-        {
-          "id": "b7a4cbe5dbd46acf59b5103f767eff70ab52f6bc",
-          "title": "DARPA与美国空军驾驶AI操控的F-16 / DARPA, U.S. Air Force fly AI-controlled F-16",
-          "title_zh": "DARPA与美国空军驾驶AI操控的F-16",
-          "title_en": "DARPA, U.S. Air Force fly AI-controlled F-16",
-          "title_original": "DARPA, U.S. Air Force fly AI-controlled F-16",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49021597",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-23T16:20:01.800000Z"
-        },
-        {
-          "id": "33cce87c1d1999b5e8eb79cce6697396a9f41388",
-          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机 / DARPA, U.S. Air Force fly AI-controlled F-16",
-          "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "title_en": "DARPA, U.S. Air Force fly AI-controlled F-16",
-          "title_original": "DARPA, U.S. Air Force fly AI-controlled F-16",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T13:51:36Z"
+          "url": "https://bfl.ai/blog/flux-3-mimic",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-24T09:31:48Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.809,
-      "importance": 0.809,
-      "importance_score": 0.809,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7957,
+      "importance": 0.7957,
+      "importance_score": 0.7957,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7966,
-        "story_heat": 0.75
+        "recency": 0.9674,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T13:51:36Z",
-      "latest_at": "2026-07-23T20:11:31.906000Z",
+      "earliest_at": "2026-07-24T09:31:48Z",
+      "latest_at": "2026-07-24T11:55:45.885000Z",
       "primary_item": {
-        "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
-        "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-        "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+        "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
+        "title": "FLUX 3 x mimic：新一代视频动作模型",
+        "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
         "title_en": null,
-        "title_original": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-        "summary": "DARPA 与美国空军成功试飞了由人工智能操控的 F-16 战机。该 AI 系统在真实空战环境中完成了自主飞行与战术机动测试，标志着 AI 在军事航空领域的重大进展。",
+        "title_original": "FLUX 3 x mimic：新一代视频动作模型",
+        "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
         "recommend_reason_zh": null,
-        "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+        "url": "https://bfl.ai/blog/flux-3-mimic",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       },
@@ -647,7 +835,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T11:57:10.646238Z"
+        "scored_at": "2026-07-24T14:14:05.232818Z"
       }
     },
     {
@@ -695,15 +883,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9675,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -729,7 +917,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T11:57:10.646238Z"
+        "scored_at": "2026-07-24T14:14:05.232818Z"
       }
     },
     {
@@ -777,15 +965,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9285,
+        "recency": 0.8984,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -811,7 +999,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T11:57:10.646238Z"
+        "scored_at": "2026-07-24T14:14:05.232818Z"
       }
     },
     {
@@ -859,15 +1047,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
+      "score": 0.8116,
+      "importance": 0.8116,
+      "importance_score": 0.8116,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8018,
+        "recency": 0.7758,
         "story_heat": 0.0
       },
       "category": "official",
@@ -894,7 +1082,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T11:57:10.646238Z"
+        "scored_at": "2026-07-24T14:14:05.232818Z"
+      }
+    },
+    {
+      "story_id": "story_066596f2dc30",
+      "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+      "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
+      "primary_url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
+      "source": "公众号：百度智能云（文心）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9dfb04799b08d1104c703b3b7a11eb2b33fb90bc",
+          "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+          "title_zh": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+          "title_en": null,
+          "title_original": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+          "summary": "百度搭子在近期AI Day上推出多项升级，支持电脑与手机双端互联，同步任务上下文与执行进度，用户可跨设备接力完成复杂工作。桌面端内嵌浏览器正式上线，能自动打开多个网页执行调研、下载等操作，手机端支持云端远程操控。智能路由自动匹配任务模式，平均任务耗时降低20%，Token利用率提升25%；简单任务完成度达100%，复杂任务高交付率94%，积分消耗最高降低75%。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
+          "source": "公众号：百度智能云（文心）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T12:28:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：百度智能云（文心）"
+      ],
+      "items": [
+        {
+          "id": "9dfb04799b08d1104c703b3b7a11eb2b33fb90bc",
+          "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+          "title_zh": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+          "title_en": null,
+          "title_original": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+          "summary": "百度搭子在近期AI Day上推出多项升级，支持电脑与手机双端互联，同步任务上下文与执行进度，用户可跨设备接力完成复杂工作。桌面端内嵌浏览器正式上线，能自动打开多个网页执行调研、下载等操作，手机端支持云端远程操控。智能路由自动匹配任务模式，平均任务耗时降低20%，Token利用率提升25%；简单任务完成度达100%，复杂任务高交付率94%，积分消耗最高降低75%。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
+          "source": "公众号：百度智能云（文心）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T12:28:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9751,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T12:28:24Z",
+      "latest_at": "2026-07-24T12:28:24Z",
+      "primary_item": {
+        "id": "9dfb04799b08d1104c703b3b7a11eb2b33fb90bc",
+        "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+        "title_zh": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+        "title_en": null,
+        "title_original": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+        "summary": "百度搭子在近期AI Day上推出多项升级，支持电脑与手机双端互联，同步任务上下文与执行进度，用户可跨设备接力完成复杂工作。桌面端内嵌浏览器正式上线，能自动打开多个网页执行调研、下载等操作，手机端支持云端远程操控。智能路由自动匹配任务模式，平均任务耗时降低20%，Token利用率提升25%；简单任务完成度达100%，复杂任务高交付率94%，积分消耗最高降低75%。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
+        "source": "公众号：百度智能云（文心）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T14:14:05.232818Z"
       }
     },
     {
@@ -942,21 +1211,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7912,
+        "recency": 0.7655,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T19:43:04Z",
       "latest_at": "2026-07-23T19:43:04Z",
@@ -976,7 +1244,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T11:57:10.646238Z"
+        "scored_at": "2026-07-24T14:14:05.232818Z"
       }
     },
     {
@@ -1053,15 +1321,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7378,
+        "recency": 0.7138,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1087,118 +1355,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T11:57:10.646238Z"
-      }
-    },
-    {
-      "story_id": "story_2d16f31e4c0e",
-      "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-      "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-      "primary_url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "794df629b7a6322acb25902743aaec5346a26e71",
-          "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_zh": "Apple 起诉 OpenAI 窃取硬件制造机密",
-          "title_en": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_original": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "summary": "Apple 指控多名前员工在 OpenAI 面试中窃取硬件制造机密，甚至将设备带出办公室进行\"展示\"。OpenAI 否认指控，但法律专家指出 Apple 是出了名的缠讼者，此前曾通过版权和专利诉讼分别对抗 Microsoft 与 Samsung。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T14:00:00Z"
-        },
-        {
-          "id": "2d4fc4509f6b2b68ee8e0e251439b8df2901292b",
-          "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_zh": "Apple 起诉 OpenAI 窃取硬件制造机密",
-          "title_en": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_original": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-23T14:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "794df629b7a6322acb25902743aaec5346a26e71",
-          "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_zh": "Apple 起诉 OpenAI 窃取硬件制造机密",
-          "title_en": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_original": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "summary": "Apple 指控多名前员工在 OpenAI 面试中窃取硬件制造机密，甚至将设备带出办公室进行\"展示\"。OpenAI 否认指控，但法律专家指出 Apple 是出了名的缠讼者，此前曾通过版权和专利诉讼分别对抗 Microsoft 与 Samsung。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T14:00:00Z"
-        },
-        {
-          "id": "2d4fc4509f6b2b68ee8e0e251439b8df2901292b",
-          "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_zh": "Apple 起诉 OpenAI 窃取硬件制造机密",
-          "title_en": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_original": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-23T14:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7285,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T14:00:00Z",
-      "latest_at": "2026-07-23T14:00:00Z",
-      "primary_item": {
-        "id": "794df629b7a6322acb25902743aaec5346a26e71",
-        "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-        "title_zh": "Apple 起诉 OpenAI 窃取硬件制造机密",
-        "title_en": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-        "title_original": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-        "summary": "Apple 指控多名前员工在 OpenAI 面试中窃取硬件制造机密，甚至将设备带出办公室进行\"展示\"。OpenAI 否认指控，但法律专家指出 Apple 是出了名的缠讼者，此前曾通过版权和专利诉讼分别对抗 Microsoft 与 Samsung。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T11:57:10.646238Z"
+        "scored_at": "2026-07-24T14:14:05.232818Z"
       }
     },
     {
@@ -1246,15 +1403,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7936,
+        "recency": 0.7678,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1279,7 +1436,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T11:57:10.646238Z"
+        "scored_at": "2026-07-24T14:14:05.232818Z"
       }
     },
     {
@@ -1327,15 +1484,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9675,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1361,88 +1518,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T11:57:10.646238Z"
-      }
-    },
-    {
-      "story_id": "story_92dd58586306",
-      "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜 / Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
-      "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ef228568bf7b0662d6a048c9788f440173cc69fc",
-          "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜 / Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
-          "title_zh": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
-          "title_en": "Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
-          "title_original": "Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
-          "summary": "阿里通义千问推出最新文本转语音模型Qwen-Audio-3.0-TTS，提供Flash（实时交互）和Plus（高质量生成）两个版本。新功能包括细粒度内联标签控制（如【whisper】、【angry】）、自然语言风格控制、支持16种语言，以及一次生成长达3分钟的长文本。该模型目前在Artificial Analysis TTS排行榜上排名第一。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T12:33:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "ef228568bf7b0662d6a048c9788f440173cc69fc",
-          "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜 / Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
-          "title_zh": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
-          "title_en": "Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
-          "title_original": "Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
-          "summary": "阿里通义千问推出最新文本转语音模型Qwen-Audio-3.0-TTS，提供Flash（实时交互）和Plus（高质量生成）两个版本。新功能包括细粒度内联标签控制（如【whisper】、【angry】）、自然语言风格控制、支持16种语言，以及一次生成长达3分钟的长文本。该模型目前在Artificial Analysis TTS排行榜上排名第一。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T12:33:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7135,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T12:33:27Z",
-      "latest_at": "2026-07-23T12:33:27Z",
-      "primary_item": {
-        "id": "ef228568bf7b0662d6a048c9788f440173cc69fc",
-        "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜 / Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
-        "title_zh": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
-        "title_en": "Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
-        "title_original": "Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
-        "summary": "阿里通义千问推出最新文本转语音模型Qwen-Audio-3.0-TTS，提供Flash（实时交互）和Plus（高质量生成）两个版本。新功能包括细粒度内联标签控制（如【whisper】、【angry】）、自然语言风格控制、支持16种语言，以及一次生成长达3分钟的长文本。该模型目前在Artificial Analysis TTS排行榜上排名第一。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T11:57:10.646238Z"
+        "scored_at": "2026-07-24T14:14:05.232818Z"
       }
     },
     {
@@ -1490,21 +1566,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8358,
+        "recency": 0.8086,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T23:30:43Z",
       "latest_at": "2026-07-23T23:30:43Z",
@@ -1524,7 +1599,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T11:57:10.646238Z"
+        "scored_at": "2026-07-24T14:14:05.232818Z"
       }
     },
     {
@@ -1572,15 +1647,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8036,
-      "importance": 0.8036,
-      "importance_score": 0.8036,
+      "score": 0.799,
+      "importance": 0.799,
+      "importance_score": 0.799,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7754,
+        "recency": 0.7502,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1607,7 +1682,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T11:57:10.646238Z"
+        "scored_at": "2026-07-24T14:14:05.232818Z"
       }
     },
     {
@@ -1655,15 +1730,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9675,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1689,163 +1764,111 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T11:57:10.646238Z"
+        "scored_at": "2026-07-24T14:14:05.232818Z"
       }
     },
     {
-      "story_id": "story_1650bfbff40b",
-      "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
-      "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bc43672efad43350530cee56250f555e6a0d9b73",
-          "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
-          "title_zh": "公共预览版中的 GitHub 问题中的代理自动化控制",
-          "title_en": "Agent automation controls in GitHub Issues in public preview",
-          "title_original": "Agent automation controls in GitHub Issues in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T15:30:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bc43672efad43350530cee56250f555e6a0d9b73",
-          "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
-          "title_zh": "公共预览版中的 GitHub 问题中的代理自动化控制",
-          "title_en": "Agent automation controls in GitHub Issues in public preview",
-          "title_original": "Agent automation controls in GitHub Issues in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T15:30:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.798,
-      "importance": 0.798,
-      "importance_score": 0.798,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7445,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T15:30:29Z",
-      "latest_at": "2026-07-23T15:30:29Z",
-      "primary_item": {
-        "id": "bc43672efad43350530cee56250f555e6a0d9b73",
-        "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
-        "title_zh": "公共预览版中的 GitHub 问题中的代理自动化控制",
-        "title_en": "Agent automation controls in GitHub Issues in public preview",
-        "title_original": "Agent automation controls in GitHub Issues in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T11:57:10.646238Z"
-      }
-    },
-    {
-      "story_id": "story_5024eb5536d2",
-      "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "primary_url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "story_id": "story_58bb7e7fe49d",
+      "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "primary_url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
-          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "title_zh": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+          "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
+          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+          "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
           "title_en": null,
-          "title_original": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
+          "title_original": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+          "summary": "DARPA 与美国空军成功试飞了由人工智能操控的 F-16 战机。该 AI 系统在真实空战环境中完成了自主飞行与战术机动测试，标志着 AI 在军事航空领域的重大进展。",
           "recommend_reason_zh": null,
-          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T18:35:29.016000Z"
+          "published_at": "2026-07-23T20:11:31.906000Z"
+        },
+        {
+          "id": "c4c7faebfc9cea5cf488d3f9f4881425a345456b",
+          "title": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
+          "title_zh": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
+          "title_en": null,
+          "title_original": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+          "source": "www.darpa.mil",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-23T20:11:31.906000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.darpa.mil"
       ],
       "items": [
         {
-          "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
-          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "title_zh": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+          "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
+          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+          "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
           "title_en": null,
-          "title_original": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
+          "title_original": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+          "summary": "DARPA 与美国空军成功试飞了由人工智能操控的 F-16 战机。该 AI 系统在真实空战环境中完成了自主飞行与战术机动测试，标志着 AI 在军事航空领域的重大进展。",
           "recommend_reason_zh": null,
-          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T18:35:29.016000Z"
+          "published_at": "2026-07-23T20:11:31.906000Z"
+        },
+        {
+          "id": "c4c7faebfc9cea5cf488d3f9f4881425a345456b",
+          "title": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
+          "title_zh": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
+          "title_en": null,
+          "title_original": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+          "source": "www.darpa.mil",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-23T20:11:31.906000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7784,
-        "story_heat": 0.0
+        "recency": 0.7708,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-23T18:35:29.016000Z",
-      "latest_at": "2026-07-23T18:35:29.016000Z",
+      "earliest_at": "2026-07-23T20:11:31.906000Z",
+      "latest_at": "2026-07-23T20:11:31.906000Z",
       "primary_item": {
-        "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
-        "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-        "title_zh": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+        "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
+        "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+        "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
         "title_en": null,
-        "title_original": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-        "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
+        "title_original": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+        "summary": "DARPA 与美国空军成功试飞了由人工智能操控的 F-16 战机。该 AI 系统在真实空战环境中完成了自主飞行与战术机动测试，标志着 AI 在军事航空领域的重大进展。",
         "recommend_reason_zh": null,
-        "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+        "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       },
@@ -1853,89 +1876,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T11:57:10.646238Z"
-      }
-    },
-    {
-      "story_id": "story_e8f0a452a534",
-      "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-      "url": "https://www.aibase.com/news/29870",
-      "primary_url": "https://www.aibase.com/news/29870",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
-          "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "title_zh": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "title_en": null,
-          "title_original": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29870",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T09:34:33.781046Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
-          "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "title_zh": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "title_en": null,
-          "title_original": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29870",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T09:34:33.781046Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9665,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T09:34:33.781046Z",
-      "latest_at": "2026-07-24T09:34:33.781046Z",
-      "primary_item": {
-        "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
-        "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-        "title_zh": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-        "title_en": null,
-        "title_original": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29870",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T11:57:10.646238Z"
+        "scored_at": "2026-07-24T14:14:05.232818Z"
       }
     }
   ]
