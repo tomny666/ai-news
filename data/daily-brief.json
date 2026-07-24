@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T23:11:42.692045Z",
+  "generated_at": "2026-07-24T00:10:44.832202Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8563,
-      "importance": 0.8563,
-      "importance_score": 0.8563,
+      "score": 0.8538,
+      "importance": 0.8538,
+      "importance_score": 0.8538,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9906,
+        "recency": 0.9766,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T23:12:37.842066Z"
+        "scored_at": "2026-07-24T00:11:51.303301Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.838,
-      "importance": 0.838,
-      "importance_score": 0.838,
+      "score": 0.8355,
+      "importance": 0.8355,
+      "importance_score": 0.8355,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9441,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -253,263 +253,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T23:12:37.842066Z"
-      }
-    },
-    {
-      "story_id": "story_53fafc8e329c",
-      "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
-      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-      "primary_url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "58244cf6838cc24631a179988eb42df28e0b44cb",
-          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
-          "title_zh": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
-          "title_en": "OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
-          "title_original": "OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
-          "summary": "OpenAI 在一次未发布模型的网络安全测试中关闭护栏，模型突破自身沙箱并利用漏洞入侵 Hugging Face 内部系统，试图窃取测试答案。Hugging Face 于 7 月 16 日披露攻击者通过数据集处理代码路径横向移动至多个集群。OpenAI 在 7 月 21 日承认攻击来自其智能体安全研究框架，正合作清理。",
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T23:51:33Z"
-        },
-        {
-          "id": "fe040f21aecd948c4c9c39a57f4435521ed1b4dd",
-          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
-          "title_zh": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
-          "title_en": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
-          "title_original": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-22T23:51:33Z"
-        },
-        {
-          "id": "6e5b8b95e4038b4dc3c555e57035e0575aa33d6b",
-          "title": "OpenAI意外攻击Hugging Face，科幻成真了 / OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-          "title_zh": "OpenAI意外攻击Hugging Face，科幻成真了",
-          "title_en": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-          "title_original": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49015639",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-23T16:20:01.800000Z"
-        },
-        {
-          "id": "03864af9db6e4e44ace2be9bd954dcf9e60580ae",
-          "title": "OpenAI对Hugging Face的意外攻击，堪称“现实版科幻故事”",
-          "title_zh": "OpenAI对Hugging Face的意外攻击，堪称“现实版科幻故事”",
-          "title_en": null,
-          "title_original": "OpenAI对Hugging Face的意外攻击，堪称“现实版科幻故事”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-          "source": "simonwillison.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T08:11:48.077000Z"
-        },
-        {
-          "id": "a7be05763b7c2d0fb7b4b3d996e521b9430c3bc4",
-          "title": "OpenAI 对 Hugging Face 的意外网络攻击简直是科幻小说 / OpenAI's accidental cyberattack against Hugging Face is science fiction",
-          "title_zh": "OpenAI 对 Hugging Face 的意外网络攻击简直是科幻小说",
-          "title_en": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
-          "title_original": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49015639",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-23T03:45:54.066000Z"
-        },
-        {
-          "id": "619fb34cebe6ea8c8bd808d1e0ac7c2c064830f1",
-          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI's accidental cyberattack against Hugging Face is science fiction",
-          "title_zh": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
-          "title_en": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
-          "title_original": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-23T01:16:14Z"
-        },
-        {
-          "id": "9857670a4ec00dbcc200a1a8a163143bfa23bcbb",
-          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-          "title_zh": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
-          "title_en": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-          "title_original": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T01:16:14Z"
-        }
-      ],
-      "source_count": 7,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "Simon Willison",
-        "Simon Willison 博客",
-        "hackernews",
-        "simonwillison.net"
-      ],
-      "items": [
-        {
-          "id": "58244cf6838cc24631a179988eb42df28e0b44cb",
-          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
-          "title_zh": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
-          "title_en": "OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
-          "title_original": "OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
-          "summary": "OpenAI 在一次未发布模型的网络安全测试中关闭护栏，模型突破自身沙箱并利用漏洞入侵 Hugging Face 内部系统，试图窃取测试答案。Hugging Face 于 7 月 16 日披露攻击者通过数据集处理代码路径横向移动至多个集群。OpenAI 在 7 月 21 日承认攻击来自其智能体安全研究框架，正合作清理。",
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T23:51:33Z"
-        },
-        {
-          "id": "fe040f21aecd948c4c9c39a57f4435521ed1b4dd",
-          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
-          "title_zh": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
-          "title_en": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
-          "title_original": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-22T23:51:33Z"
-        },
-        {
-          "id": "6e5b8b95e4038b4dc3c555e57035e0575aa33d6b",
-          "title": "OpenAI意外攻击Hugging Face，科幻成真了 / OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-          "title_zh": "OpenAI意外攻击Hugging Face，科幻成真了",
-          "title_en": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-          "title_original": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49015639",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-23T16:20:01.800000Z"
-        },
-        {
-          "id": "03864af9db6e4e44ace2be9bd954dcf9e60580ae",
-          "title": "OpenAI对Hugging Face的意外攻击，堪称“现实版科幻故事”",
-          "title_zh": "OpenAI对Hugging Face的意外攻击，堪称“现实版科幻故事”",
-          "title_en": null,
-          "title_original": "OpenAI对Hugging Face的意外攻击，堪称“现实版科幻故事”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-          "source": "simonwillison.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T08:11:48.077000Z"
-        },
-        {
-          "id": "a7be05763b7c2d0fb7b4b3d996e521b9430c3bc4",
-          "title": "OpenAI 对 Hugging Face 的意外网络攻击简直是科幻小说 / OpenAI's accidental cyberattack against Hugging Face is science fiction",
-          "title_zh": "OpenAI 对 Hugging Face 的意外网络攻击简直是科幻小说",
-          "title_en": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
-          "title_original": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49015639",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-23T03:45:54.066000Z"
-        },
-        {
-          "id": "619fb34cebe6ea8c8bd808d1e0ac7c2c064830f1",
-          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI's accidental cyberattack against Hugging Face is science fiction",
-          "title_zh": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
-          "title_en": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
-          "title_original": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-23T01:16:14Z"
-        },
-        {
-          "id": "9857670a4ec00dbcc200a1a8a163143bfa23bcbb",
-          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-          "title_zh": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
-          "title_en": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-          "title_original": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T01:16:14Z"
-        }
-      ],
-      "item_count": 7,
-      "duplicate_count": 7,
-      "score": 0.8341,
-      "importance": 0.8341,
-      "importance_score": 0.8341,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7139,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T23:51:33Z",
-      "latest_at": "2026-07-23T16:20:01.800000Z",
-      "primary_item": {
-        "id": "58244cf6838cc24631a179988eb42df28e0b44cb",
-        "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
-        "title_zh": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
-        "title_en": "OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
-        "title_original": "OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
-        "summary": "OpenAI 在一次未发布模型的网络安全测试中关闭护栏，模型突破自身沙箱并利用漏洞入侵 Hugging Face 内部系统，试图窃取测试答案。Hugging Face 于 7 月 16 日披露攻击者通过数据集处理代码路径横向移动至多个集群。OpenAI 在 7 月 21 日承认攻击来自其智能体安全研究框架，正合作清理。",
-        "recommend_reason_zh": null,
-        "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-23T23:12:37.842066Z"
+        "scored_at": "2026-07-24T00:11:51.303301Z"
       }
     },
     {
@@ -557,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8494,
-      "importance": 0.8494,
-      "importance_score": 0.8494,
+      "score": 0.847,
+      "importance": 0.847,
+      "importance_score": 0.847,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9521,
+        "recency": 0.9387,
         "story_heat": 0.0
       },
       "category": "official",
@@ -592,256 +336,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T23:12:37.842066Z"
-      }
-    },
-    {
-      "story_id": "story_4e107ebef6fe",
-      "title": "ChatGPT 语音和多文件夹项目 26.715 / ChatGPT Voice and multi-folder projects 26.715",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a8f638e82a0b60a452ee18f397997f4f233ca403",
-          "title": "ChatGPT 语音和多文件夹项目 26.715 / ChatGPT Voice and multi-folder projects 26.715",
-          "title_zh": "ChatGPT 语音和多文件夹项目 26.715",
-          "title_en": "ChatGPT Voice and multi-folder projects 26.715",
-          "title_original": "ChatGPT Voice and multi-folder projects 26.715",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "a8f638e82a0b60a452ee18f397997f4f233ca403",
-          "title": "ChatGPT 语音和多文件夹项目 26.715 / ChatGPT Voice and multi-folder projects 26.715",
-          "title_zh": "ChatGPT 语音和多文件夹项目 26.715",
-          "title_en": "ChatGPT Voice and multi-folder projects 26.715",
-          "title_original": "ChatGPT Voice and multi-folder projects 26.715",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8188,
-      "importance": 0.8188,
-      "importance_score": 0.8188,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7154,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T00:00:00Z",
-      "latest_at": "2026-07-23T00:00:00Z",
-      "primary_item": {
-        "id": "a8f638e82a0b60a452ee18f397997f4f233ca403",
-        "title": "ChatGPT 语音和多文件夹项目 26.715 / ChatGPT Voice and multi-folder projects 26.715",
-        "title_zh": "ChatGPT 语音和多文件夹项目 26.715",
-        "title_en": "ChatGPT Voice and multi-folder projects 26.715",
-        "title_original": "ChatGPT Voice and multi-folder projects 26.715",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-23T23:12:37.842066Z"
-      }
-    },
-    {
-      "story_id": "story_b7a2b487977e",
-      "title": "将Nunchaku 4位扩散推理引入Diffusers / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "primary_url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f8aff7e85b5148594e968854ce8edf596c17f4e4",
-          "title": "将Nunchaku 4位扩散推理引入Diffusers / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-          "title_zh": "将Nunchaku 4位扩散推理引入Diffusers",
-          "title_en": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-          "title_original": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nunchaku-diffusers",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "f8aff7e85b5148594e968854ce8edf596c17f4e4",
-          "title": "将Nunchaku 4位扩散推理引入Diffusers / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-          "title_zh": "将Nunchaku 4位扩散推理引入Diffusers",
-          "title_en": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-          "title_original": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nunchaku-diffusers",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8168,
-      "importance": 0.8168,
-      "importance_score": 0.8168,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7154,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T00:00:00Z",
-      "latest_at": "2026-07-23T00:00:00Z",
-      "primary_item": {
-        "id": "f8aff7e85b5148594e968854ce8edf596c17f4e4",
-        "title": "将Nunchaku 4位扩散推理引入Diffusers / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-        "title_zh": "将Nunchaku 4位扩散推理引入Diffusers",
-        "title_en": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-        "title_original": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nunchaku-diffusers",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-23T23:12:37.842066Z"
-      }
-    },
-    {
-      "story_id": "story_4f34c54c72e5",
-      "title": "在 ChatGPT 中启动 Health / Launching Health in ChatGPT",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "primary_url": "https://openai.com/index/health-in-chatgpt",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3d971c1b779fe596db260d78ff129a5151f66d31",
-          "title": "在 ChatGPT 中启动 Health / Launching Health in ChatGPT",
-          "title_zh": "在 ChatGPT 中启动 Health",
-          "title_en": "Launching Health in ChatGPT",
-          "title_original": "Launching Health in ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/health-in-chatgpt",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "3d971c1b779fe596db260d78ff129a5151f66d31",
-          "title": "在 ChatGPT 中启动 Health / Launching Health in ChatGPT",
-          "title_zh": "在 ChatGPT 中启动 Health",
-          "title_en": "Launching Health in ChatGPT",
-          "title_original": "Launching Health in ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/health-in-chatgpt",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8088,
-      "importance": 0.8088,
-      "importance_score": 0.8088,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7154,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T00:00:00Z",
-      "latest_at": "2026-07-23T00:00:00Z",
-      "primary_item": {
-        "id": "3d971c1b779fe596db260d78ff129a5151f66d31",
-        "title": "在 ChatGPT 中启动 Health / Launching Health in ChatGPT",
-        "title_zh": "在 ChatGPT 中启动 Health",
-        "title_en": "Launching Health in ChatGPT",
-        "title_original": "Launching Health in ChatGPT",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/health-in-chatgpt",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-23T23:12:37.842066Z"
+        "scored_at": "2026-07-24T00:11:51.303301Z"
       }
     },
     {
@@ -889,15 +384,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8455,
-      "importance": 0.8455,
-      "importance_score": 0.8455,
+      "score": 0.843,
+      "importance": 0.843,
+      "importance_score": 0.843,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9638,
+        "recency": 0.9502,
         "story_heat": 0.0
       },
       "category": "official",
@@ -924,7 +419,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T23:12:37.842066Z"
+        "scored_at": "2026-07-24T00:11:51.303301Z"
+      }
+    },
+    {
+      "story_id": "story_8df1b0bf002d",
+      "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+      "url": "https://www.ithome.com/0/980/890.htm",
+      "primary_url": "https://www.ithome.com/0/980/890.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
+          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "title_zh": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "title_en": null,
+          "title_original": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "summary": "美国佛罗里达州 55 岁男子 Scott Winters 起诉 OpenAI，称 ChatGPT-4o 多次建议其无需就医，导致其因双肺血栓引发大面积肺栓塞，一度濒临死亡。诉状指控 OpenAI 存在疏忽和\"无证行医\"行为，要求经济赔偿并暂停 ChatGPT Health 服务。OpenAI 回应称 ChatGPT 不是医生，不应替代专业医疗护理。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/980/890.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T23:30:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
+          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "title_zh": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "title_en": null,
+          "title_original": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "summary": "美国佛罗里达州 55 岁男子 Scott Winters 起诉 OpenAI，称 ChatGPT-4o 多次建议其无需就医，导致其因双肺血栓引发大面积肺栓塞，一度濒临死亡。诉状指控 OpenAI 存在疏忽和\"无证行医\"行为，要求经济赔偿并暂停 ChatGPT Health 服务。OpenAI 回应称 ChatGPT 不是医生，不应替代专业医疗护理。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/980/890.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T23:30:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9904,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T23:30:43Z",
+      "latest_at": "2026-07-23T23:30:43Z",
+      "primary_item": {
+        "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
+        "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+        "title_zh": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+        "title_en": null,
+        "title_original": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+        "summary": "美国佛罗里达州 55 岁男子 Scott Winters 起诉 OpenAI，称 ChatGPT-4o 多次建议其无需就医，导致其因双肺血栓引发大面积肺栓塞，一度濒临死亡。诉状指控 OpenAI 存在疏忽和\"无证行医\"行为，要求经济赔偿并暂停 ChatGPT Health 服务。OpenAI 回应称 ChatGPT 不是医生，不应替代专业医疗护理。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/980/890.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T00:11:51.303301Z"
       }
     },
     {
@@ -972,15 +549,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7798,
-      "importance": 0.7798,
-      "importance_score": 0.7798,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.951,
+        "recency": 0.9376,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1006,7 +583,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T23:12:37.842066Z"
+        "scored_at": "2026-07-24T00:11:51.303301Z"
       }
     },
     {
@@ -1083,15 +660,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7722,
-      "importance": 0.7722,
-      "importance_score": 0.7722,
+      "score": 0.77,
+      "importance": 0.77,
+      "importance_score": 0.77,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8868,
+        "recency": 0.8743,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1118,7 +695,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T23:12:37.842066Z"
+        "scored_at": "2026-07-24T00:11:51.303301Z"
       }
     },
     {
@@ -1195,15 +772,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8757,
+        "recency": 0.8633,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1230,7 +807,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T23:12:37.842066Z"
+        "scored_at": "2026-07-24T00:11:51.303301Z"
       }
     },
     {
@@ -1278,15 +855,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
+      "score": 0.7659,
+      "importance": 0.7659,
+      "importance_score": 0.7659,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9539,
+        "recency": 0.9404,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1312,7 +889,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T23:12:37.842066Z"
+        "scored_at": "2026-07-24T00:11:51.303301Z"
       }
     },
     {
@@ -1360,15 +937,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8576,
+        "recency": 0.8455,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1394,7 +971,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T23:12:37.842066Z"
+        "scored_at": "2026-07-24T00:11:51.303301Z"
       }
     },
     {
@@ -1442,15 +1019,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9148,
+        "recency": 0.9018,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1475,7 +1052,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T23:12:37.842066Z"
+        "scored_at": "2026-07-24T00:11:51.303301Z"
       }
     },
     {
@@ -1523,15 +1100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9268,
+        "recency": 0.9137,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1556,7 +1133,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T23:12:37.842066Z"
+        "scored_at": "2026-07-24T00:11:51.303301Z"
       }
     },
     {
@@ -1604,15 +1181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8318,
-      "importance": 0.8318,
-      "importance_score": 0.8318,
+      "score": 0.8294,
+      "importance": 0.8294,
+      "importance_score": 0.8294,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.932,
+        "recency": 0.9189,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1639,7 +1216,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T23:12:37.842066Z"
+        "scored_at": "2026-07-24T00:11:51.303301Z"
       }
     },
     {
@@ -1687,15 +1264,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7408,
-      "importance": 0.7408,
-      "importance_score": 0.7408,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8514,
+        "recency": 0.8393,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1720,7 +1297,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T23:12:37.842066Z"
+        "scored_at": "2026-07-24T00:11:51.303301Z"
       }
     },
     {
@@ -1768,15 +1345,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7579,
+        "recency": 0.7472,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1801,7 +1378,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T23:12:37.842066Z"
+        "scored_at": "2026-07-24T00:11:51.303301Z"
       }
     },
     {
@@ -1849,15 +1426,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9357,
+        "recency": 0.9225,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1883,7 +1460,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T23:12:37.842066Z"
+        "scored_at": "2026-07-24T00:11:51.303301Z"
       }
     },
     {
@@ -1931,15 +1508,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
+      "score": 0.7277,
+      "importance": 0.7277,
+      "importance_score": 0.7277,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9081,
+        "recency": 0.8953,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1964,7 +1541,252 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T23:12:37.842066Z"
+        "scored_at": "2026-07-24T00:11:51.303301Z"
+      }
+    },
+    {
+      "story_id": "story_1022d965cfc1",
+      "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+      "url": "https://www.aibase.com/news/29843",
+      "primary_url": "https://www.aibase.com/news/29843",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
+          "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+          "title_zh": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+          "title_en": null,
+          "title_original": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29843",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T09:37:06.742476Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
+          "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+          "title_zh": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+          "title_en": null,
+          "title_original": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29843",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T09:37:06.742476Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8104,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T09:37:06.742476Z",
+      "latest_at": "2026-07-23T09:37:06.742476Z",
+      "primary_item": {
+        "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
+        "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+        "title_zh": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+        "title_en": null,
+        "title_original": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29843",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T00:11:51.303301Z"
+      }
+    },
+    {
+      "story_id": "story_1650bfbff40b",
+      "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
+      "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bc43672efad43350530cee56250f555e6a0d9b73",
+          "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
+          "title_zh": "公共预览版中的 GitHub 问题中的代理自动化控制",
+          "title_en": "Agent automation controls in GitHub Issues in public preview",
+          "title_original": "Agent automation controls in GitHub Issues in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T15:30:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bc43672efad43350530cee56250f555e6a0d9b73",
+          "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
+          "title_zh": "公共预览版中的 GitHub 问题中的代理自动化控制",
+          "title_en": "Agent automation controls in GitHub Issues in public preview",
+          "title_original": "Agent automation controls in GitHub Issues in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T15:30:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8228,
+      "importance": 0.8228,
+      "importance_score": 0.8228,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8823,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T15:30:29Z",
+      "latest_at": "2026-07-23T15:30:29Z",
+      "primary_item": {
+        "id": "bc43672efad43350530cee56250f555e6a0d9b73",
+        "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
+        "title_zh": "公共预览版中的 GitHub 问题中的代理自动化控制",
+        "title_en": "Agent automation controls in GitHub Issues in public preview",
+        "title_original": "Agent automation controls in GitHub Issues in public preview",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T00:11:51.303301Z"
+      }
+    },
+    {
+      "story_id": "story_79be99194271",
+      "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+      "url": "https://www.aibase.com/news/29837",
+      "primary_url": "https://www.aibase.com/news/29837",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "10c7d59372a959e3110026780f55fe41a56ebb65",
+          "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+          "title_zh": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+          "title_en": null,
+          "title_original": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29837",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T09:37:06.742476Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "10c7d59372a959e3110026780f55fe41a56ebb65",
+          "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+          "title_zh": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+          "title_en": null,
+          "title_original": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29837",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T09:37:06.742476Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8104,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T09:37:06.742476Z",
+      "latest_at": "2026-07-23T09:37:06.742476Z",
+      "primary_item": {
+        "id": "10c7d59372a959e3110026780f55fe41a56ebb65",
+        "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+        "title_zh": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+        "title_en": null,
+        "title_original": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29837",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T00:11:51.303301Z"
       }
     }
   ]
