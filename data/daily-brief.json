@@ -1,228 +1,29 @@
 {
-  "generated_at": "2026-07-24T15:44:39.719610Z",
+  "generated_at": "2026-07-24T17:52:06.633668Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_ce28d04e10f8",
-      "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-      "url": "https://github.com/izeigerman/claude-thermos",
-      "primary_url": "https://github.com/izeigerman/claude-thermos",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
-          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_en": null,
-          "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T09:47:29.601000Z"
-        },
-        {
-          "id": "ac54013370dcbcd288acd2bb35928d408174a926",
-          "title": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "title_zh": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "title_en": null,
-          "title_original": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T09:47:29.601000Z"
-        },
-        {
-          "id": "7a521493088ae324b98f515f600855b1e0c43814",
-          "title": "Show HN：Claude-thermos – 让您的 Claude 疗程保持温暖 / Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "title_zh": "Show HN：Claude-thermos – 让您的 Claude 疗程保持温暖",
-          "title_en": "Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "title_original": "Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49024882",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-23T19:20:21.355000Z"
-        },
-        {
-          "id": "86dc4382a1ab15f6da95288b51b80fc774cf6689",
-          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用 / Show HN: Claude-thermos keeps your Claude session warm for you",
-          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_en": "Show HN: Claude-thermos keeps your Claude session warm for you",
-          "title_original": "Show HN: Claude-thermos keeps your Claude session warm for you",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T17:06:22Z"
-        },
-        {
-          "id": "e841a661bcc2dcc49d0a9913428ea0c0737b204d",
-          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用 / Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_en": "Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "title_original": "Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-23T17:06:22Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
-          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_en": null,
-          "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T09:47:29.601000Z"
-        },
-        {
-          "id": "ac54013370dcbcd288acd2bb35928d408174a926",
-          "title": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "title_zh": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "title_en": null,
-          "title_original": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T09:47:29.601000Z"
-        },
-        {
-          "id": "7a521493088ae324b98f515f600855b1e0c43814",
-          "title": "Show HN：Claude-thermos – 让您的 Claude 疗程保持温暖 / Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "title_zh": "Show HN：Claude-thermos – 让您的 Claude 疗程保持温暖",
-          "title_en": "Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "title_original": "Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49024882",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-23T19:20:21.355000Z"
-        },
-        {
-          "id": "86dc4382a1ab15f6da95288b51b80fc774cf6689",
-          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用 / Show HN: Claude-thermos keeps your Claude session warm for you",
-          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_en": "Show HN: Claude-thermos keeps your Claude session warm for you",
-          "title_original": "Show HN: Claude-thermos keeps your Claude session warm for you",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T17:06:22Z"
-        },
-        {
-          "id": "e841a661bcc2dcc49d0a9913428ea0c0737b204d",
-          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用 / Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_en": "Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "title_original": "Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-23T17:06:22Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.8738,
-      "importance": 0.8738,
-      "importance_score": 0.8738,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9176,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T17:06:22Z",
-      "latest_at": "2026-07-24T09:47:29.601000Z",
-      "primary_item": {
-        "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
-        "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-        "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-        "title_en": null,
-        "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-        "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/izeigerman/claude-thermos",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:45:37.825052Z"
-      }
-    },
-    {
-      "story_id": "story_542d81ae471d",
-      "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
-      "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
+      "story_id": "story_fdc1a7916c66",
+      "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "09274412181224c288c30c79cc8cd092e8a6df03",
-          "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
-          "title_zh": "Linear 的 Copilot 云代理现已全面上市",
-          "title_en": "Copilot cloud agent for Linear is now generally available",
-          "title_original": "Copilot cloud agent for Linear is now generally available",
+          "id": "99719984c257f5a2a60ae433e2420f724a945b33",
+          "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
+          "title_zh": "Claude Opus 5 现已在 GitHub Copilot 中提供",
+          "title_en": "Claude Opus 5 is now available in GitHub Copilot",
+          "title_original": "Claude Opus 5 is now available in GitHub Copilot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
+          "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-23T22:32:23Z"
+          "published_at": "2026-07-24T16:40:04Z"
         }
       ],
       "source_count": 1,
@@ -231,31 +32,31 @@
       ],
       "items": [
         {
-          "id": "09274412181224c288c30c79cc8cd092e8a6df03",
-          "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
-          "title_zh": "Linear 的 Copilot 云代理现已全面上市",
-          "title_en": "Copilot cloud agent for Linear is now generally available",
-          "title_original": "Copilot cloud agent for Linear is now generally available",
+          "id": "99719984c257f5a2a60ae433e2420f724a945b33",
+          "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
+          "title_zh": "Claude Opus 5 现已在 GitHub Copilot 中提供",
+          "title_en": "Claude Opus 5 is now available in GitHub Copilot",
+          "title_original": "Claude Opus 5 is now available in GitHub Copilot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
+          "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-23T22:32:23Z"
+          "published_at": "2026-07-24T16:40:04Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8569,
+      "importance": 0.8569,
+      "importance_score": 0.8569,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.78,
+        "ai_relevance": 0.95,
+        "recency": 0.9828,
         "story_heat": 0.0
       },
       "category": "official",
@@ -264,17 +65,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T22:32:23Z",
-      "latest_at": "2026-07-23T22:32:23Z",
+      "earliest_at": "2026-07-24T16:40:04Z",
+      "latest_at": "2026-07-24T16:40:04Z",
       "primary_item": {
-        "id": "09274412181224c288c30c79cc8cd092e8a6df03",
-        "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
-        "title_zh": "Linear 的 Copilot 云代理现已全面上市",
-        "title_en": "Copilot cloud agent for Linear is now generally available",
-        "title_original": "Copilot cloud agent for Linear is now generally available",
+        "id": "99719984c257f5a2a60ae433e2420f724a945b33",
+        "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
+        "title_zh": "Claude Opus 5 现已在 GitHub Copilot 中提供",
+        "title_en": "Claude Opus 5 is now available in GitHub Copilot",
+        "title_original": "Claude Opus 5 is now available in GitHub Copilot",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
+        "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -282,7 +83,120 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:45:37.825052Z"
+        "scored_at": "2026-07-24T17:52:58.737447Z"
+      }
+    },
+    {
+      "story_id": "story_884b6719295f",
+      "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "primary_url": "https://www.anthropic.com/news/claude-opus-5",
+      "source": "Anthropic News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
+          "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
+          "title_zh": "Anthropic 发布 Claude Opus 5",
+          "title_en": "Introducing Claude Opus 5",
+          "title_original": "Introducing Claude Opus 5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Anthropic News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-24T00:00:00Z"
+        },
+        {
+          "id": "7fdd4aa79bac6da7a6f1a55036976e3dfaf6a27c",
+          "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
+          "title_zh": "Anthropic 发布 Claude Opus 5",
+          "title_en": "Claude Opus 5",
+          "title_original": "Claude Opus 5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-24T16:55:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Anthropic News",
+        "Hacker News"
+      ],
+      "items": [
+        {
+          "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
+          "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
+          "title_zh": "Anthropic 发布 Claude Opus 5",
+          "title_en": "Introducing Claude Opus 5",
+          "title_original": "Introducing Claude Opus 5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Anthropic News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-24T00:00:00Z"
+        },
+        {
+          "id": "7fdd4aa79bac6da7a6f1a55036976e3dfaf6a27c",
+          "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
+          "title_zh": "Anthropic 发布 Claude Opus 5",
+          "title_en": "Claude Opus 5",
+          "title_original": "Claude Opus 5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-24T16:55:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8441,
+      "importance": 0.8441,
+      "importance_score": 0.8441,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7726,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T00:00:00Z",
+      "latest_at": "2026-07-24T16:55:26Z",
+      "primary_item": {
+        "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
+        "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
+        "title_zh": "Anthropic 发布 Claude Opus 5",
+        "title_en": "Introducing Claude Opus 5",
+        "title_original": "Introducing Claude Opus 5",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/news/claude-opus-5",
+        "source": "Anthropic News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T17:52:58.737447Z"
       }
     },
     {
@@ -330,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9705,
+        "recency": 0.9412,
         "story_heat": 0.0
       },
       "category": "official",
@@ -364,30 +278,142 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:45:37.825052Z"
+        "scored_at": "2026-07-24T17:52:58.737447Z"
       }
     },
     {
-      "story_id": "story_11ed83f3e906",
-      "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-      "primary_url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+      "story_id": "story_5105aa91a912",
+      "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+      "url": "https://github.com/izeigerman/claude-thermos",
+      "primary_url": "https://github.com/izeigerman/claude-thermos",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
+          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_en": null,
+          "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T09:47:29.601000Z"
+        },
+        {
+          "id": "ac54013370dcbcd288acd2bb35928d408174a926",
+          "title": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "title_zh": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "title_en": null,
+          "title_original": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T09:47:29.601000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
+          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_en": null,
+          "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T09:47:29.601000Z"
+        },
+        {
+          "id": "ac54013370dcbcd288acd2bb35928d408174a926",
+          "title": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "title_zh": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "title_en": null,
+          "title_original": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T09:47:29.601000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8899,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T09:47:29.601000Z",
+      "latest_at": "2026-07-24T09:47:29.601000Z",
+      "primary_item": {
+        "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
+        "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+        "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+        "title_en": null,
+        "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+        "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/izeigerman/claude-thermos",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T17:52:58.737447Z"
+      }
+    },
+    {
+      "story_id": "story_542d81ae471d",
+      "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
+      "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "title_zh": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查",
-          "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "id": "09274412181224c288c30c79cc8cd092e8a6df03",
+          "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
+          "title_zh": "Linear 的 Copilot 云代理现已全面上市",
+          "title_en": "Copilot cloud agent for Linear is now generally available",
+          "title_original": "Copilot cloud agent for Linear is now generally available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-23T19:47:58Z"
+          "published_at": "2026-07-23T22:32:23Z"
         }
       ],
       "source_count": 1,
@@ -396,31 +422,31 @@
       ],
       "items": [
         {
-          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "title_zh": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查",
-          "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "id": "09274412181224c288c30c79cc8cd092e8a6df03",
+          "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
+          "title_zh": "Linear 的 Copilot 云代理现已全面上市",
+          "title_en": "Copilot cloud agent for Linear is now generally available",
+          "title_original": "Copilot cloud agent for Linear is now generally available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-23T19:47:58Z"
+          "published_at": "2026-07-23T22:32:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.813,
-      "importance": 0.813,
-      "importance_score": 0.813,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7497,
+        "recency": 0.7565,
         "story_heat": 0.0
       },
       "category": "official",
@@ -429,17 +455,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T19:47:58Z",
-      "latest_at": "2026-07-23T19:47:58Z",
+      "earliest_at": "2026-07-23T22:32:23Z",
+      "latest_at": "2026-07-23T22:32:23Z",
       "primary_item": {
-        "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-        "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-        "title_zh": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查",
-        "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-        "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+        "id": "09274412181224c288c30c79cc8cd092e8a6df03",
+        "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
+        "title_zh": "Linear 的 Copilot 云代理现已全面上市",
+        "title_en": "Copilot cloud agent for Linear is now generally available",
+        "title_original": "Copilot cloud agent for Linear is now generally available",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+        "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -447,7 +473,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:45:37.825052Z"
+        "scored_at": "2026-07-24T17:52:58.737447Z"
       }
     },
     {
@@ -524,15 +550,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9179,
+        "recency": 0.8901,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -559,7 +585,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:45:37.825052Z"
+        "scored_at": "2026-07-24T17:52:58.737447Z"
       }
     },
     {
@@ -607,15 +633,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9706,
+        "recency": 0.9412,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -641,7 +667,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:45:37.825052Z"
+        "scored_at": "2026-07-24T17:52:58.737447Z"
       }
     },
     {
@@ -689,15 +715,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9955,
+        "recency": 0.9654,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -723,7 +749,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:45:37.825052Z"
+        "scored_at": "2026-07-24T17:52:58.737447Z"
       }
     },
     {
@@ -771,15 +797,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7678,
-      "importance": 0.7678,
-      "importance_score": 0.7678,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9676,
+        "recency": 0.9384,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -805,7 +831,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:45:37.825052Z"
+        "scored_at": "2026-07-24T17:52:58.737447Z"
       }
     },
     {
@@ -882,15 +908,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.792,
-      "importance": 0.792,
-      "importance_score": 0.792,
+      "score": 0.7868,
+      "importance": 0.7868,
+      "importance_score": 0.7868,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9464,
+        "recency": 0.9178,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -917,7 +943,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:45:37.825052Z"
+        "scored_at": "2026-07-24T17:52:58.737447Z"
       }
     },
     {
@@ -965,15 +991,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9465,
+        "recency": 0.9179,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -999,7 +1025,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:45:37.825052Z"
+        "scored_at": "2026-07-24T17:52:58.737447Z"
+      }
+    },
+    {
+      "story_id": "story_11ed83f3e906",
+      "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+      "primary_url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "title_zh": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查",
+          "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T19:47:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "title_zh": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查",
+          "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T19:47:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.7271,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T19:47:58Z",
+      "latest_at": "2026-07-23T19:47:58Z",
+      "primary_item": {
+        "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+        "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+        "title_zh": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查",
+        "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+        "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T17:52:58.737447Z"
+      }
+    },
+    {
+      "story_id": "story_7d231e7bb6a8",
+      "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80% / The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "primary_url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9bdb9918b520ffbba73202bacd9f3631e20d3f8e",
+          "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80% / The new rules of context engineering for Claude 5 generation models",
+          "title_zh": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
+          "title_en": "The new rules of context engineering for Claude 5 generation models",
+          "title_original": "The new rules of context engineering for Claude 5 generation models",
+          "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T17:25:50.349000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "9bdb9918b520ffbba73202bacd9f3631e20d3f8e",
+          "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80% / The new rules of context engineering for Claude 5 generation models",
+          "title_zh": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
+          "title_en": "The new rules of context engineering for Claude 5 generation models",
+          "title_original": "The new rules of context engineering for Claude 5 generation models",
+          "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T17:25:50.349000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9937,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T17:25:50.349000Z",
+      "latest_at": "2026-07-24T17:25:50.349000Z",
+      "primary_item": {
+        "id": "9bdb9918b520ffbba73202bacd9f3631e20d3f8e",
+        "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80% / The new rules of context engineering for Claude 5 generation models",
+        "title_zh": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
+        "title_en": "The new rules of context engineering for Claude 5 generation models",
+        "title_original": "The new rules of context engineering for Claude 5 generation models",
+        "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
+        "recommend_reason_zh": null,
+        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T17:52:58.737447Z"
       }
     },
     {
@@ -1047,15 +1237,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8788,
+        "recency": 0.8523,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1080,171 +1270,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:45:37.825052Z"
-      }
-    },
-    {
-      "story_id": "story_1950d49db06a",
-      "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
-      "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-      "primary_url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
-          "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
-          "title_zh": "GitHub MCP 服务器支持下一个 MCP 规范",
-          "title_en": "GitHub MCP Server supports the next MCP specification",
-          "title_original": "GitHub MCP Server supports the next MCP specification",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T20:38:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
-          "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
-          "title_zh": "GitHub MCP 服务器支持下一个 MCP 规范",
-          "title_en": "GitHub MCP Server supports the next MCP specification",
-          "title_original": "GitHub MCP Server supports the next MCP specification",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T20:38:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7589,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T20:38:22Z",
-      "latest_at": "2026-07-23T20:38:22Z",
-      "primary_item": {
-        "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
-        "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
-        "title_zh": "GitHub MCP 服务器支持下一个 MCP 规范",
-        "title_en": "GitHub MCP Server supports the next MCP specification",
-        "title_original": "GitHub MCP Server supports the next MCP specification",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:45:37.825052Z"
-      }
-    },
-    {
-      "story_id": "story_066596f2dc30",
-      "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
-      "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
-      "primary_url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
-      "source": "公众号：百度智能云（文心）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9dfb04799b08d1104c703b3b7a11eb2b33fb90bc",
-          "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
-          "title_zh": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
-          "title_en": null,
-          "title_original": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
-          "summary": "百度搭子在近期AI Day上推出多项升级，支持电脑与手机双端互联，同步任务上下文与执行进度，用户可跨设备接力完成复杂工作。桌面端内嵌浏览器正式上线，能自动打开多个网页执行调研、下载等操作，手机端支持云端远程操控。智能路由自动匹配任务模式，平均任务耗时降低20%，Token利用率提升25%；简单任务完成度达100%，复杂任务高交付率94%，积分消耗最高降低75%。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
-          "source": "公众号：百度智能云（文心）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T12:28:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：百度智能云（文心）"
-      ],
-      "items": [
-        {
-          "id": "9dfb04799b08d1104c703b3b7a11eb2b33fb90bc",
-          "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
-          "title_zh": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
-          "title_en": null,
-          "title_original": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
-          "summary": "百度搭子在近期AI Day上推出多项升级，支持电脑与手机双端互联，同步任务上下文与执行进度，用户可跨设备接力完成复杂工作。桌面端内嵌浏览器正式上线，能自动打开多个网页执行调研、下载等操作，手机端支持云端远程操控。智能路由自动匹配任务模式，平均任务耗时降低20%，Token利用率提升25%；简单任务完成度达100%，复杂任务高交付率94%，积分消耗最高降低75%。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
-          "source": "公众号：百度智能云（文心）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T12:28:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9539,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T12:28:24Z",
-      "latest_at": "2026-07-24T12:28:24Z",
-      "primary_item": {
-        "id": "9dfb04799b08d1104c703b3b7a11eb2b33fb90bc",
-        "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
-        "title_zh": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
-        "title_en": null,
-        "title_original": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
-        "summary": "百度搭子在近期AI Day上推出多项升级，支持电脑与手机双端互联，同步任务上下文与执行进度，用户可跨设备接力完成复杂工作。桌面端内嵌浏览器正式上线，能自动打开多个网页执行调研、下载等操作，手机端支持云端远程操控。智能路由自动匹配任务模式，平均任务耗时降低20%，Token利用率提升25%；简单任务完成度达100%，复杂任务高交付率94%，积分消耗最高降低75%。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
-        "source": "公众号：百度智能云（文心）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:45:37.825052Z"
+        "scored_at": "2026-07-24T17:52:58.737447Z"
       }
     },
     {
@@ -1292,15 +1318,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7489,
+        "recency": 0.7262,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1325,88 +1351,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:45:37.825052Z"
+        "scored_at": "2026-07-24T17:52:58.737447Z"
       }
     },
     {
-      "story_id": "story_f7953cfa68b7",
-      "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言 / Think through hard problems in voice mode",
-      "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-      "primary_url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-      "source": "Claude：Blog（网页）",
+      "story_id": "story_066596f2dc30",
+      "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+      "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
+      "primary_url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
+      "source": "公众号：百度智能云（文心）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9d6ffb88b43b1ad6fc9582bd235a7a9cc787f9cd",
-          "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言 / Think through hard problems in voice mode",
-          "title_zh": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
-          "title_en": "Think through hard problems in voice mode",
-          "title_original": "Think through hard problems in voice mode",
-          "summary": "即日起，Claude 语音模式在 Opus、Sonnet 和 Haiku 上运行，并支持连接 Gmail、Slack 等工具及更多语言。用户可在对话中切换模型，语音模式默认沿用上次文本聊天使用的模型。该功能面向所有用户开放 beta 测试，免费版可使用 Haiku 及一个连接工具，付费版可访问更多模型和全部连接工具。",
+          "id": "9dfb04799b08d1104c703b3b7a11eb2b33fb90bc",
+          "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+          "title_zh": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+          "title_en": null,
+          "title_original": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+          "summary": "百度搭子在近期AI Day上推出多项升级，支持电脑与手机双端互联，同步任务上下文与执行进度，用户可跨设备接力完成复杂工作。桌面端内嵌浏览器正式上线，能自动打开多个网页执行调研、下载等操作，手机端支持云端远程操控。智能路由自动匹配任务模式，平均任务耗时降低20%，Token利用率提升25%；简单任务完成度达100%，复杂任务高交付率94%，积分消耗最高降低75%。",
           "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-          "source": "Claude：Blog（网页）",
+          "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
+          "source": "公众号：百度智能云（文心）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T19:55:29.530000Z"
+          "published_at": "2026-07-24T12:28:24Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Claude：Blog（网页）"
+        "公众号：百度智能云（文心）"
       ],
       "items": [
         {
-          "id": "9d6ffb88b43b1ad6fc9582bd235a7a9cc787f9cd",
-          "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言 / Think through hard problems in voice mode",
-          "title_zh": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
-          "title_en": "Think through hard problems in voice mode",
-          "title_original": "Think through hard problems in voice mode",
-          "summary": "即日起，Claude 语音模式在 Opus、Sonnet 和 Haiku 上运行，并支持连接 Gmail、Slack 等工具及更多语言。用户可在对话中切换模型，语音模式默认沿用上次文本聊天使用的模型。该功能面向所有用户开放 beta 测试，免费版可使用 Haiku 及一个连接工具，付费版可访问更多模型和全部连接工具。",
+          "id": "9dfb04799b08d1104c703b3b7a11eb2b33fb90bc",
+          "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+          "title_zh": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+          "title_en": null,
+          "title_original": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+          "summary": "百度搭子在近期AI Day上推出多项升级，支持电脑与手机双端互联，同步任务上下文与执行进度，用户可跨设备接力完成复杂工作。桌面端内嵌浏览器正式上线，能自动打开多个网页执行调研、下载等操作，手机端支持云端远程操控。智能路由自动匹配任务模式，平均任务耗时降低20%，Token利用率提升25%；简单任务完成度达100%，复杂任务高交付率94%，积分消耗最高降低75%。",
           "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-          "source": "Claude：Blog（网页）",
+          "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
+          "source": "公众号：百度智能云（文心）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T19:55:29.530000Z"
+          "published_at": "2026-07-24T12:28:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7318,
-      "importance": 0.7318,
-      "importance_score": 0.7318,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7511,
+        "recency": 0.925,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-23T19:55:29.530000Z",
-      "latest_at": "2026-07-23T19:55:29.530000Z",
+      "earliest_at": "2026-07-24T12:28:24Z",
+      "latest_at": "2026-07-24T12:28:24Z",
       "primary_item": {
-        "id": "9d6ffb88b43b1ad6fc9582bd235a7a9cc787f9cd",
-        "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言 / Think through hard problems in voice mode",
-        "title_zh": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
-        "title_en": "Think through hard problems in voice mode",
-        "title_original": "Think through hard problems in voice mode",
-        "summary": "即日起，Claude 语音模式在 Opus、Sonnet 和 Haiku 上运行，并支持连接 Gmail、Slack 等工具及更多语言。用户可在对话中切换模型，语音模式默认沿用上次文本聊天使用的模型。该功能面向所有用户开放 beta 测试，免费版可使用 Haiku 及一个连接工具，付费版可访问更多模型和全部连接工具。",
+        "id": "9dfb04799b08d1104c703b3b7a11eb2b33fb90bc",
+        "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+        "title_zh": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+        "title_en": null,
+        "title_original": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+        "summary": "百度搭子在近期AI Day上推出多项升级，支持电脑与手机双端互联，同步任务上下文与执行进度，用户可跨设备接力完成复杂工作。桌面端内嵌浏览器正式上线，能自动打开多个网页执行调研、下载等操作，手机端支持云端远程操控。智能路由自动匹配任务模式，平均任务耗时降低20%，Token利用率提升25%；简单任务完成度达100%，复杂任务高交付率94%，积分消耗最高降低75%。",
         "recommend_reason_zh": null,
-        "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-        "source": "Claude：Blog（网页）",
+        "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
+        "source": "公众号：百度智能云（文心）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:45:37.825052Z"
+        "scored_at": "2026-07-24T17:52:58.737447Z"
       }
     },
     {
@@ -1454,15 +1480,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9465,
+        "recency": 0.9179,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1488,7 +1514,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:45:37.825052Z"
+        "scored_at": "2026-07-24T17:52:58.737447Z"
+      }
+    },
+    {
+      "story_id": "story_1950d49db06a",
+      "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
+      "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
+      "primary_url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
+          "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
+          "title_zh": "GitHub MCP 服务器支持下一个 MCP 规范",
+          "title_en": "GitHub MCP Server supports the next MCP specification",
+          "title_original": "GitHub MCP Server supports the next MCP specification",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T20:38:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
+          "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
+          "title_zh": "GitHub MCP 服务器支持下一个 MCP 规范",
+          "title_en": "GitHub MCP Server supports the next MCP specification",
+          "title_original": "GitHub MCP Server supports the next MCP specification",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T20:38:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8045,
+      "importance": 0.8045,
+      "importance_score": 0.8045,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.736,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T20:38:22Z",
+      "latest_at": "2026-07-23T20:38:22Z",
+      "primary_item": {
+        "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
+        "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
+        "title_zh": "GitHub MCP 服务器支持下一个 MCP 规范",
+        "title_en": "GitHub MCP Server supports the next MCP specification",
+        "title_original": "GitHub MCP Server supports the next MCP specification",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T17:52:58.737447Z"
       }
     },
     {
@@ -1536,15 +1645,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.791,
+        "recency": 0.7671,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1569,284 +1678,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:45:37.825052Z"
+        "scored_at": "2026-07-24T17:52:58.737447Z"
       }
     },
     {
-      "story_id": "story_2f6f9986db3e",
-      "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-      "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-          "title_zh": "公共预览版中项目和问题的多选字段",
-          "title_en": "Multi-select fields for Projects and Issues in public preview",
-          "title_original": "Multi-select fields for Projects and Issues in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T18:19:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-          "title_zh": "公共预览版中项目和问题的多选字段",
-          "title_en": "Multi-select fields for Projects and Issues in public preview",
-          "title_original": "Multi-select fields for Projects and Issues in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T18:19:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7961,
-      "importance": 0.7961,
-      "importance_score": 0.7961,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7339,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T18:19:14Z",
-      "latest_at": "2026-07-23T18:19:14Z",
-      "primary_item": {
-        "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-        "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-        "title_zh": "公共预览版中项目和问题的多选字段",
-        "title_en": "Multi-select fields for Projects and Issues in public preview",
-        "title_original": "Multi-select fields for Projects and Issues in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:45:37.825052Z"
-      }
-    },
-    {
-      "story_id": "story_84ccf0281166",
-      "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-      "url": "https://www.aibase.com/news/29880",
-      "primary_url": "https://www.aibase.com/news/29880",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
-          "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "title_zh": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "title_en": null,
-          "title_original": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29880",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T11:56:10.308890Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
-          "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "title_zh": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "title_en": null,
-          "title_original": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29880",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T11:56:10.308890Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9465,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T11:56:10.308890Z",
-      "latest_at": "2026-07-24T11:56:10.308890Z",
-      "primary_item": {
-        "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
-        "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-        "title_zh": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-        "title_en": null,
-        "title_original": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29880",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:45:37.825052Z"
-      }
-    },
-    {
-      "story_id": "story_58bb7e7fe49d",
-      "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "primary_url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_f7953cfa68b7",
+      "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言 / Think through hard problems in voice mode",
+      "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+      "primary_url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+      "source": "Claude：Blog（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
-          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "title_en": null,
-          "title_original": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "summary": "DARPA 与美国空军成功试飞了由人工智能操控的 F-16 战机。该 AI 系统在真实空战环境中完成了自主飞行与战术机动测试，标志着 AI 在军事航空领域的重大进展。",
+          "id": "9d6ffb88b43b1ad6fc9582bd235a7a9cc787f9cd",
+          "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言 / Think through hard problems in voice mode",
+          "title_zh": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+          "title_en": "Think through hard problems in voice mode",
+          "title_original": "Think through hard problems in voice mode",
+          "summary": "即日起，Claude 语音模式在 Opus、Sonnet 和 Haiku 上运行，并支持连接 Gmail、Slack 等工具及更多语言。用户可在对话中切换模型，语音模式默认沿用上次文本聊天使用的模型。该功能面向所有用户开放 beta 测试，免费版可使用 Haiku 及一个连接工具，付费版可访问更多模型和全部连接工具。",
           "recommend_reason_zh": null,
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+          "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T20:11:31.906000Z"
-        },
-        {
-          "id": "c4c7faebfc9cea5cf488d3f9f4881425a345456b",
-          "title": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
-          "title_zh": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
-          "title_en": null,
-          "title_original": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "www.darpa.mil",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T20:11:31.906000Z"
+          "published_at": "2026-07-23T19:55:29.530000Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.darpa.mil"
+        "Claude：Blog（网页）"
       ],
       "items": [
         {
-          "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
-          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "title_en": null,
-          "title_original": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "summary": "DARPA 与美国空军成功试飞了由人工智能操控的 F-16 战机。该 AI 系统在真实空战环境中完成了自主飞行与战术机动测试，标志着 AI 在军事航空领域的重大进展。",
+          "id": "9d6ffb88b43b1ad6fc9582bd235a7a9cc787f9cd",
+          "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言 / Think through hard problems in voice mode",
+          "title_zh": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+          "title_en": "Think through hard problems in voice mode",
+          "title_original": "Think through hard problems in voice mode",
+          "summary": "即日起，Claude 语音模式在 Opus、Sonnet 和 Haiku 上运行，并支持连接 Gmail、Slack 等工具及更多语言。用户可在对话中切换模型，语音模式默认沿用上次文本聊天使用的模型。该功能面向所有用户开放 beta 测试，免费版可使用 Haiku 及一个连接工具，付费版可访问更多模型和全部连接工具。",
           "recommend_reason_zh": null,
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+          "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T20:11:31.906000Z"
-        },
-        {
-          "id": "c4c7faebfc9cea5cf488d3f9f4881425a345456b",
-          "title": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
-          "title_zh": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
-          "title_en": null,
-          "title_original": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "www.darpa.mil",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T20:11:31.906000Z"
+          "published_at": "2026-07-23T19:55:29.530000Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7277,
+      "importance": 0.7277,
+      "importance_score": 0.7277,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.754,
-        "story_heat": 0.25
+        "recency": 0.7284,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-23T20:11:31.906000Z",
-      "latest_at": "2026-07-23T20:11:31.906000Z",
+      "earliest_at": "2026-07-23T19:55:29.530000Z",
+      "latest_at": "2026-07-23T19:55:29.530000Z",
       "primary_item": {
-        "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
-        "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-        "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-        "title_en": null,
-        "title_original": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-        "summary": "DARPA 与美国空军成功试飞了由人工智能操控的 F-16 战机。该 AI 系统在真实空战环境中完成了自主飞行与战术机动测试，标志着 AI 在军事航空领域的重大进展。",
+        "id": "9d6ffb88b43b1ad6fc9582bd235a7a9cc787f9cd",
+        "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言 / Think through hard problems in voice mode",
+        "title_zh": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+        "title_en": "Think through hard problems in voice mode",
+        "title_original": "Think through hard problems in voice mode",
+        "summary": "即日起，Claude 语音模式在 Opus、Sonnet 和 Haiku 上运行，并支持连接 Gmail、Slack 等工具及更多语言。用户可在对话中切换模型，语音模式默认沿用上次文本聊天使用的模型。该功能面向所有用户开放 beta 测试，免费版可使用 Haiku 及一个连接工具，付费版可访问更多模型和全部连接工具。",
         "recommend_reason_zh": null,
-        "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+        "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T15:45:37.825052Z"
+        "scored_at": "2026-07-24T17:52:58.737447Z"
       }
     }
   ]
