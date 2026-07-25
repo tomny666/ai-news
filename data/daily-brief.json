@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T18:10:14.595243Z",
+  "generated_at": "2026-07-25T19:35:37.028567Z",
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 7,
   "items": [
     {
       "story_id": "story_74755d9d6ce9",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9383,
+        "recency": 0.9193,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -82,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T18:11:06.054884Z"
+        "scored_at": "2026-07-25T19:36:25.788440Z"
       }
     },
     {
@@ -130,15 +130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
+      "score": 0.7345,
+      "importance": 0.7345,
+      "importance_score": 0.7345,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.782,
+        "recency": 0.7661,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -163,88 +163,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T18:11:06.054884Z"
-      }
-    },
-    {
-      "story_id": "story_2efffce5d7af",
-      "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "primary_url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5442ae94f4b2f0478e8d4594a4983632d08a2d88",
-          "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-          "title_zh": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-          "title_en": null,
-          "title_original": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-          "summary": "英伟达、微软和Meta联合签署公开信，警告对开放权重AI模型的过度监管将削弱美国在AI领域的竞争力。信中指出，开放权重模型能促进创新、降低准入门槛，并支持学术研究。OpenAI和Anthropic未签署该信函。",
-          "recommend_reason_zh": null,
-          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T19:07:52.324000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "5442ae94f4b2f0478e8d4594a4983632d08a2d88",
-          "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-          "title_zh": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-          "title_en": null,
-          "title_original": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-          "summary": "英伟达、微软和Meta联合签署公开信，警告对开放权重AI模型的过度监管将削弱美国在AI领域的竞争力。信中指出，开放权重模型能促进创新、降低准入门槛，并支持学术研究。OpenAI和Anthropic未签署该信函。",
-          "recommend_reason_zh": null,
-          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T19:07:52.324000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.717,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T19:07:52.324000Z",
-      "latest_at": "2026-07-24T19:07:52.324000Z",
-      "primary_item": {
-        "id": "5442ae94f4b2f0478e8d4594a4983632d08a2d88",
-        "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-        "title_zh": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-        "title_en": null,
-        "title_original": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-        "summary": "英伟达、微软和Meta联合签署公开信，警告对开放权重AI模型的过度监管将削弱美国在AI领域的竞争力。信中指出，开放权重模型能促进创新、降低准入门槛，并支持学术研究。OpenAI和Anthropic未签署该信函。",
-        "recommend_reason_zh": null,
-        "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T18:11:06.054884Z"
+        "scored_at": "2026-07-25T19:36:25.788440Z"
       }
     },
     {
@@ -292,15 +211,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7257,
-      "importance": 0.7257,
-      "importance_score": 0.7257,
+      "score": 0.723,
+      "importance": 0.723,
+      "importance_score": 0.723,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7507,
+        "recency": 0.7354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -325,117 +244,175 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T18:11:06.054884Z"
+        "scored_at": "2026-07-25T19:36:25.788440Z"
       }
     },
     {
-      "story_id": "story_1b6fa8de7ae9",
-      "title": "Anthropic 的 Claude Opus 5 以一半的代币价格提供接近 Fable 5 的性能 / Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-      "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
-      "primary_url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
-      "source": "The Decoder AI News",
-      "source_name": "Curated Media",
+      "story_id": "story_f8a62f174fa0",
+      "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
+      "url": "https://news.ycombinator.com/item?id=49048034",
+      "primary_url": "https://news.ycombinator.com/item?id=49048034",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "bcdeb2b9386f095faaff8320b61d5e7afaa855ba",
-          "title": "Anthropic 的 Claude Opus 5 以一半的代币价格提供接近 Fable 5 的性能 / Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-          "title_zh": "Anthropic 的 Claude Opus 5 以一半的代币价格提供接近 Fable 5 的性能",
-          "title_en": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-          "title_original": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "id": "022e97c1d3677e4208c9c17090d5febdbabf66af",
+          "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
+          "title_zh": "开放重量人工智能正在迎来 Kubernetes 时刻",
+          "title_en": "Open-weight AI is having its Kubernetes moment",
+          "title_original": "Open-weight AI is having its Kubernetes moment",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-25T10:04:42Z"
+          "url": "https://news.ycombinator.com/item?id=49048034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T19:22:39.590000Z"
         },
         {
-          "id": "cd4d82b93243982b6f87df1a82dc7397086ee84c",
-          "title": "Anthropic 声称其新的 Claude Opus 5 以一半的代币价格提供了接近 Fable 5 的性能 / Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-          "title_zh": "Anthropic 声称其新的 Claude Opus 5 以一半的代币价格提供了接近 Fable 5 的性能",
-          "title_en": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-          "title_original": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "id": "dd5f887f8703d55c609774556a346f21beafa37e",
+          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
+          "title_zh": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
+          "title_en": null,
+          "title_original": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-24T18:36:42Z"
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "source": "tobi.knaup.me",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T18:19:01.763000Z"
+        },
+        {
+          "id": "88c737a3a01b84780895c5873a1200fca6e52247",
+          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了 / Open-weight AI is having its Kubernetes moment",
+          "title_zh": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
+          "title_en": "Open-weight AI is having its Kubernetes moment",
+          "title_original": "Open-weight AI is having its Kubernetes moment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T14:49:49Z"
+        },
+        {
+          "id": "4e62948af92d373080027f26ab003504047b04ee",
+          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "title_zh": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
+          "title_en": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "title_original": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T14:49:49Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 4,
       "source_names": [
-        "The Decoder AI News"
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "tobi.knaup.me"
       ],
       "items": [
         {
-          "id": "bcdeb2b9386f095faaff8320b61d5e7afaa855ba",
-          "title": "Anthropic 的 Claude Opus 5 以一半的代币价格提供接近 Fable 5 的性能 / Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-          "title_zh": "Anthropic 的 Claude Opus 5 以一半的代币价格提供接近 Fable 5 的性能",
-          "title_en": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-          "title_original": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "id": "022e97c1d3677e4208c9c17090d5febdbabf66af",
+          "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
+          "title_zh": "开放重量人工智能正在迎来 Kubernetes 时刻",
+          "title_en": "Open-weight AI is having its Kubernetes moment",
+          "title_original": "Open-weight AI is having its Kubernetes moment",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-25T10:04:42Z"
+          "url": "https://news.ycombinator.com/item?id=49048034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T19:22:39.590000Z"
         },
         {
-          "id": "cd4d82b93243982b6f87df1a82dc7397086ee84c",
-          "title": "Anthropic 声称其新的 Claude Opus 5 以一半的代币价格提供了接近 Fable 5 的性能 / Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-          "title_zh": "Anthropic 声称其新的 Claude Opus 5 以一半的代币价格提供了接近 Fable 5 的性能",
-          "title_en": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-          "title_original": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "id": "dd5f887f8703d55c609774556a346f21beafa37e",
+          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
+          "title_zh": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
+          "title_en": null,
+          "title_original": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-24T18:36:42Z"
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "source": "tobi.knaup.me",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T18:19:01.763000Z"
+        },
+        {
+          "id": "88c737a3a01b84780895c5873a1200fca6e52247",
+          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了 / Open-weight AI is having its Kubernetes moment",
+          "title_zh": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
+          "title_en": "Open-weight AI is having its Kubernetes moment",
+          "title_original": "Open-weight AI is having its Kubernetes moment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T14:49:49Z"
+        },
+        {
+          "id": "4e62948af92d373080027f26ab003504047b04ee",
+          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "title_zh": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
+          "title_en": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "title_original": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T14:49:49Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6539,
-      "importance": 0.6539,
-      "importance_score": 0.6539,
-      "importance_label": "值得关注",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5952,
+      "importance": 0.5952,
+      "importance_score": 0.5952,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.58,
-        "ai_relevance": 0.82,
-        "recency": 0.8897,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9969,
+        "story_heat": 0.75
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-24T18:36:42Z",
-      "latest_at": "2026-07-25T10:04:42Z",
+      "earliest_at": "2026-07-25T14:49:49Z",
+      "latest_at": "2026-07-25T19:22:39.590000Z",
       "primary_item": {
-        "id": "bcdeb2b9386f095faaff8320b61d5e7afaa855ba",
-        "title": "Anthropic 的 Claude Opus 5 以一半的代币价格提供接近 Fable 5 的性能 / Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-        "title_zh": "Anthropic 的 Claude Opus 5 以一半的代币价格提供接近 Fable 5 的性能",
-        "title_en": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-        "title_original": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+        "id": "022e97c1d3677e4208c9c17090d5febdbabf66af",
+        "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
+        "title_zh": "开放重量人工智能正在迎来 Kubernetes 时刻",
+        "title_en": "Open-weight AI is having its Kubernetes moment",
+        "title_original": "Open-weight AI is having its Kubernetes moment",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
-        "source": "The Decoder AI News",
-        "source_name": "Curated Media"
+        "url": "https://news.ycombinator.com/item?id=49048034",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T18:11:06.054884Z"
+        "scored_at": "2026-07-25T19:36:25.788440Z"
       }
     },
     {
@@ -512,15 +489,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5414,
+      "importance": 0.5414,
+      "importance_score": 0.5414,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9957,
+        "recency": 0.9754,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -545,117 +522,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T18:11:06.054884Z"
-      }
-    },
-    {
-      "story_id": "story_39ac1e35fbb2",
-      "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-      "url": "https://news.ycombinator.com/item?id=49048034",
-      "primary_url": "https://news.ycombinator.com/item?id=49048034",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
-          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "title_zh": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它",
-          "title_en": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "title_original": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49048034",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T16:52:06.885000Z"
-        },
-        {
-          "id": "4e62948af92d373080027f26ab003504047b04ee",
-          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "title_zh": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它",
-          "title_en": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "title_original": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T14:49:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
-          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "title_zh": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它",
-          "title_en": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "title_original": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49048034",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T16:52:06.885000Z"
-        },
-        {
-          "id": "4e62948af92d373080027f26ab003504047b04ee",
-          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "title_zh": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它",
-          "title_en": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "title_original": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T14:49:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5424,
-      "importance": 0.5424,
-      "importance_score": 0.5424,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9814,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T14:49:49Z",
-      "latest_at": "2026-07-25T16:52:06.885000Z",
-      "primary_item": {
-        "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
-        "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-        "title_zh": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它",
-        "title_en": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-        "title_original": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49048034",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T18:11:06.054884Z"
+        "scored_at": "2026-07-25T19:36:25.788440Z"
       }
     },
     {
@@ -732,15 +599,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5057,
-      "importance": 0.5057,
-      "importance_score": 0.5057,
+      "score": 0.5029,
+      "importance": 0.5029,
+      "importance_score": 0.5029,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7774,
+        "recency": 0.7616,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -765,7 +632,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T18:11:06.054884Z"
+        "scored_at": "2026-07-25T19:36:25.788440Z"
       }
     },
     {
@@ -842,15 +709,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
+      "score": 0.5315,
+      "importance": 0.5315,
+      "importance_score": 0.5315,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9397,
+        "recency": 0.9206,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -875,7 +742,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T18:11:06.054884Z"
+        "scored_at": "2026-07-25T19:36:25.788440Z"
       }
     }
   ]

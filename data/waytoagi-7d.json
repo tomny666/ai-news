@@ -1,26 +1,74 @@
 {
-  "generated_at": "2026-07-25T18:10:14.595243Z",
+  "generated_at": "2026-07-25T19:35:37.028567Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-25",
-  "count_today": 1,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-07-25",
-      "title": "一文讲透Agent三件套：MCP、Skill、Hook如何给大模型装上护栏",
-      "summary": "现在很多 Agent Demo 能调用工具、能跑流程，但一接真实业务系统就会暴露硬问题：谁能调用什么、按什么顺序调用、危险操作怎么拦，光靠 prompt 约束很容易失控。腾讯云的这套四层落地架构，为规模化、安全可控的企业Agent落地提供了一个完整可复用的工程模板。",
-      "url": "https://waytoagi.feishu.cn/wiki/Cf0ywD0eXifq7YkwkGdceZBnnd3?from=from_copylink"
-    }
-  ],
-  "count_7d": 30,
-  "updates_7d": [
+      "title": "智能纪要：07-25 | 带你吃透GEO信源偏好与策略",
+      "summary": "现在做GEO，最容易踩的坑，是把它当成新版 SEO：内容发了很多，却没搞清楚豆包、元宝、文心、DeepSeek、Kimi 各自更愿意引用谁。姚金刚和向阳乔木的GEO公开课第3期基于21万条AI引用记录，拆解了12个AI平台的信源偏好。",
+      "url": "https://waytoagi.feishu.cn/wiki/BTThwwosXi7vKBkDrr0cNM7vnpb?from=from_copylink"
+    },
+    {
+      "date": "2026-07-25",
+      "title": "从选题到风格｜6个写作 Skills 推荐",
+      "summary": "写作很难靠一个万能工具解决，你要先判断写什么，再搭框架、补素材，最后慢慢校准自己的表达。不过YouMind的这6 个写作Skills或许会在各个阶段帮助到你：选题阶段用「公众号选题分析师」做定位、热度调研和竞品拆解，用「智能选题助手」把知识库素材和实时热点组合成可写方向；写作阶段用商业特稿助手、新世相编辑、卡兹克文风教练，分别处理商业深度、都市情绪和 AI 观点风格；长期风格建设则交给「灵魂笔触」，沉淀个人写作资产。",
+      "url": "https://waytoagi.feishu.cn/wiki/ScMywvQ8Si6HSSk7NjdcnEh5nfh?from=from_copylink"
+    },
     {
       "date": "2026-07-25",
       "title": "一文讲透Agent三件套：MCP、Skill、Hook如何给大模型装上护栏",
       "summary": "现在很多 Agent Demo 能调用工具、能跑流程，但一接真实业务系统就会暴露硬问题：谁能调用什么、按什么顺序调用、危险操作怎么拦，光靠 prompt 约束很容易失控。腾讯云的这套四层落地架构，为规模化、安全可控的企业Agent落地提供了一个完整可复用的工程模板。",
       "url": "https://waytoagi.feishu.cn/wiki/Cf0ywD0eXifq7YkwkGdceZBnnd3?from=from_copylink"
+    },
+    {
+      "date": "2026-07-25",
+      "title": "Pi Agent深入浅出：OpenClaw底下那层，极简四工具是怎么跑起来的",
+      "summary": "Pi Agent深入浅出：OpenClaw底下那层，极简四工具是怎么跑起来的",
+      "url": "https://waytoagi.feishu.cn/wiki/L1adwnZPCiBbNWkQd0zcDrHknUf?from=from_copylink"
+    },
+    {
+      "date": "2026-07-25",
+      "title": "Opus5 官方 Prompt 指南",
+      "summary": "Claude Code 负责人发布了最新的Prompt指南：面向Opus 5 / Fable 5，他们直接删掉了 80% 以上系统提示词，编码评测几乎没掉，反而说明新模型更需要清爽、按需加载的上下文。系统提示词只放产品语境；CLAUDE.md 保持轻量，把token留给代码库里的坑；Skill做成轻量指路牌，用渐进式披露按需加载；工具设计靠清晰参数和schema；参照物尽量给代码、HTML mockup、测试用例这类高保真材料。如果你也在维护一堆越写越厚的 Prompt/Skill，这篇文章很适合拿来做一次“减法体检”。",
+      "url": "https://waytoagi.feishu.cn/wiki/A7aKwQMCIip5nZkFmPrcxYCMnYg?from=from_copylink"
+    }
+  ],
+  "count_7d": 34,
+  "updates_7d": [
+    {
+      "date": "2026-07-25",
+      "title": "智能纪要：07-25 | 带你吃透GEO信源偏好与策略",
+      "summary": "现在做GEO，最容易踩的坑，是把它当成新版 SEO：内容发了很多，却没搞清楚豆包、元宝、文心、DeepSeek、Kimi 各自更愿意引用谁。姚金刚和向阳乔木的GEO公开课第3期基于21万条AI引用记录，拆解了12个AI平台的信源偏好。",
+      "url": "https://waytoagi.feishu.cn/wiki/BTThwwosXi7vKBkDrr0cNM7vnpb?from=from_copylink"
+    },
+    {
+      "date": "2026-07-25",
+      "title": "从选题到风格｜6个写作 Skills 推荐",
+      "summary": "写作很难靠一个万能工具解决，你要先判断写什么，再搭框架、补素材，最后慢慢校准自己的表达。不过YouMind的这6 个写作Skills或许会在各个阶段帮助到你：选题阶段用「公众号选题分析师」做定位、热度调研和竞品拆解，用「智能选题助手」把知识库素材和实时热点组合成可写方向；写作阶段用商业特稿助手、新世相编辑、卡兹克文风教练，分别处理商业深度、都市情绪和 AI 观点风格；长期风格建设则交给「灵魂笔触」，沉淀个人写作资产。",
+      "url": "https://waytoagi.feishu.cn/wiki/ScMywvQ8Si6HSSk7NjdcnEh5nfh?from=from_copylink"
+    },
+    {
+      "date": "2026-07-25",
+      "title": "一文讲透Agent三件套：MCP、Skill、Hook如何给大模型装上护栏",
+      "summary": "现在很多 Agent Demo 能调用工具、能跑流程，但一接真实业务系统就会暴露硬问题：谁能调用什么、按什么顺序调用、危险操作怎么拦，光靠 prompt 约束很容易失控。腾讯云的这套四层落地架构，为规模化、安全可控的企业Agent落地提供了一个完整可复用的工程模板。",
+      "url": "https://waytoagi.feishu.cn/wiki/Cf0ywD0eXifq7YkwkGdceZBnnd3?from=from_copylink"
+    },
+    {
+      "date": "2026-07-25",
+      "title": "Pi Agent深入浅出：OpenClaw底下那层，极简四工具是怎么跑起来的",
+      "summary": "Pi Agent深入浅出：OpenClaw底下那层，极简四工具是怎么跑起来的",
+      "url": "https://waytoagi.feishu.cn/wiki/L1adwnZPCiBbNWkQd0zcDrHknUf?from=from_copylink"
+    },
+    {
+      "date": "2026-07-25",
+      "title": "Opus5 官方 Prompt 指南",
+      "summary": "Claude Code 负责人发布了最新的Prompt指南：面向Opus 5 / Fable 5，他们直接删掉了 80% 以上系统提示词，编码评测几乎没掉，反而说明新模型更需要清爽、按需加载的上下文。系统提示词只放产品语境；CLAUDE.md 保持轻量，把token留给代码库里的坑；Skill做成轻量指路牌，用渐进式披露按需加载；工具设计靠清晰参数和schema；参照物尽量给代码、HTML mockup、测试用例这类高保真材料。如果你也在维护一堆越写越厚的 Prompt/Skill，这篇文章很适合拿来做一次“减法体检”。",
+      "url": "https://waytoagi.feishu.cn/wiki/A7aKwQMCIip5nZkFmPrcxYCMnYg?from=from_copylink"
     },
     {
       "date": "2026-07-24",
