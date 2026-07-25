@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T15:19:31.534719Z",
+  "generated_at": "2026-07-25T17:15:01.420318Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -44,7 +44,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/AKbLw6rziinuS6kzJQecEjjdnlg?from=from_copylink"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 29,
   "updates_7d": [
     {
       "date": "2026-07-24",
@@ -219,42 +219,6 @@
       "title": "AI音乐周刊 W.A 037",
       "summary": "AI音乐圈这周像被按了快进键。Suno一边冲刺 IPO，一边被源码泄露扯出版权和隐私风险；另一边，MiniMax、阿里、昆仑万维、Google、Ace Studio又在音乐生成、MV 制作、录音重混上密集上新。",
       "url": "https://waytoagi.feishu.cn/wiki/IkCswgzVKilCCjkTsbbcHN76neh?from=from_copylink"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "如何打造能够自我纠错的 AI 循环？",
-      "summary": "如果你已经厌倦了反复给 AI 改错，这篇文章会很有启发。它把“自我纠错的 AI 循环”拆成构建者、评审者、管理者三层：先产出，再用真实依据核查，最后决定返工、通过或升级给人。这其中的关键在于结构化交接、独立评审、硬性停止条件和故障测试。",
-      "url": "https://waytoagi.feishu.cn/wiki/Xl34wSQqbiG71oku9CIcSPZ7nQd?from=from_copylink"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "从Loop Engineering到Graph Engineering：AI 智能体架构转变真正意味着什么",
-      "summary": "很多人做 Agent 还停在“单个反馈循环”：测一个指标、调一次策略、再继续优化。作者拆解了从Loop Engineering 走向Graph Engineering的底层逻辑：让多个循环彼此观察、校验、约束，用反指标、审计循环、慢速目标层和现实锚点，防止系统自我欺骗。",
-      "url": "https://waytoagi.feishu.cn/wiki/SGrmw6eRCiAGE1k7viscq7rInCg?from=from_copylink"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "LangChain开源了软件工程智能体工厂",
-      "summary": "LangChain开源了一个软件工程智能体工厂：dcode负责本地交互式编码，OpenSWE负责云端后台跑任务和提PR，OpenSWE Review 接入GitHub做自动代码审查，OpenWiki则为仓库持续生成文档和智能体记忆。快来体验一下！",
-      "url": "https://waytoagi.feishu.cn/wiki/EK1pwrpM1ie6OHkT8mMcdtwanpf?from=from_copylink"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "Codex Micro状态键盘，我做了个Codex＋CC版",
-      "summary": "CY把Codex Micro的“Agent 状态外显”思路做成了Codex + Claude Code都能用的硬件版。他用EasyInput开发板跑通了从Codex / CC、本地Bridge、蓝牙 GATT到实体灯效的完整链路，让Agent的空闲、思考、未读、等待确认、报错等状态都可以直接显示在桌面灯光上。接下来，也会把它放进WaytoAGI AI 硬件训练营，带大家从零跑通相关设置和操作。",
-      "url": "https://waytoagi.feishu.cn/wiki/Z17vw0LpsikjSbkI5I4cGgGin2c?from=from_copylink"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "AI 发展了 4 年，把应用发展没了？| 42章经",
-      "summary": "AI发展四年，市场反而开始喊“应用凉了”。作者这篇文章把模型和应用的几轮起落剖析了下：从 Character.ai、GPT-4o、DeepSeek、Manus，到智谱上市和 Openclaw 热潮，资本情绪一直在模型与应用之间剧烈摆动。对创业者来说，真正要守住的是用户价值、真实付费、出海能力和团队的韧性。",
-      "url": "https://waytoagi.feishu.cn/wiki/GRvAwMETHiEvfok4i3JcgOrrnad"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "7.13—7.19｜本周 AI 论文精选",
-      "summary": "这期AI论文精选很适合关注Agent落地的人看：自我改进、元认知、路由评估、失败追踪、运行框架演化，这几篇都在围绕一个核心问题打转——怎样让智能体更可靠、更可调试、更能长期运行。后半部分论文还延伸到了世界模型、安全监控优化、兼顾推理多样性的强化学习算法和高性能开源人形机器人模型。",
-      "url": "https://waytoagi.feishu.cn/wiki/Nu7Tw3E9dik72vkBEpTc76BMnGv?from=from_copylink"
     }
   ],
   "warning": null,
