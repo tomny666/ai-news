@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T15:29:22.932517Z",
+  "generated_at": "2026-07-26T17:15:24.744298Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_fd83d61e5894",
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8269,
-      "importance": 0.8269,
-      "importance_score": 0.8269,
+      "score": 0.8231,
+      "importance": 0.8231,
+      "importance_score": 0.8231,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8461,
+        "recency": 0.8248,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:30:08.780362Z"
+        "scored_at": "2026-07-26T17:16:12.168345Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9634,
+        "recency": 0.9391,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -252,7 +252,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:30:08.780362Z"
+        "scored_at": "2026-07-26T17:16:12.168345Z"
       }
     },
     {
@@ -300,21 +300,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9053,
+        "recency": 0.8824,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-26T08:35:49Z",
       "latest_at": "2026-07-26T08:35:49Z",
@@ -334,88 +333,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:30:08.780362Z"
-      }
-    },
-    {
-      "story_id": "story_373076a10218",
-      "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令 / Download Grok Build and type /tutorial http://X.ai/cli",
-      "url": "https://x.com/elonmusk/status/2081174079969632347",
-      "primary_url": "https://x.com/elonmusk/status/2081174079969632347",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6ead983ec445354837fda616f660a0314129158f",
-          "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令 / Download Grok Build and type /tutorial http://X.ai/cli",
-          "title_zh": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
-          "title_en": "Download Grok Build and type /tutorial http://X.ai/cli",
-          "title_original": "Download Grok Build and type /tutorial http://X.ai/cli",
-          "summary": "下载 Grok Build 并输入 /tutorial\n\nhttp://X.ai/cli",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/elonmusk/status/2081174079969632347",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T00:25:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
-      ],
-      "items": [
-        {
-          "id": "6ead983ec445354837fda616f660a0314129158f",
-          "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令 / Download Grok Build and type /tutorial http://X.ai/cli",
-          "title_zh": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
-          "title_en": "Download Grok Build and type /tutorial http://X.ai/cli",
-          "title_original": "Download Grok Build and type /tutorial http://X.ai/cli",
-          "summary": "下载 Grok Build 并输入 /tutorial\n\nhttp://X.ai/cli",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/elonmusk/status/2081174079969632347",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T00:25:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7234,
-      "importance": 0.7234,
-      "importance_score": 0.7234,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8045,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-26T00:25:41Z",
-      "latest_at": "2026-07-26T00:25:41Z",
-      "primary_item": {
-        "id": "6ead983ec445354837fda616f660a0314129158f",
-        "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令 / Download Grok Build and type /tutorial http://X.ai/cli",
-        "title_zh": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
-        "title_en": "Download Grok Build and type /tutorial http://X.ai/cli",
-        "title_original": "Download Grok Build and type /tutorial http://X.ai/cli",
-        "summary": "下载 Grok Build 并输入 /tutorial\n\nhttp://X.ai/cli",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/elonmusk/status/2081174079969632347",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:30:08.780362Z"
+        "scored_at": "2026-07-26T17:16:12.168345Z"
       }
     },
     {
@@ -463,15 +381,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7376,
-      "importance": 0.7376,
-      "importance_score": 0.7376,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8664,
+        "recency": 0.8446,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -496,7 +414,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:30:08.780362Z"
+        "scored_at": "2026-07-26T17:16:12.168345Z"
       }
     },
     {
@@ -659,15 +577,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5931,
-      "importance": 0.5931,
-      "importance_score": 0.5931,
+      "score": 0.5893,
+      "importance": 0.5893,
+      "importance_score": 0.5893,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8461,
+        "recency": 0.8248,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -692,7 +610,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:30:08.780362Z"
+        "scored_at": "2026-07-26T17:16:12.168345Z"
+      }
+    },
+    {
+      "story_id": "story_62361e6c3c72",
+      "title": "伦敦盖特威克机场的“Park by Robot”服务",
+      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+      "primary_url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+      "source": "aerospaceglobalnews.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c587265a466725b1c337d817a8f4656bc09439b0",
+          "title": "伦敦盖特威克机场的“Park by Robot”服务",
+          "title_zh": "伦敦盖特威克机场的“Park by Robot”服务",
+          "title_en": null,
+          "title_original": "伦敦盖特威克机场的“Park by Robot”服务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "aerospaceglobalnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T16:42:46.682000Z"
+        },
+        {
+          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
+          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+          "title_zh": "伦敦盖特威克机场的机器人停车",
+          "title_en": "Park by Robot at London Gatwick Airport",
+          "title_original": "Park by Robot at London Gatwick Airport",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49058669",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T15:29:46.828000Z"
+        },
+        {
+          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
+          "title": "伦敦盖特威克机场的“Park by Robot”服务 / Park by Robot at London Gatwick Airport",
+          "title_zh": "伦敦盖特威克机场的“Park by Robot”服务",
+          "title_en": "Park by Robot at London Gatwick Airport",
+          "title_original": "Park by Robot at London Gatwick Airport",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T14:40:27Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "aerospaceglobalnews.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c587265a466725b1c337d817a8f4656bc09439b0",
+          "title": "伦敦盖特威克机场的“Park by Robot”服务",
+          "title_zh": "伦敦盖特威克机场的“Park by Robot”服务",
+          "title_en": null,
+          "title_original": "伦敦盖特威克机场的“Park by Robot”服务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "aerospaceglobalnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T16:42:46.682000Z"
+        },
+        {
+          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
+          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+          "title_zh": "伦敦盖特威克机场的机器人停车",
+          "title_en": "Park by Robot at London Gatwick Airport",
+          "title_original": "Park by Robot at London Gatwick Airport",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49058669",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T15:29:46.828000Z"
+        },
+        {
+          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
+          "title": "伦敦盖特威克机场的“Park by Robot”服务 / Park by Robot at London Gatwick Airport",
+          "title_zh": "伦敦盖特威克机场的“Park by Robot”服务",
+          "title_en": "Park by Robot at London Gatwick Airport",
+          "title_original": "Park by Robot at London Gatwick Airport",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T14:40:27Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5694,
+      "importance": 0.5694,
+      "importance_score": 0.5694,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9922,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T14:40:27Z",
+      "latest_at": "2026-07-26T16:42:46.682000Z",
+      "primary_item": {
+        "id": "c587265a466725b1c337d817a8f4656bc09439b0",
+        "title": "伦敦盖特威克机场的“Park by Robot”服务",
+        "title_zh": "伦敦盖特威克机场的“Park by Robot”服务",
+        "title_en": null,
+        "title_original": "伦敦盖特威克机场的“Park by Robot”服务",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+        "source": "aerospaceglobalnews.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-26T17:16:12.168345Z"
       }
     },
     {
@@ -798,15 +855,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5598,
-      "importance": 0.5598,
-      "importance_score": 0.5598,
+      "score": 0.5555,
+      "importance": 0.5555,
+      "importance_score": 0.5555,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9388,
+        "recency": 0.9151,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -831,7 +888,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:30:08.780362Z"
+        "scored_at": "2026-07-26T17:16:12.168345Z"
       }
     },
     {
@@ -937,15 +994,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5521,
-      "importance": 0.5521,
-      "importance_score": 0.5521,
+      "score": 0.5481,
+      "importance": 0.5481,
+      "importance_score": 0.5481,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8964,
+        "recency": 0.8738,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -970,44 +1027,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:30:08.780362Z"
+        "scored_at": "2026-07-26T17:16:12.168345Z"
       }
     },
     {
-      "story_id": "story_62361e6c3c72",
-      "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-      "url": "https://news.ycombinator.com/item?id=49058669",
-      "primary_url": "https://news.ycombinator.com/item?id=49058669",
+      "story_id": "story_635975c99eb1",
+      "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+      "url": "https://news.ycombinator.com/item?id=49057877",
+      "primary_url": "https://news.ycombinator.com/item?id=49057877",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
-          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-          "title_zh": "伦敦盖特威克机场的机器人停车",
-          "title_en": "Park by Robot at London Gatwick Airport",
-          "title_original": "Park by Robot at London Gatwick Airport",
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "title_zh": "新的人工智能超级大国：专注和跟进",
+          "title_en": "The New AI Superpowers: Focus and Followthrough",
+          "title_original": "The New AI Superpowers: Focus and Followthrough",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49058669",
+          "url": "https://news.ycombinator.com/item?id=49057877",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-07-26T15:29:46.828000Z"
         },
         {
-          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
-          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-          "title_zh": "伦敦盖特威克机场的机器人停车",
-          "title_en": "Park by Robot at London Gatwick Airport",
-          "title_original": "Park by Robot at London Gatwick Airport",
+          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "title_zh": "新的人工智能超级大国：专注和跟进",
+          "title_en": "The New AI Superpowers: Focus and Followthrough",
+          "title_original": "The New AI Superpowers: Focus and Followthrough",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-26T14:40:27Z"
+          "published_at": "2026-07-26T13:13:03Z"
         }
       ],
       "source_count": 2,
@@ -1017,62 +1074,62 @@
       ],
       "items": [
         {
-          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
-          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-          "title_zh": "伦敦盖特威克机场的机器人停车",
-          "title_en": "Park by Robot at London Gatwick Airport",
-          "title_original": "Park by Robot at London Gatwick Airport",
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "title_zh": "新的人工智能超级大国：专注和跟进",
+          "title_en": "The New AI Superpowers: Focus and Followthrough",
+          "title_original": "The New AI Superpowers: Focus and Followthrough",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49058669",
+          "url": "https://news.ycombinator.com/item?id=49057877",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-07-26T15:29:46.828000Z"
         },
         {
-          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
-          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-          "title_zh": "伦敦盖特威克机场的机器人停车",
-          "title_en": "Park by Robot at London Gatwick Airport",
-          "title_original": "Park by Robot at London Gatwick Airport",
+          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "title_zh": "新的人工智能超级大国：专注和跟进",
+          "title_en": "The New AI Superpowers: Focus and Followthrough",
+          "title_original": "The New AI Superpowers: Focus and Followthrough",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-26T14:40:27Z"
+          "published_at": "2026-07-26T13:13:03Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9749,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-26T14:40:27Z",
+      "earliest_at": "2026-07-26T13:13:03Z",
       "latest_at": "2026-07-26T15:29:46.828000Z",
       "primary_item": {
-        "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
-        "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-        "title_zh": "伦敦盖特威克机场的机器人停车",
-        "title_en": "Park by Robot at London Gatwick Airport",
-        "title_original": "Park by Robot at London Gatwick Airport",
+        "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+        "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+        "title_zh": "新的人工智能超级大国：专注和跟进",
+        "title_en": "The New AI Superpowers: Focus and Followthrough",
+        "title_original": "The New AI Superpowers: Focus and Followthrough",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49058669",
+        "url": "https://news.ycombinator.com/item?id=49057877",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1080,7 +1137,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:30:08.780362Z"
+        "scored_at": "2026-07-26T17:16:12.168345Z"
       }
     },
     {
@@ -1186,15 +1243,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5393,
+      "importance": 0.5393,
+      "importance_score": 0.5393,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8461,
+        "recency": 0.8248,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1219,7 +1276,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:30:08.780362Z"
+        "scored_at": "2026-07-26T17:16:12.168345Z"
       }
     },
     {
@@ -1325,15 +1382,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5335,
-      "importance": 0.5335,
-      "importance_score": 0.5335,
+      "score": 0.5299,
+      "importance": 0.5299,
+      "importance_score": 0.5299,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7925,
+        "recency": 0.7725,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1358,7 +1415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:30:08.780362Z"
+        "scored_at": "2026-07-26T17:16:12.168345Z"
       }
     },
     {
@@ -1435,15 +1492,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5265,
-      "importance": 0.5265,
-      "importance_score": 0.5265,
+      "score": 0.5225,
+      "importance": 0.5225,
+      "importance_score": 0.5225,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8929,
+        "recency": 0.8704,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1468,117 +1525,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:30:08.780362Z"
-      }
-    },
-    {
-      "story_id": "story_635975c99eb1",
-      "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-      "url": "https://news.ycombinator.com/item?id=49057877",
-      "primary_url": "https://news.ycombinator.com/item?id=49057877",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "title_zh": "新的人工智能超级大国：专注和跟进",
-          "title_en": "The New AI Superpowers: Focus and Followthrough",
-          "title_original": "The New AI Superpowers: Focus and Followthrough",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49057877",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T15:29:46.828000Z"
-        },
-        {
-          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "title_zh": "新的人工智能超级大国：专注和跟进",
-          "title_en": "The New AI Superpowers: Focus and Followthrough",
-          "title_original": "The New AI Superpowers: Focus and Followthrough",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T13:13:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "title_zh": "新的人工智能超级大国：专注和跟进",
-          "title_en": "The New AI Superpowers: Focus and Followthrough",
-          "title_original": "The New AI Superpowers: Focus and Followthrough",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49057877",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T15:29:46.828000Z"
-        },
-        {
-          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "title_zh": "新的人工智能超级大国：专注和跟进",
-          "title_en": "The New AI Superpowers: Focus and Followthrough",
-          "title_original": "The New AI Superpowers: Focus and Followthrough",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T13:13:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T13:13:03Z",
-      "latest_at": "2026-07-26T15:29:46.828000Z",
-      "primary_item": {
-        "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-        "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-        "title_zh": "新的人工智能超级大国：专注和跟进",
-        "title_en": "The New AI Superpowers: Focus and Followthrough",
-        "title_original": "The New AI Superpowers: Focus and Followthrough",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49057877",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:30:08.780362Z"
+        "scored_at": "2026-07-26T17:16:12.168345Z"
       }
     },
     {
@@ -1684,15 +1631,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5304,
-      "importance": 0.5304,
-      "importance_score": 0.5304,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7756,
+        "recency": 0.7561,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1717,7 +1664,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:30:08.780362Z"
+        "scored_at": "2026-07-26T17:16:12.168345Z"
       }
     },
     {
@@ -1794,15 +1741,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5102,
-      "importance": 0.5102,
-      "importance_score": 0.5102,
+      "score": 0.5066,
+      "importance": 0.5066,
+      "importance_score": 0.5066,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8024,
+        "recency": 0.7822,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1827,117 +1774,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:30:08.780362Z"
-      }
-    },
-    {
-      "story_id": "story_b3ff30bbaf7b",
-      "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
-      "url": "https://news.ycombinator.com/item?id=49048996",
-      "primary_url": "https://news.ycombinator.com/item?id=49048996",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "814d58d0a8e50f227792465fdaf16738cddbc617",
-          "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
-          "title_zh": "政客在集会期间阅读人工智能提示",
-          "title_en": "Politician reads AI prompt during assembly",
-          "title_original": "Politician reads AI prompt during assembly",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49048996",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T17:52:19.298000Z"
-        },
-        {
-          "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
-          "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
-          "title_zh": "政客在集会期间阅读人工智能提示",
-          "title_en": "Politician reads AI prompt during assembly",
-          "title_original": "Politician reads AI prompt during assembly",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T16:31:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "814d58d0a8e50f227792465fdaf16738cddbc617",
-          "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
-          "title_zh": "政客在集会期间阅读人工智能提示",
-          "title_en": "Politician reads AI prompt during assembly",
-          "title_original": "Politician reads AI prompt during assembly",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49048996",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T17:52:19.298000Z"
-        },
-        {
-          "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
-          "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
-          "title_zh": "政客在集会期间阅读人工智能提示",
-          "title_en": "Politician reads AI prompt during assembly",
-          "title_original": "Politician reads AI prompt during assembly",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T16:31:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4975,
-      "importance": 0.4975,
-      "importance_score": 0.4975,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7319,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T16:31:15Z",
-      "latest_at": "2026-07-25T17:52:19.298000Z",
-      "primary_item": {
-        "id": "814d58d0a8e50f227792465fdaf16738cddbc617",
-        "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
-        "title_zh": "政客在集会期间阅读人工智能提示",
-        "title_en": "Politician reads AI prompt during assembly",
-        "title_original": "Politician reads AI prompt during assembly",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49048996",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:30:08.780362Z"
+        "scored_at": "2026-07-26T17:16:12.168345Z"
       }
     }
   ]
