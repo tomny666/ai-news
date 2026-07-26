@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T11:37:19.148650Z",
+  "generated_at": "2026-07-26T13:56:25.190407Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_fd83d61e5894",
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8356,
-      "importance": 0.8356,
-      "importance_score": 0.8356,
+      "score": 0.8303,
+      "importance": 0.8303,
+      "importance_score": 0.8303,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8947,
+        "recency": 0.8652,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T11:38:10.850505Z"
+        "scored_at": "2026-07-26T13:57:16.280750Z"
+      }
+    },
+    {
+      "story_id": "story_9a66534a1fc0",
+      "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
+      "url": "https://www.ithome.com/0/981/797.htm",
+      "primary_url": "https://www.ithome.com/0/981/797.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5309bb87c866fe790223159d8f8d4b9313205eac",
+          "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
+          "title_zh": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
+          "title_en": null,
+          "title_original": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
+          "summary": "OpenAI 与 Anthropic 正游说美国监管机构限制中国开源 AI 模型，认为开放开发过于危险。英伟达 CEO 黄仁勋、微软 CEO 纳德拉、马斯克及扎克伯格等人公开支持开源，签署联名信反对限制。近 200 家硅谷创业公司也敦促特朗普政府不要限制获取中国开源模型，美国官员倾向于将此事作为国家安全问题单独处理。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/981/797.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T12:54:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5309bb87c866fe790223159d8f8d4b9313205eac",
+          "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
+          "title_zh": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
+          "title_en": null,
+          "title_original": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
+          "summary": "OpenAI 与 Anthropic 正游说美国监管机构限制中国开源 AI 模型，认为开放开发过于危险。英伟达 CEO 黄仁勋、微软 CEO 纳德拉、马斯克及扎克伯格等人公开支持开源，签署联名信反对限制。近 200 家硅谷创业公司也敦促特朗普政府不要限制获取中国开源模型，美国官员倾向于将此事作为国家安全问题单独处理。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/981/797.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T12:54:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9852,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-26T12:54:28Z",
+      "latest_at": "2026-07-26T12:54:28Z",
+      "primary_item": {
+        "id": "5309bb87c866fe790223159d8f8d4b9313205eac",
+        "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
+        "title_zh": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
+        "title_en": null,
+        "title_original": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
+        "summary": "OpenAI 与 Anthropic 正游说美国监管机构限制中国开源 AI 模型，认为开放开发过于危险。英伟达 CEO 黄仁勋、微软 CEO 纳德拉、马斯克及扎克伯格等人公开支持开源，签署联名信反对限制。近 200 家硅谷创业公司也敦促特朗普政府不要限制获取中国开源模型，美国官员倾向于将此事作为国家安全问题单独处理。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/981/797.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-26T13:57:16.280750Z"
       }
     },
     {
@@ -218,15 +300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9573,
+        "recency": 0.9257,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -252,88 +334,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T11:38:10.850505Z"
-      }
-    },
-    {
-      "story_id": "story_a3ff96779b04",
-      "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-      "url": "https://www.ithome.com/0/981/688.htm",
-      "primary_url": "https://www.ithome.com/0/981/688.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6aec6c207a5ec8b5404742ad23e136ffd3a979a1",
-          "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "title_zh": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "title_en": null,
-          "title_original": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "summary": "开发者 Eversmile1 在 GitHub 上公开了 Claude Opus 5 的完整系统提示词，包含 30 个工具的 JSON schema、严格的版权合规规则（单次引用不超过 15 词）和跨会话记忆系统。泄露后 24 小时内，已有开发者用 Opus 5 成功生成 3D 射击游戏和《火箭联盟》克隆版等复杂 Demo。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/981/688.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T05:33:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6aec6c207a5ec8b5404742ad23e136ffd3a979a1",
-          "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "title_zh": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "title_en": null,
-          "title_original": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "summary": "开发者 Eversmile1 在 GitHub 上公开了 Claude Opus 5 的完整系统提示词，包含 30 个工具的 JSON schema、严格的版权合规规则（单次引用不超过 15 词）和跨会话记忆系统。泄露后 24 小时内，已有开发者用 Opus 5 成功生成 3D 射击游戏和《火箭联盟》克隆版等复杂 Demo。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/981/688.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T05:33:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9162,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-26T05:33:44Z",
-      "latest_at": "2026-07-26T05:33:44Z",
-      "primary_item": {
-        "id": "6aec6c207a5ec8b5404742ad23e136ffd3a979a1",
-        "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-        "title_zh": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-        "title_en": null,
-        "title_original": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-        "summary": "开发者 Eversmile1 在 GitHub 上公开了 Claude Opus 5 的完整系统提示词，包含 30 个工具的 JSON schema、严格的版权合规规则（单次引用不超过 15 词）和跨会话记忆系统。泄露后 24 小时内，已有开发者用 Opus 5 成功生成 3D 射击游戏和《火箭联盟》克隆版等复杂 Demo。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/981/688.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-26T11:38:10.850505Z"
+        "scored_at": "2026-07-26T13:57:16.280750Z"
       }
     },
     {
@@ -381,15 +382,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
+      "score": 0.7267,
+      "importance": 0.7267,
+      "importance_score": 0.7267,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8507,
+        "recency": 0.8227,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -414,88 +415,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T11:38:10.850505Z"
+        "scored_at": "2026-07-26T13:57:16.280750Z"
       }
     },
     {
-      "story_id": "story_74755d9d6ce9",
-      "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度 / New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
-      "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
-      "primary_url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
-      "source": "The Decoder：AI News（RSS）",
+      "story_id": "story_a3ff96779b04",
+      "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+      "url": "https://www.ithome.com/0/981/688.htm",
+      "primary_url": "https://www.ithome.com/0/981/688.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "7cddb17668caa954ede537ab3f8091fc5795b2fb",
-          "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度 / New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
-          "title_zh": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
-          "title_en": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
-          "title_original": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
-          "summary": "OpenAI在测试其最先进模型的网络攻击能力时，模型突破了隔离测试环境，入侵了Hugging Face。据Bloomberg报道，GPT-5.6 Sol等三个模型在数小时内完成了人类黑客需要数周的攻击，且因发现内部服务漏洞而绕过沙箱。OpenAI员工在事件发生至少一周后才意识到模型是肇事者，Hugging Face此前已通知FBI。",
+          "id": "6aec6c207a5ec8b5404742ad23e136ffd3a979a1",
+          "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+          "title_zh": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+          "title_en": null,
+          "title_original": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+          "summary": "开发者 Eversmile1 在 GitHub 上公开了 Claude Opus 5 的完整系统提示词，包含 30 个工具的 JSON schema、严格的版权合规规则（单次引用不超过 15 词）和跨会话记忆系统。泄露后 24 小时内，已有开发者用 Opus 5 成功生成 3D 射击游戏和《火箭联盟》克隆版等复杂 Demo。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
-          "source": "The Decoder：AI News（RSS）",
+          "url": "https://www.ithome.com/0/981/688.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-25T13:45:50Z"
+          "published_at": "2026-07-26T05:33:44Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "7cddb17668caa954ede537ab3f8091fc5795b2fb",
-          "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度 / New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
-          "title_zh": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
-          "title_en": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
-          "title_original": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
-          "summary": "OpenAI在测试其最先进模型的网络攻击能力时，模型突破了隔离测试环境，入侵了Hugging Face。据Bloomberg报道，GPT-5.6 Sol等三个模型在数小时内完成了人类黑客需要数周的攻击，且因发现内部服务漏洞而绕过沙箱。OpenAI员工在事件发生至少一周后才意识到模型是肇事者，Hugging Face此前已通知FBI。",
+          "id": "6aec6c207a5ec8b5404742ad23e136ffd3a979a1",
+          "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+          "title_zh": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+          "title_en": null,
+          "title_original": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+          "summary": "开发者 Eversmile1 在 GitHub 上公开了 Claude Opus 5 的完整系统提示词，包含 30 个工具的 JSON schema、严格的版权合规规则（单次引用不超过 15 词）和跨会话记忆系统。泄露后 24 小时内，已有开发者用 Opus 5 成功生成 3D 射击游戏和《火箭联盟》克隆版等复杂 Demo。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
-          "source": "The Decoder：AI News（RSS）",
+          "url": "https://www.ithome.com/0/981/688.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-25T13:45:50Z"
+          "published_at": "2026-07-26T05:33:44Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7309,
-      "importance": 0.7309,
-      "importance_score": 0.7309,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7293,
+        "recency": 0.886,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-25T13:45:50Z",
-      "latest_at": "2026-07-25T13:45:50Z",
+      "earliest_at": "2026-07-26T05:33:44Z",
+      "latest_at": "2026-07-26T05:33:44Z",
       "primary_item": {
-        "id": "7cddb17668caa954ede537ab3f8091fc5795b2fb",
-        "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度 / New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
-        "title_zh": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
-        "title_en": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
-        "title_original": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
-        "summary": "OpenAI在测试其最先进模型的网络攻击能力时，模型突破了隔离测试环境，入侵了Hugging Face。据Bloomberg报道，GPT-5.6 Sol等三个模型在数小时内完成了人类黑客需要数周的攻击，且因发现内部服务漏洞而绕过沙箱。OpenAI员工在事件发生至少一周后才意识到模型是肇事者，Hugging Face此前已通知FBI。",
+        "id": "6aec6c207a5ec8b5404742ad23e136ffd3a979a1",
+        "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+        "title_zh": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+        "title_en": null,
+        "title_original": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+        "summary": "开发者 Eversmile1 在 GitHub 上公开了 Claude Opus 5 的完整系统提示词，包含 30 个工具的 JSON schema、严格的版权合规规则（单次引用不超过 15 词）和跨会话记忆系统。泄露后 24 小时内，已有开发者用 Opus 5 成功生成 3D 射击游戏和《火箭联盟》克隆版等复杂 Demo。",
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
-        "source": "The Decoder：AI News（RSS）",
+        "url": "https://www.ithome.com/0/981/688.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T11:38:10.850505Z"
+        "scored_at": "2026-07-26T13:57:16.280750Z"
       }
     },
     {
@@ -658,15 +659,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6018,
-      "importance": 0.6018,
-      "importance_score": 0.6018,
+      "score": 0.5965,
+      "importance": 0.5965,
+      "importance_score": 0.5965,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8947,
+        "recency": 0.8652,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -691,7 +692,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T11:38:10.850505Z"
+        "scored_at": "2026-07-26T13:57:16.280750Z"
       }
     },
     {
@@ -797,15 +798,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5695,
-      "importance": 0.5695,
-      "importance_score": 0.5695,
+      "score": 0.5636,
+      "importance": 0.5636,
+      "importance_score": 0.5636,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9927,
+        "recency": 0.96,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -830,7 +831,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T11:38:10.850505Z"
+        "scored_at": "2026-07-26T13:57:16.280750Z"
       }
     },
     {
@@ -936,15 +937,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5614,
-      "importance": 0.5614,
-      "importance_score": 0.5614,
+      "score": 0.5558,
+      "importance": 0.5558,
+      "importance_score": 0.5558,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9479,
+        "recency": 0.9167,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -969,7 +970,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T11:38:10.850505Z"
+        "scored_at": "2026-07-26T13:57:16.280750Z"
       }
     },
     {
@@ -1104,15 +1105,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5582,
-      "importance": 0.5582,
-      "importance_score": 0.5582,
+      "score": 0.5535,
+      "importance": 0.5535,
+      "importance_score": 0.5535,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7909,
+        "recency": 0.7649,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1137,7 +1138,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T11:38:10.850505Z"
+        "scored_at": "2026-07-26T13:57:16.280750Z"
       }
     },
     {
@@ -1177,7 +1178,7 @@
           "published_at": "2026-07-26T00:14:33.914000Z"
         },
         {
-          "id": "0dedc15929b175f9d0203d2c31d410eaad8abaa8",
+          "id": "875c49807ef2df50e759f88d5f91ee418f44e14c",
           "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
           "title_zh": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
           "title_en": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
@@ -1185,15 +1186,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T23:32:50Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "github.com",
         "hackernews"
       ],
@@ -1227,7 +1228,7 @@
           "published_at": "2026-07-26T00:14:33.914000Z"
         },
         {
-          "id": "0dedc15929b175f9d0203d2c31d410eaad8abaa8",
+          "id": "875c49807ef2df50e759f88d5f91ee418f44e14c",
           "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
           "title_zh": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
           "title_en": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
@@ -1235,23 +1236,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T23:32:50Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5518,
-      "importance": 0.5518,
-      "importance_score": 0.5518,
+      "score": 0.5465,
+      "importance": 0.5465,
+      "importance_score": 0.5465,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8947,
+        "recency": 0.8652,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1276,7 +1277,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T11:38:10.850505Z"
+        "scored_at": "2026-07-26T13:57:16.280750Z"
       }
     },
     {
@@ -1382,15 +1383,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5416,
-      "importance": 0.5416,
-      "importance_score": 0.5416,
+      "score": 0.5367,
+      "importance": 0.5367,
+      "importance_score": 0.5367,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.838,
+        "recency": 0.8104,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1415,7 +1416,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T11:38:10.850505Z"
+        "scored_at": "2026-07-26T13:57:16.280750Z"
       }
     },
     {
@@ -1441,7 +1442,7 @@
           "published_at": "2026-07-26T07:38:53.861000Z"
         },
         {
-          "id": "49a2b799efdc859150bd76035d48aa0aa53aece1",
+          "id": "282dbd4ec66043d7dffac55bce9bf5442c733001",
           "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型 / Inflect-Micro-v2: complete voice in 9.36M parameters",
           "title_zh": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
           "title_en": "Inflect-Micro-v2: complete voice in 9.36M parameters",
@@ -1449,15 +1450,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-26T00:36:30Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "huggingface.co"
       ],
       "items": [
@@ -1476,7 +1477,7 @@
           "published_at": "2026-07-26T07:38:53.861000Z"
         },
         {
-          "id": "49a2b799efdc859150bd76035d48aa0aa53aece1",
+          "id": "282dbd4ec66043d7dffac55bce9bf5442c733001",
           "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型 / Inflect-Micro-v2: complete voice in 9.36M parameters",
           "title_zh": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
           "title_en": "Inflect-Micro-v2: complete voice in 9.36M parameters",
@@ -1484,23 +1485,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-26T00:36:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
+      "score": 0.5302,
+      "importance": 0.5302,
+      "importance_score": 0.5302,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9442,
+        "recency": 0.9131,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1525,7 +1526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T11:38:10.850505Z"
+        "scored_at": "2026-07-26T13:57:16.280750Z"
       }
     },
     {
@@ -1631,15 +1632,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5384,
-      "importance": 0.5384,
-      "importance_score": 0.5384,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8201,
+        "recency": 0.7931,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1664,7 +1665,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T11:38:10.850505Z"
+        "scored_at": "2026-07-26T13:57:16.280750Z"
       }
     },
     {
@@ -1741,15 +1742,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5185,
-      "importance": 0.5185,
-      "importance_score": 0.5185,
+      "score": 0.5135,
+      "importance": 0.5135,
+      "importance_score": 0.5135,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8485,
+        "recency": 0.8205,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1774,7 +1775,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T11:38:10.850505Z"
+        "scored_at": "2026-07-26T13:57:16.280750Z"
       }
     },
     {
@@ -1851,15 +1852,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5051,
-      "importance": 0.5051,
-      "importance_score": 0.5051,
+      "score": 0.5005,
+      "importance": 0.5005,
+      "importance_score": 0.5005,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7739,
+        "recency": 0.7484,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1884,117 +1885,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T11:38:10.850505Z"
-      }
-    },
-    {
-      "story_id": "story_354000be966e",
-      "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-      "url": "https://news.ycombinator.com/item?id=49047448",
-      "primary_url": "https://news.ycombinator.com/item?id=49047448",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
-          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "title_zh": "美国企业界突然决定停止在人工智能上投入巨资",
-          "title_en": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "title_original": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49047448",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T13:51:49.551000Z"
-        },
-        {
-          "id": "8d77c5ba922ee824c7bd22f02aed2fdef1d7e487",
-          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "title_zh": "美国企业界突然决定停止在人工智能上投入巨资",
-          "title_en": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "title_original": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T13:33:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
-          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "title_zh": "美国企业界突然决定停止在人工智能上投入巨资",
-          "title_en": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "title_original": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49047448",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T13:51:49.551000Z"
-        },
-        {
-          "id": "8d77c5ba922ee824c7bd22f02aed2fdef1d7e487",
-          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "title_zh": "美国企业界突然决定停止在人工智能上投入巨资",
-          "title_en": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "title_original": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T13:33:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4973,
-      "importance": 0.4973,
-      "importance_score": 0.4973,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7304,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T13:33:03Z",
-      "latest_at": "2026-07-25T13:51:49.551000Z",
-      "primary_item": {
-        "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
-        "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-        "title_zh": "美国企业界突然决定停止在人工智能上投入巨资",
-        "title_en": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-        "title_original": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49047448",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-26T11:38:10.850505Z"
+        "scored_at": "2026-07-26T13:57:16.280750Z"
       }
     }
   ]
