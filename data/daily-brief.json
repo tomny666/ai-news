@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T17:11:41.596651Z",
+  "generated_at": "2026-07-27T18:47:38.849205Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8739,
-      "importance": 0.8739,
-      "importance_score": 0.8739,
+      "score": 0.8699,
+      "importance": 0.8699,
+      "importance_score": 0.8699,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9829,
+        "recency": 0.9605,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T17:12:31.287642Z"
+        "scored_at": "2026-07-27T18:48:28.878136Z"
       }
     },
     {
@@ -161,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8512,
-      "importance": 0.8512,
-      "importance_score": 0.8512,
+      "score": 0.8475,
+      "importance": 0.8475,
+      "importance_score": 0.8475,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8953,
+        "recency": 0.8749,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T17:12:31.287642Z"
+        "scored_at": "2026-07-27T18:48:28.878136Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8197,
-      "importance": 0.8197,
-      "importance_score": 0.8197,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8206,
+        "recency": 0.8018,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T17:12:31.287642Z"
+        "scored_at": "2026-07-27T18:48:28.878136Z"
       }
     },
     {
@@ -356,15 +356,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8014,
-      "importance": 0.8014,
-      "importance_score": 0.8014,
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9822,
+        "recency": 0.9598,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -391,7 +391,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T17:12:31.287642Z"
+        "scored_at": "2026-07-27T18:48:28.878136Z"
+      }
+    },
+    {
+      "story_id": "story_ebe3ddd20f67",
+      "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+      "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+      "primary_url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3679876fae19f4c7430979f3189354450f102f86",
+          "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+          "title_zh": "用Claude和Python构建技能驱动的金融分析智能体",
+          "title_en": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+          "title_original": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+          "summary": "本教程基于Anthropic的financial-services仓库，用纯Python复现其技能驱动架构。通过解析SKILL.md文件构建可搜索技能注册表，并创建可复用SkillAgent，将金融分析剧本注入Anthropic Messages API，支持迭代工具调用循环。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T18:08:24Z"
+        },
+        {
+          "id": "a7f6183fc8f006cb35c401089c06bd50f0d91e63",
+          "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
+          "title_zh": "用Claude和Python构建技能驱动的金融分析智能体",
+          "title_en": "Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
+          "title_original": "Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-27T18:08:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "3679876fae19f4c7430979f3189354450f102f86",
+          "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+          "title_zh": "用Claude和Python构建技能驱动的金融分析智能体",
+          "title_en": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+          "title_original": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+          "summary": "本教程基于Anthropic的financial-services仓库，用纯Python复现其技能驱动架构。通过解析SKILL.md文件构建可搜索技能注册表，并创建可复用SkillAgent，将金融分析剧本注入Anthropic Messages API，支持迭代工具调用循环。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T18:08:24Z"
+        },
+        {
+          "id": "a7f6183fc8f006cb35c401089c06bd50f0d91e63",
+          "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
+          "title_zh": "用Claude和Python构建技能驱动的金融分析智能体",
+          "title_en": "Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
+          "title_original": "Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-27T18:08:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7909,
+      "importance": 0.7909,
+      "importance_score": 0.7909,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9906,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T18:08:24Z",
+      "latest_at": "2026-07-27T18:08:24Z",
+      "primary_item": {
+        "id": "3679876fae19f4c7430979f3189354450f102f86",
+        "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+        "title_zh": "用Claude和Python构建技能驱动的金融分析智能体",
+        "title_en": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+        "title_original": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+        "summary": "本教程基于Anthropic的financial-services仓库，用纯Python复现其技能驱动架构。通过解析SKILL.md文件构建可搜索技能注册表，并创建可复用SkillAgent，将金融分析剧本注入Anthropic Messages API，支持迭代工具调用循环。",
+        "recommend_reason_zh": null,
+        "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T18:48:28.878136Z"
       }
     },
     {
@@ -439,15 +551,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7896,
-      "importance": 0.7896,
-      "importance_score": 0.7896,
+      "score": 0.7856,
+      "importance": 0.7856,
+      "importance_score": 0.7856,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9722,
+        "recency": 0.95,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -473,7 +585,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T17:12:31.287642Z"
+        "scored_at": "2026-07-27T18:48:28.878136Z"
+      }
+    },
+    {
+      "story_id": "story_6a580af5bd08",
+      "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持 / Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
+      "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
+      "primary_url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "45173f2da2cbbb0f2869e38b882897034cc0f7f2",
+          "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持 / Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
+          "title_zh": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
+          "title_en": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
+          "title_original": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
+          "summary": "SGLang 和 Miles 为月之暗面开源的 2.8T 参数模型 Kimi K3 提供发布当日支持，分别负责推理和 RL 训练。K3 采用 69 层 KDA 线性注意力与 24 层 MLA 交错的混合架构，在 SGLang 上单卡 batch-1 解码速度达约 113 tok/s，结合 DSpark 推测解码可达约 423 tok/s。",
+          "recommend_reason_zh": null,
+          "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T17:50:17.260000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "45173f2da2cbbb0f2869e38b882897034cc0f7f2",
+          "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持 / Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
+          "title_zh": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
+          "title_en": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
+          "title_original": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
+          "summary": "SGLang 和 Miles 为月之暗面开源的 2.8T 参数模型 Kimi K3 提供发布当日支持，分别负责推理和 RL 训练。K3 采用 69 层 KDA 线性注意力与 24 层 MLA 交错的混合架构，在 SGLang 上单卡 batch-1 解码速度达约 113 tok/s，结合 DSpark 推测解码可达约 423 tok/s。",
+          "recommend_reason_zh": null,
+          "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T17:50:17.260000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9863,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T17:50:17.260000Z",
+      "latest_at": "2026-07-27T17:50:17.260000Z",
+      "primary_item": {
+        "id": "45173f2da2cbbb0f2869e38b882897034cc0f7f2",
+        "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持 / Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
+        "title_zh": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
+        "title_en": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
+        "title_original": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
+        "summary": "SGLang 和 Miles 为月之暗面开源的 2.8T 参数模型 Kimi K3 提供发布当日支持，分别负责推理和 RL 训练。K3 采用 69 层 KDA 线性注意力与 24 层 MLA 交错的混合架构，在 SGLang 上单卡 batch-1 解码速度达约 113 tok/s，结合 DSpark 推测解码可达约 423 tok/s。",
+        "recommend_reason_zh": null,
+        "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T18:48:28.878136Z"
       }
     },
     {
@@ -521,15 +715,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9231,
+        "recency": 0.902,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -555,7 +749,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T17:12:31.287642Z"
+        "scored_at": "2026-07-27T18:48:28.878136Z"
       }
     },
     {
@@ -603,15 +797,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.742,
+      "importance": 0.742,
+      "importance_score": 0.742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8097,
+        "recency": 0.7912,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -636,7 +830,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T17:12:31.287642Z"
+        "scored_at": "2026-07-27T18:48:28.878136Z"
       }
     },
     {
@@ -684,15 +878,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9791,
+        "recency": 0.9568,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -718,7 +912,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T17:12:31.287642Z"
+        "scored_at": "2026-07-27T18:48:28.878136Z"
       }
     },
     {
@@ -766,15 +960,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9231,
+        "recency": 0.902,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -800,88 +994,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T17:12:31.287642Z"
-      }
-    },
-    {
-      "story_id": "story_630a5caa233a",
-      "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架 / When Coding Stops Being the Bottleneck",
-      "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
-      "primary_url": "https://rdi.berkeley.edu/blog/auto-software-dev",
-      "source": "Berkeley RDI：Blog（AI 安全与评测）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "99c7a0611b8c3fcfdaa290acf333dfad7eb62c9c",
-          "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架 / When Coding Stops Being the Bottleneck",
-          "title_zh": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
-          "title_en": "When Coding Stops Being the Bottleneck",
-          "title_original": "When Coding Stops Being the Bottleneck",
-          "summary": "Berkeley RDI等机构提出三级软件自主开发框架：代码自主（AI完成设计与实现，人类决定构建内容并审核PR）、流水线自主（AI运行从设计到部署的全流程，人类仅评估结果）、需求自主（AI自主决定构建内容）。该框架旨在为能力声明、部署选择与问责提供清晰分类。",
-          "recommend_reason_zh": null,
-          "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
-          "source": "Berkeley RDI：Blog（AI 安全与评测）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T07:51:26.272000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Berkeley RDI：Blog（AI 安全与评测）"
-      ],
-      "items": [
-        {
-          "id": "99c7a0611b8c3fcfdaa290acf333dfad7eb62c9c",
-          "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架 / When Coding Stops Being the Bottleneck",
-          "title_zh": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
-          "title_en": "When Coding Stops Being the Bottleneck",
-          "title_original": "When Coding Stops Being the Bottleneck",
-          "summary": "Berkeley RDI等机构提出三级软件自主开发框架：代码自主（AI完成设计与实现，人类决定构建内容并审核PR）、流水线自主（AI运行从设计到部署的全流程，人类仅评估结果）、需求自主（AI自主决定构建内容）。该框架旨在为能力声明、部署选择与问责提供清晰分类。",
-          "recommend_reason_zh": null,
-          "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
-          "source": "Berkeley RDI：Blog（AI 安全与评测）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T07:51:26.272000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7209,
-      "importance": 0.7209,
-      "importance_score": 0.7209,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8739,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T07:51:26.272000Z",
-      "latest_at": "2026-07-27T07:51:26.272000Z",
-      "primary_item": {
-        "id": "99c7a0611b8c3fcfdaa290acf333dfad7eb62c9c",
-        "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架 / When Coding Stops Being the Bottleneck",
-        "title_zh": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
-        "title_en": "When Coding Stops Being the Bottleneck",
-        "title_original": "When Coding Stops Being the Bottleneck",
-        "summary": "Berkeley RDI等机构提出三级软件自主开发框架：代码自主（AI完成设计与实现，人类决定构建内容并审核PR）、流水线自主（AI运行从设计到部署的全流程，人类仅评估结果）、需求自主（AI自主决定构建内容）。该框架旨在为能力声明、部署选择与问责提供清晰分类。",
-        "recommend_reason_zh": null,
-        "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
-        "source": "Berkeley RDI：Blog（AI 安全与评测）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T17:12:31.287642Z"
+        "scored_at": "2026-07-27T18:48:28.878136Z"
       }
     },
     {
@@ -929,15 +1042,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9748,
+        "recency": 0.9526,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -963,7 +1076,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T17:12:31.287642Z"
+        "scored_at": "2026-07-27T18:48:28.878136Z"
       }
     },
     {
@@ -1011,15 +1124,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9231,
+        "recency": 0.902,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1045,7 +1158,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T17:12:31.287642Z"
+        "scored_at": "2026-07-27T18:48:28.878136Z"
       }
     },
     {
@@ -1093,15 +1206,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9231,
+        "recency": 0.902,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1127,7 +1240,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T17:12:31.287642Z"
+        "scored_at": "2026-07-27T18:48:28.878136Z"
       }
     },
     {
@@ -1175,15 +1288,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9231,
+        "recency": 0.902,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1209,7 +1322,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T17:12:31.287642Z"
+        "scored_at": "2026-07-27T18:48:28.878136Z"
       }
     },
     {
@@ -1285,15 +1398,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6277,
-      "importance": 0.6277,
-      "importance_score": 0.6277,
+      "score": 0.6239,
+      "importance": 0.6239,
+      "importance_score": 0.6239,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.9292,
+        "recency": 0.9079,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1318,7 +1431,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T17:12:31.287642Z"
+        "scored_at": "2026-07-27T18:48:28.878136Z"
       }
     },
     {
@@ -1366,15 +1479,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9231,
+        "recency": 0.902,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1400,7 +1513,174 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T17:12:31.287642Z"
+        "scored_at": "2026-07-27T18:48:28.878136Z"
+      }
+    },
+    {
+      "story_id": "story_2d4e47d50fc6",
+      "title": "Kimi-K3 on HuggingFace",
+      "url": "https://news.ycombinator.com/item?id=49065752",
+      "primary_url": "https://news.ycombinator.com/item?id=49065752",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "3fa6196fd6e9b153c1de557a839b96ff3fff0f94",
+          "title": "Kimi-K3 on HuggingFace",
+          "title_zh": null,
+          "title_en": "Kimi-K3 on HuggingFace",
+          "title_original": "Kimi-K3 on HuggingFace",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49065752",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T18:18:18.795000Z"
+        },
+        {
+          "id": "e1e07cd277305abdc98b63c45f673b20341b0169",
+          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "title_en": null,
+          "title_original": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T08:09:26.811000Z"
+        },
+        {
+          "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
+          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
+          "title_zh": "Kimi-K3 在 HuggingFace 7/27 上发布",
+          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
+          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49065752",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T07:51:48.897000Z"
+        },
+        {
+          "id": "b20dcb7861c5981e7b7d57cf87deb7524e6be6a3",
+          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
+          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
+          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T06:18:10Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "huggingface.co"
+      ],
+      "items": [
+        {
+          "id": "3fa6196fd6e9b153c1de557a839b96ff3fff0f94",
+          "title": "Kimi-K3 on HuggingFace",
+          "title_zh": null,
+          "title_en": "Kimi-K3 on HuggingFace",
+          "title_original": "Kimi-K3 on HuggingFace",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49065752",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T18:18:18.795000Z"
+        },
+        {
+          "id": "e1e07cd277305abdc98b63c45f673b20341b0169",
+          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "title_en": null,
+          "title_original": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T08:09:26.811000Z"
+        },
+        {
+          "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
+          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
+          "title_zh": "Kimi-K3 在 HuggingFace 7/27 上发布",
+          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
+          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49065752",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T07:51:48.897000Z"
+        },
+        {
+          "id": "b20dcb7861c5981e7b7d57cf87deb7524e6be6a3",
+          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
+          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
+          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T06:18:10Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5945,
+      "importance": 0.5945,
+      "importance_score": 0.5945,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.993,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-27T06:18:10Z",
+      "latest_at": "2026-07-27T18:18:18.795000Z",
+      "primary_item": {
+        "id": "3fa6196fd6e9b153c1de557a839b96ff3fff0f94",
+        "title": "Kimi-K3 on HuggingFace",
+        "title_zh": null,
+        "title_en": "Kimi-K3 on HuggingFace",
+        "title_original": "Kimi-K3 on HuggingFace",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49065752",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T18:48:28.878136Z"
       }
     },
     {
@@ -1448,15 +1728,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9231,
+        "recency": 0.902,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1482,367 +1762,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T17:12:31.287642Z"
+        "scored_at": "2026-07-27T18:48:28.878136Z"
       }
     },
     {
-      "story_id": "story_36a4cddafb16",
-      "title": "人工智能公司在华盛顿游说上花费创纪录的金额 / AI companies spend record sums on Washington lobbying",
-      "url": "https://news.ycombinator.com/item?id=49069939",
-      "primary_url": "https://news.ycombinator.com/item?id=49069939",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_eb7b6b649c03",
+      "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+      "url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
+      "primary_url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
+      "source": "Slashdot",
+      "source_name": "TechURLs",
       "sources": [
         {
-          "id": "b73590aa9ac485ea9f25fbcece51b40e31204e3c",
-          "title": "人工智能公司在华盛顿游说上花费创纪录的金额 / AI companies spend record sums on Washington lobbying",
-          "title_zh": "人工智能公司在华盛顿游说上花费创纪录的金额",
-          "title_en": "AI companies spend record sums on Washington lobbying",
-          "title_original": "AI companies spend record sums on Washington lobbying",
+          "id": "0f13e1cb3fa862ea6d344da9cf79545670508078",
+          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+          "title_zh": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧”",
+          "title_en": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+          "title_original": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49069939",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T16:48:04.167000Z"
+          "url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-27T17:00:00Z"
         },
         {
-          "id": "a3d57fd2ba820329313f98a8b1985d6075472428",
-          "title": "人工智能企业在华盛顿的游说支出创下历史新高",
-          "title_zh": "人工智能企业在华盛顿的游说支出创下历史新高",
+          "id": "d31220761e5dd2d08ddd4540fbd25f3787b15845",
+          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
+          "title_zh": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
           "title_en": null,
-          "title_original": "人工智能企业在华盛顿的游说支出创下历史新高",
+          "title_original": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-          "source": "www.ft.com",
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "www.macrumors.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-27T16:41:20.960000Z"
+          "published_at": "2026-07-27T16:09:40.788000Z"
         },
         {
-          "id": "848d454f510776a8cfc7996c17409b6afbb0bad1",
-          "title": "人工智能企业在华盛顿的游说支出创下历史新高 / AI companies spend record sums on Washington lobbying",
-          "title_zh": "人工智能企业在华盛顿的游说支出创下历史新高",
-          "title_en": "AI companies spend record sums on Washington lobbying",
-          "title_original": "AI companies spend record sums on Washington lobbying",
+          "id": "55ea01a3bc190b6e93b18b77a782f7b20175e9cf",
+          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "title_zh": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
+          "title_en": "Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "title_original": "Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T14:07:48Z"
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "Mac Rumors",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-27T14:11:48Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.ft.com"
+        "Mac Rumors",
+        "Slashdot",
+        "www.macrumors.com"
       ],
       "items": [
         {
-          "id": "b73590aa9ac485ea9f25fbcece51b40e31204e3c",
-          "title": "人工智能公司在华盛顿游说上花费创纪录的金额 / AI companies spend record sums on Washington lobbying",
-          "title_zh": "人工智能公司在华盛顿游说上花费创纪录的金额",
-          "title_en": "AI companies spend record sums on Washington lobbying",
-          "title_original": "AI companies spend record sums on Washington lobbying",
+          "id": "0f13e1cb3fa862ea6d344da9cf79545670508078",
+          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+          "title_zh": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧”",
+          "title_en": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+          "title_original": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49069939",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T16:48:04.167000Z"
+          "url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-27T17:00:00Z"
         },
         {
-          "id": "a3d57fd2ba820329313f98a8b1985d6075472428",
-          "title": "人工智能企业在华盛顿的游说支出创下历史新高",
-          "title_zh": "人工智能企业在华盛顿的游说支出创下历史新高",
+          "id": "d31220761e5dd2d08ddd4540fbd25f3787b15845",
+          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
+          "title_zh": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
           "title_en": null,
-          "title_original": "人工智能企业在华盛顿的游说支出创下历史新高",
+          "title_original": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-          "source": "www.ft.com",
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "www.macrumors.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-27T16:41:20.960000Z"
+          "published_at": "2026-07-27T16:09:40.788000Z"
         },
         {
-          "id": "848d454f510776a8cfc7996c17409b6afbb0bad1",
-          "title": "人工智能企业在华盛顿的游说支出创下历史新高 / AI companies spend record sums on Washington lobbying",
-          "title_zh": "人工智能企业在华盛顿的游说支出创下历史新高",
-          "title_en": "AI companies spend record sums on Washington lobbying",
-          "title_original": "AI companies spend record sums on Washington lobbying",
+          "id": "55ea01a3bc190b6e93b18b77a782f7b20175e9cf",
+          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "title_zh": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
+          "title_en": "Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "title_original": "Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T14:07:48Z"
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "Mac Rumors",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-27T14:11:48Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5698,
-      "importance": 0.5698,
-      "importance_score": 0.5698,
+      "score": 0.5662,
+      "importance": 0.5662,
+      "importance_score": 0.5662,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9943,
+        "recency": 0.9744,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-27T14:07:48Z",
-      "latest_at": "2026-07-27T16:48:04.167000Z",
+      "earliest_at": "2026-07-27T14:11:48Z",
+      "latest_at": "2026-07-27T17:00:00Z",
       "primary_item": {
-        "id": "b73590aa9ac485ea9f25fbcece51b40e31204e3c",
-        "title": "人工智能公司在华盛顿游说上花费创纪录的金额 / AI companies spend record sums on Washington lobbying",
-        "title_zh": "人工智能公司在华盛顿游说上花费创纪录的金额",
-        "title_en": "AI companies spend record sums on Washington lobbying",
-        "title_original": "AI companies spend record sums on Washington lobbying",
+        "id": "0f13e1cb3fa862ea6d344da9cf79545670508078",
+        "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+        "title_zh": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧”",
+        "title_en": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+        "title_original": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49069939",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
+        "source": "Slashdot",
+        "source_name": "TechURLs"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T17:12:31.287642Z"
-      }
-    },
-    {
-      "story_id": "story_2d4e47d50fc6",
-      "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3",
-      "primary_url": "https://huggingface.co/moonshotai/Kimi-K3",
-      "source": "huggingface.co",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e1e07cd277305abdc98b63c45f673b20341b0169",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_en": null,
-          "title_original": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T08:09:26.811000Z"
-        },
-        {
-          "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
-          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "title_zh": "Kimi-K3 在 HuggingFace 7/27 上发布",
-          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49065752",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T07:51:48.897000Z"
-        },
-        {
-          "id": "b20dcb7861c5981e7b7d57cf87deb7524e6be6a3",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T06:18:10Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "huggingface.co"
-      ],
-      "items": [
-        {
-          "id": "e1e07cd277305abdc98b63c45f673b20341b0169",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_en": null,
-          "title_original": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T08:09:26.811000Z"
-        },
-        {
-          "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
-          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "title_zh": "Kimi-K3 在 HuggingFace 7/27 上发布",
-          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49065752",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T07:51:48.897000Z"
-        },
-        {
-          "id": "b20dcb7861c5981e7b7d57cf87deb7524e6be6a3",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T06:18:10Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5488,
-      "importance": 0.5488,
-      "importance_score": 0.5488,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8777,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T06:18:10Z",
-      "latest_at": "2026-07-27T08:09:26.811000Z",
-      "primary_item": {
-        "id": "e1e07cd277305abdc98b63c45f673b20341b0169",
-        "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-        "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-        "title_en": null,
-        "title_original": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/moonshotai/Kimi-K3",
-        "source": "huggingface.co",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T17:12:31.287642Z"
-      }
-    },
-    {
-      "story_id": "story_7e59c4ca7c4e",
-      "title": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
-      "url": "https://www.aibase.com/news/29915",
-      "primary_url": "https://www.aibase.com/news/29915",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "80742ceb6678a65c72483282319c42e62f47abbf",
-          "title": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
-          "title_zh": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
-          "title_en": null,
-          "title_original": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29915",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T11:39:09.795334Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "80742ceb6678a65c72483282319c42e62f47abbf",
-          "title": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
-          "title_zh": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
-          "title_en": null,
-          "title_original": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29915",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T11:39:09.795334Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9231,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T11:39:09.795334Z",
-      "latest_at": "2026-07-27T11:39:09.795334Z",
-      "primary_item": {
-        "id": "80742ceb6678a65c72483282319c42e62f47abbf",
-        "title": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
-        "title_zh": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
-        "title_en": null,
-        "title_original": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29915",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T17:12:31.287642Z"
+        "scored_at": "2026-07-27T18:48:28.878136Z"
       }
     }
   ]
