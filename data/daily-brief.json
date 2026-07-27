@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T18:47:38.849205Z",
+  "generated_at": "2026-07-27T20:43:17.535141Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8699,
-      "importance": 0.8699,
-      "importance_score": 0.8699,
+      "score": 0.8651,
+      "importance": 0.8651,
+      "importance_score": 0.8651,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9605,
+        "recency": 0.9341,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T18:48:28.878136Z"
+        "scored_at": "2026-07-27T20:44:17.635043Z"
       }
     },
     {
@@ -161,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8475,
-      "importance": 0.8475,
-      "importance_score": 0.8475,
+      "score": 0.8432,
+      "importance": 0.8432,
+      "importance_score": 0.8432,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8749,
+        "recency": 0.8509,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +196,120 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T18:48:28.878136Z"
+        "scored_at": "2026-07-27T20:44:17.635043Z"
+      }
+    },
+    {
+      "story_id": "story_fdb39a7d1547",
+      "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查 / The harness is all you need (mostly)",
+      "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dfe1166a7e4b61e194a54d3f29e213dcc90401c2",
+          "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查 / The harness is all you need (mostly)",
+          "title_zh": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查",
+          "title_en": "The harness is all you need (mostly)",
+          "title_original": "The harness is all you need (mostly)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T18:00:00Z"
+        },
+        {
+          "id": "14c3844b789a43cdd84064b00b5779806855f4b4",
+          "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查 / The harness is all you need （mostly）",
+          "title_zh": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查",
+          "title_en": "The harness is all you need （mostly）",
+          "title_original": "The harness is all you need （mostly）",
+          "summary": "GitHub Copilot 推出\"Harness\"工作流，让开发者通过单一 AI 工具完成从原型设计、规划、实现到代码审查的完整软件开发流程，无需追逐多种新 AI 工具。该工作流强调实用性与集成性，旨在减少工具切换带来的效率损耗。",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T18:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub AI & ML",
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "dfe1166a7e4b61e194a54d3f29e213dcc90401c2",
+          "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查 / The harness is all you need (mostly)",
+          "title_zh": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查",
+          "title_en": "The harness is all you need (mostly)",
+          "title_original": "The harness is all you need (mostly)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T18:00:00Z"
+        },
+        {
+          "id": "14c3844b789a43cdd84064b00b5779806855f4b4",
+          "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查 / The harness is all you need （mostly）",
+          "title_zh": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查",
+          "title_en": "The harness is all you need （mostly）",
+          "title_original": "The harness is all you need （mostly）",
+          "summary": "GitHub Copilot 推出\"Harness\"工作流，让开发者通过单一 AI 工具完成从原型设计、规划、实现到代码审查的完整软件开发流程，无需追逐多种新 AI 工具。该工作流强调实用性与集成性，旨在减少工具切换带来的效率损耗。",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T18:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8621,
+      "importance": 0.8621,
+      "importance_score": 0.8621,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9615,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T18:00:00Z",
+      "latest_at": "2026-07-27T18:00:00Z",
+      "primary_item": {
+        "id": "dfe1166a7e4b61e194a54d3f29e213dcc90401c2",
+        "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查 / The harness is all you need (mostly)",
+        "title_zh": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查",
+        "title_en": "The harness is all you need (mostly)",
+        "title_original": "The harness is all you need (mostly)",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T20:44:17.635043Z"
       }
     },
     {
@@ -244,15 +357,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
+      "score": 0.8124,
+      "importance": 0.8124,
+      "importance_score": 0.8124,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8018,
+        "recency": 0.7798,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +392,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T18:48:28.878136Z"
+        "scored_at": "2026-07-27T20:44:17.635043Z"
       }
     },
     {
@@ -356,15 +469,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7974,
-      "importance": 0.7974,
-      "importance_score": 0.7974,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9598,
+        "recency": 0.9335,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -391,7 +504,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T18:48:28.878136Z"
+        "scored_at": "2026-07-27T20:44:17.635043Z"
       }
     },
     {
@@ -468,15 +581,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7909,
-      "importance": 0.7909,
-      "importance_score": 0.7909,
+      "score": 0.786,
+      "importance": 0.786,
+      "importance_score": 0.786,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9906,
+        "recency": 0.9634,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -503,7 +616,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T18:48:28.878136Z"
+        "scored_at": "2026-07-27T20:44:17.635043Z"
       }
     },
     {
@@ -551,15 +664,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.95,
+        "recency": 0.924,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -585,7 +698,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T18:48:28.878136Z"
+        "scored_at": "2026-07-27T20:44:17.635043Z"
       }
     },
     {
@@ -633,15 +746,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7603,
+      "importance": 0.7603,
+      "importance_score": 0.7603,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9863,
+        "recency": 0.9592,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -667,7 +780,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T18:48:28.878136Z"
+        "scored_at": "2026-07-27T20:44:17.635043Z"
+      }
+    },
+    {
+      "story_id": "story_c08b86727d06",
+      "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作 / OpenAI says more workers are using ChatGPT to do other people's jobs",
+      "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
+      "primary_url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1df65f5a0b26e10fa240159b96bb1655a40503ce",
+          "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作 / OpenAI says more workers are using ChatGPT to do other people's jobs",
+          "title_zh": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
+          "title_en": "OpenAI says more workers are using ChatGPT to do other people's jobs",
+          "title_original": "OpenAI says more workers are using ChatGPT to do other people's jobs",
+          "summary": "OpenAI 分析超 80 万条与工作相关的 ChatGPT 消息后发现，43.5% 的岗位特定查询涉及另一职业，营销和工程任务交叉最多。用户用 AI 处理合同审查、数据分析、网站故障排查等原由专家负责的工作。OpenAI 认为这是岗位职责正在变化的早期信号，该趋势在缺乏专业团队的小公司尤为明显。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T19:08:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1df65f5a0b26e10fa240159b96bb1655a40503ce",
+          "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作 / OpenAI says more workers are using ChatGPT to do other people's jobs",
+          "title_zh": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
+          "title_en": "OpenAI says more workers are using ChatGPT to do other people's jobs",
+          "title_original": "OpenAI says more workers are using ChatGPT to do other people's jobs",
+          "summary": "OpenAI 分析超 80 万条与工作相关的 ChatGPT 消息后发现，43.5% 的岗位特定查询涉及另一职业，营销和工程任务交叉最多。用户用 AI 处理合同审查、数据分析、网站故障排查等原由专家负责的工作。OpenAI 认为这是岗位职责正在变化的早期信号，该趋势在缺乏专业团队的小公司尤为明显。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T19:08:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9775,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T19:08:51Z",
+      "latest_at": "2026-07-27T19:08:51Z",
+      "primary_item": {
+        "id": "1df65f5a0b26e10fa240159b96bb1655a40503ce",
+        "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作 / OpenAI says more workers are using ChatGPT to do other people's jobs",
+        "title_zh": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
+        "title_en": "OpenAI says more workers are using ChatGPT to do other people's jobs",
+        "title_original": "OpenAI says more workers are using ChatGPT to do other people's jobs",
+        "summary": "OpenAI 分析超 80 万条与工作相关的 ChatGPT 消息后发现，43.5% 的岗位特定查询涉及另一职业，营销和工程任务交叉最多。用户用 AI 处理合同审查、数据分析、网站故障排查等原由专家负责的工作。OpenAI 认为这是岗位职责正在变化的早期信号，该趋势在缺乏专业团队的小公司尤为明显。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T20:44:17.635043Z"
       }
     },
     {
@@ -715,21 +910,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.902,
+        "recency": 0.8773,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T11:39:09.795334Z",
       "latest_at": "2026-07-27T11:39:09.795334Z",
@@ -749,7 +943,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T18:48:28.878136Z"
+        "scored_at": "2026-07-27T20:44:17.635043Z"
       }
     },
     {
@@ -797,15 +991,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7912,
+        "recency": 0.7695,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -830,30 +1024,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T18:48:28.878136Z"
+        "scored_at": "2026-07-27T20:44:17.635043Z"
       }
     },
     {
-      "story_id": "story_e85da4d1892f",
-      "title": "Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
-      "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
-      "primary_url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+      "story_id": "story_ed4f738c2dbe",
+      "title": "Kimi 发布视觉感知基准 PerceptionBench / We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+      "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
       "source": "X：Kimi.ai (@Kimi_Moonshot)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
-          "title": "Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
-          "title_zh": "Kimi K3 上线 Modal，支持无损加速推理",
-          "title_en": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
-          "title_original": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
-          "summary": "很高兴 @modal 成为 Kimi K3 的 Day 0 发布合作伙伴！\n\n他们为 K3 的架构训练了自定义 DFlash 投机器，实现更快推理且无质量损失。",
+          "id": "e6b16416a5e8ad87e1da1b9cb071bca244e23bde",
+          "title": "Kimi 发布视觉感知基准 PerceptionBench / We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+          "title_zh": "Kimi 发布视觉感知基准 PerceptionBench",
+          "title_en": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+          "title_original": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+          "summary": "Kimi.ai 发布 PerceptionBench，一个从当前前沿模型在 42 个基准上的失败模式中归纳出的视觉感知基准。该基准将视觉感知拆解为 10 种原子能力，并构建了 3000 道验证题，每道题只考察单一感知能力，无需推理或外部知识。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+          "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
           "source": "X：Kimi.ai (@Kimi_Moonshot)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-27T15:44:05Z"
+          "published_at": "2026-07-27T18:45:20Z"
         }
       ],
       "source_count": 1,
@@ -862,31 +1056,31 @@
       ],
       "items": [
         {
-          "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
-          "title": "Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
-          "title_zh": "Kimi K3 上线 Modal，支持无损加速推理",
-          "title_en": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
-          "title_original": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
-          "summary": "很高兴 @modal 成为 Kimi K3 的 Day 0 发布合作伙伴！\n\n他们为 K3 的架构训练了自定义 DFlash 投机器，实现更快推理且无质量损失。",
+          "id": "e6b16416a5e8ad87e1da1b9cb071bca244e23bde",
+          "title": "Kimi 发布视觉感知基准 PerceptionBench / We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+          "title_zh": "Kimi 发布视觉感知基准 PerceptionBench",
+          "title_en": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+          "title_original": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+          "summary": "Kimi.ai 发布 PerceptionBench，一个从当前前沿模型在 42 个基准上的失败模式中归纳出的视觉感知基准。该基准将视觉感知拆解为 10 种原子能力，并构建了 3000 道验证题，每道题只考察单一感知能力，无需推理或外部知识。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+          "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
           "source": "X：Kimi.ai (@Kimi_Moonshot)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-27T15:44:05Z"
+          "published_at": "2026-07-27T18:45:20Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.7656,
+      "importance": 0.7656,
+      "importance_score": 0.7656,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9568,
+        "recency": 0.972,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -894,17 +1088,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T15:44:05Z",
-      "latest_at": "2026-07-27T15:44:05Z",
+      "earliest_at": "2026-07-27T18:45:20Z",
+      "latest_at": "2026-07-27T18:45:20Z",
       "primary_item": {
-        "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
-        "title": "Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
-        "title_zh": "Kimi K3 上线 Modal，支持无损加速推理",
-        "title_en": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
-        "title_original": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
-        "summary": "很高兴 @modal 成为 Kimi K3 的 Day 0 发布合作伙伴！\n\n他们为 K3 的架构训练了自定义 DFlash 投机器，实现更快推理且无质量损失。",
+        "id": "e6b16416a5e8ad87e1da1b9cb071bca244e23bde",
+        "title": "Kimi 发布视觉感知基准 PerceptionBench / We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+        "title_zh": "Kimi 发布视觉感知基准 PerceptionBench",
+        "title_en": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+        "title_original": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+        "summary": "Kimi.ai 发布 PerceptionBench，一个从当前前沿模型在 42 个基准上的失败模式中归纳出的视觉感知基准。该基准将视觉感知拆解为 10 种原子能力，并构建了 3000 道验证题，每道题只考察单一感知能力，无需推理或外部知识。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+        "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
         "source": "X：Kimi.ai (@Kimi_Moonshot)",
         "source_name": "AI HOT"
       },
@@ -912,7 +1106,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T18:48:28.878136Z"
+        "scored_at": "2026-07-27T20:44:17.635043Z"
       }
     },
     {
@@ -960,21 +1154,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.902,
+        "recency": 0.8773,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T11:39:09.795334Z",
       "latest_at": "2026-07-27T11:39:09.795334Z",
@@ -994,30 +1187,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T18:48:28.878136Z"
+        "scored_at": "2026-07-27T20:44:17.635043Z"
       }
     },
     {
-      "story_id": "story_45205b48cfd8",
-      "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-      "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
-      "primary_url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+      "story_id": "story_e85da4d1892f",
+      "title": "Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+      "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
       "source": "X：Kimi.ai (@Kimi_Moonshot)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
-          "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-          "title_zh": "Kimi K3 开源分布式智能体环境 AgentENV",
-          "title_en": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-          "title_original": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-          "summary": "我们与 kvcache-ai 合作开源了 AgentENV。\n\nAgentENV 是一个用于大规模运行智能体环境的分布式系统。其组件为 Kimi K3 的智能体强化学习训练提供支持，具备快速快照、恢复和分支功能，适用于大规模并行智能体工作流。\n\n在 GitHub 上探索：http://github.com/kvcache-ai/AgentEnv",
+          "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
+          "title": "Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+          "title_zh": "Kimi K3 上线 Modal，支持无损加速推理",
+          "title_en": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+          "title_original": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+          "summary": "很高兴 @modal 成为 Kimi K3 的 Day 0 发布合作伙伴！\n\n他们为 K3 的架构训练了自定义 DFlash 投机器，实现更快推理且无质量损失。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+          "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
           "source": "X：Kimi.ai (@Kimi_Moonshot)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-27T15:25:45Z"
+          "published_at": "2026-07-27T15:44:05Z"
         }
       ],
       "source_count": 1,
@@ -1026,49 +1219,48 @@
       ],
       "items": [
         {
-          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
-          "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-          "title_zh": "Kimi K3 开源分布式智能体环境 AgentENV",
-          "title_en": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-          "title_original": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-          "summary": "我们与 kvcache-ai 合作开源了 AgentENV。\n\nAgentENV 是一个用于大规模运行智能体环境的分布式系统。其组件为 Kimi K3 的智能体强化学习训练提供支持，具备快速快照、恢复和分支功能，适用于大规模并行智能体工作流。\n\n在 GitHub 上探索：http://github.com/kvcache-ai/AgentEnv",
+          "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
+          "title": "Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+          "title_zh": "Kimi K3 上线 Modal，支持无损加速推理",
+          "title_en": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+          "title_original": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+          "summary": "很高兴 @modal 成为 Kimi K3 的 Day 0 发布合作伙伴！\n\n他们为 K3 的架构训练了自定义 DFlash 投机器，实现更快推理且无质量损失。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+          "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
           "source": "X：Kimi.ai (@Kimi_Moonshot)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-27T15:25:45Z"
+          "published_at": "2026-07-27T15:44:05Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.69,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9526,
+        "recency": 0.9305,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-27T15:25:45Z",
-      "latest_at": "2026-07-27T15:25:45Z",
+      "earliest_at": "2026-07-27T15:44:05Z",
+      "latest_at": "2026-07-27T15:44:05Z",
       "primary_item": {
-        "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
-        "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-        "title_zh": "Kimi K3 开源分布式智能体环境 AgentENV",
-        "title_en": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-        "title_original": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-        "summary": "我们与 kvcache-ai 合作开源了 AgentENV。\n\nAgentENV 是一个用于大规模运行智能体环境的分布式系统。其组件为 Kimi K3 的智能体强化学习训练提供支持，具备快速快照、恢复和分支功能，适用于大规模并行智能体工作流。\n\n在 GitHub 上探索：http://github.com/kvcache-ai/AgentEnv",
+        "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
+        "title": "Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+        "title_zh": "Kimi K3 上线 Modal，支持无损加速推理",
+        "title_en": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+        "title_original": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+        "summary": "很高兴 @modal 成为 Kimi K3 的 Day 0 发布合作伙伴！\n\n他们为 K3 的架构训练了自定义 DFlash 投机器，实现更快推理且无质量损失。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+        "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
         "source": "X：Kimi.ai (@Kimi_Moonshot)",
         "source_name": "AI HOT"
       },
@@ -1076,7 +1268,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T18:48:28.878136Z"
+        "scored_at": "2026-07-27T20:44:17.635043Z"
       }
     },
     {
@@ -1124,21 +1316,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.902,
+        "recency": 0.8773,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T11:39:09.795334Z",
       "latest_at": "2026-07-27T11:39:09.795334Z",
@@ -1158,7 +1349,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T18:48:28.878136Z"
+        "scored_at": "2026-07-27T20:44:17.635043Z"
       }
     },
     {
@@ -1206,21 +1397,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.902,
+        "recency": 0.8773,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T11:39:09.795334Z",
       "latest_at": "2026-07-27T11:39:09.795334Z",
@@ -1240,7 +1430,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T18:48:28.878136Z"
+        "scored_at": "2026-07-27T20:44:17.635043Z"
+      }
+    },
+    {
+      "story_id": "story_45205b48cfd8",
+      "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+      "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
+          "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+          "title_zh": "Kimi K3 开源分布式智能体环境 AgentENV",
+          "title_en": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+          "title_original": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+          "summary": "我们与 kvcache-ai 合作开源了 AgentENV。\n\nAgentENV 是一个用于大规模运行智能体环境的分布式系统。其组件为 Kimi K3 的智能体强化学习训练提供支持，具备快速快照、恢复和分支功能，适用于大规模并行智能体工作流。\n\n在 GitHub 上探索：http://github.com/kvcache-ai/AgentEnv",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:25:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kimi.ai (@Kimi_Moonshot)"
+      ],
+      "items": [
+        {
+          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
+          "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+          "title_zh": "Kimi K3 开源分布式智能体环境 AgentENV",
+          "title_en": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+          "title_original": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+          "summary": "我们与 kvcache-ai 合作开源了 AgentENV。\n\nAgentENV 是一个用于大规模运行智能体环境的分布式系统。其组件为 Kimi K3 的智能体强化学习训练提供支持，具备快速快照、恢复和分支功能，适用于大规模并行智能体工作流。\n\n在 GitHub 上探索：http://github.com/kvcache-ai/AgentEnv",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:25:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7454,
+      "importance": 0.7454,
+      "importance_score": 0.7454,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9264,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-27T15:25:45Z",
+      "latest_at": "2026-07-27T15:25:45Z",
+      "primary_item": {
+        "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
+        "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+        "title_zh": "Kimi K3 开源分布式智能体环境 AgentENV",
+        "title_en": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+        "title_original": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+        "summary": "我们与 kvcache-ai 合作开源了 AgentENV。\n\nAgentENV 是一个用于大规模运行智能体环境的分布式系统。其组件为 Kimi K3 的智能体强化学习训练提供支持，具备快速快照、恢复和分支功能，适用于大规模并行智能体工作流。\n\n在 GitHub 上探索：http://github.com/kvcache-ai/AgentEnv",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T20:44:17.635043Z"
       }
     },
     {
@@ -1288,21 +1559,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.902,
+        "recency": 0.8773,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T11:39:09.795334Z",
       "latest_at": "2026-07-27T11:39:09.795334Z",
@@ -1322,7 +1592,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T18:48:28.878136Z"
+        "scored_at": "2026-07-27T20:44:17.635043Z"
       }
     },
     {
@@ -1398,15 +1668,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6239,
-      "importance": 0.6239,
-      "importance_score": 0.6239,
+      "score": 0.6194,
+      "importance": 0.6194,
+      "importance_score": 0.6194,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.9079,
+        "recency": 0.883,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1431,7 +1701,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T18:48:28.878136Z"
+        "scored_at": "2026-07-27T20:44:17.635043Z"
       }
     },
     {
@@ -1479,21 +1749,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.902,
+        "recency": 0.8773,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T11:39:09.795334Z",
       "latest_at": "2026-07-27T11:39:09.795334Z",
@@ -1513,395 +1782,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T18:48:28.878136Z"
-      }
-    },
-    {
-      "story_id": "story_2d4e47d50fc6",
-      "title": "Kimi-K3 on HuggingFace",
-      "url": "https://news.ycombinator.com/item?id=49065752",
-      "primary_url": "https://news.ycombinator.com/item?id=49065752",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "3fa6196fd6e9b153c1de557a839b96ff3fff0f94",
-          "title": "Kimi-K3 on HuggingFace",
-          "title_zh": null,
-          "title_en": "Kimi-K3 on HuggingFace",
-          "title_original": "Kimi-K3 on HuggingFace",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49065752",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T18:18:18.795000Z"
-        },
-        {
-          "id": "e1e07cd277305abdc98b63c45f673b20341b0169",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_en": null,
-          "title_original": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T08:09:26.811000Z"
-        },
-        {
-          "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
-          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "title_zh": "Kimi-K3 在 HuggingFace 7/27 上发布",
-          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49065752",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T07:51:48.897000Z"
-        },
-        {
-          "id": "b20dcb7861c5981e7b7d57cf87deb7524e6be6a3",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T06:18:10Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "huggingface.co"
-      ],
-      "items": [
-        {
-          "id": "3fa6196fd6e9b153c1de557a839b96ff3fff0f94",
-          "title": "Kimi-K3 on HuggingFace",
-          "title_zh": null,
-          "title_en": "Kimi-K3 on HuggingFace",
-          "title_original": "Kimi-K3 on HuggingFace",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49065752",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T18:18:18.795000Z"
-        },
-        {
-          "id": "e1e07cd277305abdc98b63c45f673b20341b0169",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_en": null,
-          "title_original": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T08:09:26.811000Z"
-        },
-        {
-          "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
-          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "title_zh": "Kimi-K3 在 HuggingFace 7/27 上发布",
-          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49065752",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T07:51:48.897000Z"
-        },
-        {
-          "id": "b20dcb7861c5981e7b7d57cf87deb7524e6be6a3",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T06:18:10Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5945,
-      "importance": 0.5945,
-      "importance_score": 0.5945,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.993,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T06:18:10Z",
-      "latest_at": "2026-07-27T18:18:18.795000Z",
-      "primary_item": {
-        "id": "3fa6196fd6e9b153c1de557a839b96ff3fff0f94",
-        "title": "Kimi-K3 on HuggingFace",
-        "title_zh": null,
-        "title_en": "Kimi-K3 on HuggingFace",
-        "title_original": "Kimi-K3 on HuggingFace",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49065752",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T18:48:28.878136Z"
-      }
-    },
-    {
-      "story_id": "story_7cc955d7d08a",
-      "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-      "url": "https://www.aibase.com/news/29913",
-      "primary_url": "https://www.aibase.com/news/29913",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2c0493a0ae22d415fd95abdbb8cd6f50ced715f0",
-          "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-          "title_zh": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-          "title_en": null,
-          "title_original": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29913",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T11:39:09.795334Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2c0493a0ae22d415fd95abdbb8cd6f50ced715f0",
-          "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-          "title_zh": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-          "title_en": null,
-          "title_original": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29913",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T11:39:09.795334Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.902,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T11:39:09.795334Z",
-      "latest_at": "2026-07-27T11:39:09.795334Z",
-      "primary_item": {
-        "id": "2c0493a0ae22d415fd95abdbb8cd6f50ced715f0",
-        "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-        "title_zh": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-        "title_en": null,
-        "title_original": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29913",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T18:48:28.878136Z"
-      }
-    },
-    {
-      "story_id": "story_eb7b6b649c03",
-      "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-      "url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
-      "primary_url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
-      "source": "Slashdot",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "0f13e1cb3fa862ea6d344da9cf79545670508078",
-          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-          "title_zh": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧”",
-          "title_en": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-          "title_original": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T17:00:00Z"
-        },
-        {
-          "id": "d31220761e5dd2d08ddd4540fbd25f3787b15845",
-          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
-          "title_zh": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
-          "title_en": null,
-          "title_original": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "www.macrumors.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T16:09:40.788000Z"
-        },
-        {
-          "id": "55ea01a3bc190b6e93b18b77a782f7b20175e9cf",
-          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "title_zh": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
-          "title_en": "Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "title_original": "Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "Mac Rumors",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T14:11:48Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Mac Rumors",
-        "Slashdot",
-        "www.macrumors.com"
-      ],
-      "items": [
-        {
-          "id": "0f13e1cb3fa862ea6d344da9cf79545670508078",
-          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-          "title_zh": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧”",
-          "title_en": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-          "title_original": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T17:00:00Z"
-        },
-        {
-          "id": "d31220761e5dd2d08ddd4540fbd25f3787b15845",
-          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
-          "title_zh": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
-          "title_en": null,
-          "title_original": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "www.macrumors.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T16:09:40.788000Z"
-        },
-        {
-          "id": "55ea01a3bc190b6e93b18b77a782f7b20175e9cf",
-          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "title_zh": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
-          "title_en": "Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "title_original": "Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "Mac Rumors",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T14:11:48Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5662,
-      "importance": 0.5662,
-      "importance_score": 0.5662,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9744,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T14:11:48Z",
-      "latest_at": "2026-07-27T17:00:00Z",
-      "primary_item": {
-        "id": "0f13e1cb3fa862ea6d344da9cf79545670508078",
-        "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-        "title_zh": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧”",
-        "title_en": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-        "title_original": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
-        "source": "Slashdot",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T18:48:28.878136Z"
+        "scored_at": "2026-07-27T20:44:17.635043Z"
       }
     }
   ]
