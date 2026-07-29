@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-07-28T23:18:10.207160Z",
+  "generated_at": "2026-07-29T03:39:49.742471Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_662891d3b0ba",
+      "title": "Codex CLI 0.146.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
+          "title": "Codex CLI 0.146.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.146.0",
+          "title_original": "Codex CLI 0.146.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
+          "title": "Codex CLI 0.146.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.146.0",
+          "title_original": "Codex CLI 0.146.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8567,
+      "importance": 0.8567,
+      "importance_score": 0.8567,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9485,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T00:00:00Z",
+      "latest_at": "2026-07-29T00:00:00Z",
+      "primary_item": {
+        "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
+        "title": "Codex CLI 0.146.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.146.0",
+        "title_original": "Codex CLI 0.146.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-29T03:40:41.587315Z"
+      }
+    },
     {
       "story_id": "story_71077999e62f",
       "title": "代理人工智能时代的科学计算 / Scientific computing in the age of agentic AI",
@@ -77,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8613,
-      "importance": 0.8613,
-      "importance_score": 0.8613,
+      "score": 0.8513,
+      "importance": 0.8513,
+      "importance_score": 0.8513,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.913,
+        "recency": 0.8573,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T23:19:02.695834Z"
+        "scored_at": "2026-07-29T03:40:41.587315Z"
       }
     },
     {
@@ -190,15 +273,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.859,
-      "importance": 0.859,
-      "importance_score": 0.859,
+      "score": 0.8491,
+      "importance": 0.8491,
+      "importance_score": 0.8491,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8999,
+        "recency": 0.845,
         "story_heat": 0.25
       },
       "category": "official",
@@ -226,30 +309,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T23:19:02.695834Z"
+        "scored_at": "2026-07-29T03:40:41.587315Z"
       }
     },
     {
-      "story_id": "story_bc76c2ce852e",
-      "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+      "story_id": "story_d26d09267b84",
+      "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+      "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+      "primary_url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "de1bf241fb515307bdd91a342754207be883cea2",
-          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-          "title_zh": "Grok 4.5 现已在 GitHub Copilot 中提供",
-          "title_en": "Grok 4.5 is now available in GitHub Copilot",
-          "title_original": "Grok 4.5 is now available in GitHub Copilot",
+          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
+          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+          "title_zh": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展",
+          "title_en": "GitHub Copilot app usage metrics now expand across report rollups",
+          "title_original": "GitHub Copilot app usage metrics now expand across report rollups",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T19:10:45Z"
+          "published_at": "2026-07-28T23:35:01Z"
         }
       ],
       "source_count": 1,
@@ -258,31 +341,31 @@
       ],
       "items": [
         {
-          "id": "de1bf241fb515307bdd91a342754207be883cea2",
-          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-          "title_zh": "Grok 4.5 现已在 GitHub Copilot 中提供",
-          "title_en": "Grok 4.5 is now available in GitHub Copilot",
-          "title_original": "Grok 4.5 is now available in GitHub Copilot",
+          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
+          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+          "title_zh": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展",
+          "title_en": "GitHub Copilot app usage metrics now expand across report rollups",
+          "title_original": "GitHub Copilot app usage metrics now expand across report rollups",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T19:10:45Z"
+          "published_at": "2026-07-28T23:35:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8496,
-      "importance": 0.8496,
-      "importance_score": 0.8496,
+      "score": 0.8417,
+      "importance": 0.8417,
+      "importance_score": 0.8417,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9422,
+        "ai_relevance": 0.91,
+        "recency": 0.9428,
         "story_heat": 0.0
       },
       "category": "official",
@@ -291,17 +374,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T19:10:45Z",
-      "latest_at": "2026-07-28T19:10:45Z",
+      "earliest_at": "2026-07-28T23:35:01Z",
+      "latest_at": "2026-07-28T23:35:01Z",
       "primary_item": {
-        "id": "de1bf241fb515307bdd91a342754207be883cea2",
-        "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-        "title_zh": "Grok 4.5 现已在 GitHub Copilot 中提供",
-        "title_en": "Grok 4.5 is now available in GitHub Copilot",
-        "title_original": "Grok 4.5 is now available in GitHub Copilot",
+        "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
+        "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+        "title_zh": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展",
+        "title_en": "GitHub Copilot app usage metrics now expand across report rollups",
+        "title_original": "GitHub Copilot app usage metrics now expand across report rollups",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+        "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -309,7 +392,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T23:19:02.695834Z"
+        "scored_at": "2026-07-29T03:40:41.587315Z"
       }
     },
     {
@@ -357,15 +440,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8457,
-      "importance": 0.8457,
-      "importance_score": 0.8457,
+      "score": 0.836,
+      "importance": 0.836,
+      "importance_score": 0.836,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8874,
+        "recency": 0.8332,
         "story_heat": 0.0
       },
       "category": "official",
@@ -392,7 +475,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T23:19:02.695834Z"
+        "scored_at": "2026-07-29T03:40:41.587315Z"
+      }
+    },
+    {
+      "story_id": "story_bc76c2ce852e",
+      "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "de1bf241fb515307bdd91a342754207be883cea2",
+          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+          "title_zh": "Grok 4.5 现已在 GitHub Copilot 中提供",
+          "title_en": "Grok 4.5 is now available in GitHub Copilot",
+          "title_original": "Grok 4.5 is now available in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T19:10:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "de1bf241fb515307bdd91a342754207be883cea2",
+          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+          "title_zh": "Grok 4.5 现已在 GitHub Copilot 中提供",
+          "title_en": "Grok 4.5 is now available in GitHub Copilot",
+          "title_original": "Grok 4.5 is now available in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T19:10:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8392,
+      "importance": 0.8392,
+      "importance_score": 0.8392,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8847,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T19:10:45Z",
+      "latest_at": "2026-07-28T19:10:45Z",
+      "primary_item": {
+        "id": "de1bf241fb515307bdd91a342754207be883cea2",
+        "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+        "title_zh": "Grok 4.5 现已在 GitHub Copilot 中提供",
+        "title_en": "Grok 4.5 is now available in GitHub Copilot",
+        "title_original": "Grok 4.5 is now available in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-29T03:40:41.587315Z"
       }
     },
     {
@@ -440,15 +606,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8431,
-      "importance": 0.8431,
-      "importance_score": 0.8431,
+      "score": 0.8331,
+      "importance": 0.8331,
+      "importance_score": 0.8331,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9059,
+        "recency": 0.8506,
         "story_heat": 0.0
       },
       "category": "official",
@@ -475,90 +641,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T23:19:02.695834Z"
-      }
-    },
-    {
-      "story_id": "story_dab11bf31a39",
-      "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
-      "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
-      "primary_url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "972287feac69fb34c1b538474103f64cc23f3e69",
-          "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
-          "title_zh": "Dependabot 针对更多生态系统中的恶意软件包发出警报",
-          "title_en": "Dependabot alerts on malicious packages across more ecosystems",
-          "title_original": "Dependabot alerts on malicious packages across more ecosystems",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T14:55:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "972287feac69fb34c1b538474103f64cc23f3e69",
-          "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
-          "title_zh": "Dependabot 针对更多生态系统中的恶意软件包发出警报",
-          "title_en": "Dependabot alerts on malicious packages across more ecosystems",
-          "title_original": "Dependabot alerts on malicious packages across more ecosystems",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T14:55:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8235,
-      "importance": 0.8235,
-      "importance_score": 0.8235,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8861,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T14:55:31Z",
-      "latest_at": "2026-07-28T14:55:31Z",
-      "primary_item": {
-        "id": "972287feac69fb34c1b538474103f64cc23f3e69",
-        "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
-        "title_zh": "Dependabot 针对更多生态系统中的恶意软件包发出警报",
-        "title_en": "Dependabot alerts on malicious packages across more ecosystems",
-        "title_original": "Dependabot alerts on malicious packages across more ecosystems",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-28T23:19:02.695834Z"
+        "scored_at": "2026-07-29T03:40:41.587315Z"
       }
     },
     {
@@ -606,15 +689,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7933,
-      "importance": 0.7933,
-      "importance_score": 0.7933,
+      "score": 0.7828,
+      "importance": 0.7828,
+      "importance_score": 0.7828,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9597,
+        "recency": 0.9011,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -640,7 +723,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T23:19:02.695834Z"
+        "scored_at": "2026-07-29T03:40:41.587315Z"
       }
     },
     {
@@ -688,15 +771,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8096,
+      "importance": 0.8096,
+      "importance_score": 0.8096,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8618,
+        "recency": 0.8092,
         "story_heat": 0.0
       },
       "category": "official",
@@ -723,7 +806,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T23:19:02.695834Z"
+        "scored_at": "2026-07-29T03:40:41.587315Z"
+      }
+    },
+    {
+      "story_id": "story_a140b8d566f7",
+      "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+      "url": "https://github.com/gavamedia/deltafin",
+      "primary_url": "https://github.com/gavamedia/deltafin",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9050f0ea5122c836de98467a9c779842d595f3c0",
+          "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+          "title_zh": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+          "title_en": null,
+          "title_original": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+          "summary": "Deltafin 项目成功在 64 GB M1 Max 上运行了 2.8T 参数的 MoE 模型 Kimi K3，当前中位推理速度为 0.0687 token/s（14.6 秒/token）。完整安装需约 1.7 TB 本地磁盘，流式模式仅需 215 GB 但推理速度降至 3 分钟以上/token。项目提供 OpenAI 兼容 API 服务器，支持聊天和代码补全，但建议客户端超时设为小时级别。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/gavamedia/deltafin",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T02:49:20.833000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "9050f0ea5122c836de98467a9c779842d595f3c0",
+          "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+          "title_zh": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+          "title_en": null,
+          "title_original": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+          "summary": "Deltafin 项目成功在 64 GB M1 Max 上运行了 2.8T 参数的 MoE 模型 Kimi K3，当前中位推理速度为 0.0687 token/s（14.6 秒/token）。完整安装需约 1.7 TB 本地磁盘，流式模式仅需 215 GB 但推理速度降至 3 分钟以上/token。项目提供 OpenAI 兼容 API 服务器，支持聊天和代码补全，但建议客户端超时设为小时级别。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/gavamedia/deltafin",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T02:49:20.833000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9879,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T02:49:20.833000Z",
+      "latest_at": "2026-07-29T02:49:20.833000Z",
+      "primary_item": {
+        "id": "9050f0ea5122c836de98467a9c779842d595f3c0",
+        "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+        "title_zh": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+        "title_en": null,
+        "title_original": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+        "summary": "Deltafin 项目成功在 64 GB M1 Max 上运行了 2.8T 参数的 MoE 模型 Kimi K3，当前中位推理速度为 0.0687 token/s（14.6 秒/token）。完整安装需约 1.7 TB 本地磁盘，流式模式仅需 215 GB 但推理速度降至 3 分钟以上/token。项目提供 OpenAI 兼容 API 服务器，支持聊天和代码补全，但建议客户端超时设为小时级别。",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/gavamedia/deltafin",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-29T03:40:41.587315Z"
       }
     },
     {
@@ -771,15 +936,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
+      "score": 0.7772,
+      "importance": 0.7772,
+      "importance_score": 0.7772,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9596,
+        "recency": 0.9011,
         "story_heat": 0.0
       },
       "category": "official",
@@ -805,7 +970,336 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T23:19:02.695834Z"
+        "scored_at": "2026-07-29T03:40:41.587315Z"
+      }
+    },
+    {
+      "story_id": "story_f2677af66a35",
+      "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+      "url": "https://www.ithome.com/0/982/816.htm",
+      "primary_url": "https://www.ithome.com/0/982/816.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5a8238ba1d1119bcc903825877fef30893dff034",
+          "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+          "title_zh": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+          "title_en": null,
+          "title_original": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+          "summary": "OpenAI、Anthropic、谷歌和Meta等公司的1100多名AI员工签署公开信，呼吁美国政府支持国际合作，以\"有意识地把控自动化AI开发的前沿进程\"。该倡议名为\"把控前沿\"，重点关注AI未来可能自行开发和改进AI系统的\"递归式自我改进\"能力。OpenAI CEO萨姆·奥尔特曼在播客采访中表示，可能需要\"把控\"AI发展速度，让社会有时间建立防护机制。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/982/816.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T00:20:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5a8238ba1d1119bcc903825877fef30893dff034",
+          "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+          "title_zh": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+          "title_en": null,
+          "title_original": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+          "summary": "OpenAI、Anthropic、谷歌和Meta等公司的1100多名AI员工签署公开信，呼吁美国政府支持国际合作，以\"有意识地把控自动化AI开发的前沿进程\"。该倡议名为\"把控前沿\"，重点关注AI未来可能自行开发和改进AI系统的\"递归式自我改进\"能力。OpenAI CEO萨姆·奥尔特曼在播客采访中表示，可能需要\"把控\"AI发展速度，让社会有时间建立防护机制。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/982/816.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T00:20:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9532,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T00:20:32Z",
+      "latest_at": "2026-07-29T00:20:32Z",
+      "primary_item": {
+        "id": "5a8238ba1d1119bcc903825877fef30893dff034",
+        "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+        "title_zh": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+        "title_en": null,
+        "title_original": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+        "summary": "OpenAI、Anthropic、谷歌和Meta等公司的1100多名AI员工签署公开信，呼吁美国政府支持国际合作，以\"有意识地把控自动化AI开发的前沿进程\"。该倡议名为\"把控前沿\"，重点关注AI未来可能自行开发和改进AI系统的\"递归式自我改进\"能力。OpenAI CEO萨姆·奥尔特曼在播客采访中表示，可能需要\"把控\"AI发展速度，让社会有时间建立防护机制。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/982/816.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-29T03:40:41.587315Z"
+      }
+    },
+    {
+      "story_id": "story_0225f52e421b",
+      "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
+      "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
+      "primary_url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
+          "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
+          "title_zh": "npm 发布时恶意软件扫描和双重用途元数据",
+          "title_en": "npm publish-time malware scanning and dual-use metadata",
+          "title_original": "npm publish-time malware scanning and dual-use metadata",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T22:50:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
+          "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
+          "title_zh": "npm 发布时恶意软件扫描和双重用途元数据",
+          "title_en": "npm publish-time malware scanning and dual-use metadata",
+          "title_original": "npm publish-time malware scanning and dual-use metadata",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T22:50:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8319,
+      "importance": 0.8319,
+      "importance_score": 0.8319,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9326,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T22:50:05Z",
+      "latest_at": "2026-07-28T22:50:05Z",
+      "primary_item": {
+        "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
+        "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
+        "title_zh": "npm 发布时恶意软件扫描和双重用途元数据",
+        "title_en": "npm publish-time malware scanning and dual-use metadata",
+        "title_original": "npm publish-time malware scanning and dual-use metadata",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-29T03:40:41.587315Z"
+      }
+    },
+    {
+      "story_id": "story_3a40efc29328",
+      "title": "OpenAI 发布 Codex 安全 CLI 与 SDK / More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+      "url": "https://x.com/thsottiaux/status/2082241164850364555",
+      "primary_url": "https://x.com/thsottiaux/status/2082241164850364555",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0fe170e0cfa718723b44d7eb59e5e436002bcf45",
+          "title": "OpenAI 发布 Codex 安全 CLI 与 SDK / More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+          "title_zh": "OpenAI 发布 Codex 安全 CLI 与 SDK",
+          "title_en": "More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+          "title_original": "More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+          "summary": "更多开源福利。我们刚刚发布了一个 CLI 和 TypeScript SDK，用于查找、验证和修复代码中的安全漏洞。扫描仓库、审查变更、随时间追踪发现，并在 CI 中运行安全检查。\n\nhttps://github.com/openai/codex-security",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2082241164850364555",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T23:05:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "0fe170e0cfa718723b44d7eb59e5e436002bcf45",
+          "title": "OpenAI 发布 Codex 安全 CLI 与 SDK / More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+          "title_zh": "OpenAI 发布 Codex 安全 CLI 与 SDK",
+          "title_en": "More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+          "title_original": "More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+          "summary": "更多开源福利。我们刚刚发布了一个 CLI 和 TypeScript SDK，用于查找、验证和修复代码中的安全漏洞。扫描仓库、审查变更、随时间追踪发现，并在 CI 中运行安全检查。\n\nhttps://github.com/openai/codex-security",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2082241164850364555",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T23:05:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9362,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T23:05:54Z",
+      "latest_at": "2026-07-28T23:05:54Z",
+      "primary_item": {
+        "id": "0fe170e0cfa718723b44d7eb59e5e436002bcf45",
+        "title": "OpenAI 发布 Codex 安全 CLI 与 SDK / More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+        "title_zh": "OpenAI 发布 Codex 安全 CLI 与 SDK",
+        "title_en": "More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+        "title_original": "More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+        "summary": "更多开源福利。我们刚刚发布了一个 CLI 和 TypeScript SDK，用于查找、验证和修复代码中的安全漏洞。扫描仓库、审查变更、随时间追踪发现，并在 CI 中运行安全检查。\n\nhttps://github.com/openai/codex-security",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/thsottiaux/status/2082241164850364555",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-29T03:40:41.587315Z"
+      }
+    },
+    {
+      "story_id": "story_53ee7af07f48",
+      "title": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+      "url": "https://www.aibase.com/news/29960",
+      "primary_url": "https://www.aibase.com/news/29960",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "559f899a8ac2ea137e29d2b5c629b4431a3c0755",
+          "title": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+          "title_zh": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+          "title_en": null,
+          "title_original": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29960",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T03:39:49.742471Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "559f899a8ac2ea137e29d2b5c629b4431a3c0755",
+          "title": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+          "title_zh": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+          "title_en": null,
+          "title_original": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29960",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T03:39:49.742471Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T03:39:49.742471Z",
+      "latest_at": "2026-07-29T03:39:49.742471Z",
+      "primary_item": {
+        "id": "559f899a8ac2ea137e29d2b5c629b4431a3c0755",
+        "title": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+        "title_zh": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+        "title_en": null,
+        "title_original": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29960",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-29T03:40:41.587315Z"
       }
     },
     {
@@ -853,15 +1347,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.958,
+        "recency": 0.8995,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -887,7 +1381,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T23:19:02.695834Z"
+        "scored_at": "2026-07-29T03:40:41.587315Z"
       }
     },
     {
@@ -935,15 +1429,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.776,
-      "importance": 0.776,
-      "importance_score": 0.776,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9802,
+        "recency": 0.9204,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -969,7 +1463,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T23:19:02.695834Z"
+        "scored_at": "2026-07-29T03:40:41.587315Z"
       }
     },
     {
@@ -1017,15 +1511,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9426,
+        "recency": 0.885,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1051,7 +1545,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T23:19:02.695834Z"
+        "scored_at": "2026-07-29T03:40:41.587315Z"
       }
     },
     {
@@ -1099,15 +1593,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8744,
+        "recency": 0.821,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1133,7 +1627,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T23:19:02.695834Z"
+        "scored_at": "2026-07-29T03:40:41.587315Z"
       }
     },
     {
@@ -1181,15 +1675,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.8989,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1215,531 +1709,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T23:19:02.695834Z"
-      }
-    },
-    {
-      "story_id": "story_91ce9044f408",
-      "title": "OpenAI 呼吁为前沿AI发展设定节奏 / At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-      "url": "https://x.com/OpenAI/status/2082208694142730340",
-      "primary_url": "https://x.com/OpenAI/status/2082208694142730340",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3aaec3a0b4eb7c57f192327215bfb745662faed1",
-          "title": "OpenAI 呼吁为前沿AI发展设定节奏 / At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-          "title_zh": "OpenAI 呼吁为前沿AI发展设定节奏",
-          "title_en": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-          "title_original": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-          "summary": "我们使命的核心，是研究如何确保日益强大的AI惠及所有人。\n\n我们相信，在未来的某个时刻，前沿模型开发的AI加速可能会如此之快，以至于世界需要为AI进步设定节奏。\n\n我们希望为美国政府主导的工作做出贡献，并与其他实验室及开源社区合作，开发能够实现这一目标的工具和机制。\n\nhttp://pacingthefrontier.com",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAI/status/2082208694142730340",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T20:56:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "3aaec3a0b4eb7c57f192327215bfb745662faed1",
-          "title": "OpenAI 呼吁为前沿AI发展设定节奏 / At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-          "title_zh": "OpenAI 呼吁为前沿AI发展设定节奏",
-          "title_en": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-          "title_original": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-          "summary": "我们使命的核心，是研究如何确保日益强大的AI惠及所有人。\n\n我们相信，在未来的某个时刻，前沿模型开发的AI加速可能会如此之快，以至于世界需要为AI进步设定节奏。\n\n我们希望为美国政府主导的工作做出贡献，并与其他实验室及开源社区合作，开发能够实现这一目标的工具和机制。\n\nhttp://pacingthefrontier.com",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAI/status/2082208694142730340",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T20:56:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7646,
-      "importance": 0.7646,
-      "importance_score": 0.7646,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9666,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T20:56:52Z",
-      "latest_at": "2026-07-28T20:56:52Z",
-      "primary_item": {
-        "id": "3aaec3a0b4eb7c57f192327215bfb745662faed1",
-        "title": "OpenAI 呼吁为前沿AI发展设定节奏 / At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-        "title_zh": "OpenAI 呼吁为前沿AI发展设定节奏",
-        "title_en": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-        "title_original": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-        "summary": "我们使命的核心，是研究如何确保日益强大的AI惠及所有人。\n\n我们相信，在未来的某个时刻，前沿模型开发的AI加速可能会如此之快，以至于世界需要为AI进步设定节奏。\n\n我们希望为美国政府主导的工作做出贡献，并与其他实验室及开源社区合作，开发能够实现这一目标的工具和机制。\n\nhttp://pacingthefrontier.com",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAI/status/2082208694142730340",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-28T23:19:02.695834Z"
-      }
-    },
-    {
-      "story_id": "story_f76284dbfab9",
-      "title": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-      "url": "https://www.aibase.com/news/29952",
-      "primary_url": "https://www.aibase.com/news/29952",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3439b8a22f15e9a5ef4507a5bee52ca2b59efac3",
-          "title": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-          "title_zh": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-          "title_en": null,
-          "title_original": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29952",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T09:47:47.183810Z"
-        },
-        {
-          "id": "edff36dfd13787d530ca88a7f63dbb8952b3147c",
-          "title": "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
-          "title_zh": "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
-          "title_en": null,
-          "title_original": "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
-          "summary": "火山引擎正式上线豆包搜索服务，为AI Agent提供跨语言、多模态、多垂类联网信息查询，融合全域互联网信息、行业知识与字节跳动独家内容资源。该服务从网站站点和创作者维度建立权威分级体系，过滤低质信息，在SimpleQA、FreshQA、BrowseComp-ZH等评测中表现优异。豆包搜索支持API、Skill、MCP等多种接入形态，面向企业和开发者提供每月500次免费搜索额度。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/1nZqQHYqclsIF6__WLscgA",
-          "source": "公众号：火山引擎",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T07:51:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "公众号：火山引擎"
-      ],
-      "items": [
-        {
-          "id": "3439b8a22f15e9a5ef4507a5bee52ca2b59efac3",
-          "title": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-          "title_zh": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-          "title_en": null,
-          "title_original": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29952",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T09:47:47.183810Z"
-        },
-        {
-          "id": "edff36dfd13787d530ca88a7f63dbb8952b3147c",
-          "title": "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
-          "title_zh": "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
-          "title_en": null,
-          "title_original": "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
-          "summary": "火山引擎正式上线豆包搜索服务，为AI Agent提供跨语言、多模态、多垂类联网信息查询，融合全域互联网信息、行业知识与字节跳动独家内容资源。该服务从网站站点和创作者维度建立权威分级体系，过滤低质信息，在SimpleQA、FreshQA、BrowseComp-ZH等评测中表现优异。豆包搜索支持API、Skill、MCP等多种接入形态，面向企业和开发者提供每月500次免费搜索额度。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/1nZqQHYqclsIF6__WLscgA",
-          "source": "公众号：火山引擎",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T07:51:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8228,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T07:51:54Z",
-      "latest_at": "2026-07-28T09:47:47.183810Z",
-      "primary_item": {
-        "id": "3439b8a22f15e9a5ef4507a5bee52ca2b59efac3",
-        "title": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-        "title_zh": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-        "title_en": null,
-        "title_original": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29952",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-28T23:19:02.695834Z"
-      }
-    },
-    {
-      "story_id": "story_06bd8c7601c9",
-      "title": "Kimi Linear：一种表现力强且高效的注意力架构",
-      "url": "https://arxiv.org/abs/2510.26692",
-      "primary_url": "https://arxiv.org/abs/2510.26692",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "38111d2f4a886a6aa3d805b0feecfab85dc5f869",
-          "title": "Kimi Linear：一种表现力强且高效的注意力架构",
-          "title_zh": "Kimi Linear：一种表现力强且高效的注意力架构",
-          "title_en": null,
-          "title_original": "Kimi Linear：一种表现力强且高效的注意力架构",
-          "summary": "月之暗面推出 Kimi Linear，一种混合线性注意力架构，首次在短上下文、长上下文和强化学习场景下全面超越全注意力机制。其 3B 激活参数模型在所有评估任务上显著优于全 MLA，同时将 KV cache 使用量降低最多 75%，并在 1M 上下文下实现最高 6 倍解码吞吐量。月之暗面已开源 KDA 内核、vLLM 实现及模型权重。",
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2510.26692",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T15:21:28.545000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "38111d2f4a886a6aa3d805b0feecfab85dc5f869",
-          "title": "Kimi Linear：一种表现力强且高效的注意力架构",
-          "title_zh": "Kimi Linear：一种表现力强且高效的注意力架构",
-          "title_en": null,
-          "title_original": "Kimi Linear：一种表现力强且高效的注意力架构",
-          "summary": "月之暗面推出 Kimi Linear，一种混合线性注意力架构，首次在短上下文、长上下文和强化学习场景下全面超越全注意力机制。其 3B 激活参数模型在所有评估任务上显著优于全 MLA，同时将 KV cache 使用量降低最多 75%，并在 1M 上下文下实现最高 6 倍解码吞吐量。月之暗面已开源 KDA 内核、vLLM 实现及模型权重。",
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2510.26692",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T15:21:28.545000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8916,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T15:21:28.545000Z",
-      "latest_at": "2026-07-28T15:21:28.545000Z",
-      "primary_item": {
-        "id": "38111d2f4a886a6aa3d805b0feecfab85dc5f869",
-        "title": "Kimi Linear：一种表现力强且高效的注意力架构",
-        "title_zh": "Kimi Linear：一种表现力强且高效的注意力架构",
-        "title_en": null,
-        "title_original": "Kimi Linear：一种表现力强且高效的注意力架构",
-        "summary": "月之暗面推出 Kimi Linear，一种混合线性注意力架构，首次在短上下文、长上下文和强化学习场景下全面超越全注意力机制。其 3B 激活参数模型在所有评估任务上显著优于全 MLA，同时将 KV cache 使用量降低最多 75%，并在 1M 上下文下实现最高 6 倍解码吞吐量。月之暗面已开源 KDA 内核、vLLM 实现及模型权重。",
-        "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2510.26692",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-28T23:19:02.695834Z"
-      }
-    },
-    {
-      "story_id": "story_75d8461ce8af",
-      "title": "使用 Google 搜索举办终极晚宴的 5 种方法 / 5 ways to host the ultimate dinner party with Google Search",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5820a57711751b38d3010a78d278919ede882183",
-          "title": "使用 Google 搜索举办终极晚宴的 5 种方法 / 5 ways to host the ultimate dinner party with Google Search",
-          "title_zh": "使用 Google 搜索举办终极晚宴的 5 种方法",
-          "title_en": "5 ways to host the ultimate dinner party with Google Search",
-          "title_original": "5 ways to host the ultimate dinner party with Google Search",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "5820a57711751b38d3010a78d278919ede882183",
-          "title": "使用 Google 搜索举办终极晚宴的 5 种方法 / 5 ways to host the ultimate dinner party with Google Search",
-          "title_zh": "使用 Google 搜索举办终极晚宴的 5 种方法",
-          "title_en": "5 ways to host the ultimate dinner party with Google Search",
-          "title_original": "5 ways to host the ultimate dinner party with Google Search",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8618,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T13:00:00Z",
-      "latest_at": "2026-07-28T13:00:00Z",
-      "primary_item": {
-        "id": "5820a57711751b38d3010a78d278919ede882183",
-        "title": "使用 Google 搜索举办终极晚宴的 5 种方法 / 5 ways to host the ultimate dinner party with Google Search",
-        "title_zh": "使用 Google 搜索举办终极晚宴的 5 种方法",
-        "title_en": "5 ways to host the ultimate dinner party with Google Search",
-        "title_original": "5 ways to host the ultimate dinner party with Google Search",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-28T23:19:02.695834Z"
-      }
-    },
-    {
-      "story_id": "story_a4de0566661a",
-      "title": "Anthropic 支持 AI 发展节奏请愿 / We support this petition， signed by our CEO， several co-founders， and senior staff. Our own resear…",
-      "url": "https://x.com/AnthropicAI/status/2082228994653696371",
-      "primary_url": "https://x.com/AnthropicAI/status/2082228994653696371",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f2d94f91216cd03f4376b42302d96efd080456cb",
-          "title": "Anthropic 支持 AI 发展节奏请愿 / We support this petition， signed by our CEO， several co-founders， and senior staff. Our own resear…",
-          "title_zh": "Anthropic 支持 AI 发展节奏请愿",
-          "title_en": "We support this petition， signed by our CEO， several co-founders， and senior staff. Our own resear…",
-          "title_original": "We support this petition， signed by our CEO， several co-founders， and senior staff. Our own resear…",
-          "summary": "我们支持这份请愿，我们的 CEO、多位联合创始人及高级员工均已签署。\n\n我们上月发表的关于递归自我改进的研究指出，需要借助工具审慎把控 AI 前沿的发展节奏，以便社会做好准备。我们很高兴看到该领域已达成广泛共识。https://www.pacingthefrontier.com/",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AnthropicAI/status/2082228994653696371",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T22:17:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Anthropic (@AnthropicAI)"
-      ],
-      "items": [
-        {
-          "id": "f2d94f91216cd03f4376b42302d96efd080456cb",
-          "title": "Anthropic 支持 AI 发展节奏请愿 / We support this petition， signed by our CEO， several co-founders， and senior staff. Our own resear…",
-          "title_zh": "Anthropic 支持 AI 发展节奏请愿",
-          "title_en": "We support this petition， signed by our CEO， several co-founders， and senior staff. Our own resear…",
-          "title_original": "We support this petition， signed by our CEO， several co-founders， and senior staff. Our own resear…",
-          "summary": "我们支持这份请愿，我们的 CEO、多位联合创始人及高级员工均已签署。\n\n我们上月发表的关于递归自我改进的研究指出，需要借助工具审慎把控 AI 前沿的发展节奏，以便社会做好准备。我们很高兴看到该领域已达成广泛共识。https://www.pacingthefrontier.com/",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AnthropicAI/status/2082228994653696371",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T22:17:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9855,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T22:17:32Z",
-      "latest_at": "2026-07-28T22:17:32Z",
-      "primary_item": {
-        "id": "f2d94f91216cd03f4376b42302d96efd080456cb",
-        "title": "Anthropic 支持 AI 发展节奏请愿 / We support this petition， signed by our CEO， several co-founders， and senior staff. Our own resear…",
-        "title_zh": "Anthropic 支持 AI 发展节奏请愿",
-        "title_en": "We support this petition， signed by our CEO， several co-founders， and senior staff. Our own resear…",
-        "title_original": "We support this petition， signed by our CEO， several co-founders， and senior staff. Our own resear…",
-        "summary": "我们支持这份请愿，我们的 CEO、多位联合创始人及高级员工均已签署。\n\n我们上月发表的关于递归自我改进的研究指出，需要借助工具审慎把控 AI 前沿的发展节奏，以便社会做好准备。我们很高兴看到该领域已达成广泛共识。https://www.pacingthefrontier.com/",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/AnthropicAI/status/2082228994653696371",
-        "source": "X：Anthropic (@AnthropicAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-28T23:19:02.695834Z"
-      }
-    },
-    {
-      "story_id": "story_d930809ff7d5",
-      "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-      "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval",
-      "primary_url": "https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a378b9cf8a8b5b0b243e470c96b48fa080934df2",
-          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-          "title_zh": "GitHub Actions 保留潜在的恶意工作流程以供批准",
-          "title_en": "GitHub Actions holds potentially malicious workflows for approval",
-          "title_original": "GitHub Actions holds potentially malicious workflows for approval",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T11:57:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "a378b9cf8a8b5b0b243e470c96b48fa080934df2",
-          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-          "title_zh": "GitHub Actions 保留潜在的恶意工作流程以供批准",
-          "title_en": "GitHub Actions holds potentially malicious workflows for approval",
-          "title_original": "GitHub Actions holds potentially malicious workflows for approval",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T11:57:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8168,
-      "importance": 0.8168,
-      "importance_score": 0.8168,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8489,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T11:57:19Z",
-      "latest_at": "2026-07-28T11:57:19Z",
-      "primary_item": {
-        "id": "a378b9cf8a8b5b0b243e470c96b48fa080934df2",
-        "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-        "title_zh": "GitHub Actions 保留潜在的恶意工作流程以供批准",
-        "title_en": "GitHub Actions holds potentially malicious workflows for approval",
-        "title_original": "GitHub Actions holds potentially malicious workflows for approval",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-28T23:19:02.695834Z"
+        "scored_at": "2026-07-29T03:40:41.587315Z"
       }
     }
   ]
