@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T06:41:23.136018Z",
+  "generated_at": "2026-07-30T09:42:22.009629Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8455,
-      "importance": 0.8455,
-      "importance_score": 0.8455,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8749,
+        "recency": 0.8377,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:42:05.946936Z"
+        "scored_at": "2026-07-30T09:43:36.770087Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8347,
-      "importance": 0.8347,
-      "importance_score": 0.8347,
+      "score": 0.8285,
+      "importance": 0.8285,
+      "importance_score": 0.8285,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8093,
+        "recency": 0.7748,
         "story_heat": 0.25
       },
       "category": "official",
@@ -196,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:42:05.946936Z"
+        "scored_at": "2026-07-30T09:43:36.770087Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8215,
-      "importance": 0.8215,
-      "importance_score": 0.8215,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7973,
+        "recency": 0.7633,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,90 +279,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:42:05.946936Z"
+        "scored_at": "2026-07-30T09:43:36.770087Z"
       }
     },
     {
-      "story_id": "story_8e9a39b56823",
-      "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
-      "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
-      "primary_url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_9845586b3e05",
+      "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+      "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+      "primary_url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
-          "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
-          "title_zh": "Copilot Business 和 Enterprise 的默认模型启用",
-          "title_en": "Default model enablement for Copilot Business and Enterprise",
-          "title_original": "Default model enablement for Copilot Business and Enterprise",
+          "id": "faa3723bd4e32fd587c1d3a5b3732658213b4a85",
+          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "title_zh": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+          "title_en": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "title_original": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "summary": "Marktechpost AI 团队发布 Token Saver，一款面向 Claude Desktop 的开源 MCP 扩展，通过本地混合 RAG 在设备端检索 PDF，无需上传文件。该工具将 token 消耗削减 92%-99%，并保证数据隐私，设置无需 Python 环境或终端配置。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T07:43:29Z"
+        },
+        {
+          "id": "ae4dcc41e0f294185dab4f2e03d87b670b7472f0",
+          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "title_zh": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+          "title_en": "Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "title_original": "Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T14:01:07Z"
+          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-30T07:43:29Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
       ],
       "items": [
         {
-          "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
-          "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
-          "title_zh": "Copilot Business 和 Enterprise 的默认模型启用",
-          "title_en": "Default model enablement for Copilot Business and Enterprise",
-          "title_original": "Default model enablement for Copilot Business and Enterprise",
+          "id": "faa3723bd4e32fd587c1d3a5b3732658213b4a85",
+          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "title_zh": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+          "title_en": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "title_original": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "summary": "Marktechpost AI 团队发布 Token Saver，一款面向 Claude Desktop 的开源 MCP 扩展，通过本地混合 RAG 在设备端检索 PDF，无需上传文件。该工具将 token 消耗削减 92%-99%，并保证数据隐私，设置无需 Python 环境或终端配置。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T07:43:29Z"
+        },
+        {
+          "id": "ae4dcc41e0f294185dab4f2e03d87b670b7472f0",
+          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "title_zh": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+          "title_en": "Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "title_original": "Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T14:01:07Z"
+          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-30T07:43:29Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7935,
+      "importance": 0.7935,
+      "importance_score": 0.7935,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.786,
-        "story_heat": 0.0
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9718,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T14:01:07Z",
-      "latest_at": "2026-07-29T14:01:07Z",
+      "earliest_at": "2026-07-30T07:43:29Z",
+      "latest_at": "2026-07-30T07:43:29Z",
       "primary_item": {
-        "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
-        "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
-        "title_zh": "Copilot Business 和 Enterprise 的默认模型启用",
-        "title_en": "Default model enablement for Copilot Business and Enterprise",
-        "title_original": "Default model enablement for Copilot Business and Enterprise",
-        "summary": null,
+        "id": "faa3723bd4e32fd587c1d3a5b3732658213b4a85",
+        "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+        "title_zh": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+        "title_en": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+        "title_original": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+        "summary": "Marktechpost AI 团队发布 Token Saver，一款面向 Claude Desktop 的开源 MCP 扩展，通过本地混合 RAG 在设备端检索 PDF，无需上传文件。该工具将 token 消耗削减 92%-99%，并保证数据隐私，设置无需 Python 环境或终端配置。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:42:05.946936Z"
+        "scored_at": "2026-07-30T09:43:36.770087Z"
       }
     },
     {
@@ -410,15 +439,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7417,
+        "recency": 0.7101,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,7 +474,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:42:05.946936Z"
+        "scored_at": "2026-07-30T09:43:36.770087Z"
+      }
+    },
+    {
+      "story_id": "story_8e9a39b56823",
+      "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
+      "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+      "primary_url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
+          "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
+          "title_zh": "Copilot Business 和 Enterprise 的默认模型启用",
+          "title_en": "Default model enablement for Copilot Business and Enterprise",
+          "title_original": "Default model enablement for Copilot Business and Enterprise",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T14:01:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
+          "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
+          "title_zh": "Copilot Business 和 Enterprise 的默认模型启用",
+          "title_en": "Default model enablement for Copilot Business and Enterprise",
+          "title_original": "Default model enablement for Copilot Business and Enterprise",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T14:01:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8075,
+      "importance": 0.8075,
+      "importance_score": 0.8075,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7525,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T14:01:07Z",
+      "latest_at": "2026-07-29T14:01:07Z",
+      "primary_item": {
+        "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
+        "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
+        "title_zh": "Copilot Business 和 Enterprise 的默认模型启用",
+        "title_en": "Default model enablement for Copilot Business and Enterprise",
+        "title_original": "Default model enablement for Copilot Business and Enterprise",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T09:43:36.770087Z"
+      }
+    },
+    {
+      "story_id": "story_dcc00e44fb95",
+      "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+      "url": "https://www.aibase.com/news/30011",
+      "primary_url": "https://www.aibase.com/news/30011",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
+          "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "title_zh": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "title_en": null,
+          "title_original": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30011",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:42:22.009629Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
+          "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "title_zh": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "title_en": null,
+          "title_original": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30011",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:42:22.009629Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T09:42:22.009629Z",
+      "latest_at": "2026-07-30T09:42:22.009629Z",
+      "primary_item": {
+        "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
+        "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+        "title_zh": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+        "title_en": null,
+        "title_original": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30011",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T09:43:36.770087Z"
       }
     },
     {
@@ -522,15 +716,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7731,
-      "importance": 0.7731,
-      "importance_score": 0.7731,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8417,
+        "recency": 0.8058,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -557,7 +751,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:42:05.946936Z"
+        "scored_at": "2026-07-30T09:43:36.770087Z"
       }
     },
     {
@@ -605,15 +799,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7688,
-      "importance": 0.7688,
-      "importance_score": 0.7688,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.821,
+        "recency": 0.786,
         "story_heat": 0.0
       },
       "category": "official",
@@ -639,89 +833,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:42:05.946936Z"
-      }
-    },
-    {
-      "story_id": "story_7fe65bb721b0",
-      "title": "Feyn 团队推全新背景移除开源模型FeyNoBg",
-      "url": "https://www.aibase.com/news/30004",
-      "primary_url": "https://www.aibase.com/news/30004",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8ef6dbcec17abe2125cb8bae1844c82b3badcb1e",
-          "title": "Feyn 团队推全新背景移除开源模型FeyNoBg",
-          "title_zh": "Feyn 团队推全新背景移除开源模型FeyNoBg",
-          "title_en": null,
-          "title_original": "Feyn 团队推全新背景移除开源模型FeyNoBg",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30004",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T06:41:23.136018Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8ef6dbcec17abe2125cb8bae1844c82b3badcb1e",
-          "title": "Feyn 团队推全新背景移除开源模型FeyNoBg",
-          "title_zh": "Feyn 团队推全新背景移除开源模型FeyNoBg",
-          "title_en": null,
-          "title_original": "Feyn 团队推全新背景移除开源模型FeyNoBg",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30004",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T06:41:23.136018Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T06:41:23.136018Z",
-      "latest_at": "2026-07-30T06:41:23.136018Z",
-      "primary_item": {
-        "id": "8ef6dbcec17abe2125cb8bae1844c82b3badcb1e",
-        "title": "Feyn 团队推全新背景移除开源模型FeyNoBg",
-        "title_zh": "Feyn 团队推全新背景移除开源模型FeyNoBg",
-        "title_en": null,
-        "title_original": "Feyn 团队推全新背景移除开源模型FeyNoBg",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30004",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:42:05.946936Z"
+        "scored_at": "2026-07-30T09:43:36.770087Z"
       }
     },
     {
@@ -769,15 +881,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.942,
+        "recency": 0.9019,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -803,7 +915,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:42:05.946936Z"
+        "scored_at": "2026-07-30T09:43:36.770087Z"
       }
     },
     {
@@ -880,15 +992,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7624,
+        "recency": 0.73,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -915,7 +1027,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:42:05.946936Z"
+        "scored_at": "2026-07-30T09:43:36.770087Z"
       }
     },
     {
@@ -963,21 +1075,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9013,
+        "recency": 0.8629,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T23:29:34Z",
       "latest_at": "2026-07-29T23:29:34Z",
@@ -997,7 +1108,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:42:05.946936Z"
+        "scored_at": "2026-07-30T09:43:36.770087Z"
       }
     },
     {
@@ -1045,21 +1156,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8664,
+        "recency": 0.8295,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T20:45:42Z",
       "latest_at": "2026-07-29T20:45:42Z",
@@ -1079,7 +1189,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:42:05.946936Z"
+        "scored_at": "2026-07-30T09:43:36.770087Z"
+      }
+    },
+    {
+      "story_id": "story_9a2fc20fc216",
+      "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+      "url": "https://www.aibase.com/news/30007",
+      "primary_url": "https://www.aibase.com/news/30007",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4a8c5e489f4be5d6ff45b58a9571b833b4b8a695",
+          "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+          "title_zh": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+          "title_en": null,
+          "title_original": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30007",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:42:22.009629Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4a8c5e489f4be5d6ff45b58a9571b833b4b8a695",
+          "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+          "title_zh": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+          "title_en": null,
+          "title_original": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30007",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:42:22.009629Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T09:42:22.009629Z",
+      "latest_at": "2026-07-30T09:42:22.009629Z",
+      "primary_item": {
+        "id": "4a8c5e489f4be5d6ff45b58a9571b833b4b8a695",
+        "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+        "title_zh": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+        "title_en": null,
+        "title_original": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30007",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T09:43:36.770087Z"
       }
     },
     {
@@ -1127,15 +1319,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8107,
+        "recency": 0.7761,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1160,89 +1352,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:42:05.946936Z"
-      }
-    },
-    {
-      "story_id": "story_7de835bee3ff",
-      "title": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-      "url": "https://www.aibase.com/news/30005",
-      "primary_url": "https://www.aibase.com/news/30005",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2dea95e761abab940c3ccb47f8e43579324c92b2",
-          "title": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-          "title_zh": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-          "title_en": null,
-          "title_original": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30005",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T06:41:23.136018Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2dea95e761abab940c3ccb47f8e43579324c92b2",
-          "title": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-          "title_zh": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-          "title_en": null,
-          "title_original": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30005",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T06:41:23.136018Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T06:41:23.136018Z",
-      "latest_at": "2026-07-30T06:41:23.136018Z",
-      "primary_item": {
-        "id": "2dea95e761abab940c3ccb47f8e43579324c92b2",
-        "title": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-        "title_zh": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-        "title_en": null,
-        "title_original": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30005",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:42:05.946936Z"
+        "scored_at": "2026-07-30T09:43:36.770087Z"
       }
     },
     {
@@ -1290,15 +1400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.797,
-      "importance": 0.797,
-      "importance_score": 0.797,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7391,
+        "recency": 0.7076,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1325,7 +1435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:42:05.946936Z"
+        "scored_at": "2026-07-30T09:43:36.770087Z"
       }
     },
     {
@@ -1402,15 +1512,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.804,
+        "recency": 0.7698,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1437,7 +1547,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:42:05.946936Z"
+        "scored_at": "2026-07-30T09:43:36.770087Z"
       }
     },
     {
@@ -1485,15 +1595,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
+      "score": 0.7217,
+      "importance": 0.7217,
+      "importance_score": 0.7217,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8307,
+        "recency": 0.7953,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1518,88 +1628,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:42:05.946936Z"
-      }
-    },
-    {
-      "story_id": "story_bfae1ca34e04",
-      "title": "算力价格未来可能上涨 10 倍以上 / Why compute might get 10x+ more expensive in coming years",
-      "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-      "primary_url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8af68ecb41be2657c155406128a9ebc2a83af488",
-          "title": "算力价格未来可能上涨 10 倍以上 / Why compute might get 10x+ more expensive in coming years",
-          "title_zh": "算力价格未来可能上涨 10 倍以上",
-          "title_en": "Why compute might get 10x+ more expensive in coming years",
-          "title_original": "Why compute might get 10x+ more expensive in coming years",
-          "summary": "AI 算力现货价格自 2 月低点已上涨 40% 以上，Google 和 Anthropic 从 SpaceX 租用 11 万块 GPU 的月租金达 9 亿美元，约为现货价格的 2 倍。若 AI 达到人类水平软件工程师能力，单块 H100 等效算力年租金可达 25 万美元，是当前现货价格的 15 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T15:01:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8af68ecb41be2657c155406128a9ebc2a83af488",
-          "title": "算力价格未来可能上涨 10 倍以上 / Why compute might get 10x+ more expensive in coming years",
-          "title_zh": "算力价格未来可能上涨 10 倍以上",
-          "title_en": "Why compute might get 10x+ more expensive in coming years",
-          "title_original": "Why compute might get 10x+ more expensive in coming years",
-          "summary": "AI 算力现货价格自 2 月低点已上涨 40% 以上，Google 和 Anthropic 从 SpaceX 租用 11 万块 GPU 的月租金达 9 亿美元，约为现货价格的 2 倍。若 AI 达到人类水平软件工程师能力，单块 H100 等效算力年租金可达 25 万美元，是当前现货价格的 15 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T15:01:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7252,
-      "importance": 0.7252,
-      "importance_score": 0.7252,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7976,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T15:01:35Z",
-      "latest_at": "2026-07-29T15:01:35Z",
-      "primary_item": {
-        "id": "8af68ecb41be2657c155406128a9ebc2a83af488",
-        "title": "算力价格未来可能上涨 10 倍以上 / Why compute might get 10x+ more expensive in coming years",
-        "title_zh": "算力价格未来可能上涨 10 倍以上",
-        "title_en": "Why compute might get 10x+ more expensive in coming years",
-        "title_original": "Why compute might get 10x+ more expensive in coming years",
-        "summary": "AI 算力现货价格自 2 月低点已上涨 40% 以上，Google 和 Anthropic 从 SpaceX 租用 11 万块 GPU 的月租金达 9 亿美元，约为现货价格的 2 倍。若 AI 达到人类水平软件工程师能力，单块 H100 等效算力年租金可达 25 万美元，是当前现货价格的 15 倍。",
-        "recommend_reason_zh": null,
-        "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:42:05.946936Z"
+        "scored_at": "2026-07-30T09:43:36.770087Z"
       }
     },
     {
@@ -1647,21 +1676,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9458,
+        "recency": 0.9055,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-30T02:49:47Z",
       "latest_at": "2026-07-30T02:49:47Z",
@@ -1681,30 +1709,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:42:05.946936Z"
+        "scored_at": "2026-07-30T09:43:36.770087Z"
       }
     },
     {
-      "story_id": "story_0dde159d7701",
-      "title": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
-      "url": "https://www.aibase.com/news/30003",
-      "primary_url": "https://www.aibase.com/news/30003",
+      "story_id": "story_ba2568b4b3aa",
+      "title": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
+      "url": "https://www.aibase.com/news/30014",
+      "primary_url": "https://www.aibase.com/news/30014",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7e6fc0158445512b7bb886613d431fd3f426846b",
-          "title": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
-          "title_zh": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+          "id": "bc6edf1c1cfdcac2dca84c3ec80b5f2c352806d1",
+          "title": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
+          "title_zh": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
           "title_en": null,
-          "title_original": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+          "title_original": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30003",
+          "url": "https://www.aibase.com/news/30014",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T06:41:23.136018Z"
+          "published_at": "2026-07-30T09:42:22.009629Z"
         }
       ],
       "source_count": 1,
@@ -1713,18 +1741,18 @@
       ],
       "items": [
         {
-          "id": "7e6fc0158445512b7bb886613d431fd3f426846b",
-          "title": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
-          "title_zh": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+          "id": "bc6edf1c1cfdcac2dca84c3ec80b5f2c352806d1",
+          "title": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
+          "title_zh": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
           "title_en": null,
-          "title_original": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+          "title_original": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30003",
+          "url": "https://www.aibase.com/news/30014",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T06:41:23.136018Z"
+          "published_at": "2026-07-30T09:42:22.009629Z"
         }
       ],
       "item_count": 1,
@@ -1745,17 +1773,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T06:41:23.136018Z",
-      "latest_at": "2026-07-30T06:41:23.136018Z",
+      "earliest_at": "2026-07-30T09:42:22.009629Z",
+      "latest_at": "2026-07-30T09:42:22.009629Z",
       "primary_item": {
-        "id": "7e6fc0158445512b7bb886613d431fd3f426846b",
-        "title": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
-        "title_zh": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+        "id": "bc6edf1c1cfdcac2dca84c3ec80b5f2c352806d1",
+        "title": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
+        "title_zh": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
         "title_en": null,
-        "title_original": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+        "title_original": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30003",
+        "url": "https://www.aibase.com/news/30014",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1763,7 +1791,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:42:05.946936Z"
+        "scored_at": "2026-07-30T09:43:36.770087Z"
       }
     }
   ]
