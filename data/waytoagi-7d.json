@@ -1,16 +1,28 @@
 {
-  "generated_at": "2026-07-30T16:49:52.458911Z",
+  "generated_at": "2026-07-30T18:45:42.484289Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-30",
-  "count_today": 3,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-07-30",
+      "title": "让 Agent 批量采集网页数据，Scrapling 到底好不好用？",
+      "summary": "很多人让 Agent 抓取网页时，习惯直接开浏览器。如果要连续抓几十个页面，甚至做长期采集，始终开着浏览器就有点重了。作者实测Scrapling + MCP：能用HTTP请求就直接抓，需要渲染时再启动浏览器，最后只把目标字段回传给Agent，减少上下文占用。文中还用天气、豆瓣Top250、豆瓣图书、B 站榜单、知乎热榜等案例，验证了分页、并发、落盘、限速和兜底能力。",
+      "url": "https://waytoagi.feishu.cn/wiki/LW6pwiRHSiU9IckyqH2clM1FnBb?from=from_copylink"
+    },
+    {
+      "date": "2026-07-30",
+      "title": "李飞飞：解决机器人领域最难的问题丨a16z",
+      "summary": "大模型靠互联网文本快速扩大规模，机器人面对的世界完全不同。每次训练都要让机器真的移动，每次评估都要让原子穿过空间，速度慢、成本高，动作失控还会撞坏设备或伤到人。这些成本让机器人很难复制大模型的增长曲线。一起来看看在World Labs联合创始人兼CEO李飞飞看来，当下解决机器人领域最难的问题是什么？",
+      "url": "https://waytoagi.feishu.cn/wiki/DCN8wCs4tiacYvkcywncfXKbneb?from=from_copylink"
+    },
+    {
+      "date": "2026-07-30",
       "title": "对Loop Engineering的思考",
-      "summary": "对Loop Engineering的思考",
+      "summary": "从2022到2026，AI 辅助编程经历了清晰的开发模式的转移：从 Prompt Engineering、Context Engineering、Harness Engineering，再到Loop和Graph Engineering。文章还拆解了Automations、Worktrees、Maker-Checker、Connectors、Memory等关键组件，并用TDD、证据链和预算控制解释怎么让 AI 更可靠地干活。",
       "url": "https://waytoagi.feishu.cn/wiki/ScQhwodX1i1BPakcy6gc2GTfnxd?from=from_copylink"
     },
     {
@@ -24,14 +36,32 @@
       "title": "从 TL 到 EM：我终于不再盯着 AI 写代码了",
       "summary": "这篇文章适合正在用 Coding Agent 做项目的开发者、产品型创作者看。宝玉讲了一个很关键的转变：用 AI 编程时，人不用一直盯着每一行代码，从Tech Lead转向Engineering Manager。前者更关注实现细节和代码审查；后者更关注目标、方案、验收和结果。AI 编程真正的瓶颈也正在从“会不会写代码”变成“能不能想清楚要做什么”。",
       "url": "https://waytoagi.feishu.cn/wiki/TWpgwrU5UiQNSpkEaIzcsVZFnuc?from=from_copylink"
+    },
+    {
+      "date": "2026-07-30",
+      "title": "一段Prompt让你的Kimi K3 花钱更少，出活更快",
+      "summary": "Kimi K3 很强，但很多人用它做任务会遇到一个问题：它容易反复思考、重复验证，结果就是任务不收敛、调用成本高、出活慢。作者给了一段很短的Prompt，用来提前限定本轮只做什么、做到什么就停、验收哪些结果、遇到阻塞怎么结束。专治K3的三大毛病：想太多、烧钱快、出活慢。常用K3的可以直接试试。",
+      "url": "https://waytoagi.feishu.cn/wiki/HvvRwq7KGic3HmkGxoEcSqxQnMg?from=from_copylink"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 41,
   "updates_7d": [
     {
       "date": "2026-07-30",
+      "title": "让 Agent 批量采集网页数据，Scrapling 到底好不好用？",
+      "summary": "很多人让 Agent 抓取网页时，习惯直接开浏览器。如果要连续抓几十个页面，甚至做长期采集，始终开着浏览器就有点重了。作者实测Scrapling + MCP：能用HTTP请求就直接抓，需要渲染时再启动浏览器，最后只把目标字段回传给Agent，减少上下文占用。文中还用天气、豆瓣Top250、豆瓣图书、B 站榜单、知乎热榜等案例，验证了分页、并发、落盘、限速和兜底能力。",
+      "url": "https://waytoagi.feishu.cn/wiki/LW6pwiRHSiU9IckyqH2clM1FnBb?from=from_copylink"
+    },
+    {
+      "date": "2026-07-30",
+      "title": "李飞飞：解决机器人领域最难的问题丨a16z",
+      "summary": "大模型靠互联网文本快速扩大规模，机器人面对的世界完全不同。每次训练都要让机器真的移动，每次评估都要让原子穿过空间，速度慢、成本高，动作失控还会撞坏设备或伤到人。这些成本让机器人很难复制大模型的增长曲线。一起来看看在World Labs联合创始人兼CEO李飞飞看来，当下解决机器人领域最难的问题是什么？",
+      "url": "https://waytoagi.feishu.cn/wiki/DCN8wCs4tiacYvkcywncfXKbneb?from=from_copylink"
+    },
+    {
+      "date": "2026-07-30",
       "title": "对Loop Engineering的思考",
-      "summary": "对Loop Engineering的思考",
+      "summary": "从2022到2026，AI 辅助编程经历了清晰的开发模式的转移：从 Prompt Engineering、Context Engineering、Harness Engineering，再到Loop和Graph Engineering。文章还拆解了Automations、Worktrees、Maker-Checker、Connectors、Memory等关键组件，并用TDD、证据链和预算控制解释怎么让 AI 更可靠地干活。",
       "url": "https://waytoagi.feishu.cn/wiki/ScQhwodX1i1BPakcy6gc2GTfnxd?from=from_copylink"
     },
     {
@@ -45,6 +75,12 @@
       "title": "从 TL 到 EM：我终于不再盯着 AI 写代码了",
       "summary": "这篇文章适合正在用 Coding Agent 做项目的开发者、产品型创作者看。宝玉讲了一个很关键的转变：用 AI 编程时，人不用一直盯着每一行代码，从Tech Lead转向Engineering Manager。前者更关注实现细节和代码审查；后者更关注目标、方案、验收和结果。AI 编程真正的瓶颈也正在从“会不会写代码”变成“能不能想清楚要做什么”。",
       "url": "https://waytoagi.feishu.cn/wiki/TWpgwrU5UiQNSpkEaIzcsVZFnuc?from=from_copylink"
+    },
+    {
+      "date": "2026-07-30",
+      "title": "一段Prompt让你的Kimi K3 花钱更少，出活更快",
+      "summary": "Kimi K3 很强，但很多人用它做任务会遇到一个问题：它容易反复思考、重复验证，结果就是任务不收敛、调用成本高、出活慢。作者给了一段很短的Prompt，用来提前限定本轮只做什么、做到什么就停、验收哪些结果、遇到阻塞怎么结束。专治K3的三大毛病：想太多、烧钱快、出活慢。常用K3的可以直接试试。",
+      "url": "https://waytoagi.feishu.cn/wiki/HvvRwq7KGic3HmkGxoEcSqxQnMg?from=from_copylink"
     },
     {
       "date": "2026-07-29",
