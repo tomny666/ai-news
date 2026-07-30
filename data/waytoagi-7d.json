@@ -1,63 +1,51 @@
 {
-  "generated_at": "2026-07-30T14:31:49.510283Z",
+  "generated_at": "2026-07-30T16:49:52.458911Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-07-29",
-  "count_today": 8,
+  "latest_date": "2026-07-30",
+  "count_today": 3,
   "updates_today": [
     {
-      "date": "2026-07-29",
-      "title": "烧了一万块API后，我找到了同时适用于Fable5和GPT5.6的AI工作流",
-      "summary": "怎么让不同模型各干最适合自己的活呢？卡尔把之前的 partner-skill 升级到2.0，拆成了deep_reasoner、fast_worker、arbiter三种身份：一个做深度规划，一个快速执行，一个独立仲裁。不同项目还能分别绑定Fable5、Opus5、GPT 5.6等模型，并用均衡、质量优先、省钱优先三套策略控制成本，把每个Token都花在刀刃上。",
-      "url": "https://waytoagi.feishu.cn/wiki/X9UYwjAjUiF4kJkrMWjcEWyUnoh?from=from_copylink"
+      "date": "2026-07-30",
+      "title": "对Loop Engineering的思考",
+      "summary": "对Loop Engineering的思考",
+      "url": "https://waytoagi.feishu.cn/wiki/ScQhwodX1i1BPakcy6gc2GTfnxd?from=from_copylink"
     },
     {
-      "date": "2026-07-29",
-      "title": "普通人最该补的5门AI必修课：MD、SVG、HTML、GitHub、Skill",
-      "summary": "冷逸这篇文章适合刚开始学AI的普通用户，尤其是想用AI写方案、做图、做页面、整理资料的人。Markdown 用来把需求写清楚；SVG用来做可修改的图；HTML用来生成网页、演示页和小工具；GitHub 用来找资源、存作品；Skill 用来把重复流程整理成AI能执行的说明书。小白可以从这里开始补基础。",
-      "url": "https://waytoagi.feishu.cn/wiki/HFYIwD5Xvi0Ls1kNyAgcZpTInec?from=from_copylink"
+      "date": "2026-07-30",
+      "title": "写了几十个Skill，我最常用的是这3个",
+      "summary": "云舒从自己写过的几十个 Skill 里，挑了3个最常用的：find-top-three用来帮你从复杂问题里找出当前最重要的三件事；dual-agent-collaboration用两个模型互相校验审核，提升方案设计和代码审查质量；issue-pool 负责把零散开发想法整理成可讨论、可验收、可开工的任务池。",
+      "url": "https://waytoagi.feishu.cn/wiki/LvIvw3L7uiUJTxk0W0ecYrIsnDg?from=from_copylink"
     },
     {
-      "date": "2026-07-29",
-      "title": "我复刻了一条 4000 赞的博客首页，开源首页设计 Skill",
-      "summary": "很多人做个人主页、产品首页都会存在一个问题：信息都有，但没记忆点，动效也只是装饰。成峰复刻了一条 4000赞的动态博客首页，核心方法很清晰：先用首图锁住构图，左侧留给标题、按钮和导航，右侧放主体画面；再把首图变成轻微运动的视频；最后用代码把可编辑的网页内容叠上去。最后还把整个流程封装成一个Skill并开源。",
-      "url": "https://waytoagi.feishu.cn/wiki/Xtj6w2xu7ig3YokjWUMcttaJngb?from=from_copylink"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "半年月活涨20倍，ARR破4千万的OpenCode，如何从“完了”到“火了”？",
-      "summary": "做Coding Agent，很多人盯着“哪个模型最强”，但OpenCode的增长提醒我们：选择权本身也能变成产品。OpenCode 不押单一模型，而是把70+模型、价格、上下文和供应商接入整理成可用能力，凭借多模型自由选择的差异化优势快速抢占市场，半年月活从65万冲到1300万。",
-      "url": "https://waytoagi.feishu.cn/wiki/PSZOw8b94iAbO1kphYOc772Inac?from=from_copylink"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "别再手动刷X了！我给自己的 X 装了一个会自己找资料的扫描器，开源在了Github。",
-      "summary": "每天在X上刷 AI 信息，最烦的不是看不到好东西，而是刷完就散了：论文、工具、工作流都收藏一堆，回头想找又像大海捞针。作者开源了一个 x-scan Skill，可以让Agent打开独立 Chrome 浏览器扫描X信息流或关键词搜索，按AI相关词初筛，再用Tweet ID去重，最后把作者、正文、数据和链接保存成Markdown，丢进 Obsidian或其他知识库应用。",
-      "url": "https://waytoagi.feishu.cn/wiki/Pk7YwOi3qiyI7Okk61RcBHHGnuh?from=from_copylink"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "冕神语录",
-      "summary": "晚点今天发了篇对 陈冕 的专访，作者围绕 LibTV、Lovart、融资、抄袭争议和 AI 应用竞争的高能表达整理成 66 条。来一起看看！",
-      "url": "https://waytoagi.feishu.cn/wiki/T5r9w5RBdi2OeekRAdjc3znfnBc?from=from_copylink"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "从光年之外裸辞创业，反而找到了本我",
-      "summary": "作者从光年之外裸辞后，两个月写了30万行代码，复盘了长程Agent的真实落地链路：上下文怎么控、Skill/Tool/Memory 怎么服务任务、为什么要用文档协同、为什么评测和真实 user case 比概念更重要。后面还聊到垂直/通用 Agent、一级市场降温、大厂裁员和出海投流。想看一线 AI 创业者怎么自己下场找方向，这篇会带给你启发。",
-      "url": "https://waytoagi.feishu.cn/wiki/Llp5wTU6OiS64vkMOdFcUcL6nwf?from=from_copylink"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "为什么今天造大模型的人，一半在学物理",
-      "summary": "现在聊大模型，很多人一头扎进参数、架构和算力。但这篇文章有个很妙的观察：AI核心圈越来越像一份“物理系就业报告”。文章从 Anthropic、Scaling Laws、ImageNet、扩散模型、grokking 等例子切入，拆解了物理训练为什么在今天变得值钱：会把复杂系统压成少数关键变量，会用实验和测量逼出现象，也敢承认理论边界。读完你或许会更理解，大模型正在变成一门研究“人造自然”的实验科学。",
-      "url": "https://waytoagi.feishu.cn/wiki/Ld3TwMsQ1iBZUSkHzNGcqmConXc?from=from_copylink"
+      "date": "2026-07-30",
+      "title": "从 TL 到 EM：我终于不再盯着 AI 写代码了",
+      "summary": "这篇文章适合正在用 Coding Agent 做项目的开发者、产品型创作者看。宝玉讲了一个很关键的转变：用 AI 编程时，人不用一直盯着每一行代码，从Tech Lead转向Engineering Manager。前者更关注实现细节和代码审查；后者更关注目标、方案、验收和结果。AI 编程真正的瓶颈也正在从“会不会写代码”变成“能不能想清楚要做什么”。",
+      "url": "https://waytoagi.feishu.cn/wiki/TWpgwrU5UiQNSpkEaIzcsVZFnuc?from=from_copylink"
     }
   ],
-  "count_7d": 41,
+  "count_7d": 38,
   "updates_7d": [
+    {
+      "date": "2026-07-30",
+      "title": "对Loop Engineering的思考",
+      "summary": "对Loop Engineering的思考",
+      "url": "https://waytoagi.feishu.cn/wiki/ScQhwodX1i1BPakcy6gc2GTfnxd?from=from_copylink"
+    },
+    {
+      "date": "2026-07-30",
+      "title": "写了几十个Skill，我最常用的是这3个",
+      "summary": "云舒从自己写过的几十个 Skill 里，挑了3个最常用的：find-top-three用来帮你从复杂问题里找出当前最重要的三件事；dual-agent-collaboration用两个模型互相校验审核，提升方案设计和代码审查质量；issue-pool 负责把零散开发想法整理成可讨论、可验收、可开工的任务池。",
+      "url": "https://waytoagi.feishu.cn/wiki/LvIvw3L7uiUJTxk0W0ecYrIsnDg?from=from_copylink"
+    },
+    {
+      "date": "2026-07-30",
+      "title": "从 TL 到 EM：我终于不再盯着 AI 写代码了",
+      "summary": "这篇文章适合正在用 Coding Agent 做项目的开发者、产品型创作者看。宝玉讲了一个很关键的转变：用 AI 编程时，人不用一直盯着每一行代码，从Tech Lead转向Engineering Manager。前者更关注实现细节和代码审查；后者更关注目标、方案、验收和结果。AI 编程真正的瓶颈也正在从“会不会写代码”变成“能不能想清楚要做什么”。",
+      "url": "https://waytoagi.feishu.cn/wiki/TWpgwrU5UiQNSpkEaIzcsVZFnuc?from=from_copylink"
+    },
     {
       "date": "2026-07-29",
       "title": "烧了一万块API后，我找到了同时适用于Fable5和GPT5.6的AI工作流",
@@ -267,42 +255,6 @@
       "title": "Opus5 官方 Prompt 指南",
       "summary": "Claude Code 负责人发布了最新的Prompt指南：面向Opus 5 / Fable 5，他们直接删掉了 80% 以上系统提示词，编码评测几乎没掉，反而说明新模型更需要清爽、按需加载的上下文。系统提示词只放产品语境；CLAUDE.md 保持轻量，把token留给代码库里的坑；Skill做成轻量指路牌，用渐进式披露按需加载；工具设计靠清晰参数和schema；参照物尽量给代码、HTML mockup、测试用例这类高保真材料。如果你也在维护一堆越写越厚的 Prompt/Skill，这篇文章很适合拿来做一次“减法体检”。",
       "url": "https://waytoagi.feishu.cn/wiki/A7aKwQMCIip5nZkFmPrcxYCMnYg?from=from_copylink"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "顶尖数学家给感觉落后的人的9条建议丨EO",
-      "summary": "在这场对话中，数学家Ken Ono从前沿模型解题、研究工作被重塑、形式化验证，到教育筛选和人生排名，给出的提醒很实在：可以自动化的计算交给工具，但真正的问题意识、方向判断和后果承担，仍然要人自己完成。",
-      "url": "https://waytoagi.feishu.cn/wiki/Zp2twfRjpigHCHkb0hVcke1DnbV?from=from_copylink"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "迈向评测工程自动化",
-      "summary": "Agent 进入生产后，最容易卡在评测：线上轨迹一堆，失败复现困难，改了模型、提示词，也不知道到底有没有变好。LangChain发布了Eval Engineering Skill。这个Skill能利用代码仓库和智能体轨迹中的上下文，帮助编程智能体构建评测。快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/UOWJwbgF2i6jVIkrFiaca4mSn8c?from=from_copylink"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "掌握图谱工程的完整实战课程",
-      "summary": "最近“图谱工程”被讨论得越来越多。这篇文章给出了完整的实战课程：什么是图谱、最值得投入的模式、控制成本的停止规则，以及面向实际业务的 3 个完整搭建案例：研究工作台、SEO 内容生产线和上市推广工具包。",
-      "url": "https://waytoagi.feishu.cn/wiki/ScVCwLWMeiQpb6kqKVLcvA1SnIf?from=from_copylink"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "我翻完 70 多个搭子团群聊后，终于明白什么是优秀团长",
-      "summary": "3000 多名学员、78 个搭子团，小鱿鱼翻完70多个群聊，重新拆解了下什么样的团长真的能带动一个学习团队。有群因为目标不清慢慢沉默，也有团长用一句具体建议把小白从挫败里拉回来；有人先做作业样板，让大家知道怎么开始；有人用数据看板让进度可见，同时保留人的温度；还有作品墙、私聊提醒、结营后的继续协作，把普通学员的完成感认真托住。如果你在做训练营、社群运营、AI学习小组，这篇文章不容错过：好的组织感，很多时候就藏在一次及时回应、一份样板、一次被看见里。",
-      "url": "https://waytoagi.feishu.cn/wiki/H0VFwCazrivsX2kR4rDcOGXcnI0?from=from_copylink"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "【IP 配图 Skill 必看】全网独一份的架构详解",
-      "summary": "很多做自媒体创作的人，都少不了有自己的IP 配图。但很多人还停在“套现成 Skill”或“换一张角色图”的阶段，结果文章不一样，画面却像同一个模板批量出来的。如果你想让自己的 IP 配图摆脱同质化，这篇很适合照着拆解重构下。",
-      "url": "https://waytoagi.feishu.cn/wiki/Gi7MwUJaZiO9Ynk3AOmc9jBTnYb?from=from_copylink"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "Anthropic 发布 Claude Opus 5",
-      "summary": "Claude Opus 5正式发布，在编程、知识工作、自动化任务和计算机使用基准上表现很强，接近Fable 5的能力，但任务成本更低；它也更擅长自检、迭代和修根因，适合高价值工程任务。Opus 5对齐表现更好，但网络安全和生物高风险能力仍落后于Mythos 5。快来体验一下真实效果如何！",
-      "url": "https://waytoagi.feishu.cn/wiki/AKbLw6rziinuS6kzJQecEjjdnlg?from=from_copylink"
     }
   ],
   "warning": null,
