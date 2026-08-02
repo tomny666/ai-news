@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T21:10:32.667716Z",
+  "generated_at": "2026-08-02T22:10:23.710877Z",
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-02T21:10:32.667716Z",
-      "latest_at": "2026-08-02T21:10:32.667716Z",
+      "earliest_at": "2026-08-02T22:10:23.710877Z",
+      "latest_at": "2026-08-02T22:10:23.710877Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T21:11:12.707688Z"
+        "scored_at": "2026-08-02T22:12:31.947510Z"
       }
     },
     {
@@ -131,21 +131,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8607,
+        "recency": 0.8484,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-02T10:47:27Z",
       "latest_at": "2026-08-02T10:47:27Z",
@@ -165,7 +164,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T21:11:12.707688Z"
+        "scored_at": "2026-08-02T22:12:31.947510Z"
+      }
+    },
+    {
+      "story_id": "story_053b3f462bd1",
+      "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+      "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+      "primary_url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
+          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+          "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
+          "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
+          "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T21:25:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "items": [
+        {
+          "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
+          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+          "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
+          "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
+          "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T21:25:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9892,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-02T21:25:27Z",
+      "latest_at": "2026-08-02T21:25:27Z",
+      "primary_item": {
+        "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
+        "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+        "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+        "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
+        "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
+        "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+        "recommend_reason_zh": null,
+        "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T22:12:31.947510Z"
       }
     },
     {
@@ -213,15 +293,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.733,
-      "importance": 0.733,
-      "importance_score": 0.733,
+      "score": 0.7309,
+      "importance": 0.7309,
+      "importance_score": 0.7309,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8078,
+        "recency": 0.7963,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -246,7 +326,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T21:11:12.707688Z"
+        "scored_at": "2026-08-02T22:12:31.947510Z"
       }
     },
     {
@@ -438,15 +518,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.581,
-      "importance": 0.581,
-      "importance_score": 0.581,
+      "score": 0.579,
+      "importance": 0.579,
+      "importance_score": 0.579,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7791,
+        "recency": 0.7679,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -471,7 +551,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T21:11:12.707688Z"
+        "scored_at": "2026-08-02T22:12:31.947510Z"
       }
     },
     {
@@ -577,15 +657,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5661,
-      "importance": 0.5661,
-      "importance_score": 0.5661,
+      "score": 0.5636,
+      "importance": 0.5636,
+      "importance_score": 0.5636,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9739,
+        "recency": 0.96,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -610,7 +690,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T21:11:12.707688Z"
+        "scored_at": "2026-08-02T22:12:31.947510Z"
       }
     },
     {
@@ -687,15 +767,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5404,
-      "importance": 0.5404,
-      "importance_score": 0.5404,
+      "score": 0.5379,
+      "importance": 0.5379,
+      "importance_score": 0.5379,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9702,
+        "recency": 0.9563,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -720,44 +800,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T21:11:12.707688Z"
+        "scored_at": "2026-08-02T22:12:31.947510Z"
       }
     },
     {
-      "story_id": "story_1de0c63082e4",
-      "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-      "url": "https://news.ycombinator.com/item?id=49147622",
-      "primary_url": "https://news.ycombinator.com/item?id=49147622",
+      "story_id": "story_28846135b250",
+      "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+      "url": "https://news.ycombinator.com/item?id=49147842",
+      "primary_url": "https://news.ycombinator.com/item?id=49147842",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "id": "b02401c080930792e17dc012904ecbea963e8d3c",
+          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
+          "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49147622",
+          "url": "https://news.ycombinator.com/item?id=49147842",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-02T20:55:13.221000Z"
+          "published_at": "2026-08-02T21:55:16.950000Z"
         },
         {
-          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "id": "1eafc6bd65713bf0ac88c09d44c540c13e9441dc",
+          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
+          "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
+          "url": "https://github.com/paoloanzn/microcodex",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-02T19:42:08Z"
+          "published_at": "2026-08-02T20:11:35Z"
         }
       ],
       "source_count": 2,
@@ -767,32 +847,32 @@
       ],
       "items": [
         {
-          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "id": "b02401c080930792e17dc012904ecbea963e8d3c",
+          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
+          "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49147622",
+          "url": "https://news.ycombinator.com/item?id=49147842",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-02T20:55:13.221000Z"
+          "published_at": "2026-08-02T21:55:16.950000Z"
         },
         {
-          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "id": "1eafc6bd65713bf0ac88c09d44c540c13e9441dc",
+          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
+          "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
+          "url": "https://github.com/paoloanzn/microcodex",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-02T19:42:08Z"
+          "published_at": "2026-08-02T20:11:35Z"
         }
       ],
       "item_count": 2,
@@ -805,24 +885,24 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9963,
+        "recency": 0.9964,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T19:42:08Z",
-      "latest_at": "2026-08-02T20:55:13.221000Z",
+      "earliest_at": "2026-08-02T20:11:35Z",
+      "latest_at": "2026-08-02T21:55:16.950000Z",
       "primary_item": {
-        "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-        "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-        "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
-        "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-        "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+        "id": "b02401c080930792e17dc012904ecbea963e8d3c",
+        "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+        "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
+        "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+        "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49147622",
+        "url": "https://news.ycombinator.com/item?id=49147842",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -830,7 +910,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T21:11:12.707688Z"
+        "scored_at": "2026-08-02T22:12:31.947510Z"
       }
     },
     {
@@ -907,15 +987,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5132,
-      "importance": 0.5132,
-      "importance_score": 0.5132,
+      "score": 0.5111,
+      "importance": 0.5111,
+      "importance_score": 0.5111,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8191,
+        "recency": 0.8074,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -940,7 +1020,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T21:11:12.707688Z"
+        "scored_at": "2026-08-02T22:12:31.947510Z"
       }
     },
     {
@@ -1017,15 +1097,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4962,
-      "importance": 0.4962,
-      "importance_score": 0.4962,
+      "score": 0.4943,
+      "importance": 0.4943,
+      "importance_score": 0.4943,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7243,
+        "recency": 0.714,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1050,7 +1130,227 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T21:11:12.707688Z"
+        "scored_at": "2026-08-02T22:12:31.947510Z"
+      }
+    },
+    {
+      "story_id": "story_86c71e140188",
+      "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+      "url": "https://news.ycombinator.com/item?id=49148159",
+      "primary_url": "https://news.ycombinator.com/item?id=49148159",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "title_zh": "人工智能狂热：从郁金香到代币",
+          "title_en": "AI Mania: From Tulips to Tokens",
+          "title_original": "AI Mania: From Tulips to Tokens",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49148159",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T21:55:16.950000Z"
+        },
+        {
+          "id": "c99078445d20a0c205cf63fe673cac175a57b94e",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "title_zh": "人工智能狂热：从郁金香到代币",
+          "title_en": "AI Mania: From Tulips to Tokens",
+          "title_original": "AI Mania: From Tulips to Tokens",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://seanhelvey.com/tools-and-their-tools",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T20:48:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "title_zh": "人工智能狂热：从郁金香到代币",
+          "title_en": "AI Mania: From Tulips to Tokens",
+          "title_original": "AI Mania: From Tulips to Tokens",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49148159",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T21:55:16.950000Z"
+        },
+        {
+          "id": "c99078445d20a0c205cf63fe673cac175a57b94e",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "title_zh": "人工智能狂热：从郁金香到代币",
+          "title_en": "AI Mania: From Tulips to Tokens",
+          "title_original": "AI Mania: From Tulips to Tokens",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://seanhelvey.com/tools-and-their-tools",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T20:48:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9964,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T20:48:28Z",
+      "latest_at": "2026-08-02T21:55:16.950000Z",
+      "primary_item": {
+        "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
+        "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+        "title_zh": "人工智能狂热：从郁金香到代币",
+        "title_en": "AI Mania: From Tulips to Tokens",
+        "title_original": "AI Mania: From Tulips to Tokens",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49148159",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T22:12:31.947510Z"
+      }
+    },
+    {
+      "story_id": "story_1de0c63082e4",
+      "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+      "url": "https://news.ycombinator.com/item?id=49147622",
+      "primary_url": "https://news.ycombinator.com/item?id=49147622",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
+          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49147622",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T20:55:13.221000Z"
+        },
+        {
+          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
+          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://frogs.vaguespac.es",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T19:42:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
+          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49147622",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T20:55:13.221000Z"
+        },
+        {
+          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
+          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://frogs.vaguespac.es",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T19:42:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9821,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T19:42:08Z",
+      "latest_at": "2026-08-02T20:55:13.221000Z",
+      "primary_item": {
+        "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
+        "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+        "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
+        "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+        "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49147622",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T22:12:31.947510Z"
       }
     },
     {
@@ -1127,15 +1427,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9963,
+        "recency": 0.9821,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1160,7 +1460,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T21:11:12.707688Z"
+        "scored_at": "2026-08-02T22:12:31.947510Z"
       }
     },
     {
@@ -1237,15 +1537,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.506,
-      "importance": 0.506,
-      "importance_score": 0.506,
+      "score": 0.504,
+      "importance": 0.504,
+      "importance_score": 0.504,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7791,
+        "recency": 0.7679,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1270,7 +1570,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T21:11:12.707688Z"
+        "scored_at": "2026-08-02T22:12:31.947510Z"
       }
     }
   ]
