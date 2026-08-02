@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T22:10:23.710877Z",
+  "generated_at": "2026-08-02T23:11:41.823880Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-02T22:10:23.710877Z",
-      "latest_at": "2026-08-02T22:10:23.710877Z",
+      "earliest_at": "2026-08-02T23:11:41.823880Z",
+      "latest_at": "2026-08-02T23:11:41.823880Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:12:31.947510Z"
+        "scored_at": "2026-08-02T23:12:15.755103Z"
+      }
+    },
+    {
+      "story_id": "story_053b3f462bd1",
+      "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+      "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+      "primary_url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
+          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+          "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
+          "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
+          "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T21:25:27Z"
+        },
+        {
+          "id": "b48d72733681376b03a9c7ce13b32178863ee488",
+          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI’s amazing — but vastly oversold — new model Astra",
+          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+          "title_en": "OpenAI’s amazing — but vastly oversold — new model Astra",
+          "title_original": "OpenAI’s amazing — but vastly oversold — new model Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-02T22:13:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "HN Algolia · AI 24h"
+      ],
+      "items": [
+        {
+          "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
+          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+          "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
+          "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
+          "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T21:25:27Z"
+        },
+        {
+          "id": "b48d72733681376b03a9c7ce13b32178863ee488",
+          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI’s amazing — but vastly oversold — new model Astra",
+          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+          "title_en": "OpenAI’s amazing — but vastly oversold — new model Astra",
+          "title_original": "OpenAI’s amazing — but vastly oversold — new model Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-02T22:13:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7701,
+      "importance": 0.7701,
+      "importance_score": 0.7701,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9748,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-02T21:25:27Z",
+      "latest_at": "2026-08-02T22:13:30Z",
+      "primary_item": {
+        "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
+        "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+        "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+        "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
+        "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
+        "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+        "recommend_reason_zh": null,
+        "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T23:12:15.755103Z"
       }
     },
     {
@@ -131,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8484,
+        "recency": 0.836,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -164,88 +276,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:12:31.947510Z"
-      }
-    },
-    {
-      "story_id": "story_053b3f462bd1",
-      "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
-      "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-      "primary_url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
-          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
-          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
-          "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
-          "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
-          "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-02T21:25:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      ],
-      "items": [
-        {
-          "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
-          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
-          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
-          "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
-          "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
-          "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-02T21:25:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9892,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-02T21:25:27Z",
-      "latest_at": "2026-08-02T21:25:27Z",
-      "primary_item": {
-        "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
-        "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
-        "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
-        "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
-        "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
-        "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
-        "recommend_reason_zh": null,
-        "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:12:31.947510Z"
+        "scored_at": "2026-08-02T23:12:15.755103Z"
       }
     },
     {
@@ -293,15 +324,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7309,
-      "importance": 0.7309,
-      "importance_score": 0.7309,
+      "score": 0.7288,
+      "importance": 0.7288,
+      "importance_score": 0.7288,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7963,
+        "recency": 0.7846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -326,232 +357,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:12:31.947510Z"
-      }
-    },
-    {
-      "story_id": "story_2cd8c56b242c",
-      "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
-      "url": "https://news.ycombinator.com/item?id=49139102",
-      "primary_url": "https://news.ycombinator.com/item?id=49139102",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
-          "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
-          "title_zh": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题",
-          "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
-          "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49139102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T03:53:16.910000Z"
-        },
-        {
-          "id": "0e1018d749979b50e90fe930365a1bc914b6ff1b",
-          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
-          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
-          "title_en": null,
-          "title_original": "只要问对问题，AI提供的理财建议其实出乎意料地好",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "mitsloan.mit.edu",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T00:41:17.348000Z"
-        },
-        {
-          "id": "64426728f85233c960229c6a3e5579917579a7e7",
-          "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
-          "title_zh": "如果你提出正确的问题，人工智能的财务建议会出奇地好",
-          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
-          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49139102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T23:54:50.574000Z"
-        },
-        {
-          "id": "c3f29c8509745216f7b46dcf7cc7c70be1d41160",
-          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good if you ask the right questions",
-          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
-          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
-          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T22:25:12Z"
-        },
-        {
-          "id": "c8fcd1088b8f52a80f5a02b568d41d87e6756a05",
-          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good, especially if you ask right questions",
-          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
-          "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
-          "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T22:25:12Z"
-        },
-        {
-          "id": "9126135bf5ecfda8cea2ab4b9ffea2fbba8cc6dd",
-          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / From MIT: AI financial advice is surprisingly good",
-          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
-          "title_en": "From MIT: AI financial advice is surprisingly good",
-          "title_original": "From MIT: AI financial advice is surprisingly good",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T22:25:12Z"
-        }
-      ],
-      "source_count": 6,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "mitsloan.mit.edu"
-      ],
-      "items": [
-        {
-          "id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
-          "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
-          "title_zh": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题",
-          "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
-          "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49139102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T03:53:16.910000Z"
-        },
-        {
-          "id": "0e1018d749979b50e90fe930365a1bc914b6ff1b",
-          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
-          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
-          "title_en": null,
-          "title_original": "只要问对问题，AI提供的理财建议其实出乎意料地好",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "mitsloan.mit.edu",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T00:41:17.348000Z"
-        },
-        {
-          "id": "64426728f85233c960229c6a3e5579917579a7e7",
-          "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
-          "title_zh": "如果你提出正确的问题，人工智能的财务建议会出奇地好",
-          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
-          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49139102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T23:54:50.574000Z"
-        },
-        {
-          "id": "c3f29c8509745216f7b46dcf7cc7c70be1d41160",
-          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good if you ask the right questions",
-          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
-          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
-          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T22:25:12Z"
-        },
-        {
-          "id": "c8fcd1088b8f52a80f5a02b568d41d87e6756a05",
-          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good, especially if you ask right questions",
-          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
-          "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
-          "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T22:25:12Z"
-        },
-        {
-          "id": "9126135bf5ecfda8cea2ab4b9ffea2fbba8cc6dd",
-          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / From MIT: AI financial advice is surprisingly good",
-          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
-          "title_en": "From MIT: AI financial advice is surprisingly good",
-          "title_original": "From MIT: AI financial advice is surprisingly good",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T22:25:12Z"
-        }
-      ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.579,
-      "importance": 0.579,
-      "importance_score": 0.579,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7679,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T22:25:12Z",
-      "latest_at": "2026-08-02T03:53:16.910000Z",
-      "primary_item": {
-        "id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
-        "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
-        "title_zh": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题",
-        "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
-        "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49139102",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:12:31.947510Z"
+        "scored_at": "2026-08-02T23:12:15.755103Z"
       }
     },
     {
@@ -591,7 +397,7 @@
           "published_at": "2026-08-02T11:23:25.394000Z"
         },
         {
-          "id": "0139bdc1a3ad559df6e57656bb2b5beece076bc1",
+          "id": "6c31c1d24f0ddc50687d80e84670ca05b837d0b2",
           "title": "人工智能：《Ars Notoria》与即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
           "title_zh": "人工智能：《Ars Notoria》与即时知识的承诺",
           "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
@@ -599,15 +405,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://publicdomainreview.org/essay/ars-notoria",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T10:18:24Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "publicdomainreview.org"
       ],
@@ -641,7 +447,7 @@
           "published_at": "2026-08-02T11:23:25.394000Z"
         },
         {
-          "id": "0139bdc1a3ad559df6e57656bb2b5beece076bc1",
+          "id": "6c31c1d24f0ddc50687d80e84670ca05b837d0b2",
           "title": "人工智能：《Ars Notoria》与即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
           "title_zh": "人工智能：《Ars Notoria》与即时知识的承诺",
           "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
@@ -649,23 +455,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://publicdomainreview.org/essay/ars-notoria",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T10:18:24Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5636,
-      "importance": 0.5636,
-      "importance_score": 0.5636,
+      "score": 0.5611,
+      "importance": 0.5611,
+      "importance_score": 0.5611,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.96,
+        "recency": 0.9459,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -690,117 +496,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:12:31.947510Z"
-      }
-    },
-    {
-      "story_id": "story_08068412d02f",
-      "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-      "url": "https://sprocket-demo.spikonado.com",
-      "primary_url": "https://sprocket-demo.spikonado.com",
-      "source": "sprocket-demo.spikonado.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "59dada4b0290f134c6813aa3084093f5f0b4f3b5",
-          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-          "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-          "title_en": null,
-          "title_original": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sprocket-demo.spikonado.com",
-          "source": "sprocket-demo.spikonado.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T19:04:45.454000Z"
-        },
-        {
-          "id": "fbc2fc17e6bdb4748a80a9bf092ef9610cd736f7",
-          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理 / Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
-          "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-          "title_en": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
-          "title_original": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sprocket-demo.spikonado.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T16:26:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "sprocket-demo.spikonado.com"
-      ],
-      "items": [
-        {
-          "id": "59dada4b0290f134c6813aa3084093f5f0b4f3b5",
-          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-          "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-          "title_en": null,
-          "title_original": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sprocket-demo.spikonado.com",
-          "source": "sprocket-demo.spikonado.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T19:04:45.454000Z"
-        },
-        {
-          "id": "fbc2fc17e6bdb4748a80a9bf092ef9610cd736f7",
-          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理 / Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
-          "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-          "title_en": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
-          "title_original": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sprocket-demo.spikonado.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T16:26:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9563,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T16:26:19Z",
-      "latest_at": "2026-08-02T19:04:45.454000Z",
-      "primary_item": {
-        "id": "59dada4b0290f134c6813aa3084093f5f0b4f3b5",
-        "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-        "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-        "title_en": null,
-        "title_original": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://sprocket-demo.spikonado.com",
-        "source": "sprocket-demo.spikonado.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:12:31.947510Z"
+        "scored_at": "2026-08-02T23:12:15.755103Z"
       }
     },
     {
@@ -877,15 +573,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5425,
+      "importance": 0.5425,
+      "importance_score": 0.5425,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9964,
+        "recency": 0.9818,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -910,227 +606,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:12:31.947510Z"
+        "scored_at": "2026-08-02T23:12:15.755103Z"
       }
     },
     {
-      "story_id": "story_e28f2fbd5da2",
-      "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-      "primary_url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-      "source": "www.wafer.ai",
+      "story_id": "story_08068412d02f",
+      "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+      "url": "https://sprocket-demo.spikonado.com",
+      "primary_url": "https://sprocket-demo.spikonado.com",
+      "source": "sprocket-demo.spikonado.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "5dc5d5699a7685cee97651f148c279b16b74bf5a",
-          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "id": "59dada4b0290f134c6813aa3084093f5f0b4f3b5",
+          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+          "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
           "title_en": null,
-          "title_original": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "title_original": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-          "source": "www.wafer.ai",
+          "url": "https://sprocket-demo.spikonado.com",
+          "source": "sprocket-demo.spikonado.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-02T07:21:18.343000Z"
+          "published_at": "2026-08-02T19:04:45.454000Z"
         },
         {
-          "id": "d89d97419f20cd1b2221e3de57317710ce95278b",
-          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-          "title_en": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-          "title_original": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "id": "fbc2fc17e6bdb4748a80a9bf092ef9610cd736f7",
+          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理 / Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+          "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+          "title_en": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+          "title_original": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "url": "https://sprocket-demo.spikonado.com",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-02T04:21:14Z"
+          "published_at": "2026-08-02T16:26:19Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "www.wafer.ai"
+        "sprocket-demo.spikonado.com"
       ],
       "items": [
         {
-          "id": "5dc5d5699a7685cee97651f148c279b16b74bf5a",
-          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "id": "59dada4b0290f134c6813aa3084093f5f0b4f3b5",
+          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+          "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
           "title_en": null,
-          "title_original": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "title_original": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-          "source": "www.wafer.ai",
+          "url": "https://sprocket-demo.spikonado.com",
+          "source": "sprocket-demo.spikonado.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-02T07:21:18.343000Z"
+          "published_at": "2026-08-02T19:04:45.454000Z"
         },
         {
-          "id": "d89d97419f20cd1b2221e3de57317710ce95278b",
-          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-          "title_en": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-          "title_original": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "id": "fbc2fc17e6bdb4748a80a9bf092ef9610cd736f7",
+          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理 / Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+          "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+          "title_en": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+          "title_original": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "url": "https://sprocket-demo.spikonado.com",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-02T04:21:14Z"
+          "published_at": "2026-08-02T16:26:19Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5111,
-      "importance": 0.5111,
-      "importance_score": 0.5111,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8074,
+        "recency": 0.9423,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T04:21:14Z",
-      "latest_at": "2026-08-02T07:21:18.343000Z",
+      "earliest_at": "2026-08-02T16:26:19Z",
+      "latest_at": "2026-08-02T19:04:45.454000Z",
       "primary_item": {
-        "id": "5dc5d5699a7685cee97651f148c279b16b74bf5a",
-        "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-        "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+        "id": "59dada4b0290f134c6813aa3084093f5f0b4f3b5",
+        "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+        "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
         "title_en": null,
-        "title_original": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+        "title_original": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-        "source": "www.wafer.ai",
+        "url": "https://sprocket-demo.spikonado.com",
+        "source": "sprocket-demo.spikonado.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:12:31.947510Z"
-      }
-    },
-    {
-      "story_id": "story_f3a8a7071e92",
-      "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
-      "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-      "primary_url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "0ac699ec2a23318781d2fa4f6c2172b4e4167000",
-          "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
-          "title_zh": "关于人工智能“每个人都被骗了”",
-          "title_en": "\"Everyone Has Been Sold a Lie\" on AI",
-          "title_original": "\"Everyone Has Been Sold a Lie\" on AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T22:50:30Z"
-        },
-        {
-          "id": "62644f9928a745e9be4bd80277b0026ef59e0482",
-          "title": "Zitron：关于人工智能“每个人都被骗了” / Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "title_zh": "Zitron：关于人工智能“每个人都被骗了”",
-          "title_en": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "title_original": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T22:50:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "0ac699ec2a23318781d2fa4f6c2172b4e4167000",
-          "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
-          "title_zh": "关于人工智能“每个人都被骗了”",
-          "title_en": "\"Everyone Has Been Sold a Lie\" on AI",
-          "title_original": "\"Everyone Has Been Sold a Lie\" on AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T22:50:30Z"
-        },
-        {
-          "id": "62644f9928a745e9be4bd80277b0026ef59e0482",
-          "title": "Zitron：关于人工智能“每个人都被骗了” / Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "title_zh": "Zitron：关于人工智能“每个人都被骗了”",
-          "title_en": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "title_original": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T22:50:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4943,
-      "importance": 0.4943,
-      "importance_score": 0.4943,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.714,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T22:50:30Z",
-      "latest_at": "2026-08-01T22:50:30Z",
-      "primary_item": {
-        "id": "0ac699ec2a23318781d2fa4f6c2172b4e4167000",
-        "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
-        "title_zh": "关于人工智能“每个人都被骗了”",
-        "title_en": "\"Everyone Has Been Sold a Lie\" on AI",
-        "title_original": "\"Everyone Has Been Sold a Lie\" on AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:12:31.947510Z"
+        "scored_at": "2026-08-02T23:12:15.755103Z"
       }
     },
     {
@@ -1207,15 +793,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5425,
+      "importance": 0.5425,
+      "importance_score": 0.5425,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9964,
+        "recency": 0.9818,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1240,7 +826,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:12:31.947510Z"
+        "scored_at": "2026-08-02T23:12:15.755103Z"
+      }
+    },
+    {
+      "story_id": "story_e28f2fbd5da2",
+      "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "primary_url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "source": "www.wafer.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5dc5d5699a7685cee97651f148c279b16b74bf5a",
+          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "title_en": null,
+          "title_original": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "source": "www.wafer.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T07:21:18.343000Z"
+        },
+        {
+          "id": "d89d97419f20cd1b2221e3de57317710ce95278b",
+          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "title_en": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "title_original": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T04:21:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.wafer.ai"
+      ],
+      "items": [
+        {
+          "id": "5dc5d5699a7685cee97651f148c279b16b74bf5a",
+          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "title_en": null,
+          "title_original": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "source": "www.wafer.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T07:21:18.343000Z"
+        },
+        {
+          "id": "d89d97419f20cd1b2221e3de57317710ce95278b",
+          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "title_en": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "title_original": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T04:21:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.509,
+      "importance": 0.509,
+      "importance_score": 0.509,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7955,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T04:21:14Z",
+      "latest_at": "2026-08-02T07:21:18.343000Z",
+      "primary_item": {
+        "id": "5dc5d5699a7685cee97651f148c279b16b74bf5a",
+        "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+        "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+        "title_en": null,
+        "title_original": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+        "source": "www.wafer.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T23:12:15.755103Z"
       }
     },
     {
@@ -1317,15 +1013,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9821,
+        "recency": 0.9677,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1350,7 +1046,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:12:31.947510Z"
+        "scored_at": "2026-08-02T23:12:15.755103Z"
       }
     },
     {
@@ -1427,15 +1123,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9821,
+        "recency": 0.9677,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1460,7 +1156,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:12:31.947510Z"
+        "scored_at": "2026-08-02T23:12:15.755103Z"
       }
     },
     {
@@ -1537,15 +1233,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.504,
-      "importance": 0.504,
-      "importance_score": 0.504,
+      "score": 0.502,
+      "importance": 0.502,
+      "importance_score": 0.502,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7679,
+        "recency": 0.7567,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1570,7 +1266,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:12:31.947510Z"
+        "scored_at": "2026-08-02T23:12:15.755103Z"
+      }
+    },
+    {
+      "story_id": "story_8982a531b4b5",
+      "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
+      "url": "https://news.ycombinator.com/item?id=49139102",
+      "primary_url": "https://news.ycombinator.com/item?id=49139102",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
+          "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_zh": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题",
+          "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49139102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T03:53:16.910000Z"
+        },
+        {
+          "id": "64426728f85233c960229c6a3e5579917579a7e7",
+          "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
+          "title_zh": "如果你提出正确的问题，人工智能的财务建议会出奇地好",
+          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
+          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49139102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T23:54:50.574000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
+          "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_zh": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题",
+          "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49139102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T03:53:16.910000Z"
+        },
+        {
+          "id": "64426728f85233c960229c6a3e5579917579a7e7",
+          "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
+          "title_zh": "如果你提出正确的问题，人工智能的财务建议会出奇地好",
+          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
+          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49139102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T23:54:50.574000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.502,
+      "importance": 0.502,
+      "importance_score": 0.502,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7567,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T23:54:50.574000Z",
+      "latest_at": "2026-08-02T03:53:16.910000Z",
+      "primary_item": {
+        "id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
+        "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
+        "title_zh": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题",
+        "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
+        "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49139102",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T23:12:15.755103Z"
       }
     }
   ]
