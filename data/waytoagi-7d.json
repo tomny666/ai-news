@@ -1,45 +1,63 @@
 {
-  "generated_at": "2026-08-02T15:19:59.170171Z",
+  "generated_at": "2026-08-02T17:15:38.882936Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-08-01",
-  "count_today": 5,
+  "latest_date": "2026-08-02",
+  "count_today": 4,
   "updates_today": [
     {
-      "date": "2026-08-01",
-      "title": "阿k：烧5w积分看sd2.5、H3双雄对垒: 全面测评MiniMax H3篇 (附30+案例)",
-      "summary": "阿K烧了5w积分，用30+案例全面测试了MiniMax H3，覆盖商用级多场景、多模态参考、原生音画生成、精准编辑、复杂复合内容生成等等。结果发现H3在UI 动效、产品广告、片头字体、拼贴动画、短剧上表现比较突出。",
-      "url": "https://waytoagi.feishu.cn/wiki/AYR8wDmPTioxJgktikUcPgu9nlh?from=from_copylink"
+      "date": "2026-08-02",
+      "title": "Reddit 蓝海帖挖掘：Research SEO & GEO 增长新机会",
+      "summary": "很多做出海和内容增长的人，会把Reddit当成发帖渠道，结果辛苦发完没人看，还容易被当广告。这篇文章系统分析了Reddit平台的SEO与GEO增长机会，适合内容运营团队拿来做选题和获客。",
+      "url": "https://waytoagi.feishu.cn/wiki/NYMPwf2tyixiSikOmFLcUUkmnyX?from=from_copylink"
     },
     {
-      "date": "2026-08-01",
-      "title": "软件工程、设计、PM 都在变，AI机会藏在无聊行业丨Silicon Valley Girl",
-      "summary": "如果你最近也在担心：AI越来越强，我现在到底该学什么、往哪走，才不容易被甩下？这篇很适合普通人看看。Khan Academy 创始人Sal Khan用网约车、工程师、学生论文这些真实例子，讲了AI正在怎么改变工作，人该把力气花在哪里。",
-      "url": "https://waytoagi.feishu.cn/wiki/DH8NwekCxilBdbk1ilmc9zQynac?from=from_copylink"
+      "date": "2026-08-02",
+      "title": "AI 时代的“HTML 时刻”：一个被严重低估的知识标准 OKF",
+      "summary": "很多团队开发Agent，注意力都放在模型、MCP、Skills和Harness 上，但真正容易被忽略的是：公司的规则、业务定义、历史经验，到底该用什么格式交给Agent，才能长期维护、迁移和验证。这篇文章把Google Cloud推出的OKF讲得很清楚。它有点像AI时代的“HTML”，把组织知识整理成可打开、可审查、可版本管理的Knowledge Bundle。未来企业真正沉淀下来的资产，可能是一套持续更新的可信知识层。",
+      "url": "https://waytoagi.feishu.cn/wiki/JeDaw50btigzHxkRj0ocrAqOnxe?from=from_copylink"
     },
     {
-      "date": "2026-08-01",
-      "title": "YC开源了他们内部使用的多Agent协作框架：QM",
-      "summary": "如果你已经会让 AI 帮自己写代码、查资料，但一到团队协作就变乱：谁的记忆算谁的？文件和权限怎么隔离？AI 能不能在Slack里一起推进项目？这篇就很好理解。YC开源了他们内部使用的多Agent协作框架：QM。它让每个员工、每个频道、每个项目都有独立的记忆、文件、密钥权限、定时任务和沙箱环境；还能接入 Pi、OpenCode、Codex、Claude Code 等不同Agent框架，避免被单一模型或工具绑定。",
-      "url": "https://waytoagi.feishu.cn/wiki/UFOOwTTJmixn2akLI7ncbwTDnNe?from=from_copylink"
+      "date": "2026-08-02",
+      "title": "7.27—8.2｜本周 AI 论文精选",
+      "summary": "本周「AI 论文精选」把智能体工程、模型训练、安全监控和算力优化串了起来：NOOA把Agent写成Python 对象，ACM让智能体自己管理上下文，ReOPD复用教师轨迹降低训练成本，JAXBench提醒大家“文档和搜索”对工具调用很关键，还覆盖不可见推理、文件系统记忆、角色漂移等风险点。来看看哪些思路已经能迁移到真实项目里。",
+      "url": "https://waytoagi.feishu.cn/wiki/DjWnwPEqwivfYZknT4JcRguvn9c?from=from_copylink"
     },
     {
-      "date": "2026-08-01",
-      "title": "Codex 进阶指南：作为 Multi-Agent 编排控制平面",
-      "summary": "大多数人用 Codex 的方式，是开一个会话、交代一件事、等它做完。这种用法只动用了它很小一部分能力。这篇文章把几个关键概念讲得很清楚：Task、Subagent、Worktree、SSH、Handoff、Automation。已经会用Codex、想处理复杂项目的人不容错过！",
-      "url": "https://waytoagi.feishu.cn/wiki/FFsDwOBJVisiPDkZOqlcVj8ZnNc?from=from_copylink"
-    },
-    {
-      "date": "2026-08-01",
-      "title": "Codex Micro体验与拆解看看 OpenAI 是怎么做 AI 硬件的",
-      "summary": "作者对Codex Micro，这个vibecoding 键盘做了配置体验和拆机。它没有本地AI、也没有内置麦克风，主要负责输入、灯光、通信和供电；同时也遇到了 USB 卡顿、HID 读取中断等稳定性问题。一起来看看230美元到底买到的是什么。",
-      "url": "https://waytoagi.feishu.cn/wiki/F3n3wqgJyiQIsRkiBN0cT7XQnTd?from=from_copylink"
+      "date": "2026-08-02",
+      "title": "2026 年顶尖 AI 实验室如何构建 RL 智能体：从 RLHF 到 RULER",
+      "summary": "Anthropic、OpenAI 和 DeepSeek 正在向同一个想法靠拢：将系统提示词用作奖励函数。下面会从 RLHF 一路讲到 RULER，拆解强化学习在智能体上的演进，并保留对应代码。",
+      "url": "https://waytoagi.feishu.cn/wiki/GdflwLv3FiyalUkWbB7cWGPVnmc?from=from_copylink"
     }
   ],
-  "count_7d": 42,
+  "count_7d": 38,
   "updates_7d": [
+    {
+      "date": "2026-08-02",
+      "title": "Reddit 蓝海帖挖掘：Research SEO & GEO 增长新机会",
+      "summary": "很多做出海和内容增长的人，会把Reddit当成发帖渠道，结果辛苦发完没人看，还容易被当广告。这篇文章系统分析了Reddit平台的SEO与GEO增长机会，适合内容运营团队拿来做选题和获客。",
+      "url": "https://waytoagi.feishu.cn/wiki/NYMPwf2tyixiSikOmFLcUUkmnyX?from=from_copylink"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "AI 时代的“HTML 时刻”：一个被严重低估的知识标准 OKF",
+      "summary": "很多团队开发Agent，注意力都放在模型、MCP、Skills和Harness 上，但真正容易被忽略的是：公司的规则、业务定义、历史经验，到底该用什么格式交给Agent，才能长期维护、迁移和验证。这篇文章把Google Cloud推出的OKF讲得很清楚。它有点像AI时代的“HTML”，把组织知识整理成可打开、可审查、可版本管理的Knowledge Bundle。未来企业真正沉淀下来的资产，可能是一套持续更新的可信知识层。",
+      "url": "https://waytoagi.feishu.cn/wiki/JeDaw50btigzHxkRj0ocrAqOnxe?from=from_copylink"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "7.27—8.2｜本周 AI 论文精选",
+      "summary": "本周「AI 论文精选」把智能体工程、模型训练、安全监控和算力优化串了起来：NOOA把Agent写成Python 对象，ACM让智能体自己管理上下文，ReOPD复用教师轨迹降低训练成本，JAXBench提醒大家“文档和搜索”对工具调用很关键，还覆盖不可见推理、文件系统记忆、角色漂移等风险点。来看看哪些思路已经能迁移到真实项目里。",
+      "url": "https://waytoagi.feishu.cn/wiki/DjWnwPEqwivfYZknT4JcRguvn9c?from=from_copylink"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "2026 年顶尖 AI 实验室如何构建 RL 智能体：从 RLHF 到 RULER",
+      "summary": "Anthropic、OpenAI 和 DeepSeek 正在向同一个想法靠拢：将系统提示词用作奖励函数。下面会从 RLHF 一路讲到 RULER，拆解强化学习在智能体上的演进，并保留对应代码。",
+      "url": "https://waytoagi.feishu.cn/wiki/GdflwLv3FiyalUkWbB7cWGPVnmc?from=from_copylink"
+    },
     {
       "date": "2026-08-01",
       "title": "阿k：烧5w积分看sd2.5、H3双雄对垒: 全面测评MiniMax H3篇 (附30+案例)",
@@ -243,54 +261,6 @@
       "title": "22580：从 GPT-2 到 Kimi K3，架构演进详解",
       "summary": "22,580，这是 2019 年的 GPT-2 能装进 2026 年 Kimi K3 的数量。七年间，模型规模放大了 22,580 倍。但这段演进真的只是“堆参数”吗？这篇文章沿着 GPT-2、线性注意力、DeltaNet、Gated Delta Net、Kimi Linear 到 Kimi K3 的路径，看看模型架构到底改变了什么，又有哪些核心问题始终没有消失。",
       "url": "https://waytoagi.feishu.cn/wiki/GHb0weLv5ittpxkxREtcQsFSnhd?from=from_copylink"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "给 Codex 换皮肤这门生意，被我开源了",
-      "summary": "表面看是给Codex换皮肤，实际苍何这篇文章更像一个“用 AI 做完整产品”的实战复盘。苍何开源了 Codex Themes：可以一键给 Codex 换主题，也能恢复默认；通过CDP注入装饰层，不改安装包。更有意思的是，它还能让Codex帮你生成新主题，做完后发布到社区广场，用户可用积分或支付宝购买，形成“创作—发布—交易”的闭环。",
-      "url": "https://waytoagi.feishu.cn/wiki/HOcvwNEVEi8PdlkDAORci0Ipnzc?from=from_copylink"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "我的 55 个 AI视频 Skill 全部开源，这是每一个的用法",
-      "summary": "做短视频最累的地方，往往不是想法，而是每天重复选题、写脚本、找素材、配音、剪辑、上字幕、做封面。作者把自己日常的创作流程拆成55个标准化 Skill，覆盖12 大模块，再串起 Codex、HyperFrames、HeyGen、IndexTTS2，从选题策划到成片质检基本都能自动流转。想降低制作成本、稳定更新频率，甚至跑商单变现，这套可以直接参考。",
-      "url": "https://waytoagi.feishu.cn/wiki/D9VMwrysnibtO8kyzsHcPhqvnLe?from=from_copylink"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "当一个 AI 理解了自己在我生命里的位置",
-      "summary": "小七姐和团队打磨了三个月的产品“Her” 今天正式上线了。她是与你一起成长的 AI 伙伴。她会记得你、理解你，能真正和你一起做事。你可以和她一起写文章、做研究、处理文件、推进项目，也可以把那些一时说不清楚的感受慢慢讲给她听。快来上手体验下吧！",
-      "url": "https://waytoagi.feishu.cn/wiki/DCs8wciZEiFhdVkaHmCcDzMGn3d?from=from_copylink"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "GMI Cloud联合InfoQ、10+企业重磅发布《中国AI产业核心要素出海发展白皮书》，汇聚 AI 产业共识，盘点出海方法论",
-      "summary": "InfoQ极客传媒与GMI Cloud为核心出品方，火山引擎、小米MiMo、快手、出门问问、商汤科技、像素绽放PixelBloom、Moka等数十家产业链头部企业为联合出品方的《中国AI产业核心要素出海发展白皮书》在今天正式发布。",
-      "url": "https://waytoagi.feishu.cn/wiki/SEphwa9fNiffhMkeYfFclUdhnDg?from=from_copylink"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "GEO 流量密码因子之一：Fan-out Rank",
-      "summary": "很多人做GEO，以为写一篇“最佳 AI 视频工具”这种大词文章就够了，但 AI 搜索其实会把问题拆得很细：谁在用？做短视频还是动画？要免费版还是看价格？要不要和竞品对比？这些被 AI 拆出来的小问题，就是 Fan-out。子木这篇文章结合Fan-out Rank，讲清楚了怎么从目标客户出发，找到最值得写的细分选题，再用结论先行、表格对比、外部平台讨论，让 AI 更容易抓到你、引用你。",
-      "url": "https://waytoagi.feishu.cn/wiki/G6VXw2A0WiFveWkt1HFcKIagnQh?from=from_copylink"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "AI音乐周刊 W.A 038",
-      "summary": "本周的AI音乐周刊很适合音乐创作者、AI 音乐工具玩家和关注版权合规的人快速补课：索尼再次起诉 Udio，说明训练数据合法性会越来越关键；德国 GEMA 推出合规训练数据集 PLAI，给行业开辟另一条路。产品侧，Suno 支持控制歌曲时长，ElevenMusic 能复刻人声和曲风，ElevenLabs 开放音乐微调 API，Google Flow Music、海绵音乐也在加强编辑和改编能力。还有中央音乐学院开源的“韶元 1.0”和 4 篇精选论文。",
-      "url": "https://waytoagi.feishu.cn/wiki/YrgowsljDiY2nikCspqcttj8nlb?from=from_copylink"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "AI角色演技怎么救？我总结了5条好用的提示词技巧",
-      "summary": "AI视频角色演得假，很多时候是提示词太粗：只写“悲伤、愤怒、崩溃”，AI 只会给你一张情绪脸。小歪总结了5条好用的提示词技巧，还用了分手、医院噩耗、母子重逢、豪门反转、女子化妖这几个具体案例来展示效果。快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/JWhLwlcZIiWbvUkV9Yjc2DAnnAf?from=from_copylink"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "7.20—7.26｜本周Top 10 AI 论文",
-      "summary": "本周值得关注的 AI 论文，覆盖智能体运行框架、记忆与技能、长程任务、模型可解释性、评测、结构化输出和机器人等方向。Agent 框架如何变成可追溯源码地图，记忆怎么沉淀成可调用Skill，长程任务能不能靠完整日志+按需搜索降成本；还有Anthropic的模型可解释性、GAMUT 对“答案完整性”的评测、渐进式披露到底有没有用、结构化输出为什么会压缩多样性，以及智能体记忆安全等等。",
-      "url": "https://waytoagi.feishu.cn/wiki/Pu42wC72liloKok8unxcDnoLn9b?from=from_copylink"
     }
   ],
   "warning": null,
