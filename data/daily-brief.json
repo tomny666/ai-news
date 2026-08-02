@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T00:12:04.968286Z",
+  "generated_at": "2026-08-02T03:52:55.354909Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-02T00:12:04.968286Z",
-      "latest_at": "2026-08-02T00:12:04.968286Z",
+      "earliest_at": "2026-08-02T03:52:55.354909Z",
+      "latest_at": "2026-08-02T03:52:55.354909Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:12:49.950504Z"
+        "scored_at": "2026-08-02T03:53:37.018492Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8226,
+        "recency": 0.78,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -195,7 +195,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:12:49.950504Z"
+        "scored_at": "2026-08-02T03:53:37.018492Z"
       }
     },
     {
@@ -243,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
+      "score": 0.724,
+      "importance": 0.724,
+      "importance_score": 0.724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7465,
+        "recency": 0.7078,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -276,88 +276,231 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:12:49.950504Z"
+        "scored_at": "2026-08-02T03:53:37.018492Z"
       }
     },
     {
-      "story_id": "story_5f7b5ebc21a9",
-      "title": "OpenAI Astra 以约2000美元证明10项数学难题 / ten significant advances in mathematics and theoretical computer science. solved using an internal …",
-      "url": "https://x.com/gdb/status/2083457463337287721",
-      "primary_url": "https://x.com/gdb/status/2083457463337287721",
-      "source": "X：Greg Brockman (@gdb)",
-      "source_name": "AI HOT",
+      "story_id": "story_2cd8c56b242c",
+      "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
+      "url": "https://news.ycombinator.com/item?id=49139102",
+      "primary_url": "https://news.ycombinator.com/item?id=49139102",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "5388e09d34b8b96f7241cc196d2cde3bb212a98d",
-          "title": "OpenAI Astra 以约2000美元证明10项数学难题 / ten significant advances in mathematics and theoretical computer science. solved using an internal …",
-          "title_zh": "OpenAI Astra 以约2000美元证明10项数学难题",
-          "title_en": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
-          "title_original": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
-          "summary": "OpenAI 用下一代模型 Astra 内部版解决了数学与理论计算机科学领域的10项重大进展，总成本约2000美元（按 Sol API 价格计算）。Astra 证明了非 sofic 群的存在，并推翻 Connes 刚性猜想，成果涵盖 von Neumann 代数、高维球堆积、电路复杂度等。OpenAI 已发布全部10项证明，附 Lean 证书与 CoT 逐步推导。",
+          "id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
+          "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_zh": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题",
+          "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2083457463337287721",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-01T07:39:02Z"
+          "url": "https://news.ycombinator.com/item?id=49139102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T03:53:16.910000Z"
+        },
+        {
+          "id": "0e1018d749979b50e90fe930365a1bc914b6ff1b",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_en": null,
+          "title_original": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "mitsloan.mit.edu",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T00:41:17.348000Z"
+        },
+        {
+          "id": "64426728f85233c960229c6a3e5579917579a7e7",
+          "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
+          "title_zh": "如果你提出正确的问题，人工智能的财务建议会出奇地好",
+          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
+          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49139102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T23:54:50.574000Z"
+        },
+        {
+          "id": "c3f29c8509745216f7b46dcf7cc7c70be1d41160",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good if you ask the right questions",
+          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
+          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T22:25:12Z"
+        },
+        {
+          "id": "b6b7111cd3c30b9939c52702f3f026caaaf55f1f",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T22:25:12Z"
+        },
+        {
+          "id": "9126135bf5ecfda8cea2ab4b9ffea2fbba8cc6dd",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / From MIT: AI financial advice is surprisingly good",
+          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_en": "From MIT: AI financial advice is surprisingly good",
+          "title_original": "From MIT: AI financial advice is surprisingly good",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T22:25:12Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 6,
       "source_names": [
-        "X：Greg Brockman (@gdb)"
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "mitsloan.mit.edu"
       ],
       "items": [
         {
-          "id": "5388e09d34b8b96f7241cc196d2cde3bb212a98d",
-          "title": "OpenAI Astra 以约2000美元证明10项数学难题 / ten significant advances in mathematics and theoretical computer science. solved using an internal …",
-          "title_zh": "OpenAI Astra 以约2000美元证明10项数学难题",
-          "title_en": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
-          "title_original": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
-          "summary": "OpenAI 用下一代模型 Astra 内部版解决了数学与理论计算机科学领域的10项重大进展，总成本约2000美元（按 Sol API 价格计算）。Astra 证明了非 sofic 群的存在，并推翻 Connes 刚性猜想，成果涵盖 von Neumann 代数、高维球堆积、电路复杂度等。OpenAI 已发布全部10项证明，附 Lean 证书与 CoT 逐步推导。",
+          "id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
+          "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_zh": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题",
+          "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2083457463337287721",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-01T07:39:02Z"
+          "url": "https://news.ycombinator.com/item?id=49139102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T03:53:16.910000Z"
+        },
+        {
+          "id": "0e1018d749979b50e90fe930365a1bc914b6ff1b",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_en": null,
+          "title_original": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "mitsloan.mit.edu",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T00:41:17.348000Z"
+        },
+        {
+          "id": "64426728f85233c960229c6a3e5579917579a7e7",
+          "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
+          "title_zh": "如果你提出正确的问题，人工智能的财务建议会出奇地好",
+          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
+          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49139102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T23:54:50.574000Z"
+        },
+        {
+          "id": "c3f29c8509745216f7b46dcf7cc7c70be1d41160",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good if you ask the right questions",
+          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
+          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T22:25:12Z"
+        },
+        {
+          "id": "b6b7111cd3c30b9939c52702f3f026caaaf55f1f",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T22:25:12Z"
+        },
+        {
+          "id": "9126135bf5ecfda8cea2ab4b9ffea2fbba8cc6dd",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / From MIT: AI financial advice is surprisingly good",
+          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_en": "From MIT: AI financial advice is surprisingly good",
+          "title_original": "From MIT: AI financial advice is surprisingly good",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T22:25:12Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7233,
-      "importance": 0.7233,
-      "importance_score": 0.7233,
-      "importance_label": "行业动态",
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6208,
+      "importance": 0.6208,
+      "importance_score": 0.6208,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7874,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-01T07:39:02Z",
-      "latest_at": "2026-08-01T07:39:02Z",
+      "earliest_at": "2026-08-01T22:25:12Z",
+      "latest_at": "2026-08-02T03:53:16.910000Z",
       "primary_item": {
-        "id": "5388e09d34b8b96f7241cc196d2cde3bb212a98d",
-        "title": "OpenAI Astra 以约2000美元证明10项数学难题 / ten significant advances in mathematics and theoretical computer science. solved using an internal …",
-        "title_zh": "OpenAI Astra 以约2000美元证明10项数学难题",
-        "title_en": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
-        "title_original": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
-        "summary": "OpenAI 用下一代模型 Astra 内部版解决了数学与理论计算机科学领域的10项重大进展，总成本约2000美元（按 Sol API 价格计算）。Astra 证明了非 sofic 群的存在，并推翻 Connes 刚性猜想，成果涵盖 von Neumann 代数、高维球堆积、电路复杂度等。OpenAI 已发布全部10项证明，附 Lean 证书与 CoT 逐步推导。",
+        "id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
+        "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
+        "title_zh": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题",
+        "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
+        "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://x.com/gdb/status/2083457463337287721",
-        "source": "X：Greg Brockman (@gdb)",
-        "source_name": "AI HOT"
+        "url": "https://news.ycombinator.com/item?id=49139102",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:12:49.950504Z"
+        "scored_at": "2026-08-02T03:53:37.018492Z"
       }
     },
     {
@@ -492,15 +635,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5811,
-      "importance": 0.5811,
-      "importance_score": 0.5811,
+      "score": 0.5725,
+      "importance": 0.5725,
+      "importance_score": 0.5725,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9182,
+        "recency": 0.8707,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -525,146 +668,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:12:49.950504Z"
-      }
-    },
-    {
-      "story_id": "story_2cd8c56b242c",
-      "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
-      "url": "https://news.ycombinator.com/item?id=49139102",
-      "primary_url": "https://news.ycombinator.com/item?id=49139102",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "64426728f85233c960229c6a3e5579917579a7e7",
-          "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
-          "title_zh": "如果你提出正确的问题，人工智能的财务建议会出奇地好",
-          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
-          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49139102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T23:54:50.574000Z"
-        },
-        {
-          "id": "c3f29c8509745216f7b46dcf7cc7c70be1d41160",
-          "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
-          "title_zh": "如果你提出正确的问题，人工智能的财务建议会出奇地好",
-          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
-          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T22:25:12Z"
-        },
-        {
-          "id": "9126135bf5ecfda8cea2ab4b9ffea2fbba8cc6dd",
-          "title": "麻省理工学院：人工智能财务建议出奇的好 / From MIT: AI financial advice is surprisingly good",
-          "title_zh": "麻省理工学院：人工智能财务建议出奇的好",
-          "title_en": "From MIT: AI financial advice is surprisingly good",
-          "title_original": "From MIT: AI financial advice is surprisingly good",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T22:25:12Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "64426728f85233c960229c6a3e5579917579a7e7",
-          "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
-          "title_zh": "如果你提出正确的问题，人工智能的财务建议会出奇地好",
-          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
-          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49139102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T23:54:50.574000Z"
-        },
-        {
-          "id": "c3f29c8509745216f7b46dcf7cc7c70be1d41160",
-          "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
-          "title_zh": "如果你提出正确的问题，人工智能的财务建议会出奇地好",
-          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
-          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T22:25:12Z"
-        },
-        {
-          "id": "9126135bf5ecfda8cea2ab4b9ffea2fbba8cc6dd",
-          "title": "麻省理工学院：人工智能财务建议出奇的好 / From MIT: AI financial advice is surprisingly good",
-          "title_zh": "麻省理工学院：人工智能财务建议出奇的好",
-          "title_en": "From MIT: AI financial advice is surprisingly good",
-          "title_original": "From MIT: AI financial advice is surprisingly good",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T22:25:12Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5701,
-      "importance": 0.5701,
-      "importance_score": 0.5701,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9959,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T22:25:12Z",
-      "latest_at": "2026-08-01T23:54:50.574000Z",
-      "primary_item": {
-        "id": "64426728f85233c960229c6a3e5579917579a7e7",
-        "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
-        "title_zh": "如果你提出正确的问题，人工智能的财务建议会出奇地好",
-        "title_en": "AI financial advice is surprisingly good if you ask the right questions",
-        "title_original": "AI financial advice is surprisingly good if you ask the right questions",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49139102",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:12:49.950504Z"
+        "scored_at": "2026-08-02T03:53:37.018492Z"
       }
     },
     {
@@ -770,15 +774,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5542,
-      "importance": 0.5542,
-      "importance_score": 0.5542,
+      "score": 0.5457,
+      "importance": 0.5457,
+      "importance_score": 0.5457,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9076,
+        "recency": 0.8606,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -803,7 +807,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:12:49.950504Z"
+        "scored_at": "2026-08-02T03:53:37.018492Z"
       }
     },
     {
@@ -880,15 +884,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5423,
-      "importance": 0.5423,
-      "importance_score": 0.5423,
+      "score": 0.5332,
+      "importance": 0.5332,
+      "importance_score": 0.5332,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9806,
+        "recency": 0.9298,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -913,7 +917,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:12:49.950504Z"
+        "scored_at": "2026-08-02T03:53:37.018492Z"
       }
     },
     {
@@ -1019,15 +1023,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5398,
-      "importance": 0.5398,
-      "importance_score": 0.5398,
+      "score": 0.532,
+      "importance": 0.532,
+      "importance_score": 0.532,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8275,
+        "recency": 0.7847,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1052,146 +1056,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:12:49.950504Z"
+        "scored_at": "2026-08-02T03:53:37.018492Z"
       }
     },
     {
-      "story_id": "story_03b9f05044c9",
-      "title": "Flint：面向人工智能时代的可视化语言",
-      "url": "https://microsoft.github.io/flint-chart",
-      "primary_url": "https://microsoft.github.io/flint-chart",
-      "source": "microsoft.github.io",
-      "source_name": "Buzzing",
+      "story_id": "story_2aa8e79a0b19",
+      "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+      "url": "https://news.ycombinator.com/item?id=49140340",
+      "primary_url": "https://news.ycombinator.com/item?id=49140340",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
-          "title": "Flint：面向人工智能时代的可视化语言",
-          "title_zh": "Flint：面向人工智能时代的可视化语言",
-          "title_en": null,
-          "title_original": "Flint：面向人工智能时代的可视化语言",
+          "id": "206af265b950be5f12e82285bf43bfc57041e321",
+          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
+          "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "title_original": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://microsoft.github.io/flint-chart",
-          "source": "microsoft.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T08:41:23.781000Z"
-        },
-        {
-          "id": "7566c9af461db37ce69beab06930c018b0a158ec",
-          "title": "Flint：AI时代的可视化语言 / Flint: A Visualization Language for the AI Era",
-          "title_zh": "Flint：AI时代的可视化语言",
-          "title_en": "Flint: A Visualization Language for the AI Era",
-          "title_original": "Flint: A Visualization Language for the AI Era",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49130604",
+          "url": "https://news.ycombinator.com/item?id=49140340",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-01T03:23:21.045000Z"
+          "published_at": "2026-08-02T03:53:16.910000Z"
         },
         {
-          "id": "ed35827006d0817c480f3ca25d737c19b8b90564",
-          "title": "Flint：面向人工智能时代的可视化语言 / Flint: A Visualization Language for the AI Era",
-          "title_zh": "Flint：面向人工智能时代的可视化语言",
-          "title_en": "Flint: A Visualization Language for the AI Era",
-          "title_original": "Flint: A Visualization Language for the AI Era",
+          "id": "a464cc9c391a2d0a3f82a308418e84e489b2da68",
+          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
+          "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "title_original": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://microsoft.github.io/flint-chart",
+          "url": "https://costperprompt.com",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-01T02:45:09Z"
+          "published_at": "2026-08-02T01:56:44Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "hackernews",
-        "microsoft.github.io"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
-          "title": "Flint：面向人工智能时代的可视化语言",
-          "title_zh": "Flint：面向人工智能时代的可视化语言",
-          "title_en": null,
-          "title_original": "Flint：面向人工智能时代的可视化语言",
+          "id": "206af265b950be5f12e82285bf43bfc57041e321",
+          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
+          "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "title_original": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://microsoft.github.io/flint-chart",
-          "source": "microsoft.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T08:41:23.781000Z"
-        },
-        {
-          "id": "7566c9af461db37ce69beab06930c018b0a158ec",
-          "title": "Flint：AI时代的可视化语言 / Flint: A Visualization Language for the AI Era",
-          "title_zh": "Flint：AI时代的可视化语言",
-          "title_en": "Flint: A Visualization Language for the AI Era",
-          "title_original": "Flint: A Visualization Language for the AI Era",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49130604",
+          "url": "https://news.ycombinator.com/item?id=49140340",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-01T03:23:21.045000Z"
+          "published_at": "2026-08-02T03:53:16.910000Z"
         },
         {
-          "id": "ed35827006d0817c480f3ca25d737c19b8b90564",
-          "title": "Flint：面向人工智能时代的可视化语言 / Flint: A Visualization Language for the AI Era",
-          "title_zh": "Flint：面向人工智能时代的可视化语言",
-          "title_en": "Flint: A Visualization Language for the AI Era",
-          "title_original": "Flint: A Visualization Language for the AI Era",
+          "id": "a464cc9c391a2d0a3f82a308418e84e489b2da68",
+          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
+          "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "title_original": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://microsoft.github.io/flint-chart",
+          "url": "https://costperprompt.com",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-01T02:45:09Z"
+          "published_at": "2026-08-02T01:56:44Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7993,
-        "story_heat": 0.5
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-01T02:45:09Z",
-      "latest_at": "2026-08-01T08:41:23.781000Z",
+      "earliest_at": "2026-08-02T01:56:44Z",
+      "latest_at": "2026-08-02T03:53:16.910000Z",
       "primary_item": {
-        "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
-        "title": "Flint：面向人工智能时代的可视化语言",
-        "title_zh": "Flint：面向人工智能时代的可视化语言",
-        "title_en": null,
-        "title_original": "Flint：面向人工智能时代的可视化语言",
+        "id": "206af265b950be5f12e82285bf43bfc57041e321",
+        "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+        "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
+        "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+        "title_original": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://microsoft.github.io/flint-chart",
-        "source": "microsoft.github.io",
-        "source_name": "Buzzing"
+        "url": "https://news.ycombinator.com/item?id=49140340",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:12:49.950504Z"
+        "scored_at": "2026-08-02T03:53:37.018492Z"
       }
     },
     {
@@ -1268,15 +1243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.513,
-      "importance": 0.513,
-      "importance_score": 0.513,
+      "score": 0.5054,
+      "importance": 0.5054,
+      "importance_score": 0.5054,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.818,
+        "recency": 0.7757,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1301,7 +1276,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:12:49.950504Z"
+        "scored_at": "2026-08-02T03:53:37.018492Z"
       }
     },
     {
@@ -1327,7 +1302,7 @@
           "published_at": "2026-08-01T21:54:37.127000Z"
         },
         {
-          "id": "1af37655e7e4bac7d5d6d13fea08039000871601",
+          "id": "48ee38c8138657dc104117e3c028a8aea0732dd1",
           "title": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
           "title_zh": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密",
           "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
@@ -1335,15 +1310,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-01T18:21:41Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
@@ -1362,7 +1337,7 @@
           "published_at": "2026-08-01T21:54:37.127000Z"
         },
         {
-          "id": "1af37655e7e4bac7d5d6d13fea08039000871601",
+          "id": "48ee38c8138657dc104117e3c028a8aea0732dd1",
           "title": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
           "title_zh": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密",
           "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
@@ -1370,23 +1345,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-01T18:21:41Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9675,
+        "recency": 0.9174,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1411,7 +1386,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:12:49.950504Z"
+        "scored_at": "2026-08-02T03:53:37.018492Z"
       }
     },
     {
@@ -1488,15 +1463,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5286,
+      "importance": 0.5286,
+      "importance_score": 0.5286,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9535,
+        "recency": 0.9042,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1521,7 +1496,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:12:49.950504Z"
+        "scored_at": "2026-08-02T03:53:37.018492Z"
       }
     },
     {
@@ -1598,15 +1573,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5231,
-      "importance": 0.5231,
-      "importance_score": 0.5231,
+      "score": 0.515,
+      "importance": 0.515,
+      "importance_score": 0.515,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8742,
+        "recency": 0.8289,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1631,7 +1606,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:12:49.950504Z"
+        "scored_at": "2026-08-02T03:53:37.018492Z"
       }
     },
     {
@@ -1708,15 +1683,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.521,
-      "importance": 0.521,
-      "importance_score": 0.521,
+      "score": 0.5129,
+      "importance": 0.5129,
+      "importance_score": 0.5129,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8621,
+        "recency": 0.8175,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1741,7 +1716,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:12:49.950504Z"
+        "scored_at": "2026-08-02T03:53:37.018492Z"
       }
     },
     {
@@ -1818,15 +1793,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5148,
-      "importance": 0.5148,
-      "importance_score": 0.5148,
+      "score": 0.5071,
+      "importance": 0.5071,
+      "importance_score": 0.5071,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.828,
+        "recency": 0.7852,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1851,7 +1826,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:12:49.950504Z"
+        "scored_at": "2026-08-02T03:53:37.018492Z"
       }
     }
   ]

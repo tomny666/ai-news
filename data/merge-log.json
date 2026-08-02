@@ -1,22 +1,8 @@
 {
-  "generated_at": "2026-08-02T00:12:04.968286Z",
+  "generated_at": "2026-08-02T03:52:55.354909Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 19,
+  "total_events": 21,
   "events": [
-    {
-      "story_id": "story_03b9f05044c9",
-      "item_id": "7566c9af461db37ce69beab06930c018b0a158ec",
-      "merged_into": "story_03b9f05044c9",
-      "reason": "title_similarity",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_03b9f05044c9",
-      "item_id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
-      "merged_into": "story_03b9f05044c9",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
     {
       "story_id": "story_38cfb64c6a71",
       "item_id": "0327dc4de97b5e0cb0ae3765b12eee1bdb53f4f0",
@@ -117,6 +103,13 @@
     },
     {
       "story_id": "story_2cd8c56b242c",
+      "item_id": "b6b7111cd3c30b9939c52702f3f026caaaf55f1f",
+      "merged_into": "story_2cd8c56b242c",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_2cd8c56b242c",
       "item_id": "9126135bf5ecfda8cea2ab4b9ffea2fbba8cc6dd",
       "merged_into": "story_2cd8c56b242c",
       "reason": "canonical_url",
@@ -133,6 +126,27 @@
       "story_id": "story_2cd8c56b242c",
       "item_id": "64426728f85233c960229c6a3e5579917579a7e7",
       "merged_into": "story_2cd8c56b242c",
+      "reason": "title_similarity",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_2cd8c56b242c",
+      "item_id": "0e1018d749979b50e90fe930365a1bc914b6ff1b",
+      "merged_into": "story_2cd8c56b242c",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_2cd8c56b242c",
+      "item_id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
+      "merged_into": "story_2cd8c56b242c",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_2aa8e79a0b19",
+      "item_id": "206af265b950be5f12e82285bf43bfc57041e321",
+      "merged_into": "story_2aa8e79a0b19",
       "reason": "title_similarity",
       "similarity": 1.0
     }
