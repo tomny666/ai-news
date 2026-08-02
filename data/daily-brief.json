@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T09:21:09.166923Z",
+  "generated_at": "2026-08-02T11:34:29.982321Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-02T09:21:09.166923Z",
-      "latest_at": "2026-08-02T09:21:09.166923Z",
+      "earliest_at": "2026-08-02T11:34:29.982321Z",
+      "latest_at": "2026-08-02T11:34:29.982321Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T09:21:48.637443Z"
+        "scored_at": "2026-08-02T11:35:06.018803Z"
+      }
+    },
+    {
+      "story_id": "story_df555478b2e0",
+      "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+      "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+      "primary_url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
+          "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "title_zh": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "title_en": null,
+          "title_original": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "summary": "Codex 高阶玩法：让 Sol 在 `~/.codex/agents/` 下创建 `luna-worker.toml` 子代理，模型设 `gpt-5.6-luna`、reasoning effort 设 max，Sol 负责拆任务与审代码，具体实现自动委托给 Luna Max。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T10:47:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
+          "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "title_zh": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "title_en": null,
+          "title_original": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "summary": "Codex 高阶玩法：让 Sol 在 `~/.codex/agents/` 下创建 `luna-worker.toml` 子代理，模型设 `gpt-5.6-luna`、reasoning effort 设 max，Sol 负责拆任务与审代码，具体实现自动委托给 Luna Max。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T10:47:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7746,
+      "importance": 0.7746,
+      "importance_score": 0.7746,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9887,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-02T10:47:27Z",
+      "latest_at": "2026-08-02T10:47:27Z",
+      "primary_item": {
+        "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
+        "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+        "title_zh": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+        "title_en": null,
+        "title_original": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+        "summary": "Codex 高阶玩法：让 Sol 在 `~/.codex/agents/` 下创建 `luna-worker.toml` 子代理，模型设 `gpt-5.6-luna`、reasoning effort 设 max，Sol 负责拆任务与审代码，具体实现自动委托给 Luna Max。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T11:35:06.018803Z"
       }
     },
     {
@@ -131,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9582,
+        "recency": 0.928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,118 +247,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T09:21:48.637443Z"
-      }
-    },
-    {
-      "story_id": "story_e2eeec323e5b",
-      "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-      "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-      "primary_url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
-          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
-          "title_en": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-          "title_original": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-          "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成\"记忆化\"侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-01T10:40:50Z"
-        },
-        {
-          "id": "2cc809b0a77054825de745d64e2dce91c47b83e6",
-          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights, rejects fair use defense",
-          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
-          "title_en": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
-          "title_original": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-01T10:40:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
-          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
-          "title_en": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-          "title_original": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-          "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成\"记忆化\"侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-01T10:40:50Z"
-        },
-        {
-          "id": "2cc809b0a77054825de745d64e2dce91c47b83e6",
-          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights, rejects fair use defense",
-          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
-          "title_en": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
-          "title_original": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-01T10:40:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7208,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-01T10:40:50Z",
-      "latest_at": "2026-08-01T10:40:50Z",
-      "primary_item": {
-        "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
-        "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-        "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
-        "title_en": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-        "title_original": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-        "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成\"记忆化\"侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T09:21:48.637443Z"
+        "scored_at": "2026-08-02T11:35:06.018803Z"
       }
     },
     {
@@ -467,15 +438,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6071,
-      "importance": 0.6071,
-      "importance_score": 0.6071,
+      "score": 0.6019,
+      "importance": 0.6019,
+      "importance_score": 0.6019,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9241,
+        "recency": 0.8949,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -500,7 +471,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T09:21:48.637443Z"
+        "scored_at": "2026-08-02T11:35:06.018803Z"
       }
     },
     {
@@ -635,15 +606,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5606,
-      "importance": 0.5606,
-      "importance_score": 0.5606,
+      "score": 0.556,
+      "importance": 0.556,
+      "importance_score": 0.556,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8045,
+        "recency": 0.7791,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -668,7 +639,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T09:21:48.637443Z"
+        "scored_at": "2026-08-02T11:35:06.018803Z"
       }
     },
     {
@@ -745,15 +716,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
+      "score": 0.5352,
+      "importance": 0.5352,
+      "importance_score": 0.5352,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9716,
+        "recency": 0.9409,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -778,7 +749,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T09:21:48.637443Z"
+        "scored_at": "2026-08-02T11:35:06.018803Z"
       }
     },
     {
@@ -884,15 +855,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5339,
-      "importance": 0.5339,
-      "importance_score": 0.5339,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7953,
+        "recency": 0.7701,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -917,7 +888,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T09:21:48.637443Z"
+        "scored_at": "2026-08-02T11:35:06.018803Z"
       }
     },
     {
@@ -994,15 +965,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5205,
-      "importance": 0.5205,
-      "importance_score": 0.5205,
+      "score": 0.5156,
+      "importance": 0.5156,
+      "importance_score": 0.5156,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8592,
+        "recency": 0.832,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1027,7 +998,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T09:21:48.637443Z"
+        "scored_at": "2026-08-02T11:35:06.018803Z"
+      }
+    },
+    {
+      "story_id": "story_2686ce80dcaa",
+      "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+      "url": "https://news.ycombinator.com/item?id=49143001",
+      "primary_url": "https://news.ycombinator.com/item?id=49143001",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
+          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
+          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49143001",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T11:23:25.394000Z"
+        },
+        {
+          "id": "448465f8e3efbcbdbc6b0875972fea9f5c7b8c4b",
+          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
+          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://publicdomainreview.org/essay/ars-notoria",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T10:18:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
+          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
+          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49143001",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T11:23:25.394000Z"
+        },
+        {
+          "id": "448465f8e3efbcbdbc6b0875972fea9f5c7b8c4b",
+          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
+          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://publicdomainreview.org/essay/ars-notoria",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T10:18:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9973,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T10:18:24Z",
+      "latest_at": "2026-08-02T11:23:25.394000Z",
+      "primary_item": {
+        "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
+        "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+        "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
+        "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+        "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49143001",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T11:35:06.018803Z"
       }
     },
     {
@@ -1053,7 +1134,7 @@
           "published_at": "2026-08-02T03:53:16.910000Z"
         },
         {
-          "id": "a464cc9c391a2d0a3f82a308418e84e489b2da68",
+          "id": "e479f96c2299848e12f537f3352467eb3eaf1aed",
           "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
           "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
           "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
@@ -1061,15 +1142,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://costperprompt.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-02T01:56:44Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
@@ -1088,7 +1169,7 @@
           "published_at": "2026-08-02T03:53:16.910000Z"
         },
         {
-          "id": "a464cc9c391a2d0a3f82a308418e84e489b2da68",
+          "id": "e479f96c2299848e12f537f3352467eb3eaf1aed",
           "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
           "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
           "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
@@ -1096,23 +1177,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://costperprompt.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-02T01:56:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9241,
+        "recency": 0.8949,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1137,7 +1218,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T09:21:48.637443Z"
+        "scored_at": "2026-08-02T11:35:06.018803Z"
       }
     },
     {
@@ -1214,15 +1295,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5184,
-      "importance": 0.5184,
-      "importance_score": 0.5184,
+      "score": 0.5136,
+      "importance": 0.5136,
+      "importance_score": 0.5136,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8477,
+        "recency": 0.8209,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1247,7 +1328,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T09:21:48.637443Z"
+        "scored_at": "2026-08-02T11:35:06.018803Z"
       }
     },
     {
@@ -1324,15 +1405,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5162,
-      "importance": 0.5162,
-      "importance_score": 0.5162,
+      "score": 0.5114,
+      "importance": 0.5114,
+      "importance_score": 0.5114,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8355,
+        "recency": 0.8091,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1357,7 +1438,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T09:21:48.637443Z"
+        "scored_at": "2026-08-02T11:35:06.018803Z"
       }
     },
     {
@@ -1434,15 +1515,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5037,
-      "importance": 0.5037,
-      "importance_score": 0.5037,
+      "score": 0.4993,
+      "importance": 0.4993,
+      "importance_score": 0.4993,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7659,
+        "recency": 0.7418,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1464,10 +1545,10 @@
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T09:21:48.637443Z"
+        "scored_at": "2026-08-02T11:35:06.018803Z"
       }
     },
     {
@@ -1544,15 +1625,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5018,
-      "importance": 0.5018,
-      "importance_score": 0.5018,
+      "score": 0.4975,
+      "importance": 0.4975,
+      "importance_score": 0.4975,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7554,
+        "recency": 0.7315,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1574,10 +1655,10 @@
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T09:21:48.637443Z"
+        "scored_at": "2026-08-02T11:35:06.018803Z"
       }
     }
   ]
