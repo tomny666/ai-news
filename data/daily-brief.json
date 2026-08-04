@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T21:36:02.566778Z",
+  "generated_at": "2026-08-04T23:18:25.876358Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -24,11 +24,26 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-08-04T19:00:00Z"
+        },
+        {
+          "id": "bf5b333699fa8cee02a68c8fe27dd01158d97587",
+          "title": "涉及 OpenAI 模型的第三方网络评估 / Third-party cyber evaluations involving OpenAI models",
+          "title_zh": "涉及 OpenAI 模型的第三方网络评估",
+          "title_en": "Third-party cyber evaluations involving OpenAI models",
+          "title_original": "Third-party cyber evaluations involving OpenAI models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49175248",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-04T23:08:46.845000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "OpenAI News",
+        "hackernews"
       ],
       "items": [
         {
@@ -44,29 +59,44 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-08-04T19:00:00Z"
+        },
+        {
+          "id": "bf5b333699fa8cee02a68c8fe27dd01158d97587",
+          "title": "涉及 OpenAI 模型的第三方网络评估 / Third-party cyber evaluations involving OpenAI models",
+          "title_zh": "涉及 OpenAI 模型的第三方网络评估",
+          "title_en": "Third-party cyber evaluations involving OpenAI models",
+          "title_original": "Third-party cyber evaluations involving OpenAI models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49175248",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-04T23:08:46.845000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8574,
-      "importance": 0.8574,
-      "importance_score": 0.8574,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8781,
+      "importance": 0.8781,
+      "importance_score": 0.8781,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.9631,
-        "story_heat": 0.0
+        "recency": 0.9397,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-08-04T19:00:00Z",
-      "latest_at": "2026-08-04T19:00:00Z",
+      "latest_at": "2026-08-04T23:08:46.845000Z",
       "primary_item": {
         "id": "56547598ec4d3c59330bc56ab8fade3ecbd44a26",
         "title": "涉及 OpenAI 模型的第三方网络评估 / Third-party cyber evaluations involving OpenAI models",
@@ -83,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T21:36:45.641648Z"
+        "scored_at": "2026-08-04T23:19:25.095190Z"
       }
     },
     {
@@ -131,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8458,
-      "importance": 0.8458,
-      "importance_score": 0.8458,
+      "score": 0.8415,
+      "importance": 0.8415,
+      "importance_score": 0.8415,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9654,
+        "recency": 0.9419,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T21:36:45.641648Z"
+        "scored_at": "2026-08-04T23:19:25.095190Z"
       }
     },
     {
@@ -214,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8455,
-      "importance": 0.8455,
-      "importance_score": 0.8455,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9637,
+        "recency": 0.9403,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T21:36:45.641648Z"
+        "scored_at": "2026-08-04T23:19:25.095190Z"
       }
     },
     {
@@ -297,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8412,
-      "importance": 0.8412,
-      "importance_score": 0.8412,
+      "score": 0.8373,
+      "importance": 0.8373,
+      "importance_score": 0.8373,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8957,
+        "recency": 0.8739,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T21:36:45.641648Z"
+        "scored_at": "2026-08-04T23:19:25.095190Z"
       }
     },
     {
@@ -380,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.823,
-      "importance": 0.823,
-      "importance_score": 0.823,
+      "score": 0.8191,
+      "importance": 0.8191,
+      "importance_score": 0.8191,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8832,
+        "recency": 0.8617,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +445,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T21:36:45.641648Z"
+        "scored_at": "2026-08-04T23:19:25.095190Z"
       }
     },
     {
@@ -521,15 +551,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
+      "score": 0.8046,
+      "importance": 0.8046,
+      "importance_score": 0.8046,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8825,
+        "recency": 0.861,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -556,7 +586,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T21:36:45.641648Z"
+        "scored_at": "2026-08-04T23:19:25.095190Z"
       }
     },
     {
@@ -604,15 +634,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.838,
-      "importance": 0.838,
-      "importance_score": 0.838,
+      "score": 0.8338,
+      "importance": 0.8338,
+      "importance_score": 0.8338,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9667,
+        "recency": 0.9432,
         "story_heat": 0.0
       },
       "category": "official",
@@ -639,112 +669,82 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T21:36:45.641648Z"
+        "scored_at": "2026-08-04T23:19:25.095190Z"
       }
     },
     {
-      "story_id": "story_579f66b7beb0",
-      "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "primary_url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "story_id": "story_b832dd7cc4cf",
+      "title": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法 / New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "primary_url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
-          "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
-          "title_zh": "苹果在这件事上搞错了",
-          "title_en": "Apple is getting this wrong",
-          "title_original": "Apple is getting this wrong",
+          "id": "8717e8a7cc266b174cbe8ac774916e7cb9b3f30b",
+          "title": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法 / New ways to learn and teach with ChatGPT Work and Codex",
+          "title_zh": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法",
+          "title_en": "New ways to learn and teach with ChatGPT Work and Codex",
+          "title_original": "New ways to learn and teach with ChatGPT Work and Codex",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T22:00:00Z"
-        },
-        {
-          "id": "a833a6eb0db2cced4af45800a3813f6fb7acdd2c",
-          "title": "苹果在这件事上搞错了",
-          "title_zh": "苹果在这件事上搞错了",
-          "title_en": null,
-          "title_original": "苹果在这件事上搞错了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-04T07:20:54.985000Z"
+          "published_at": "2026-08-04T00:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "openai.com"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
-          "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
-          "title_zh": "苹果在这件事上搞错了",
-          "title_en": "Apple is getting this wrong",
-          "title_original": "Apple is getting this wrong",
+          "id": "8717e8a7cc266b174cbe8ac774916e7cb9b3f30b",
+          "title": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法 / New ways to learn and teach with ChatGPT Work and Codex",
+          "title_zh": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法",
+          "title_en": "New ways to learn and teach with ChatGPT Work and Codex",
+          "title_original": "New ways to learn and teach with ChatGPT Work and Codex",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T22:00:00Z"
-        },
-        {
-          "id": "a833a6eb0db2cced4af45800a3813f6fb7acdd2c",
-          "title": "苹果在这件事上搞错了",
-          "title_zh": "苹果在这件事上搞错了",
-          "title_en": null,
-          "title_original": "苹果在这件事上搞错了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-04T07:20:54.985000Z"
+          "published_at": "2026-08-04T00:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.825,
-      "importance": 0.825,
-      "importance_score": 0.825,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8166,
+      "importance": 0.8166,
+      "importance_score": 0.8166,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7112,
-        "story_heat": 0.25
+        "ai_relevance": 0.99,
+        "recency": 0.7142,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T22:00:00Z",
-      "latest_at": "2026-08-04T07:20:54.985000Z",
+      "earliest_at": "2026-08-04T00:00:00Z",
+      "latest_at": "2026-08-04T00:00:00Z",
       "primary_item": {
-        "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
-        "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
-        "title_zh": "苹果在这件事上搞错了",
-        "title_en": "Apple is getting this wrong",
-        "title_original": "Apple is getting this wrong",
+        "id": "8717e8a7cc266b174cbe8ac774916e7cb9b3f30b",
+        "title": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法 / New ways to learn and teach with ChatGPT Work and Codex",
+        "title_zh": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法",
+        "title_en": "New ways to learn and teach with ChatGPT Work and Codex",
+        "title_original": "New ways to learn and teach with ChatGPT Work and Codex",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/apple-is-getting-this-wrong",
+        "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -752,7 +752,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T21:36:45.641648Z"
+        "scored_at": "2026-08-04T23:19:25.095190Z"
       }
     },
     {
@@ -829,15 +829,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7794,
+        "recency": 0.7604,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -864,7 +864,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T21:36:45.641648Z"
+        "scored_at": "2026-08-04T23:19:25.095190Z"
       }
     },
     {
@@ -912,15 +912,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9324,
+        "recency": 0.9097,
         "story_heat": 0.0
       },
       "category": "official",
@@ -946,7 +946,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T21:36:45.641648Z"
+        "scored_at": "2026-08-04T23:19:25.095190Z"
       }
     },
     {
@@ -994,15 +994,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8298,
-      "importance": 0.8298,
-      "importance_score": 0.8298,
+      "score": 0.8258,
+      "importance": 0.8258,
+      "importance_score": 0.8258,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9211,
+        "recency": 0.8987,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1029,7 +1029,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T21:36:45.641648Z"
+        "scored_at": "2026-08-04T23:19:25.095190Z"
       }
     },
     {
@@ -1077,15 +1077,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7692,
-      "importance": 0.7692,
-      "importance_score": 0.7692,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9088,
+        "recency": 0.8867,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1111,7 +1111,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T21:36:45.641648Z"
+        "scored_at": "2026-08-04T23:19:25.095190Z"
       }
     },
     {
@@ -1159,15 +1159,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7674,
-      "importance": 0.7674,
-      "importance_score": 0.7674,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9655,
+        "recency": 0.942,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1193,90 +1193,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T21:36:45.641648Z"
+        "scored_at": "2026-08-04T23:19:25.095190Z"
       }
     },
     {
-      "story_id": "story_b832dd7cc4cf",
-      "title": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法 / New ways to learn and teach with ChatGPT Work and Codex",
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "primary_url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_48187a538519",
+      "title": "Replit 环境智能：免提示词自动生成设计 / You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+      "url": "https://x.com/Replit/status/2084761337570144424",
+      "primary_url": "https://x.com/Replit/status/2084761337570144424",
+      "source": "X：Replit (@Replit)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8717e8a7cc266b174cbe8ac774916e7cb9b3f30b",
-          "title": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法 / New ways to learn and teach with ChatGPT Work and Codex",
-          "title_zh": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法",
-          "title_en": "New ways to learn and teach with ChatGPT Work and Codex",
-          "title_original": "New ways to learn and teach with ChatGPT Work and Codex",
-          "summary": null,
+          "id": "bb9042948d345786f700efe61ab211a4b2f753a8",
+          "title": "Replit 环境智能：免提示词自动生成设计 / You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+          "title_zh": "Replit 环境智能：免提示词自动生成设计",
+          "title_en": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+          "title_original": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+          "summary": "你无需提示词，也无需设计语言。\n\n环境智能（Ambient Intelligence）会在每个画面旁显示建议卡片，每张卡片都指向你的设计的一个不同方向。点击你喜欢的那张，即可看到它生成一个新的画面。\n\n你再也不必纠结下一步该做什么。\n\n立即在 http://replit.com/design 体验。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T00:00:00Z"
+          "url": "https://x.com/Replit/status/2084761337570144424",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T22:00:10Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "X：Replit (@Replit)"
       ],
       "items": [
         {
-          "id": "8717e8a7cc266b174cbe8ac774916e7cb9b3f30b",
-          "title": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法 / New ways to learn and teach with ChatGPT Work and Codex",
-          "title_zh": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法",
-          "title_en": "New ways to learn and teach with ChatGPT Work and Codex",
-          "title_original": "New ways to learn and teach with ChatGPT Work and Codex",
-          "summary": null,
+          "id": "bb9042948d345786f700efe61ab211a4b2f753a8",
+          "title": "Replit 环境智能：免提示词自动生成设计 / You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+          "title_zh": "Replit 环境智能：免提示词自动生成设计",
+          "title_en": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+          "title_original": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+          "summary": "你无需提示词，也无需设计语言。\n\n环境智能（Ambient Intelligence）会在每个画面旁显示建议卡片，每张卡片都指向你的设计的一个不同方向。点击你喜欢的那张，即可看到它生成一个新的画面。\n\n你再也不必纠结下一步该做什么。\n\n立即在 http://replit.com/design 体验。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T00:00:00Z"
+          "url": "https://x.com/Replit/status/2084761337570144424",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T22:00:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
-      "importance_label": "官方更新",
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.732,
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9813,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T00:00:00Z",
-      "latest_at": "2026-08-04T00:00:00Z",
+      "earliest_at": "2026-08-04T22:00:10Z",
+      "latest_at": "2026-08-04T22:00:10Z",
       "primary_item": {
-        "id": "8717e8a7cc266b174cbe8ac774916e7cb9b3f30b",
-        "title": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法 / New ways to learn and teach with ChatGPT Work and Codex",
-        "title_zh": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法",
-        "title_en": "New ways to learn and teach with ChatGPT Work and Codex",
-        "title_original": "New ways to learn and teach with ChatGPT Work and Codex",
-        "summary": null,
+        "id": "bb9042948d345786f700efe61ab211a4b2f753a8",
+        "title": "Replit 环境智能：免提示词自动生成设计 / You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+        "title_zh": "Replit 环境智能：免提示词自动生成设计",
+        "title_en": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+        "title_original": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+        "summary": "你无需提示词，也无需设计语言。\n\n环境智能（Ambient Intelligence）会在每个画面旁显示建议卡片，每张卡片都指向你的设计的一个不同方向。点击你喜欢的那张，即可看到它生成一个新的画面。\n\n你再也不必纠结下一步该做什么。\n\n立即在 http://replit.com/design 体验。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/Replit/status/2084761337570144424",
+        "source": "X：Replit (@Replit)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T21:36:45.641648Z"
+        "scored_at": "2026-08-04T23:19:25.095190Z"
       }
     },
     {
@@ -1324,15 +1323,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8332,
+        "recency": 0.8129,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1358,7 +1357,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T21:36:45.641648Z"
+        "scored_at": "2026-08-04T23:19:25.095190Z"
       }
     },
     {
@@ -1406,15 +1405,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9473,
+        "recency": 0.9243,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1440,7 +1439,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T21:36:45.641648Z"
+        "scored_at": "2026-08-04T23:19:25.095190Z"
       }
     },
     {
@@ -1517,15 +1516,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7872,
-      "importance": 0.7872,
-      "importance_score": 0.7872,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9533,
+        "recency": 0.9301,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1552,7 +1551,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T21:36:45.641648Z"
+        "scored_at": "2026-08-04T23:19:25.095190Z"
       }
     },
     {
@@ -1600,15 +1599,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8745,
+        "recency": 0.8532,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1633,7 +1632,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T21:36:45.641648Z"
+        "scored_at": "2026-08-04T23:19:25.095190Z"
+      }
+    },
+    {
+      "story_id": "story_cd21c6fddb56",
+      "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+          "title_zh": "破坏刑事诈骗行动",
+          "title_en": "Disrupting a Criminal Scam Operation",
+          "title_original": "Disrupting a Criminal Scam Operation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+          "title_zh": "破坏刑事诈骗行动",
+          "title_en": "Disrupting a Criminal Scam Operation",
+          "title_original": "Disrupting a Criminal Scam Operation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7142,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T00:00:00Z",
+      "latest_at": "2026-08-04T00:00:00Z",
+      "primary_item": {
+        "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+        "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+        "title_zh": "破坏刑事诈骗行动",
+        "title_en": "Disrupting a Criminal Scam Operation",
+        "title_original": "Disrupting a Criminal Scam Operation",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T23:19:25.095190Z"
       }
     },
     {
@@ -1681,15 +1763,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
+      "score": 0.7364,
+      "importance": 0.7364,
+      "importance_score": 0.7364,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9329,
+        "recency": 0.9102,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1714,88 +1796,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T21:36:45.641648Z"
-      }
-    },
-    {
-      "story_id": "story_9cb1dda99735",
-      "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-      "url": "https://x.com/OpenRouter/status/2084699413898027064",
-      "primary_url": "https://x.com/OpenRouter/status/2084699413898027064",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2809224f4448239865410581bb52afce9bd9196f",
-          "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "title_zh": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
-          "title_en": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "title_original": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "summary": "@bfl_ai 的 FLUX 3 Video 现已在 OpenRouter 上向所有人开放。\n\n一个统一的视频、音频、图像和动作预测多模态模型家族。严肃、有趣、创意、真实、电影感，随你所需。基于统一架构联合训练。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2084699413898027064",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T17:54:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "2809224f4448239865410581bb52afce9bd9196f",
-          "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "title_zh": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
-          "title_en": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "title_original": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "summary": "@bfl_ai 的 FLUX 3 Video 现已在 OpenRouter 上向所有人开放。\n\n一个统一的视频、音频、图像和动作预测多模态模型家族。严肃、有趣、创意、真实、电影感，随你所需。基于统一架构联合训练。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2084699413898027064",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T17:54:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7402,
-      "importance": 0.7402,
-      "importance_score": 0.7402,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.948,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T17:54:06Z",
-      "latest_at": "2026-08-04T17:54:06Z",
-      "primary_item": {
-        "id": "2809224f4448239865410581bb52afce9bd9196f",
-        "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-        "title_zh": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
-        "title_en": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-        "title_original": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-        "summary": "@bfl_ai 的 FLUX 3 Video 现已在 OpenRouter 上向所有人开放。\n\n一个统一的视频、音频、图像和动作预测多模态模型家族。严肃、有趣、创意、真实、电影感，随你所需。基于统一架构联合训练。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenRouter/status/2084699413898027064",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T21:36:45.641648Z"
+        "scored_at": "2026-08-04T23:19:25.095190Z"
       }
     }
   ]
