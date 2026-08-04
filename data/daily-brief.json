@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T09:50:40.602713Z",
+  "generated_at": "2026-08-04T12:19:00.381531Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8487,
-      "importance": 0.8487,
-      "importance_score": 0.8487,
+      "score": 0.8434,
+      "importance": 0.8434,
+      "importance_score": 0.8434,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8428,
+        "recency": 0.8132,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T09:51:21.898934Z"
+        "scored_at": "2026-08-04T12:19:46.318439Z"
+      }
+    },
+    {
+      "story_id": "story_58483f682cc5",
+      "title": "CodeQL 2.26.2 添加了 Swift 6.3.3 和 Kotlin 2.4.10 支持 / CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+      "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
+      "primary_url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "eb05eaad8451f7f2ea6aaf954435290c8eb0140e",
+          "title": "CodeQL 2.26.2 添加了 Swift 6.3.3 和 Kotlin 2.4.10 支持 / CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+          "title_zh": "CodeQL 2.26.2 添加了 Swift 6.3.3 和 Kotlin 2.4.10 支持",
+          "title_en": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+          "title_original": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T10:57:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "eb05eaad8451f7f2ea6aaf954435290c8eb0140e",
+          "title": "CodeQL 2.26.2 添加了 Swift 6.3.3 和 Kotlin 2.4.10 支持 / CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+          "title_zh": "CodeQL 2.26.2 添加了 Swift 6.3.3 和 Kotlin 2.4.10 支持",
+          "title_en": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+          "title_original": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T10:57:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9806,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T10:57:39Z",
+      "latest_at": "2026-08-04T10:57:39Z",
+      "primary_item": {
+        "id": "eb05eaad8451f7f2ea6aaf954435290c8eb0140e",
+        "title": "CodeQL 2.26.2 添加了 Swift 6.3.3 和 Kotlin 2.4.10 支持 / CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+        "title_zh": "CodeQL 2.26.2 添加了 Swift 6.3.3 和 Kotlin 2.4.10 支持",
+        "title_en": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+        "title_original": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T12:19:46.318439Z"
       }
     },
     {
@@ -161,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.8275,
+      "importance": 0.8275,
+      "importance_score": 0.8275,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8607,
+        "recency": 0.8306,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,177 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T09:51:21.898934Z"
-      }
-    },
-    {
-      "story_id": "story_268138d2f7c5",
-      "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-      "url": "https://github.com/lyogavin/airllm",
-      "primary_url": "https://github.com/lyogavin/airllm",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
-          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "title_en": null,
-          "title_original": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T16:24:45.027000Z"
-        },
-        {
-          "id": "2717965917d799ff11365290c89986375891fad3",
-          "title": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
-          "title_zh": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
-          "title_en": null,
-          "title_original": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T16:24:45.027000Z"
-        },
-        {
-          "id": "4091e192e6e64bdf51ad9bafe9fca0787e19caad",
-          "title": "使用单个 4GB GPU 进行 AirLLM 70B 推理 / AirLLM 70B inference with single 4GB GPU",
-          "title_zh": "使用单个 4GB GPU 进行 AirLLM 70B 推理",
-          "title_en": "AirLLM 70B inference with single 4GB GPU",
-          "title_original": "AirLLM 70B inference with single 4GB GPU",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49154228",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T15:16:27.780000Z"
-        },
-        {
-          "id": "5805bf72e950dcf5ce1117ff14f9fbd24a81190e",
-          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
-          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "title_en": "AirLLM 70B inference with single 4GB GPU",
-          "title_original": "AirLLM 70B inference with single 4GB GPU",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-03T11:15:48Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
-          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "title_en": null,
-          "title_original": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T16:24:45.027000Z"
-        },
-        {
-          "id": "2717965917d799ff11365290c89986375891fad3",
-          "title": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
-          "title_zh": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
-          "title_en": null,
-          "title_original": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T16:24:45.027000Z"
-        },
-        {
-          "id": "4091e192e6e64bdf51ad9bafe9fca0787e19caad",
-          "title": "使用单个 4GB GPU 进行 AirLLM 70B 推理 / AirLLM 70B inference with single 4GB GPU",
-          "title_zh": "使用单个 4GB GPU 进行 AirLLM 70B 推理",
-          "title_en": "AirLLM 70B inference with single 4GB GPU",
-          "title_original": "AirLLM 70B inference with single 4GB GPU",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49154228",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T15:16:27.780000Z"
-        },
-        {
-          "id": "5805bf72e950dcf5ce1117ff14f9fbd24a81190e",
-          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
-          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "title_en": "AirLLM 70B inference with single 4GB GPU",
-          "title_original": "AirLLM 70B inference with single 4GB GPU",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-03T11:15:48Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8145,
-      "importance": 0.8145,
-      "importance_score": 0.8145,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7775,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T11:15:48Z",
-      "latest_at": "2026-08-03T16:24:45.027000Z",
-      "primary_item": {
-        "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
-        "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-        "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-        "title_en": null,
-        "title_original": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-        "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/lyogavin/airllm",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T09:51:21.898934Z"
+        "scored_at": "2026-08-04T12:19:46.318439Z"
       }
     },
     {
@@ -414,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8281,
-      "importance": 0.8281,
-      "importance_score": 0.8281,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8675,
+        "recency": 0.8371,
         "story_heat": 0.0
       },
       "category": "official",
@@ -449,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T09:51:21.898934Z"
+        "scored_at": "2026-08-04T12:19:46.318439Z"
       }
     },
     {
@@ -526,15 +439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7968,
-      "importance": 0.7968,
-      "importance_score": 0.7968,
+      "score": 0.791,
+      "importance": 0.791,
+      "importance_score": 0.791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9236,
+        "recency": 0.8912,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -561,90 +474,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T09:51:21.898934Z"
+        "scored_at": "2026-08-04T12:19:46.318439Z"
       }
     },
     {
-      "story_id": "story_ced42da72295",
-      "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
-      "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-      "primary_url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_63a94a3ef129",
+      "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+      "url": "https://github.com/leonickson1/Swiftlet",
+      "primary_url": "https://github.com/leonickson1/Swiftlet",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
-          "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
-          "title_zh": "通过评论触发 Copilot 自动化",
-          "title_en": "Trigger Copilot automations with comments",
-          "title_original": "Trigger Copilot automations with comments",
-          "summary": null,
+          "id": "9ca5efb7665863255dd6411d8c3788db9606bd9a",
+          "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+          "title_zh": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+          "title_en": null,
+          "title_original": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+          "summary": "Swiftlet 是一个 Swift + Metal 运行时，可在普通 Apple 设备上运行 Qwen3-Next 和 Qwen3.5/3.6 MoE 混合模型，仅将小型稠密核心驻留内存，按需从存储流式加载路由专家权重。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T19:14:58Z"
+          "url": "https://github.com/leonickson1/Swiftlet",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T06:32:44.149000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
-          "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
-          "title_zh": "通过评论触发 Copilot 自动化",
-          "title_en": "Trigger Copilot automations with comments",
-          "title_original": "Trigger Copilot automations with comments",
-          "summary": null,
+          "id": "9ca5efb7665863255dd6411d8c3788db9606bd9a",
+          "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+          "title_zh": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+          "title_en": null,
+          "title_original": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+          "summary": "Swiftlet 是一个 Swift + Metal 运行时，可在普通 Apple 设备上运行 Qwen3-Next 和 Qwen3.5/3.6 MoE 混合模型，仅将小型稠密核心驻留内存，按需从存储流式加载路由专家权重。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T19:14:58Z"
+          "url": "https://github.com/leonickson1/Swiftlet",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T06:32:44.149000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8178,
-      "importance": 0.8178,
-      "importance_score": 0.8178,
-      "importance_label": "官方更新",
+      "score": 0.7802,
+      "importance": 0.7802,
+      "importance_score": 0.7802,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.81,
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.92,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T19:14:58Z",
-      "latest_at": "2026-08-03T19:14:58Z",
+      "earliest_at": "2026-08-04T06:32:44.149000Z",
+      "latest_at": "2026-08-04T06:32:44.149000Z",
       "primary_item": {
-        "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
-        "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
-        "title_zh": "通过评论触发 Copilot 自动化",
-        "title_en": "Trigger Copilot automations with comments",
-        "title_original": "Trigger Copilot automations with comments",
-        "summary": null,
+        "id": "9ca5efb7665863255dd6411d8c3788db9606bd9a",
+        "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+        "title_zh": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+        "title_en": null,
+        "title_original": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+        "summary": "Swiftlet 是一个 Swift + Metal 运行时，可在普通 Apple 设备上运行 Qwen3-Next 和 Qwen3.5/3.6 MoE 混合模型，仅将小型稠密核心驻留内存，按需从存储流式加载路由专家权重。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://github.com/leonickson1/Swiftlet",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T09:51:21.898934Z"
+        "scored_at": "2026-08-04T12:19:46.318439Z"
       }
     },
     {
@@ -692,15 +604,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7863,
-      "importance": 0.7863,
-      "importance_score": 0.7863,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9874,
+        "recency": 0.9527,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -726,30 +638,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T09:51:21.898934Z"
+        "scored_at": "2026-08-04T12:19:46.318439Z"
       }
     },
     {
-      "story_id": "story_9f5aa79a3eb5",
-      "title": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
-      "url": "https://www.aibase.com/news/30107",
-      "primary_url": "https://www.aibase.com/news/30107",
+      "story_id": "story_5c511a0625e6",
+      "title": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
+      "url": "https://www.aibase.com/news/30110",
+      "primary_url": "https://www.aibase.com/news/30110",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cdd855132b5e66d70bfc7ad3e99beb4bf6ecf3a9",
-          "title": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
-          "title_zh": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
+          "id": "7b90a7e0736812f02651e3d1875d0b7ab21ab912",
+          "title": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
+          "title_zh": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
           "title_en": null,
-          "title_original": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
+          "title_original": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30107",
+          "url": "https://www.aibase.com/news/30110",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-04T09:50:40.602713Z"
+          "published_at": "2026-08-04T12:19:00.381531Z"
         }
       ],
       "source_count": 1,
@@ -758,18 +670,18 @@
       ],
       "items": [
         {
-          "id": "cdd855132b5e66d70bfc7ad3e99beb4bf6ecf3a9",
-          "title": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
-          "title_zh": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
+          "id": "7b90a7e0736812f02651e3d1875d0b7ab21ab912",
+          "title": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
+          "title_zh": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
           "title_en": null,
-          "title_original": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
+          "title_original": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30107",
+          "url": "https://www.aibase.com/news/30110",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-04T09:50:40.602713Z"
+          "published_at": "2026-08-04T12:19:00.381531Z"
         }
       ],
       "item_count": 1,
@@ -790,17 +702,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T09:50:40.602713Z",
-      "latest_at": "2026-08-04T09:50:40.602713Z",
+      "earliest_at": "2026-08-04T12:19:00.381531Z",
+      "latest_at": "2026-08-04T12:19:00.381531Z",
       "primary_item": {
-        "id": "cdd855132b5e66d70bfc7ad3e99beb4bf6ecf3a9",
-        "title": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
-        "title_zh": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
+        "id": "7b90a7e0736812f02651e3d1875d0b7ab21ab912",
+        "title": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
+        "title_zh": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
         "title_en": null,
-        "title_original": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
+        "title_original": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30107",
+        "url": "https://www.aibase.com/news/30110",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -808,7 +720,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T09:51:21.898934Z"
+        "scored_at": "2026-08-04T12:19:46.318439Z"
+      }
+    },
+    {
+      "story_id": "story_417741cd5bf0",
+      "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+      "url": "https://www.ithome.com/0/985/665.htm",
+      "primary_url": "https://www.ithome.com/0/985/665.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e9c6277573d84eeafc0a317644599f8aff60a459",
+          "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+          "title_zh": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+          "title_en": null,
+          "title_original": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+          "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721-2024升级而来，为自动驾驶产品明确了统一的安全准入基线。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/985/665.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T11:06:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e9c6277573d84eeafc0a317644599f8aff60a459",
+          "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+          "title_zh": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+          "title_en": null,
+          "title_original": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+          "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721-2024升级而来，为自动驾驶产品明确了统一的安全准入基线。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/985/665.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T11:06:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9827,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T11:06:29Z",
+      "latest_at": "2026-08-04T11:06:29Z",
+      "primary_item": {
+        "id": "e9c6277573d84eeafc0a317644599f8aff60a459",
+        "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+        "title_zh": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+        "title_en": null,
+        "title_original": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+        "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721-2024升级而来，为自动驾驶产品明确了统一的安全准入基线。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/985/665.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T12:19:46.318439Z"
       }
     },
     {
@@ -885,15 +879,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9341,
+        "recency": 0.9014,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -920,7 +914,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T09:51:21.898934Z"
+        "scored_at": "2026-08-04T12:19:46.318439Z"
       }
     },
     {
@@ -997,15 +991,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8591,
+        "recency": 0.829,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1032,7 +1026,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T09:51:21.898934Z"
+        "scored_at": "2026-08-04T12:19:46.318439Z"
       }
     },
     {
@@ -1109,15 +1103,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7914,
+        "recency": 0.7637,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1144,30 +1138,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T09:51:21.898934Z"
+        "scored_at": "2026-08-04T12:19:46.318439Z"
       }
     },
     {
-      "story_id": "story_808985f7b6f5",
-      "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
-      "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
-      "primary_url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+      "story_id": "story_ced42da72295",
+      "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
+      "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+      "primary_url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
-          "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
-          "title_zh": "托管设置的企业团队专业化",
-          "title_en": "Enterprise team specialization for managed settings",
-          "title_original": "Enterprise team specialization for managed settings",
+          "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
+          "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
+          "title_zh": "通过评论触发 Copilot 自动化",
+          "title_en": "Trigger Copilot automations with comments",
+          "title_original": "Trigger Copilot automations with comments",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+          "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T22:55:29Z"
+          "published_at": "2026-08-03T19:14:58Z"
         }
       ],
       "source_count": 1,
@@ -1176,31 +1170,31 @@
       ],
       "items": [
         {
-          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
-          "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
-          "title_zh": "托管设置的企业团队专业化",
-          "title_en": "Enterprise team specialization for managed settings",
-          "title_original": "Enterprise team specialization for managed settings",
+          "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
+          "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
+          "title_zh": "通过评论触发 Copilot 自动化",
+          "title_en": "Trigger Copilot automations with comments",
+          "title_original": "Trigger Copilot automations with comments",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+          "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T22:55:29Z"
+          "published_at": "2026-08-03T19:14:58Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
+      "score": 0.8127,
+      "importance": 0.8127,
+      "importance_score": 0.8127,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8541,
+        "ai_relevance": 0.91,
+        "recency": 0.7816,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1209,17 +1203,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T22:55:29Z",
-      "latest_at": "2026-08-03T22:55:29Z",
+      "earliest_at": "2026-08-03T19:14:58Z",
+      "latest_at": "2026-08-03T19:14:58Z",
       "primary_item": {
-        "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
-        "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
-        "title_zh": "托管设置的企业团队专业化",
-        "title_en": "Enterprise team specialization for managed settings",
-        "title_original": "Enterprise team specialization for managed settings",
+        "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
+        "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
+        "title_zh": "通过评论触发 Copilot 自动化",
+        "title_en": "Trigger Copilot automations with comments",
+        "title_original": "Trigger Copilot automations with comments",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+        "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1227,170 +1221,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T09:51:21.898934Z"
-      }
-    },
-    {
-      "story_id": "story_63a94a3ef129",
-      "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-      "url": "https://github.com/leonickson1/Swiftlet",
-      "primary_url": "https://github.com/leonickson1/Swiftlet",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9ca5efb7665863255dd6411d8c3788db9606bd9a",
-          "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-          "title_zh": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-          "title_en": null,
-          "title_original": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-          "summary": "Swiftlet 是一个 Swift + Metal 运行时，可在普通 Apple 设备上运行 Qwen3-Next 和 Qwen3.5/3.6 MoE 混合模型，仅将小型稠密核心驻留内存，按需从存储流式加载路由专家权重。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/leonickson1/Swiftlet",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T06:32:44.149000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "9ca5efb7665863255dd6411d8c3788db9606bd9a",
-          "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-          "title_zh": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-          "title_en": null,
-          "title_original": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-          "summary": "Swiftlet 是一个 Swift + Metal 运行时，可在普通 Apple 设备上运行 Qwen3-Next 和 Qwen3.5/3.6 MoE 混合模型，仅将小型稠密核心驻留内存，按需从存储流式加载路由专家权重。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/leonickson1/Swiftlet",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T06:32:44.149000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7862,
-      "importance": 0.7862,
-      "importance_score": 0.7862,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9535,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T06:32:44.149000Z",
-      "latest_at": "2026-08-04T06:32:44.149000Z",
-      "primary_item": {
-        "id": "9ca5efb7665863255dd6411d8c3788db9606bd9a",
-        "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-        "title_zh": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-        "title_en": null,
-        "title_original": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-        "summary": "Swiftlet 是一个 Swift + Metal 运行时，可在普通 Apple 设备上运行 Qwen3-Next 和 Qwen3.5/3.6 MoE 混合模型，仅将小型稠密核心驻留内存，按需从存储流式加载路由专家权重。",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/leonickson1/Swiftlet",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T09:51:21.898934Z"
-      }
-    },
-    {
-      "story_id": "story_91421b2b6e08",
-      "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
-      "source": "公众号：腾讯混元",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "51868ebba24a0c391770271a0455d8d630015049",
-          "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
-          "title_zh": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
-          "title_en": null,
-          "title_original": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
-          "summary": "腾讯混元发布新一代语音识别模型 Hy ASR 3.0 preview，基于大语言模型 Hy3 与 MoE 架构，融合高精度识别与语义理解。其在开源评测集中中文普通话 WER 3.34%、英语 WER 2.62%、粤语 WER 3.12%，并支持上下文纠错、热词注入及高噪耳语等场景。该模型已上线腾讯云 API，元宝 App 首发并免费开放。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T08:12:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：腾讯混元"
-      ],
-      "items": [
-        {
-          "id": "51868ebba24a0c391770271a0455d8d630015049",
-          "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
-          "title_zh": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
-          "title_en": null,
-          "title_original": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
-          "summary": "腾讯混元发布新一代语音识别模型 Hy ASR 3.0 preview，基于大语言模型 Hy3 与 MoE 架构，融合高精度识别与语义理解。其在开源评测集中中文普通话 WER 3.34%、英语 WER 2.62%、粤语 WER 3.12%，并支持上下文纠错、热词注入及高噪耳语等场景。该模型已上线腾讯云 API，元宝 App 首发并免费开放。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T08:12:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9767,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T08:12:36Z",
-      "latest_at": "2026-08-04T08:12:36Z",
-      "primary_item": {
-        "id": "51868ebba24a0c391770271a0455d8d630015049",
-        "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
-        "title_zh": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
-        "title_en": null,
-        "title_original": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
-        "summary": "腾讯混元发布新一代语音识别模型 Hy ASR 3.0 preview，基于大语言模型 Hy3 与 MoE 架构，融合高精度识别与语义理解。其在开源评测集中中文普通话 WER 3.34%、英语 WER 2.62%、粤语 WER 3.12%，并支持上下文纠错、热词注入及高噪耳语等场景。该模型已上线腾讯云 API，元宝 App 首发并免费开放。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
-        "source": "公众号：腾讯混元",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T09:51:21.898934Z"
+        "scored_at": "2026-08-04T12:19:46.318439Z"
       }
     },
     {
@@ -1467,15 +1298,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7364,
+      "importance": 0.7364,
+      "importance_score": 0.7364,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8335,
+        "recency": 0.8043,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1501,7 +1332,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T09:51:21.898934Z"
+        "scored_at": "2026-08-04T12:19:46.318439Z"
+      }
+    },
+    {
+      "story_id": "story_91421b2b6e08",
+      "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
+      "source": "公众号：腾讯混元",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "51868ebba24a0c391770271a0455d8d630015049",
+          "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+          "title_zh": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+          "title_en": null,
+          "title_original": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+          "summary": "腾讯混元发布新一代语音识别模型 Hy ASR 3.0 preview，基于大语言模型 Hy3 与 MoE 架构，融合高精度识别与语义理解。其在开源评测集中中文普通话 WER 3.34%、英语 WER 2.62%、粤语 WER 3.12%，并支持上下文纠错、热词注入及高噪耳语等场景。该模型已上线腾讯云 API，元宝 App 首发并免费开放。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T08:12:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：腾讯混元"
+      ],
+      "items": [
+        {
+          "id": "51868ebba24a0c391770271a0455d8d630015049",
+          "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+          "title_zh": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+          "title_en": null,
+          "title_original": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+          "summary": "腾讯混元发布新一代语音识别模型 Hy ASR 3.0 preview，基于大语言模型 Hy3 与 MoE 架构，融合高精度识别与语义理解。其在开源评测集中中文普通话 WER 3.34%、英语 WER 2.62%、粤语 WER 3.12%，并支持上下文纠错、热词注入及高噪耳语等场景。该模型已上线腾讯云 API，元宝 App 首发并免费开放。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T08:12:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9424,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-04T08:12:36Z",
+      "latest_at": "2026-08-04T08:12:36Z",
+      "primary_item": {
+        "id": "51868ebba24a0c391770271a0455d8d630015049",
+        "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+        "title_zh": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+        "title_en": null,
+        "title_original": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+        "summary": "腾讯混元发布新一代语音识别模型 Hy ASR 3.0 preview，基于大语言模型 Hy3 与 MoE 架构，融合高精度识别与语义理解。其在开源评测集中中文普通话 WER 3.34%、英语 WER 2.62%、粤语 WER 3.12%，并支持上下文纠错、热词注入及高噪耳语等场景。该模型已上线腾讯云 API，元宝 App 首发并免费开放。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
+        "source": "公众号：腾讯混元",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T12:19:46.318439Z"
       }
     },
     {
@@ -1549,15 +1461,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7694,
-      "importance": 0.7694,
-      "importance_score": 0.7694,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9767,
+        "recency": 0.9424,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1583,7 +1495,284 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T09:51:21.898934Z"
+        "scored_at": "2026-08-04T12:19:46.318439Z"
+      }
+    },
+    {
+      "story_id": "story_9f5aa79a3eb5",
+      "title": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
+      "url": "https://www.aibase.com/news/30107",
+      "primary_url": "https://www.aibase.com/news/30107",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cdd855132b5e66d70bfc7ad3e99beb4bf6ecf3a9",
+          "title": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
+          "title_zh": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
+          "title_en": null,
+          "title_original": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30107",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T09:50:40.602713Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "cdd855132b5e66d70bfc7ad3e99beb4bf6ecf3a9",
+          "title": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
+          "title_zh": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
+          "title_en": null,
+          "title_original": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30107",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T09:50:40.602713Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9649,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T09:50:40.602713Z",
+      "latest_at": "2026-08-04T09:50:40.602713Z",
+      "primary_item": {
+        "id": "cdd855132b5e66d70bfc7ad3e99beb4bf6ecf3a9",
+        "title": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
+        "title_zh": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
+        "title_en": null,
+        "title_original": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30107",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T12:19:46.318439Z"
+      }
+    },
+    {
+      "story_id": "story_15af0d503f7c",
+      "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+      "url": "https://github.com/lyogavin/airllm",
+      "primary_url": "https://github.com/lyogavin/airllm",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
+          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "title_en": null,
+          "title_original": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T16:24:45.027000Z"
+        },
+        {
+          "id": "2717965917d799ff11365290c89986375891fad3",
+          "title": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "title_zh": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "title_en": null,
+          "title_original": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T16:24:45.027000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
+          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "title_en": null,
+          "title_original": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T16:24:45.027000Z"
+        },
+        {
+          "id": "2717965917d799ff11365290c89986375891fad3",
+          "title": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "title_zh": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "title_en": null,
+          "title_original": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T16:24:45.027000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7502,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T16:24:45.027000Z",
+      "latest_at": "2026-08-03T16:24:45.027000Z",
+      "primary_item": {
+        "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
+        "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+        "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+        "title_en": null,
+        "title_original": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+        "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/lyogavin/airllm",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T12:19:46.318439Z"
+      }
+    },
+    {
+      "story_id": "story_808985f7b6f5",
+      "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+      "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+      "primary_url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
+          "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+          "title_zh": "托管设置的企业团队专业化",
+          "title_en": "Enterprise team specialization for managed settings",
+          "title_original": "Enterprise team specialization for managed settings",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T22:55:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
+          "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+          "title_zh": "托管设置的企业团队专业化",
+          "title_en": "Enterprise team specialization for managed settings",
+          "title_original": "Enterprise team specialization for managed settings",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T22:55:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8242,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T22:55:29Z",
+      "latest_at": "2026-08-03T22:55:29Z",
+      "primary_item": {
+        "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
+        "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+        "title_zh": "托管设置的企业团队专业化",
+        "title_en": "Enterprise team specialization for managed settings",
+        "title_original": "Enterprise team specialization for managed settings",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T12:19:46.318439Z"
       }
     },
     {
@@ -1631,15 +1820,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9649,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1665,253 +1854,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T09:51:21.898934Z"
-      }
-    },
-    {
-      "story_id": "story_a2791f04345f",
-      "title": "GPT-Live实时音频新架构发布 / GPT-Live is a new architecture and stack for realtime audio：",
-      "url": "https://x.com/gdb/status/2084405421041963356",
-      "primary_url": "https://x.com/gdb/status/2084405421041963356",
-      "source": "X：Greg Brockman (@gdb)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2615292954ce75366bdc3a09bb62170ff1889f0e",
-          "title": "GPT-Live实时音频新架构发布 / GPT-Live is a new architecture and stack for realtime audio：",
-          "title_zh": "GPT-Live实时音频新架构发布",
-          "title_en": "GPT-Live is a new architecture and stack for realtime audio：",
-          "title_original": "GPT-Live is a new architecture and stack for realtime audio：",
-          "summary": "GPT-Live 是一种用于实时音频的新架构和栈：\n\nGPT-Live 可以在说话的同时聆听。\n\n为了让这种体验在 ChatGPT 规模下显得自然，我们从客户端到模型重建了语音栈。\n\n这一新架构让音频持续流动，因此更深入的推理和工具使用不会打断对话。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2084405421041963356",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T22:25:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Greg Brockman (@gdb)"
-      ],
-      "items": [
-        {
-          "id": "2615292954ce75366bdc3a09bb62170ff1889f0e",
-          "title": "GPT-Live实时音频新架构发布 / GPT-Live is a new architecture and stack for realtime audio：",
-          "title_zh": "GPT-Live实时音频新架构发布",
-          "title_en": "GPT-Live is a new architecture and stack for realtime audio：",
-          "title_original": "GPT-Live is a new architecture and stack for realtime audio：",
-          "summary": "GPT-Live 是一种用于实时音频的新架构和栈：\n\nGPT-Live 可以在说话的同时聆听。\n\n为了让这种体验在 ChatGPT 规模下显得自然，我们从客户端到模型重建了语音栈。\n\n这一新架构让音频持续流动，因此更深入的推理和工具使用不会打断对话。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2084405421041963356",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T22:25:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8481,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T22:25:53Z",
-      "latest_at": "2026-08-03T22:25:53Z",
-      "primary_item": {
-        "id": "2615292954ce75366bdc3a09bb62170ff1889f0e",
-        "title": "GPT-Live实时音频新架构发布 / GPT-Live is a new architecture and stack for realtime audio：",
-        "title_zh": "GPT-Live实时音频新架构发布",
-        "title_en": "GPT-Live is a new architecture and stack for realtime audio：",
-        "title_original": "GPT-Live is a new architecture and stack for realtime audio：",
-        "summary": "GPT-Live 是一种用于实时音频的新架构和栈：\n\nGPT-Live 可以在说话的同时聆听。\n\n为了让这种体验在 ChatGPT 规模下显得自然，我们从客户端到模型重建了语音栈。\n\n这一新架构让音频持续流动，因此更深入的推理和工具使用不会打断对话。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/gdb/status/2084405421041963356",
-        "source": "X：Greg Brockman (@gdb)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T09:51:21.898934Z"
-      }
-    },
-    {
-      "story_id": "story_63bd4def256d",
-      "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-      "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
-      "primary_url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-          "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-          "title_zh": "分类角色可以绕过问题创建限制",
-          "title_en": "Triage role can bypass issue creation restrictions",
-          "title_original": "Triage role can bypass issue creation restrictions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T17:04:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-          "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-          "title_zh": "分类角色可以绕过问题创建限制",
-          "title_en": "Triage role can bypass issue creation restrictions",
-          "title_original": "Triage role can bypass issue creation restrictions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T17:04:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7849,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T17:04:32Z",
-      "latest_at": "2026-08-03T17:04:32Z",
-      "primary_item": {
-        "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-        "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-        "title_zh": "分类角色可以绕过问题创建限制",
-        "title_en": "Triage role can bypass issue creation restrictions",
-        "title_original": "Triage role can bypass issue creation restrictions",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T09:51:21.898934Z"
-      }
-    },
-    {
-      "story_id": "story_0ca568e3f409",
-      "title": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
-      "url": "https://www.aibase.com/news/30102",
-      "primary_url": "https://www.aibase.com/news/30102",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5d8ae9b533d4048a702e5b519354d4efd8887ca8",
-          "title": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
-          "title_zh": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
-          "title_en": null,
-          "title_original": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30102",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-04T09:50:40.602713Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5d8ae9b533d4048a702e5b519354d4efd8887ca8",
-          "title": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
-          "title_zh": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
-          "title_en": null,
-          "title_original": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30102",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-04T09:50:40.602713Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T09:50:40.602713Z",
-      "latest_at": "2026-08-04T09:50:40.602713Z",
-      "primary_item": {
-        "id": "5d8ae9b533d4048a702e5b519354d4efd8887ca8",
-        "title": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
-        "title_zh": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
-        "title_en": null,
-        "title_original": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30102",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T09:51:21.898934Z"
+        "scored_at": "2026-08-04T12:19:46.318439Z"
       }
     }
   ]
