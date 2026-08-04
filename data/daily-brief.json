@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T15:35:15.303743Z",
+  "generated_at": "2026-08-04T18:03:39.598271Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8559,
-      "importance": 0.8559,
-      "importance_score": 0.8559,
+      "score": 0.8497,
+      "importance": 0.8497,
+      "importance_score": 0.8497,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.977,
+        "recency": 0.9427,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,113 +83,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T15:37:21.788306Z"
+        "scored_at": "2026-08-04T18:04:17.380243Z"
       }
     },
     {
-      "story_id": "story_8fcfc69e0c50",
-      "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
-          "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
-          "title_zh": "我们于 2026 年 7 月公布的最新 AI 新闻",
-          "title_en": "The latest AI news we announced in July 2026",
-          "title_original": "The latest AI news we announced in July 2026",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
-          "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
-          "title_zh": "我们于 2026 年 7 月公布的最新 AI 新闻",
-          "title_en": "The latest AI news we announced in July 2026",
-          "title_original": "The latest AI news we announced in July 2026",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8374,
-      "importance": 0.8374,
-      "importance_score": 0.8374,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9633,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T13:00:00Z",
-      "latest_at": "2026-08-04T13:00:00Z",
-      "primary_item": {
-        "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
-        "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
-        "title_zh": "我们于 2026 年 7 月公布的最新 AI 新闻",
-        "title_en": "The latest AI news we announced in July 2026",
-        "title_original": "The latest AI news we announced in July 2026",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T15:37:21.788306Z"
-      }
-    },
-    {
-      "story_id": "story_51a68e6b77ff",
-      "title": "自定义 Dependabot 拉取请求分支名称 / Customize Dependabot pull request branch names",
-      "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
-      "primary_url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
+      "story_id": "story_e5db5b8745de",
+      "title": "github.com 上的 GitHub Spark 即将弃用 / Upcoming deprecation of GitHub Spark on github.com",
+      "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
+      "primary_url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "14fc4f77a67ad6e0a78f6d500bced5789e4e4175",
-          "title": "自定义 Dependabot 拉取请求分支名称 / Customize Dependabot pull request branch names",
-          "title_zh": "自定义 Dependabot 拉取请求分支名称",
-          "title_en": "Customize Dependabot pull request branch names",
-          "title_original": "Customize Dependabot pull request branch names",
+          "id": "cc948a6a9b3fea7e9e643c9e22db508aa9971c51",
+          "title": "github.com 上的 GitHub Spark 即将弃用 / Upcoming deprecation of GitHub Spark on github.com",
+          "title_zh": "github.com 上的 GitHub Spark 即将弃用",
+          "title_en": "Upcoming deprecation of GitHub Spark on github.com",
+          "title_original": "Upcoming deprecation of GitHub Spark on github.com",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
+          "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-04T12:57:18Z"
+          "published_at": "2026-08-04T15:54:47Z"
         }
       ],
       "source_count": 1,
@@ -198,31 +115,31 @@
       ],
       "items": [
         {
-          "id": "14fc4f77a67ad6e0a78f6d500bced5789e4e4175",
-          "title": "自定义 Dependabot 拉取请求分支名称 / Customize Dependabot pull request branch names",
-          "title_zh": "自定义 Dependabot 拉取请求分支名称",
-          "title_en": "Customize Dependabot pull request branch names",
-          "title_original": "Customize Dependabot pull request branch names",
+          "id": "cc948a6a9b3fea7e9e643c9e22db508aa9971c51",
+          "title": "github.com 上的 GitHub Spark 即将弃用 / Upcoming deprecation of GitHub Spark on github.com",
+          "title_zh": "github.com 上的 GitHub Spark 即将弃用",
+          "title_en": "Upcoming deprecation of GitHub Spark on github.com",
+          "title_original": "Upcoming deprecation of GitHub Spark on github.com",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
+          "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-04T12:57:18Z"
+          "published_at": "2026-08-04T15:54:47Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8373,
-      "importance": 0.8373,
-      "importance_score": 0.8373,
+      "score": 0.8385,
+      "importance": 0.8385,
+      "importance_score": 0.8385,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9627,
+        "recency": 0.9695,
         "story_heat": 0.0
       },
       "category": "official",
@@ -231,17 +148,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T12:57:18Z",
-      "latest_at": "2026-08-04T12:57:18Z",
+      "earliest_at": "2026-08-04T15:54:47Z",
+      "latest_at": "2026-08-04T15:54:47Z",
       "primary_item": {
-        "id": "14fc4f77a67ad6e0a78f6d500bced5789e4e4175",
-        "title": "自定义 Dependabot 拉取请求分支名称 / Customize Dependabot pull request branch names",
-        "title_zh": "自定义 Dependabot 拉取请求分支名称",
-        "title_en": "Customize Dependabot pull request branch names",
-        "title_original": "Customize Dependabot pull request branch names",
+        "id": "cc948a6a9b3fea7e9e643c9e22db508aa9971c51",
+        "title": "github.com 上的 GitHub Spark 即将弃用 / Upcoming deprecation of GitHub Spark on github.com",
+        "title_zh": "github.com 上的 GitHub Spark 即将弃用",
+        "title_en": "Upcoming deprecation of GitHub Spark on github.com",
+        "title_original": "Upcoming deprecation of GitHub Spark on github.com",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
+        "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -249,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T15:37:21.788306Z"
+        "scored_at": "2026-08-04T18:04:17.380243Z"
       }
     },
     {
@@ -326,15 +243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8366,
-      "importance": 0.8366,
-      "importance_score": 0.8366,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7757,
+        "recency": 0.7485,
         "story_heat": 0.25
       },
       "category": "official",
@@ -362,7 +279,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T15:37:21.788306Z"
+        "scored_at": "2026-08-04T18:04:17.380243Z"
+      }
+    },
+    {
+      "story_id": "story_8fcfc69e0c50",
+      "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
+          "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
+          "title_zh": "我们于 2026 年 7 月公布的最新 AI 新闻",
+          "title_en": "The latest AI news we announced in July 2026",
+          "title_original": "The latest AI news we announced in July 2026",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
+          "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
+          "title_zh": "我们于 2026 年 7 月公布的最新 AI 新闻",
+          "title_en": "The latest AI news we announced in July 2026",
+          "title_original": "The latest AI news we announced in July 2026",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8313,
+      "importance": 0.8313,
+      "importance_score": 0.8313,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9295,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T13:00:00Z",
+      "latest_at": "2026-08-04T13:00:00Z",
+      "primary_item": {
+        "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
+        "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
+        "title_zh": "我们于 2026 年 7 月公布的最新 AI 新闻",
+        "title_en": "The latest AI news we announced in July 2026",
+        "title_original": "The latest AI news we announced in July 2026",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T18:04:17.380243Z"
       }
     },
     {
@@ -468,15 +468,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
+      "score": 0.8168,
+      "importance": 0.8168,
+      "importance_score": 0.8168,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9626,
+        "recency": 0.9288,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -503,30 +503,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T15:37:21.788306Z"
+        "scored_at": "2026-08-04T18:04:17.380243Z"
       }
     },
     {
-      "story_id": "story_0c09902a6425",
-      "title": "代码质量设置中的代码覆盖率自动启用 / Code coverage automatic enablement in Code Quality settings",
-      "url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
-      "primary_url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
+      "story_id": "story_51a68e6b77ff",
+      "title": "自定义 Dependabot 拉取请求分支名称 / Customize Dependabot pull request branch names",
+      "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
+      "primary_url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "4c43ca4008d6b3bf3680cd6604e51ded87351c75",
-          "title": "代码质量设置中的代码覆盖率自动启用 / Code coverage automatic enablement in Code Quality settings",
-          "title_zh": "代码质量设置中的代码覆盖率自动启用",
-          "title_en": "Code coverage automatic enablement in Code Quality settings",
-          "title_original": "Code coverage automatic enablement in Code Quality settings",
+          "id": "14fc4f77a67ad6e0a78f6d500bced5789e4e4175",
+          "title": "自定义 Dependabot 拉取请求分支名称 / Customize Dependabot pull request branch names",
+          "title_zh": "自定义 Dependabot 拉取请求分支名称",
+          "title_en": "Customize Dependabot pull request branch names",
+          "title_original": "Customize Dependabot pull request branch names",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
+          "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-04T12:36:32Z"
+          "published_at": "2026-08-04T12:57:18Z"
         }
       ],
       "source_count": 1,
@@ -535,31 +535,31 @@
       ],
       "items": [
         {
-          "id": "4c43ca4008d6b3bf3680cd6604e51ded87351c75",
-          "title": "代码质量设置中的代码覆盖率自动启用 / Code coverage automatic enablement in Code Quality settings",
-          "title_zh": "代码质量设置中的代码覆盖率自动启用",
-          "title_en": "Code coverage automatic enablement in Code Quality settings",
-          "title_original": "Code coverage automatic enablement in Code Quality settings",
+          "id": "14fc4f77a67ad6e0a78f6d500bced5789e4e4175",
+          "title": "自定义 Dependabot 拉取请求分支名称 / Customize Dependabot pull request branch names",
+          "title_zh": "自定义 Dependabot 拉取请求分支名称",
+          "title_en": "Customize Dependabot pull request branch names",
+          "title_original": "Customize Dependabot pull request branch names",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
+          "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-04T12:36:32Z"
+          "published_at": "2026-08-04T12:57:18Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8364,
-      "importance": 0.8364,
-      "importance_score": 0.8364,
+      "score": 0.8312,
+      "importance": 0.8312,
+      "importance_score": 0.8312,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9579,
+        "recency": 0.9289,
         "story_heat": 0.0
       },
       "category": "official",
@@ -568,17 +568,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T12:36:32Z",
-      "latest_at": "2026-08-04T12:36:32Z",
+      "earliest_at": "2026-08-04T12:57:18Z",
+      "latest_at": "2026-08-04T12:57:18Z",
       "primary_item": {
-        "id": "4c43ca4008d6b3bf3680cd6604e51ded87351c75",
-        "title": "代码质量设置中的代码覆盖率自动启用 / Code coverage automatic enablement in Code Quality settings",
-        "title_zh": "代码质量设置中的代码覆盖率自动启用",
-        "title_en": "Code coverage automatic enablement in Code Quality settings",
-        "title_original": "Code coverage automatic enablement in Code Quality settings",
+        "id": "14fc4f77a67ad6e0a78f6d500bced5789e4e4175",
+        "title": "自定义 Dependabot 拉取请求分支名称 / Customize Dependabot pull request branch names",
+        "title_zh": "自定义 Dependabot 拉取请求分支名称",
+        "title_en": "Customize Dependabot pull request branch names",
+        "title_original": "Customize Dependabot pull request branch names",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
+        "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -586,26 +586,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T15:37:21.788306Z"
+        "scored_at": "2026-08-04T18:04:17.380243Z"
       }
     },
     {
-      "story_id": "story_cd21c6fddb56",
-      "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "story_id": "story_b832dd7cc4cf",
+      "title": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法 / New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "primary_url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-          "title_zh": "破坏刑事诈骗行动",
-          "title_en": "Disrupting a Criminal Scam Operation",
-          "title_original": "Disrupting a Criminal Scam Operation",
+          "id": "8717e8a7cc266b174cbe8ac774916e7cb9b3f30b",
+          "title": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法 / New ways to learn and teach with ChatGPT Work and Codex",
+          "title_zh": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法",
+          "title_en": "New ways to learn and teach with ChatGPT Work and Codex",
+          "title_original": "New ways to learn and teach with ChatGPT Work and Codex",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -618,14 +618,14 @@
       ],
       "items": [
         {
-          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-          "title_zh": "破坏刑事诈骗行动",
-          "title_en": "Disrupting a Criminal Scam Operation",
-          "title_original": "Disrupting a Criminal Scam Operation",
+          "id": "8717e8a7cc266b174cbe8ac774916e7cb9b3f30b",
+          "title": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法 / New ways to learn and teach with ChatGPT Work and Codex",
+          "title_zh": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法",
+          "title_en": "New ways to learn and teach with ChatGPT Work and Codex",
+          "title_original": "New ways to learn and teach with ChatGPT Work and Codex",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -634,15 +634,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7984,
+        "ai_relevance": 0.99,
+        "recency": 0.7704,
         "story_heat": 0.0
       },
       "category": "official",
@@ -654,14 +654,14 @@
       "earliest_at": "2026-08-04T00:00:00Z",
       "latest_at": "2026-08-04T00:00:00Z",
       "primary_item": {
-        "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-        "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-        "title_zh": "破坏刑事诈骗行动",
-        "title_en": "Disrupting a Criminal Scam Operation",
-        "title_original": "Disrupting a Criminal Scam Operation",
+        "id": "8717e8a7cc266b174cbe8ac774916e7cb9b3f30b",
+        "title": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法 / New ways to learn and teach with ChatGPT Work and Codex",
+        "title_zh": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法",
+        "title_en": "New ways to learn and teach with ChatGPT Work and Codex",
+        "title_original": "New ways to learn and teach with ChatGPT Work and Codex",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+        "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -669,89 +669,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T15:37:21.788306Z"
+        "scored_at": "2026-08-04T18:04:17.380243Z"
       }
     },
     {
-      "story_id": "story_b35b3bd10fcc",
-      "title": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议 / Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
-      "url": "https://x.com/rohanpaul_ai/status/2084655258102546579",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2084655258102546579",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "story_id": "story_b2c075d30098",
+      "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
+      "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+      "primary_url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+      "source": "Google Developers Blog（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3885c179393730962729bd20738be4f0771525ce",
-          "title": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议 / Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
-          "title_zh": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议",
-          "title_en": "Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
-          "title_original": "Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
-          "summary": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议，约合每年 17 亿美元。Volta 估值 24 亿美元，硬件几乎全为租用：算力来自比特币矿商 Bitdeer 挪威 121MW 站点，芯片由 Nvidia 供应、Dell 组装。Anthropic 买的是交付速度，代价是承担超大规模云厂商合同从未有过的交易对手风险。",
+          "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
+          "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
+          "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+          "title_en": "A unified API for AI model routing",
+          "title_original": "A unified API for AI model routing",
+          "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2084655258102546579",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+          "source": "Google Developers Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T14:58:39Z"
+          "published_at": "2026-08-04T16:45:02.138000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "Google Developers Blog（RSS）"
       ],
       "items": [
         {
-          "id": "3885c179393730962729bd20738be4f0771525ce",
-          "title": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议 / Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
-          "title_zh": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议",
-          "title_en": "Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
-          "title_original": "Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
-          "summary": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议，约合每年 17 亿美元。Volta 估值 24 亿美元，硬件几乎全为租用：算力来自比特币矿商 Bitdeer 挪威 121MW 站点，芯片由 Nvidia 供应、Dell 组装。Anthropic 买的是交付速度，代价是承担超大规模云厂商合同从未有过的交易对手风险。",
+          "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
+          "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
+          "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+          "title_en": "A unified API for AI model routing",
+          "title_original": "A unified API for AI model routing",
+          "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2084655258102546579",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+          "source": "Google Developers Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T14:58:39Z"
+          "published_at": "2026-08-04T16:45:02.138000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.784,
-      "importance": 0.784,
-      "importance_score": 0.784,
-      "importance_label": "行业动态",
+      "score": 0.7796,
+      "importance": 0.7796,
+      "importance_score": 0.7796,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
+        "editorial": 0.61,
+        "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9912,
+        "recency": 0.9813,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T14:58:39Z",
-      "latest_at": "2026-08-04T14:58:39Z",
+      "earliest_at": "2026-08-04T16:45:02.138000Z",
+      "latest_at": "2026-08-04T16:45:02.138000Z",
       "primary_item": {
-        "id": "3885c179393730962729bd20738be4f0771525ce",
-        "title": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议 / Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
-        "title_zh": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议",
-        "title_en": "Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
-        "title_original": "Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
-        "summary": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议，约合每年 17 亿美元。Volta 估值 24 亿美元，硬件几乎全为租用：算力来自比特币矿商 Bitdeer 挪威 121MW 站点，芯片由 Nvidia 供应、Dell 组装。Anthropic 买的是交付速度，代价是承担超大规模云厂商合同从未有过的交易对手风险。",
+        "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
+        "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
+        "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+        "title_en": "A unified API for AI model routing",
+        "title_original": "A unified API for AI model routing",
+        "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2084655258102546579",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+        "source": "Google Developers Blog（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T15:37:21.788306Z"
+        "scored_at": "2026-08-04T18:04:17.380243Z"
       }
     },
     {
@@ -828,15 +828,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7836,
-      "importance": 0.7836,
-      "importance_score": 0.7836,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8501,
+        "recency": 0.8203,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -863,30 +863,112 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T15:37:21.788306Z"
+        "scored_at": "2026-08-04T18:04:17.380243Z"
       }
     },
     {
-      "story_id": "story_58483f682cc5",
-      "title": "CodeQL 2.26.2 添加了 Swift 6.3.3 和 Kotlin 2.4.10 支持 / CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
-      "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
-      "primary_url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
+      "story_id": "story_b35b3bd10fcc",
+      "title": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议 / Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
+      "url": "https://x.com/rohanpaul_ai/status/2084655258102546579",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2084655258102546579",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3885c179393730962729bd20738be4f0771525ce",
+          "title": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议 / Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
+          "title_zh": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议",
+          "title_en": "Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
+          "title_original": "Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
+          "summary": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议，约合每年 17 亿美元。Volta 估值 24 亿美元，硬件几乎全为租用：算力来自比特币矿商 Bitdeer 挪威 121MW 站点，芯片由 Nvidia 供应、Dell 组装。Anthropic 买的是交付速度，代价是承担超大规模云厂商合同从未有过的交易对手风险。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2084655258102546579",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T14:58:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "3885c179393730962729bd20738be4f0771525ce",
+          "title": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议 / Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
+          "title_zh": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议",
+          "title_en": "Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
+          "title_original": "Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
+          "summary": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议，约合每年 17 亿美元。Volta 估值 24 亿美元，硬件几乎全为租用：算力来自比特币矿商 Bitdeer 挪威 121MW 站点，芯片由 Nvidia 供应、Dell 组装。Anthropic 买的是交付速度，代价是承担超大规模云厂商合同从未有过的交易对手风险。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2084655258102546579",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T14:58:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9564,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T14:58:39Z",
+      "latest_at": "2026-08-04T14:58:39Z",
+      "primary_item": {
+        "id": "3885c179393730962729bd20738be4f0771525ce",
+        "title": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议 / Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
+        "title_zh": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议",
+        "title_en": "Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
+        "title_original": "Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
+        "summary": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议，约合每年 17 亿美元。Volta 估值 24 亿美元，硬件几乎全为租用：算力来自比特币矿商 Bitdeer 挪威 121MW 站点，芯片由 Nvidia 供应、Dell 组装。Anthropic 买的是交付速度，代价是承担超大规模云厂商合同从未有过的交易对手风险。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2084655258102546579",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T18:04:17.380243Z"
+      }
+    },
+    {
+      "story_id": "story_0c09902a6425",
+      "title": "代码质量设置中的代码覆盖率自动启用 / Code coverage automatic enablement in Code Quality settings",
+      "url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
+      "primary_url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "eb05eaad8451f7f2ea6aaf954435290c8eb0140e",
-          "title": "CodeQL 2.26.2 添加了 Swift 6.3.3 和 Kotlin 2.4.10 支持 / CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
-          "title_zh": "CodeQL 2.26.2 添加了 Swift 6.3.3 和 Kotlin 2.4.10 支持",
-          "title_en": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
-          "title_original": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+          "id": "4c43ca4008d6b3bf3680cd6604e51ded87351c75",
+          "title": "代码质量设置中的代码覆盖率自动启用 / Code coverage automatic enablement in Code Quality settings",
+          "title_zh": "代码质量设置中的代码覆盖率自动启用",
+          "title_en": "Code coverage automatic enablement in Code Quality settings",
+          "title_original": "Code coverage automatic enablement in Code Quality settings",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
+          "url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-04T10:57:39Z"
+          "published_at": "2026-08-04T12:36:32Z"
         }
       ],
       "source_count": 1,
@@ -895,31 +977,31 @@
       ],
       "items": [
         {
-          "id": "eb05eaad8451f7f2ea6aaf954435290c8eb0140e",
-          "title": "CodeQL 2.26.2 添加了 Swift 6.3.3 和 Kotlin 2.4.10 支持 / CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
-          "title_zh": "CodeQL 2.26.2 添加了 Swift 6.3.3 和 Kotlin 2.4.10 支持",
-          "title_en": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
-          "title_original": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+          "id": "4c43ca4008d6b3bf3680cd6604e51ded87351c75",
+          "title": "代码质量设置中的代码覆盖率自动启用 / Code coverage automatic enablement in Code Quality settings",
+          "title_zh": "代码质量设置中的代码覆盖率自动启用",
+          "title_en": "Code coverage automatic enablement in Code Quality settings",
+          "title_original": "Code coverage automatic enablement in Code Quality settings",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
+          "url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-04T10:57:39Z"
+          "published_at": "2026-08-04T12:36:32Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8304,
+      "importance": 0.8304,
+      "importance_score": 0.8304,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9354,
+        "recency": 0.9243,
         "story_heat": 0.0
       },
       "category": "official",
@@ -928,17 +1010,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T10:57:39Z",
-      "latest_at": "2026-08-04T10:57:39Z",
+      "earliest_at": "2026-08-04T12:36:32Z",
+      "latest_at": "2026-08-04T12:36:32Z",
       "primary_item": {
-        "id": "eb05eaad8451f7f2ea6aaf954435290c8eb0140e",
-        "title": "CodeQL 2.26.2 添加了 Swift 6.3.3 和 Kotlin 2.4.10 支持 / CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
-        "title_zh": "CodeQL 2.26.2 添加了 Swift 6.3.3 和 Kotlin 2.4.10 支持",
-        "title_en": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
-        "title_original": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+        "id": "4c43ca4008d6b3bf3680cd6604e51ded87351c75",
+        "title": "代码质量设置中的代码覆盖率自动启用 / Code coverage automatic enablement in Code Quality settings",
+        "title_zh": "代码质量设置中的代码覆盖率自动启用",
+        "title_en": "Code coverage automatic enablement in Code Quality settings",
+        "title_original": "Code coverage automatic enablement in Code Quality settings",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
+        "url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -946,7 +1028,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T15:37:21.788306Z"
+        "scored_at": "2026-08-04T18:04:17.380243Z"
+      }
+    },
+    {
+      "story_id": "story_54e1a837c8df",
+      "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型 / Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+      "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
+      "primary_url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "537c29b0abf56586efea8cf148192c5b5a35c2a0",
+          "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型 / Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+          "title_zh": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
+          "title_en": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+          "title_original": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+          "summary": "SpecForge v0.3.0 将目标模型推理与草稿模型训练分离，支持 EAGLE3、EAGLE3.1、P-EAGLE、DFlash、Domino、DSpark 等多种投机解码算法，并统一在线、离线与解耦工作流。",
+          "recommend_reason_zh": null,
+          "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T17:51:09.590000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "537c29b0abf56586efea8cf148192c5b5a35c2a0",
+          "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型 / Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+          "title_zh": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
+          "title_en": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+          "title_original": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+          "summary": "SpecForge v0.3.0 将目标模型推理与草稿模型训练分离，支持 EAGLE3、EAGLE3.1、P-EAGLE、DFlash、Domino、DSpark 等多种投机解码算法，并统一在线、离线与解耦工作流。",
+          "recommend_reason_zh": null,
+          "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T17:51:09.590000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.997,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T17:51:09.590000Z",
+      "latest_at": "2026-08-04T17:51:09.590000Z",
+      "primary_item": {
+        "id": "537c29b0abf56586efea8cf148192c5b5a35c2a0",
+        "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型 / Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+        "title_zh": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
+        "title_en": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+        "title_original": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+        "summary": "SpecForge v0.3.0 将目标模型推理与草稿模型训练分离，支持 EAGLE3、EAGLE3.1、P-EAGLE、DFlash、Domino、DSpark 等多种投机解码算法，并统一在线、离线与解耦工作流。",
+        "recommend_reason_zh": null,
+        "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T18:04:17.380243Z"
       }
     },
     {
@@ -994,15 +1158,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7722,
-      "importance": 0.7722,
-      "importance_score": 0.7722,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9088,
+        "recency": 0.8769,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1028,7 +1192,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T15:37:21.788306Z"
+        "scored_at": "2026-08-04T18:04:17.380243Z"
       }
     },
     {
@@ -1076,15 +1240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9539,
+        "recency": 0.9204,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1110,7 +1274,252 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T15:37:21.788306Z"
+        "scored_at": "2026-08-04T18:04:17.380243Z"
+      }
+    },
+    {
+      "story_id": "story_cd21c6fddb56",
+      "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+          "title_zh": "破坏刑事诈骗行动",
+          "title_en": "Disrupting a Criminal Scam Operation",
+          "title_original": "Disrupting a Criminal Scam Operation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+          "title_zh": "破坏刑事诈骗行动",
+          "title_en": "Disrupting a Criminal Scam Operation",
+          "title_original": "Disrupting a Criminal Scam Operation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7704,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T00:00:00Z",
+      "latest_at": "2026-08-04T00:00:00Z",
+      "primary_item": {
+        "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+        "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+        "title_zh": "破坏刑事诈骗行动",
+        "title_en": "Disrupting a Criminal Scam Operation",
+        "title_original": "Disrupting a Criminal Scam Operation",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T18:04:17.380243Z"
+      }
+    },
+    {
+      "story_id": "story_47a4968ace58",
+      "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码 / Turn one giant AI-generated pull request to a reviewable stack",
+      "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
+      "primary_url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
+      "source": "GitHub Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5bbd704c039678235c03af8acfb0faaede3289c0",
+          "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码 / Turn one giant AI-generated pull request to a reviewable stack",
+          "title_zh": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
+          "title_en": "Turn one giant AI-generated pull request to a reviewable stack",
+          "title_original": "Turn one giant AI-generated pull request to a reviewable stack",
+          "summary": "GitHub 介绍用堆叠式 Pull Request（stacked PR）解决 AI 编码智能体生成巨型代码难以审查的问题。通过将 1，000+ 行的大 diff 按数据、API、接线、UI 拆成 L1-L4 四个独立分层，每层可分配不同审查者。",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T16:47:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "5bbd704c039678235c03af8acfb0faaede3289c0",
+          "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码 / Turn one giant AI-generated pull request to a reviewable stack",
+          "title_zh": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
+          "title_en": "Turn one giant AI-generated pull request to a reviewable stack",
+          "title_original": "Turn one giant AI-generated pull request to a reviewable stack",
+          "summary": "GitHub 介绍用堆叠式 Pull Request（stacked PR）解决 AI 编码智能体生成巨型代码难以审查的问题。通过将 1，000+ 行的大 diff 按数据、API、接线、UI 拆成 L1-L4 四个独立分层，每层可分配不同审查者。",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T16:47:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9818,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-04T16:47:18Z",
+      "latest_at": "2026-08-04T16:47:18Z",
+      "primary_item": {
+        "id": "5bbd704c039678235c03af8acfb0faaede3289c0",
+        "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码 / Turn one giant AI-generated pull request to a reviewable stack",
+        "title_zh": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
+        "title_en": "Turn one giant AI-generated pull request to a reviewable stack",
+        "title_original": "Turn one giant AI-generated pull request to a reviewable stack",
+        "summary": "GitHub 介绍用堆叠式 Pull Request（stacked PR）解决 AI 编码智能体生成巨型代码难以审查的问题。通过将 1，000+ 行的大 diff 按数据、API、接线、UI 拆成 L1-L4 四个独立分层，每层可分配不同审查者。",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
+        "source": "GitHub Blog",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T18:04:17.380243Z"
+      }
+    },
+    {
+      "story_id": "story_9cb1dda99735",
+      "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
+      "url": "https://x.com/OpenRouter/status/2084699413898027064",
+      "primary_url": "https://x.com/OpenRouter/status/2084699413898027064",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2809224f4448239865410581bb52afce9bd9196f",
+          "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
+          "title_zh": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
+          "title_en": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
+          "title_original": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
+          "summary": "@bfl_ai 的 FLUX 3 Video 现已在 OpenRouter 上向所有人开放。\n\n一个统一的视频、音频、图像和动作预测多模态模型家族。严肃、有趣、创意、真实、电影感，随你所需。基于统一架构联合训练。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2084699413898027064",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T17:54:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "2809224f4448239865410581bb52afce9bd9196f",
+          "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
+          "title_zh": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
+          "title_en": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
+          "title_original": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
+          "summary": "@bfl_ai 的 FLUX 3 Video 现已在 OpenRouter 上向所有人开放。\n\n一个统一的视频、音频、图像和动作预测多模态模型家族。严肃、有趣、创意、真实、电影感，随你所需。基于统一架构联合训练。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2084699413898027064",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T17:54:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9977,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-04T17:54:06Z",
+      "latest_at": "2026-08-04T17:54:06Z",
+      "primary_item": {
+        "id": "2809224f4448239865410581bb52afce9bd9196f",
+        "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
+        "title_zh": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
+        "title_en": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
+        "title_original": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
+        "summary": "@bfl_ai 的 FLUX 3 Video 现已在 OpenRouter 上向所有人开放。\n\n一个统一的视频、音频、图像和动作预测多模态模型家族。严肃、有趣、创意、真实、电影感，随你所需。基于统一架构联合训练。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenRouter/status/2084699413898027064",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T18:04:17.380243Z"
       }
     },
     {
@@ -1158,21 +1567,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9917,
+        "recency": 0.9569,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-04T15:00:49Z",
       "latest_at": "2026-08-04T15:00:49Z",
@@ -1192,7 +1600,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T15:37:21.788306Z"
+        "scored_at": "2026-08-04T18:04:17.380243Z"
       }
     },
     {
@@ -1240,21 +1648,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9374,
+        "recency": 0.9045,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-04T11:06:29Z",
       "latest_at": "2026-08-04T11:06:29Z",
@@ -1274,585 +1681,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T15:37:21.788306Z"
+        "scored_at": "2026-08-04T18:04:17.380243Z"
       }
     },
     {
-      "story_id": "story_96343a50491c",
-      "title": "Cloudflare 如何用软件工厂将 Astro 的 GitHub issue 数降至零 / How we built a software factory to drive Astro's GitHub issue count to zero",
-      "url": "https://blog.cloudflare.com/astro-issue-triage",
-      "primary_url": "https://blog.cloudflare.com/astro-issue-triage",
-      "source": "Cloudflare Blog",
+      "story_id": "story_a1900aa9ec52",
+      "title": "商汤 SenseNova U1 开源：统一推理与图像生成 / Thanks Dan for testing SenseNova U1 - our open-source AI model that reasons and generates images in …",
+      "url": "https://x.com/SenseTime_AI/status/2084667189479837741",
+      "primary_url": "https://x.com/SenseTime_AI/status/2084667189479837741",
+      "source": "X：商汤 SenseTime (@SenseTime_AI)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3e6782b56cdb78354f4c8dcc098a294733387175",
-          "title": "Cloudflare 如何用软件工厂将 Astro 的 GitHub issue 数降至零 / How we built a software factory to drive Astro's GitHub issue count to zero",
-          "title_zh": "Cloudflare 如何用软件工厂将 Astro 的 GitHub issue 数降至零",
-          "title_en": "How we built a software factory to drive Astro's GitHub issue count to zero",
-          "title_original": "How we built a software factory to drive Astro's GitHub issue count to zero",
-          "summary": "Cloudflare 在 Astro 仓库上运行自动化 triage 流水线，通过隔离的 AI 子代理复现、诊断并修复 bug，将开放 issue 从 200 多个降至约 30 个，预计下月归零。该流水线由 issue 标签驱动，修复后自动发布预览版本供用户验证。其底层引擎已发展为 Flue，一个开源的平台无关框架，用于构建持久化智能体与工作流。",
+          "id": "d047a35ba1e7e916bc985110e00818508a1580f0",
+          "title": "商汤 SenseNova U1 开源：统一推理与图像生成 / Thanks Dan for testing SenseNova U1 - our open-source AI model that reasons and generates images in …",
+          "title_zh": "商汤 SenseNova U1 开源：统一推理与图像生成",
+          "title_en": "Thanks Dan for testing SenseNova U1 - our open-source AI model that reasons and generates images in …",
+          "title_original": "Thanks Dan for testing SenseNova U1 - our open-source AI model that reasons and generates images in …",
+          "summary": "商汤发布开源模型 SenseNova U1，可在统一流程中同时进行推理与图像生成。其信息图模式可将单条提示词转为结构化幻灯片，交错模式则逐步生成图文内容，如演示六步画龙教程。模型已上线 SenseNova Studio、HuggingFace 及 GitHub。",
           "recommend_reason_zh": null,
-          "url": "https://blog.cloudflare.com/astro-issue-triage",
-          "source": "Cloudflare Blog",
+          "url": "https://x.com/SenseTime_AI/status/2084667189479837741",
+          "source": "X：商汤 SenseTime (@SenseTime_AI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T13:00:00Z"
+          "published_at": "2026-08-04T15:46:03Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Cloudflare Blog"
+        "X：商汤 SenseTime (@SenseTime_AI)"
       ],
       "items": [
         {
-          "id": "3e6782b56cdb78354f4c8dcc098a294733387175",
-          "title": "Cloudflare 如何用软件工厂将 Astro 的 GitHub issue 数降至零 / How we built a software factory to drive Astro's GitHub issue count to zero",
-          "title_zh": "Cloudflare 如何用软件工厂将 Astro 的 GitHub issue 数降至零",
-          "title_en": "How we built a software factory to drive Astro's GitHub issue count to zero",
-          "title_original": "How we built a software factory to drive Astro's GitHub issue count to zero",
-          "summary": "Cloudflare 在 Astro 仓库上运行自动化 triage 流水线，通过隔离的 AI 子代理复现、诊断并修复 bug，将开放 issue 从 200 多个降至约 30 个，预计下月归零。该流水线由 issue 标签驱动，修复后自动发布预览版本供用户验证。其底层引擎已发展为 Flue，一个开源的平台无关框架，用于构建持久化智能体与工作流。",
+          "id": "d047a35ba1e7e916bc985110e00818508a1580f0",
+          "title": "商汤 SenseNova U1 开源：统一推理与图像生成 / Thanks Dan for testing SenseNova U1 - our open-source AI model that reasons and generates images in …",
+          "title_zh": "商汤 SenseNova U1 开源：统一推理与图像生成",
+          "title_en": "Thanks Dan for testing SenseNova U1 - our open-source AI model that reasons and generates images in …",
+          "title_original": "Thanks Dan for testing SenseNova U1 - our open-source AI model that reasons and generates images in …",
+          "summary": "商汤发布开源模型 SenseNova U1，可在统一流程中同时进行推理与图像生成。其信息图模式可将单条提示词转为结构化幻灯片，交错模式则逐步生成图文内容，如演示六步画龙教程。模型已上线 SenseNova Studio、HuggingFace 及 GitHub。",
           "recommend_reason_zh": null,
-          "url": "https://blog.cloudflare.com/astro-issue-triage",
-          "source": "Cloudflare Blog",
+          "url": "https://x.com/SenseTime_AI/status/2084667189479837741",
+          "source": "X：商汤 SenseTime (@SenseTime_AI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T13:00:00Z"
+          "published_at": "2026-08-04T15:46:03Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9633,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T13:00:00Z",
-      "latest_at": "2026-08-04T13:00:00Z",
-      "primary_item": {
-        "id": "3e6782b56cdb78354f4c8dcc098a294733387175",
-        "title": "Cloudflare 如何用软件工厂将 Astro 的 GitHub issue 数降至零 / How we built a software factory to drive Astro's GitHub issue count to zero",
-        "title_zh": "Cloudflare 如何用软件工厂将 Astro 的 GitHub issue 数降至零",
-        "title_en": "How we built a software factory to drive Astro's GitHub issue count to zero",
-        "title_original": "How we built a software factory to drive Astro's GitHub issue count to zero",
-        "summary": "Cloudflare 在 Astro 仓库上运行自动化 triage 流水线，通过隔离的 AI 子代理复现、诊断并修复 bug，将开放 issue 从 200 多个降至约 30 个，预计下月归零。该流水线由 issue 标签驱动，修复后自动发布预览版本供用户验证。其底层引擎已发展为 Flue，一个开源的平台无关框架，用于构建持久化智能体与工作流。",
-        "recommend_reason_zh": null,
-        "url": "https://blog.cloudflare.com/astro-issue-triage",
-        "source": "Cloudflare Blog",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T15:37:21.788306Z"
-      }
-    },
-    {
-      "story_id": "story_9dc2cb12e04f",
-      "title": "GPT-5.6 Luna降价80%永久生效 / Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-      "url": "https://x.com/thsottiaux/status/2084506501834829833",
-      "primary_url": "https://x.com/thsottiaux/status/2084506501834829833",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5a5581dd72f15919b939b9a10cbc444d6c0ac610",
-          "title": "GPT-5.6 Luna降价80%永久生效 / Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-          "title_zh": "GPT-5.6 Luna降价80%永久生效",
-          "title_en": "Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-          "title_original": "Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-          "summary": "有些人显然误解了，但 GPT-5.6 Luna 降价 80% 不是临时噱头，而是永久的。效率提升不会消失。幸运的是。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2084506501834829833",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T05:07:32Z"
-        },
-        {
-          "id": "3ecb7a8d7e77866dbf1c8628255df999601f122a",
-          "title": "GPT-5.6 Luna降价80%永久生效 / Some fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately. https://t.co/043ZF9T7gL",
-          "title_zh": "GPT-5.6 Luna降价80%永久生效",
-          "title_en": "Some fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately. https://t.co/043ZF9T7gL",
-          "title_original": "Some fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately. https://t.co/043ZF9T7gL",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2084506501834829833",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-04T05:07:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Thibault Sottiaux",
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "5a5581dd72f15919b939b9a10cbc444d6c0ac610",
-          "title": "GPT-5.6 Luna降价80%永久生效 / Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-          "title_zh": "GPT-5.6 Luna降价80%永久生效",
-          "title_en": "Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-          "title_original": "Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-          "summary": "有些人显然误解了，但 GPT-5.6 Luna 降价 80% 不是临时噱头，而是永久的。效率提升不会消失。幸运的是。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2084506501834829833",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T05:07:32Z"
-        },
-        {
-          "id": "3ecb7a8d7e77866dbf1c8628255df999601f122a",
-          "title": "GPT-5.6 Luna降价80%永久生效 / Some fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately. https://t.co/043ZF9T7gL",
-          "title_zh": "GPT-5.6 Luna降价80%永久生效",
-          "title_en": "Some fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately. https://t.co/043ZF9T7gL",
-          "title_original": "Some fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately. https://t.co/043ZF9T7gL",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2084506501834829833",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-04T05:07:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8598,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T05:07:32Z",
-      "latest_at": "2026-08-04T05:07:32Z",
-      "primary_item": {
-        "id": "5a5581dd72f15919b939b9a10cbc444d6c0ac610",
-        "title": "GPT-5.6 Luna降价80%永久生效 / Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-        "title_zh": "GPT-5.6 Luna降价80%永久生效",
-        "title_en": "Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-        "title_original": "Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-        "summary": "有些人显然误解了，但 GPT-5.6 Luna 降价 80% 不是临时噱头，而是永久的。效率提升不会消失。幸运的是。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/thsottiaux/status/2084506501834829833",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T15:37:21.788306Z"
-      }
-    },
-    {
-      "story_id": "story_403eeb056aa6",
-      "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\" / After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
-      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
-      "primary_url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0c32bd232500d93107ebab1af6ba0195ea3fa3ab",
-          "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\" / After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
-          "title_zh": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
-          "title_en": "After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
-          "title_original": "After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
-          "summary": "Palantir CEO Alex Karp 在季度股东信中警告，前沿 AI 实验室对企业过于不可信，并称其意图\"占有所谓合作伙伴的生产资料\"，带有\"马克思主义色彩\"。该公司第二季度营收 19 亿美元，同比增长 93%，利润 11 亿美元。Karp 主张 Palantir 提供模型无关的 AI 与分析软件，让企业掌控自身数据与 AI\"废气\"（提示词、编排、上下文）。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T23:19:50Z"
-        },
-        {
-          "id": "f300eb7fcd552934c20e5301b9aab908fffc7c59",
-          "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\" / After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-          "title_zh": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
-          "title_en": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-          "title_original": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-03T23:19:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "0c32bd232500d93107ebab1af6ba0195ea3fa3ab",
-          "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\" / After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
-          "title_zh": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
-          "title_en": "After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
-          "title_original": "After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
-          "summary": "Palantir CEO Alex Karp 在季度股东信中警告，前沿 AI 实验室对企业过于不可信，并称其意图\"占有所谓合作伙伴的生产资料\"，带有\"马克思主义色彩\"。该公司第二季度营收 19 亿美元，同比增长 93%，利润 11 亿美元。Karp 主张 Palantir 提供模型无关的 AI 与分析软件，让企业掌控自身数据与 AI\"废气\"（提示词、编排、上下文）。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T23:19:50Z"
-        },
-        {
-          "id": "f300eb7fcd552934c20e5301b9aab908fffc7c59",
-          "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\" / After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-          "title_zh": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
-          "title_en": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-          "title_original": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-03T23:19:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7908,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T23:19:50Z",
-      "latest_at": "2026-08-03T23:19:50Z",
-      "primary_item": {
-        "id": "0c32bd232500d93107ebab1af6ba0195ea3fa3ab",
-        "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\" / After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
-        "title_zh": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
-        "title_en": "After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
-        "title_original": "After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
-        "summary": "Palantir CEO Alex Karp 在季度股东信中警告，前沿 AI 实验室对企业过于不可信，并称其意图\"占有所谓合作伙伴的生产资料\"，带有\"马克思主义色彩\"。该公司第二季度营收 19 亿美元，同比增长 93%，利润 11 亿美元。Karp 主张 Palantir 提供模型无关的 AI 与分析软件，让企业掌控自身数据与 AI\"废气\"（提示词、编排、上下文）。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T15:37:21.788306Z"
-      }
-    },
-    {
-      "story_id": "story_494ad8597a8c",
-      "title": "蚂蚁百灵发布Ling-3.0-flash开源权重 / Today， we're releasing the open weights for Ling-3.0-flash. 🎉 Official BF16 and FP8-quantized vers…",
-      "url": "https://x.com/AntLingAGI/status/2084656533489754475",
-      "primary_url": "https://x.com/AntLingAGI/status/2084656533489754475",
-      "source": "X：蚂蚁百灵 (@AntLingAGI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3e583745bb557ce40eee172b05dc7cae07a3b7aa",
-          "title": "蚂蚁百灵发布Ling-3.0-flash开源权重 / Today， we're releasing the open weights for Ling-3.0-flash. 🎉 Official BF16 and FP8-quantized vers…",
-          "title_zh": "蚂蚁百灵发布Ling-3.0-flash开源权重",
-          "title_en": "Today， we're releasing the open weights for Ling-3.0-flash. 🎉 Official BF16 and FP8-quantized vers…",
-          "title_original": "Today， we're releasing the open weights for Ling-3.0-flash. 🎉 Official BF16 and FP8-quantized vers…",
-          "summary": "今天，我们发布了 Ling-3.0-flash 的开源权重。🎉\n\n官方 BF16 和 FP8 量化版本现已可用，您可以根据自己的硬件、性能要求和部署需求选择最合适的版本。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AntLingAGI/status/2084656533489754475",
-          "source": "X：蚂蚁百灵 (@AntLingAGI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T15:03:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：蚂蚁百灵 (@AntLingAGI)"
-      ],
-      "items": [
-        {
-          "id": "3e583745bb557ce40eee172b05dc7cae07a3b7aa",
-          "title": "蚂蚁百灵发布Ling-3.0-flash开源权重 / Today， we're releasing the open weights for Ling-3.0-flash. 🎉 Official BF16 and FP8-quantized vers…",
-          "title_zh": "蚂蚁百灵发布Ling-3.0-flash开源权重",
-          "title_en": "Today， we're releasing the open weights for Ling-3.0-flash. 🎉 Official BF16 and FP8-quantized vers…",
-          "title_original": "Today， we're releasing the open weights for Ling-3.0-flash. 🎉 Official BF16 and FP8-quantized vers…",
-          "summary": "今天，我们发布了 Ling-3.0-flash 的开源权重。🎉\n\n官方 BF16 和 FP8 量化版本现已可用，您可以根据自己的硬件、性能要求和部署需求选择最合适的版本。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AntLingAGI/status/2084656533489754475",
-          "source": "X：蚂蚁百灵 (@AntLingAGI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T15:03:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9924,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T15:03:43Z",
-      "latest_at": "2026-08-04T15:03:43Z",
-      "primary_item": {
-        "id": "3e583745bb557ce40eee172b05dc7cae07a3b7aa",
-        "title": "蚂蚁百灵发布Ling-3.0-flash开源权重 / Today， we're releasing the open weights for Ling-3.0-flash. 🎉 Official BF16 and FP8-quantized vers…",
-        "title_zh": "蚂蚁百灵发布Ling-3.0-flash开源权重",
-        "title_en": "Today， we're releasing the open weights for Ling-3.0-flash. 🎉 Official BF16 and FP8-quantized vers…",
-        "title_original": "Today， we're releasing the open weights for Ling-3.0-flash. 🎉 Official BF16 and FP8-quantized vers…",
-        "summary": "今天，我们发布了 Ling-3.0-flash 的开源权重。🎉\n\n官方 BF16 和 FP8 量化版本现已可用，您可以根据自己的硬件、性能要求和部署需求选择最合适的版本。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/AntLingAGI/status/2084656533489754475",
-        "source": "X：蚂蚁百灵 (@AntLingAGI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T15:37:21.788306Z"
-      }
-    },
-    {
-      "story_id": "story_c812f9375d11",
-      "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe's AI labeling and transparency rules are now in effect",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
-          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe's AI labeling and transparency rules are now in effect",
-          "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
-          "title_en": "Europe's AI labeling and transparency rules are now in effect",
-          "title_original": "Europe's AI labeling and transparency rules are now in effect",
-          "summary": "欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T17:38:45Z"
-        },
-        {
-          "id": "0e9bd10c89bbfb4536bde9133d93b8cfe727ee97",
-          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe’s AI labeling and transparency rules are now in effect",
-          "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
-          "title_en": "Europe’s AI labeling and transparency rules are now in effect",
-          "title_original": "Europe’s AI labeling and transparency rules are now in effect",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-03T17:38:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
-          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe's AI labeling and transparency rules are now in effect",
-          "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
-          "title_en": "Europe's AI labeling and transparency rules are now in effect",
-          "title_original": "Europe's AI labeling and transparency rules are now in effect",
-          "summary": "欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T17:38:45Z"
-        },
-        {
-          "id": "0e9bd10c89bbfb4536bde9133d93b8cfe727ee97",
-          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe’s AI labeling and transparency rules are now in effect",
-          "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
-          "title_en": "Europe’s AI labeling and transparency rules are now in effect",
-          "title_original": "Europe’s AI labeling and transparency rules are now in effect",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-03T17:38:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
       "score": 0.7467,
       "importance": 0.7467,
       "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7284,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T17:38:45Z",
-      "latest_at": "2026-08-03T17:38:45Z",
-      "primary_item": {
-        "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
-        "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe's AI labeling and transparency rules are now in effect",
-        "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
-        "title_en": "Europe's AI labeling and transparency rules are now in effect",
-        "title_original": "Europe's AI labeling and transparency rules are now in effect",
-        "summary": "欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T15:37:21.788306Z"
-      }
-    },
-    {
-      "story_id": "story_63a94a3ef129",
-      "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-      "url": "https://github.com/leonickson1/Swiftlet",
-      "primary_url": "https://github.com/leonickson1/Swiftlet",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9ca5efb7665863255dd6411d8c3788db9606bd9a",
-          "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-          "title_zh": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-          "title_en": null,
-          "title_original": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-          "summary": "Swiftlet 是一个 Swift + Metal 运行时，可在普通 Apple 设备上运行 Qwen3-Next 和 Qwen3.5/3.6 MoE 混合模型，仅将小型稠密核心驻留内存，按需从存储流式加载路由专家权重。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/leonickson1/Swiftlet",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T06:32:44.149000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "9ca5efb7665863255dd6411d8c3788db9606bd9a",
-          "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-          "title_zh": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-          "title_en": null,
-          "title_original": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-          "summary": "Swiftlet 是一个 Swift + Metal 运行时，可在普通 Apple 设备上运行 Qwen3-Next 和 Qwen3.5/3.6 MoE 混合模型，仅将小型稠密核心驻留内存，按需从存储流式加载路由专家权重。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/leonickson1/Swiftlet",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T06:32:44.149000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7726,
-      "importance": 0.7726,
-      "importance_score": 0.7726,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8776,
+        "recency": 0.9674,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-04T06:32:44.149000Z",
-      "latest_at": "2026-08-04T06:32:44.149000Z",
+      "earliest_at": "2026-08-04T15:46:03Z",
+      "latest_at": "2026-08-04T15:46:03Z",
       "primary_item": {
-        "id": "9ca5efb7665863255dd6411d8c3788db9606bd9a",
-        "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-        "title_zh": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-        "title_en": null,
-        "title_original": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-        "summary": "Swiftlet 是一个 Swift + Metal 运行时，可在普通 Apple 设备上运行 Qwen3-Next 和 Qwen3.5/3.6 MoE 混合模型，仅将小型稠密核心驻留内存，按需从存储流式加载路由专家权重。",
+        "id": "d047a35ba1e7e916bc985110e00818508a1580f0",
+        "title": "商汤 SenseNova U1 开源：统一推理与图像生成 / Thanks Dan for testing SenseNova U1 - our open-source AI model that reasons and generates images in …",
+        "title_zh": "商汤 SenseNova U1 开源：统一推理与图像生成",
+        "title_en": "Thanks Dan for testing SenseNova U1 - our open-source AI model that reasons and generates images in …",
+        "title_original": "Thanks Dan for testing SenseNova U1 - our open-source AI model that reasons and generates images in …",
+        "summary": "商汤发布开源模型 SenseNova U1，可在统一流程中同时进行推理与图像生成。其信息图模式可将单条提示词转为结构化幻灯片，交错模式则逐步生成图文内容，如演示六步画龙教程。模型已上线 SenseNova Studio、HuggingFace 及 GitHub。",
         "recommend_reason_zh": null,
-        "url": "https://github.com/leonickson1/Swiftlet",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://x.com/SenseTime_AI/status/2084667189479837741",
+        "source": "X：商汤 SenseTime (@SenseTime_AI)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T15:37:21.788306Z"
+        "scored_at": "2026-08-04T18:04:17.380243Z"
       }
     }
   ]
