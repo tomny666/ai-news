@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T12:16:43.424441Z",
+  "generated_at": "2026-08-05T14:37:35.005758Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8493,
-      "importance": 0.8493,
-      "importance_score": 0.8493,
+      "score": 0.8446,
+      "importance": 0.8446,
+      "importance_score": 0.8446,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.7792,
+        "recency": 0.7532,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,148 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T12:17:27.686474Z"
+        "scored_at": "2026-08-05T14:38:14.809771Z"
+      }
+    },
+    {
+      "story_id": "story_880f77f03b61",
+      "title": "Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS： an open platform for agents， apps， and work",
+      "url": "https://blog.cloudflare.com/cloudflare-os",
+      "primary_url": "https://blog.cloudflare.com/cloudflare-os",
+      "source": "Cloudflare Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6b3b53f5e4a8c0bc2a3d0e7a8c6b6cf7246ef39e",
+          "title": "Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS： an open platform for agents， apps， and work",
+          "title_zh": "Cloudflare OS：面向智能体、应用与工作的开放平台",
+          "title_en": "Cloudflare OS： an open platform for agents， apps， and work",
+          "title_original": "Cloudflare OS： an open platform for agents， apps， and work",
+          "summary": "Cloudflare 开源新版 Cloudflare OS，任何组织均可部署并连接内部系统。该平台为每位员工提供基于公司上下文与技能的智能体工作区，包含隔离运行时、安全治理框架及可共享修改的个人应用。此前内部版本已供数千名员工日常使用，新版针对协作中的信息暴露风险重建了安全基础。",
+          "recommend_reason_zh": null,
+          "url": "https://blog.cloudflare.com/cloudflare-os",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T13:00:00Z"
+        },
+        {
+          "id": "bdb0f6938501a01ef359fac5fd5b334e0858b99f",
+          "title": "Cloudflare OS：面向代理、应用程序和工作的开放平台 / Cloudflare OS: an open platform for agents, apps, and work",
+          "title_zh": "Cloudflare OS：面向代理、应用程序和工作的开放平台",
+          "title_en": "Cloudflare OS: an open platform for agents, apps, and work",
+          "title_original": "Cloudflare OS: an open platform for agents, apps, and work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49182996",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-05T14:37:53.616000Z"
+        },
+        {
+          "id": "6c183fa93718937ee172fdf0fcf2aa8a3f25b132",
+          "title": "Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS: an open platform for agents, apps, and work",
+          "title_zh": "Cloudflare OS：面向智能体、应用与工作的开放平台",
+          "title_en": "Cloudflare OS: an open platform for agents, apps, and work",
+          "title_original": "Cloudflare OS: an open platform for agents, apps, and work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.cloudflare.com/cloudflare-os",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-05T13:58:53Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Cloudflare Blog",
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6b3b53f5e4a8c0bc2a3d0e7a8c6b6cf7246ef39e",
+          "title": "Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS： an open platform for agents， apps， and work",
+          "title_zh": "Cloudflare OS：面向智能体、应用与工作的开放平台",
+          "title_en": "Cloudflare OS： an open platform for agents， apps， and work",
+          "title_original": "Cloudflare OS： an open platform for agents， apps， and work",
+          "summary": "Cloudflare 开源新版 Cloudflare OS，任何组织均可部署并连接内部系统。该平台为每位员工提供基于公司上下文与技能的智能体工作区，包含隔离运行时、安全治理框架及可共享修改的个人应用。此前内部版本已供数千名员工日常使用，新版针对协作中的信息暴露风险重建了安全基础。",
+          "recommend_reason_zh": null,
+          "url": "https://blog.cloudflare.com/cloudflare-os",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T13:00:00Z"
+        },
+        {
+          "id": "bdb0f6938501a01ef359fac5fd5b334e0858b99f",
+          "title": "Cloudflare OS：面向代理、应用程序和工作的开放平台 / Cloudflare OS: an open platform for agents, apps, and work",
+          "title_zh": "Cloudflare OS：面向代理、应用程序和工作的开放平台",
+          "title_en": "Cloudflare OS: an open platform for agents, apps, and work",
+          "title_original": "Cloudflare OS: an open platform for agents, apps, and work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49182996",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-05T14:37:53.616000Z"
+        },
+        {
+          "id": "6c183fa93718937ee172fdf0fcf2aa8a3f25b132",
+          "title": "Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS: an open platform for agents, apps, and work",
+          "title_zh": "Cloudflare OS：面向智能体、应用与工作的开放平台",
+          "title_en": "Cloudflare OS: an open platform for agents, apps, and work",
+          "title_original": "Cloudflare OS: an open platform for agents, apps, and work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.cloudflare.com/cloudflare-os",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-05T13:58:53Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8194,
+      "importance": 0.8194,
+      "importance_score": 0.8194,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9768,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T13:00:00Z",
+      "latest_at": "2026-08-05T14:37:53.616000Z",
+      "primary_item": {
+        "id": "6b3b53f5e4a8c0bc2a3d0e7a8c6b6cf7246ef39e",
+        "title": "Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS： an open platform for agents， apps， and work",
+        "title_zh": "Cloudflare OS：面向智能体、应用与工作的开放平台",
+        "title_en": "Cloudflare OS： an open platform for agents， apps， and work",
+        "title_original": "Cloudflare OS： an open platform for agents， apps， and work",
+        "summary": "Cloudflare 开源新版 Cloudflare OS，任何组织均可部署并连接内部系统。该平台为每位员工提供基于公司上下文与技能的智能体工作区，包含隔离运行时、安全治理框架及可共享修改的个人应用。此前内部版本已供数千名员工日常使用，新版针对协作中的信息暴露风险重建了安全基础。",
+        "recommend_reason_zh": null,
+        "url": "https://blog.cloudflare.com/cloudflare-os",
+        "source": "Cloudflare Blog",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-05T14:38:14.809771Z"
       }
     },
     {
@@ -161,15 +302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8126,
-      "importance": 0.8126,
-      "importance_score": 0.8126,
+      "score": 0.8079,
+      "importance": 0.8079,
+      "importance_score": 0.8079,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.781,
+        "recency": 0.7549,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +337,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T12:17:27.686474Z"
+        "scored_at": "2026-08-05T14:38:14.809771Z"
       }
     },
     {
@@ -244,15 +385,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
+      "score": 0.8077,
+      "importance": 0.8077,
+      "importance_score": 0.8077,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7797,
+        "recency": 0.7537,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,90 +420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T12:17:27.686474Z"
-      }
-    },
-    {
-      "story_id": "story_bcfdafe93ce8",
-      "title": "使用 LFM2.5-2.6B 随处部署本地代理 / Deploy local agents everywhere with LFM2.5-2.6B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "29539b6fa902d9cb9ba640872a1c08e0b500f04e",
-          "title": "使用 LFM2.5-2.6B 随处部署本地代理 / Deploy local agents everywhere with LFM2.5-2.6B",
-          "title_zh": "使用 LFM2.5-2.6B 随处部署本地代理",
-          "title_en": "Deploy local agents everywhere with LFM2.5-2.6B",
-          "title_original": "Deploy local agents everywhere with LFM2.5-2.6B",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T13:58:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "29539b6fa902d9cb9ba640872a1c08e0b500f04e",
-          "title": "使用 LFM2.5-2.6B 随处部署本地代理 / Deploy local agents everywhere with LFM2.5-2.6B",
-          "title_zh": "使用 LFM2.5-2.6B 随处部署本地代理",
-          "title_en": "Deploy local agents everywhere with LFM2.5-2.6B",
-          "title_original": "Deploy local agents everywhere with LFM2.5-2.6B",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T13:58:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8104,
-      "importance": 0.8104,
-      "importance_score": 0.8104,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7246,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T13:58:29Z",
-      "latest_at": "2026-08-04T13:58:29Z",
-      "primary_item": {
-        "id": "29539b6fa902d9cb9ba640872a1c08e0b500f04e",
-        "title": "使用 LFM2.5-2.6B 随处部署本地代理 / Deploy local agents everywhere with LFM2.5-2.6B",
-        "title_zh": "使用 LFM2.5-2.6B 随处部署本地代理",
-        "title_en": "Deploy local agents everywhere with LFM2.5-2.6B",
-        "title_original": "Deploy local agents everywhere with LFM2.5-2.6B",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-05T12:17:27.686474Z"
+        "scored_at": "2026-08-05T14:38:14.809771Z"
       }
     },
     {
@@ -439,15 +497,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
+      "score": 0.7982,
+      "importance": 0.7982,
+      "importance_score": 0.7982,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9458,
+        "recency": 0.9143,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -474,90 +532,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T12:17:27.686474Z"
-      }
-    },
-    {
-      "story_id": "story_8fcfc69e0c50",
-      "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
-          "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
-          "title_zh": "我们于 2026 年 7 月公布的最新 AI 新闻",
-          "title_en": "The latest AI news we announced in July 2026",
-          "title_original": "The latest AI news we announced in July 2026",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
-          "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
-          "title_zh": "我们于 2026 年 7 月公布的最新 AI 新闻",
-          "title_en": "The latest AI news we announced in July 2026",
-          "title_original": "The latest AI news we announced in July 2026",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7145,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T13:00:00Z",
-      "latest_at": "2026-08-04T13:00:00Z",
-      "primary_item": {
-        "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
-        "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
-        "title_zh": "我们于 2026 年 7 月公布的最新 AI 新闻",
-        "title_en": "The latest AI news we announced in July 2026",
-        "title_original": "The latest AI news we announced in July 2026",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-05T12:17:27.686474Z"
+        "scored_at": "2026-08-05T14:38:14.809771Z"
       }
     },
     {
@@ -634,15 +609,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7843,
-      "importance": 0.7843,
-      "importance_score": 0.7843,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8372,
+        "recency": 0.8093,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -669,7 +644,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T12:17:27.686474Z"
+        "scored_at": "2026-08-05T14:38:14.809771Z"
       }
     },
     {
@@ -717,15 +692,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7803,
-      "importance": 0.7803,
-      "importance_score": 0.7803,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9706,
+        "recency": 0.9383,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -751,7 +726,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T12:17:27.686474Z"
+        "scored_at": "2026-08-05T14:38:14.809771Z"
       }
     },
     {
@@ -799,15 +774,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8048,
-      "importance": 0.8048,
-      "importance_score": 0.8048,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7821,
+        "recency": 0.756,
         "story_heat": 0.0
       },
       "category": "official",
@@ -834,7 +809,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T12:17:27.686474Z"
+        "scored_at": "2026-08-05T14:38:14.809771Z"
       }
     },
     {
@@ -882,15 +857,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.975,
+        "recency": 0.9425,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -916,7 +891,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T12:17:27.686474Z"
+        "scored_at": "2026-08-05T14:38:14.809771Z"
+      }
+    },
+    {
+      "story_id": "story_609acf8848f0",
+      "title": "AI智能体尚无法开展开放式AI研究 / AI agents can't yet do open-ended AI research",
+      "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+      "primary_url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+      "source": "AI as Normal Technology（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "93b88ed2fb86fbd132d4f442b1e25617aa5f6407",
+          "title": "AI智能体尚无法开展开放式AI研究 / AI agents can't yet do open-ended AI research",
+          "title_zh": "AI智能体尚无法开展开放式AI研究",
+          "title_en": "AI agents can't yet do open-ended AI research",
+          "title_original": "AI agents can't yet do open-ended AI research",
+          "summary": "普林斯顿大学团队通过\"影子评估\"测试前沿AI智能体的开放式研究能力：让智能体在六天时间内、使用数千美元API额度和算力，回答两篇未发表论文的核心研究问题，结果两篇论文均被原作者明确拒绝。分析显示，智能体缺乏研究判断力、资源意识、创造性反馈应对能力和有效回溯能力，且未遵循具体指令。研究团队认为，开放式研究对前沿AI智能体仍具挑战性，但结果尚属初步，需扩大样本量并持续评估。",
+          "recommend_reason_zh": null,
+          "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+          "source": "AI as Normal Technology（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T13:49:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AI as Normal Technology（RSS）"
+      ],
+      "items": [
+        {
+          "id": "93b88ed2fb86fbd132d4f442b1e25617aa5f6407",
+          "title": "AI智能体尚无法开展开放式AI研究 / AI agents can't yet do open-ended AI research",
+          "title_zh": "AI智能体尚无法开展开放式AI研究",
+          "title_en": "AI agents can't yet do open-ended AI research",
+          "title_original": "AI agents can't yet do open-ended AI research",
+          "summary": "普林斯顿大学团队通过\"影子评估\"测试前沿AI智能体的开放式研究能力：让智能体在六天时间内、使用数千美元API额度和算力，回答两篇未发表论文的核心研究问题，结果两篇论文均被原作者明确拒绝。分析显示，智能体缺乏研究判断力、资源意识、创造性反馈应对能力和有效回溯能力，且未遵循具体指令。研究团队认为，开放式研究对前沿AI智能体仍具挑战性，但结果尚属初步，需扩大样本量并持续评估。",
+          "recommend_reason_zh": null,
+          "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+          "source": "AI as Normal Technology（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T13:49:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9885,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T13:49:19Z",
+      "latest_at": "2026-08-05T13:49:19Z",
+      "primary_item": {
+        "id": "93b88ed2fb86fbd132d4f442b1e25617aa5f6407",
+        "title": "AI智能体尚无法开展开放式AI研究 / AI agents can't yet do open-ended AI research",
+        "title_zh": "AI智能体尚无法开展开放式AI研究",
+        "title_en": "AI agents can't yet do open-ended AI research",
+        "title_original": "AI agents can't yet do open-ended AI research",
+        "summary": "普林斯顿大学团队通过\"影子评估\"测试前沿AI智能体的开放式研究能力：让智能体在六天时间内、使用数千美元API额度和算力，回答两篇未发表论文的核心研究问题，结果两篇论文均被原作者明确拒绝。分析显示，智能体缺乏研究判断力、资源意识、创造性反馈应对能力和有效回溯能力，且未遵循具体指令。研究团队认为，开放式研究对前沿AI智能体仍具挑战性，但结果尚属初步，需扩大样本量并持续评估。",
+        "recommend_reason_zh": null,
+        "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+        "source": "AI as Normal Technology（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-05T14:38:14.809771Z"
       }
     },
     {
@@ -964,15 +1021,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7613,
-      "importance": 0.7613,
-      "importance_score": 0.7613,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9652,
+        "recency": 0.933,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -998,7 +1055,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T12:17:27.686474Z"
+        "scored_at": "2026-08-05T14:38:14.809771Z"
       }
     },
     {
@@ -1046,15 +1103,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9235,
+        "recency": 0.8927,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1080,7 +1137,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T12:17:27.686474Z"
+        "scored_at": "2026-08-05T14:38:14.809771Z"
       }
     },
     {
@@ -1157,22 +1214,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7712,
+        "recency": 0.7455,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-04T18:17:29.648000Z",
       "latest_at": "2026-08-04T18:17:29.648000Z",
@@ -1192,7 +1248,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T12:17:27.686474Z"
+        "scored_at": "2026-08-05T14:38:14.809771Z"
       }
     },
     {
@@ -1240,21 +1296,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.857,
+        "recency": 0.8285,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-05T01:35:42Z",
       "latest_at": "2026-08-05T01:35:42Z",
@@ -1274,7 +1329,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T12:17:27.686474Z"
+        "scored_at": "2026-08-05T14:38:14.809771Z"
       }
     },
     {
@@ -1322,15 +1377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7399,
-      "importance": 0.7399,
-      "importance_score": 0.7399,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7461,
+        "recency": 0.7213,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1355,7 +1410,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T12:17:27.686474Z"
+        "scored_at": "2026-08-05T14:38:14.809771Z"
       }
     },
     {
@@ -1403,15 +1458,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7388,
-      "importance": 0.7388,
-      "importance_score": 0.7388,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7543,
+        "recency": 0.7291,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1436,7 +1491,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T12:17:27.686474Z"
+        "scored_at": "2026-08-05T14:38:14.809771Z"
       }
     },
     {
@@ -1484,15 +1539,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7981,
-      "importance": 0.7981,
-      "importance_score": 0.7981,
+      "score": 0.7937,
+      "importance": 0.7937,
+      "importance_score": 0.7937,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7452,
+        "recency": 0.7204,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1519,7 +1574,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T12:17:27.686474Z"
+        "scored_at": "2026-08-05T14:38:14.809771Z"
       }
     },
     {
@@ -1567,15 +1622,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7352,
+        "recency": 0.7107,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1600,7 +1655,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T12:17:27.686474Z"
+        "scored_at": "2026-08-05T14:38:14.809771Z"
+      }
+    },
+    {
+      "story_id": "story_f817e433f480",
+      "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
+      "url": "https://blog.cloudflare.com/the-agent-access-model",
+      "primary_url": "https://blog.cloudflare.com/the-agent-access-model",
+      "source": "Cloudflare Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a3b25cf2f6dcb85607a59953d7751fd25117f356",
+          "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
+          "title_zh": "Cloudflare 提出智能体访问模型（Agent Access Model）",
+          "title_en": "The Agent Access Model",
+          "title_original": "The Agent Access Model",
+          "summary": "Cloudflare 发布《The Agent Access Model》论文，提出面向 AI 智能体的访问控制模型 AAM，核心规则是\"不信任运行\"，对任务执行图中的每个动作基于智能体身份、授权任务及已触达资源进行实时授权。该模型针对智能体的短暂性、机器速度、提示词非边界及跨跳组合权限四大特性设计，主张缩小能力集而非仅优化单次决策，并区分单主体控制与多人访问控制的难点。",
+          "recommend_reason_zh": null,
+          "url": "https://blog.cloudflare.com/the-agent-access-model",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T13:00:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Cloudflare Blog"
+      ],
+      "items": [
+        {
+          "id": "a3b25cf2f6dcb85607a59953d7751fd25117f356",
+          "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
+          "title_zh": "Cloudflare 提出智能体访问模型（Agent Access Model）",
+          "title_en": "The Agent Access Model",
+          "title_original": "The Agent Access Model",
+          "summary": "Cloudflare 发布《The Agent Access Model》论文，提出面向 AI 智能体的访问控制模型 AAM，核心规则是\"不信任运行\"，对任务执行图中的每个动作基于智能体身份、授权任务及已触达资源进行实时授权。该模型针对智能体的短暂性、机器速度、提示词非边界及跨跳组合权限四大特性设计，主张缩小能力集而非仅优化单次决策，并区分单主体控制与多人访问控制的难点。",
+          "recommend_reason_zh": null,
+          "url": "https://blog.cloudflare.com/the-agent-access-model",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T13:00:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9769,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T13:00:41Z",
+      "latest_at": "2026-08-05T13:00:41Z",
+      "primary_item": {
+        "id": "a3b25cf2f6dcb85607a59953d7751fd25117f356",
+        "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
+        "title_zh": "Cloudflare 提出智能体访问模型（Agent Access Model）",
+        "title_en": "The Agent Access Model",
+        "title_original": "The Agent Access Model",
+        "summary": "Cloudflare 发布《The Agent Access Model》论文，提出面向 AI 智能体的访问控制模型 AAM，核心规则是\"不信任运行\"，对任务执行图中的每个动作基于智能体身份、授权任务及已触达资源进行实时授权。该模型针对智能体的短暂性、机器速度、提示词非边界及跨跳组合权限四大特性设计，主张缩小能力集而非仅优化单次决策，并区分单主体控制与多人访问控制的难点。",
+        "recommend_reason_zh": null,
+        "url": "https://blog.cloudflare.com/the-agent-access-model",
+        "source": "Cloudflare Blog",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-05T14:38:14.809771Z"
       }
     },
     {
@@ -1648,15 +1785,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9719,
+        "recency": 0.9395,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1682,88 +1819,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T12:17:27.686474Z"
-      }
-    },
-    {
-      "story_id": "story_62f2df441b10",
-      "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud / Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
-      "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e1c6ac51de4c8996e5652c93be537ba12ee88ba4",
-          "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud / Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
-          "title_zh": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
-          "title_en": "Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
-          "title_original": "Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
-          "summary": "阿里通义千问发布 Qwen-Image-3.0-Pro 与 Standard，现已在 Qwen Cloud 上线。该模型在 Arena 文生图榜单中位列中国模型第一、主流模型第二，支持 4.5k-token 提示词、10px 级文字渲染及 12 种语言。Pro 版起价 $0.04/张，Standard 版起价 $0.03/张。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T02:40:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "e1c6ac51de4c8996e5652c93be537ba12ee88ba4",
-          "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud / Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
-          "title_zh": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
-          "title_en": "Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
-          "title_original": "Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
-          "summary": "阿里通义千问发布 Qwen-Image-3.0-Pro 与 Standard，现已在 Qwen Cloud 上线。该模型在 Arena 文生图榜单中位列中国模型第一、主流模型第二，支持 4.5k-token 提示词、10px 级文字渲染及 12 种语言。Pro 版起价 $0.04/张，Standard 版起价 $0.03/张。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T02:40:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8705,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T02:40:31Z",
-      "latest_at": "2026-08-05T02:40:31Z",
-      "primary_item": {
-        "id": "e1c6ac51de4c8996e5652c93be537ba12ee88ba4",
-        "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud / Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
-        "title_zh": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
-        "title_en": "Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
-        "title_original": "Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
-        "summary": "阿里通义千问发布 Qwen-Image-3.0-Pro 与 Standard，现已在 Qwen Cloud 上线。该模型在 Arena 文生图榜单中位列中国模型第一、主流模型第二，支持 4.5k-token 提示词、10px 级文字渲染及 12 种语言。Pro 版起价 $0.04/张，Standard 版起价 $0.03/张。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-05T12:17:27.686474Z"
+        "scored_at": "2026-08-05T14:38:14.809771Z"
       }
     }
   ]
