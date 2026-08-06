@@ -1,51 +1,27 @@
 {
-  "generated_at": "2026-08-06T06:46:06.857967Z",
+  "generated_at": "2026-08-06T09:58:36.725750Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-08-05",
-  "count_today": 6,
+  "latest_date": "2026-08-06",
+  "count_today": 1,
   "updates_today": [
     {
-      "date": "2026-08-05",
-      "title": "烧了5亿token后，这是我给codex和claude做Skill上下文瘦身的新技巧！",
-      "summary": "很多人给Agent一路加 Skill，以为能力会越多越强。但卡尔烧了5亿token后发现，300多个Skill每次启动都会先占掉一大截上下文，模型还没干活就被塞满了。他给出一套Skill瘦身方法：按高频、项目级、触发级和少用但关键来分层，把低频能力从全局暴露降到动态加载，适合Codex、Claude重度用户参考。",
-      "url": "https://waytoagi.feishu.cn/wiki/K2CZwSYS4ibVevkvK2icxaftnIe?from=from_copylink"
-    },
-    {
-      "date": "2026-08-05",
-      "title": "抖音/TikTok 剧情短视频创作 Skill",
-      "summary": "市面上的通用写作Agent能写故事，但真正落到抖音剧情时，会出现各种问题：开头不够抓人、节奏太慢、反转生硬、台词不像真人说话，也缺少对达人剧情结构的理解。作者把自己整理的剧情创作机制、检索程序和授权参考库，做成了一套纯本地运行的 Skill。",
-      "url": "https://waytoagi.feishu.cn/wiki/CfsewaSgKixW8WkMBiJcpF5Knfb?from=from_copylink"
-    },
-    {
-      "date": "2026-08-05",
-      "title": "开源「活人感写作.skill」，只为帮你写出没有AI味的文字。",
-      "summary": "卡兹克开源了他的「活人感写作.skill」，把写作拉回到“义理、考据、辞章”三层：先帮你挖掘真实观点和经历，再处理叙事节奏和AI常见口癖。快来一起试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/GJIawCNNLiPK6xk0d1dcQCjmndd?from=from_copylink"
-    },
-    {
-      "date": "2026-08-05",
-      "title": "余一：如何高效 PUA 100 个 Agent 给我卖命~",
-      "summary": "余一把分享了她的高阶 AI 协作思路：用文件夹结构、异步沟通文档、红黄绿灯授权机制，让 AI 自己读资料、做决策、交付PPT/视频等长程任务。更关键的是，她把自己的流程、审美和判断标准压缩成Skill、HTML样本和验收规则，让 AI 越用越像一个懂偏好的执行系统；想从“会用 AI”走到“让 AI 自己干活”，这篇很值得看。",
-      "url": "https://waytoagi.feishu.cn/wiki/VV99wBbamiynOGkkeXUcdPBanEc?from=from_copylink"
-    },
-    {
-      "date": "2026-08-05",
-      "title": "Vibe Coding 视觉词典（下篇）：滚动动作、提示加载、视觉风格与高级效果",
-      "summary": "上篇讲清了网页的布局、结构、导航和组件，这篇继续补齐“网页怎么动、怎么反馈、怎么显得更完整”：从滚动出现、视差、进度条、懒加载、骨架屏，到空状态、错误重试、极简/杂志风/玻璃拟态/深色模式，以及 3D、转场、性能和无障碍。读完你会更知道怎么把“把网页做得高级点”拆成具体、可执行、AI能听懂的设计需求。",
-      "url": "https://waytoagi.feishu.cn/wiki/NhfOwiWdSiGd23kgTQccLIsinvw?from=from_copylink"
-    },
-    {
-      "date": "2026-08-05",
-      "title": "Higgsfield 开源了他们95分钟的AI长片《 Hell Grind》所有提示词及相关资料",
-      "summary": "这部作品制作成本为50万美元，曾在戛纳电影市场展映，并获得《华尔街日报》、Variety及BBC新闻的报道。一起来看看他们的制作流程！",
-      "url": "https://waytoagi.feishu.cn/wiki/OQfOwfLWOiiglCk080QchgpCnGC?from=from_copylink"
+      "date": "2026-08-06",
+      "title": "18个模型统计108次财报，谁最快、最准、最便宜？",
+      "summary": "很多人选模型只看“谁最准、谁最快、谁最便宜”，这篇文章用18个模型跑了108次谷歌财报统计任务后发现，真实办公场景里根本没有万能冠军，速度、成本和准确率永远要做取舍。海外旗舰模型交付快且稳，国产模型成本优势明显，Kimi K3更均衡，DeepSeek-V4-Flash便宜但更慢；而且提示词优化能拉高普通模型下限，也可能束缚强模型。",
+      "url": "https://waytoagi.feishu.cn/wiki/EhiUwA8fIi2c1Uklc0Vc3wC6nah?from=from_copylink"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 40,
   "updates_7d": [
+    {
+      "date": "2026-08-06",
+      "title": "18个模型统计108次财报，谁最快、最准、最便宜？",
+      "summary": "很多人选模型只看“谁最准、谁最快、谁最便宜”，这篇文章用18个模型跑了108次谷歌财报统计任务后发现，真实办公场景里根本没有万能冠军，速度、成本和准确率永远要做取舍。海外旗舰模型交付快且稳，国产模型成本优势明显，Kimi K3更均衡，DeepSeek-V4-Flash便宜但更慢；而且提示词优化能拉高普通模型下限，也可能束缚强模型。",
+      "url": "https://waytoagi.feishu.cn/wiki/EhiUwA8fIi2c1Uklc0Vc3wC6nah?from=from_copylink"
+    },
     {
       "date": "2026-08-05",
       "title": "烧了5亿token后，这是我给codex和claude做Skill上下文瘦身的新技巧！",
