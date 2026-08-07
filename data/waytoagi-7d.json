@@ -1,45 +1,51 @@
 {
-  "generated_at": "2026-08-07T19:15:19.741354Z",
+  "generated_at": "2026-08-07T20:01:06.365334Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-08-06",
-  "count_today": 5,
+  "latest_date": "2026-08-07",
+  "count_today": 3,
   "updates_today": [
     {
-      "date": "2026-08-06",
-      "title": "重磅！Wan3.0开启公测",
-      "summary": "全新一代视频生成模型Wan3.0开启公测。Wan3.0在生成时长、万能创作、全能参考与真实感等维度全面升级，单次可生成30秒视频；在文本、图片、音频、视频四种基础模态之外，首次支持doc、xls、ppt、pdf、md等文档格式输入，让“万物皆可生视频”。快来体验一下！",
-      "url": "https://waytoagi.feishu.cn/wiki/GT12wcg2Ei39eVkt65NcNFynnEh?from=from_copylink"
+      "date": "2026-08-07",
+      "title": "看了这么多Vibe Coding，我被B站这些产品整不会了",
+      "summary": "很多人的Vibe Coding还停在“让 AI 帮我写代码、做提效工具”。B站这批作品已经玩到更生活化的方向：督学官、大狗叫模拟器、AI 小镇、弹幕创世、时空电话、AI 猫娘。想做 AI 小产品、找灵感或理解“产品内容化”的人可以打开看看。",
+      "url": "https://waytoagi.feishu.cn/wiki/KIjgwiXAxiU7mRkz8ODc2XEXnhg?from=from_copylink"
     },
     {
-      "date": "2026-08-06",
-      "title": "被概念词\"Graph Engineering\"搞的晕头转向？ 不妨来读一下我这篇总结",
-      "summary": "Graph Engineering 最近被炒得很热，但很多人其实把知识图谱、GraphRAG、LangGraph、多 Agent 编排和组织治理混在一起讲，越听越晕。 这篇指南的目标不是给你\"图工程的准确定义\"——那东西不存在。目标是给你 一把尺子 ，让你下次再听到\"Graph Engineering\"时，能立刻判断对方在说哪一层、针对什么问题、以多大动态性在谈。",
-      "url": "https://waytoagi.feishu.cn/wiki/LuFYwrMihiJOoek4Z4wcBO8Jnfd?from=from_copylink"
+      "date": "2026-08-07",
+      "title": "Seedance 2.5 到底升级了什么？",
+      "summary": "今天，火山引擎开放了 Seedance 2.5 API。来看看海辛和阿文在真实项目中的测试效果。这次最直观的变化，是AI视频里那种“油腻感”被压下去了不少：人物肤质没那么塑料，表情和呼吸更细，雨雾、反射、材质、城市光影也更像在同一个真实空间里发生。",
+      "url": "https://waytoagi.feishu.cn/wiki/IEStw6pqtiLcO8k2CIycmBSOnkh?from=from_copylink"
     },
     {
-      "date": "2026-08-06",
-      "title": "分享10个能大幅提升vibe coding幸福感的开源App。",
-      "summary": "AI越来越强，Vibe Coding也越来越普及，也越来越容易遇到一些专为某个痛点而生的小工具。卡尔这篇文章就分享了10个超实用的开源小工具，带你把Mac变成更顺手的 AI 工作台。",
-      "url": "https://waytoagi.feishu.cn/wiki/EFxiw9ymaizID1kJNM7cIY4VnJg?from=from_copylink"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "几千人催我的 Codex +Obsidian 公众号创作工作流，开源了！",
-      "summary": "对于很多做公众号和自媒体的人来说，写稿只是第一步。真正耗时间的是标题反复修改、封面配图难统一、排版来回切工具，发出去后数据还要单独追踪。苍何开源了他的Codex +Obsidian 公众号创作工作流，适合想把AI用到完整内容生产链路的人照着搭一遍。",
-      "url": "https://waytoagi.feishu.cn/wiki/Owo5wRLRDib9fUka0y1cE2UCnvg?from=from_copylink"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "18个模型统计108次财报，谁最快、最准、最便宜？",
-      "summary": "很多人选模型只看“谁最准、谁最快、谁最便宜”，这篇文章用18个模型跑了108次谷歌财报统计任务后发现，真实办公场景里根本没有万能冠军，速度、成本和准确率永远要做取舍。海外旗舰模型交付快且稳，国产模型成本优势明显，Kimi K3更均衡，DeepSeek-V4-Flash便宜但更慢；而且提示词优化能拉高普通模型下限，也可能束缚强模型。",
-      "url": "https://waytoagi.feishu.cn/wiki/EhiUwA8fIi2c1Uklc0Vc3wC6nah?from=from_copylink"
+      "date": "2026-08-07",
+      "title": "MiniMax H3 Skills 说明",
+      "summary": "MiniMax H3 官方开源了专门解决AI视频创作里指令跑偏、角色不一致、镜头表现力不足等棘手问题的Skills。这套技能库包含1个底层提示词能力，搭配8个垂直风格Agent生成器，覆盖3D动画、电商广告、品牌宣传片、MV等众多创作场景。支持多种生成模式，产出结构化描述、分镜脚本与评审清单，可以帮创作者快速搭建一套质量可控的标准化多模态视频生产流水线。",
+      "url": "https://waytoagi.feishu.cn/wiki/CZoyw32ltif2l8kt7CdcPBOYn3b?from=from_copylink"
     }
   ],
-  "count_7d": 31,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-08-07",
+      "title": "看了这么多Vibe Coding，我被B站这些产品整不会了",
+      "summary": "很多人的Vibe Coding还停在“让 AI 帮我写代码、做提效工具”。B站这批作品已经玩到更生活化的方向：督学官、大狗叫模拟器、AI 小镇、弹幕创世、时空电话、AI 猫娘。想做 AI 小产品、找灵感或理解“产品内容化”的人可以打开看看。",
+      "url": "https://waytoagi.feishu.cn/wiki/KIjgwiXAxiU7mRkz8ODc2XEXnhg?from=from_copylink"
+    },
+    {
+      "date": "2026-08-07",
+      "title": "Seedance 2.5 到底升级了什么？",
+      "summary": "今天，火山引擎开放了 Seedance 2.5 API。来看看海辛和阿文在真实项目中的测试效果。这次最直观的变化，是AI视频里那种“油腻感”被压下去了不少：人物肤质没那么塑料，表情和呼吸更细，雨雾、反射、材质、城市光影也更像在同一个真实空间里发生。",
+      "url": "https://waytoagi.feishu.cn/wiki/IEStw6pqtiLcO8k2CIycmBSOnkh?from=from_copylink"
+    },
+    {
+      "date": "2026-08-07",
+      "title": "MiniMax H3 Skills 说明",
+      "summary": "MiniMax H3 官方开源了专门解决AI视频创作里指令跑偏、角色不一致、镜头表现力不足等棘手问题的Skills。这套技能库包含1个底层提示词能力，搭配8个垂直风格Agent生成器，覆盖3D动画、电商广告、品牌宣传片、MV等众多创作场景。支持多种生成模式，产出结构化描述、分镜脚本与评审清单，可以帮创作者快速搭建一套质量可控的标准化多模态视频生产流水线。",
+      "url": "https://waytoagi.feishu.cn/wiki/CZoyw32ltif2l8kt7CdcPBOYn3b?from=from_copylink"
+    },
     {
       "date": "2026-08-06",
       "title": "重磅！Wan3.0开启公测",
