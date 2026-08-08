@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T19:44:16.190511Z",
+  "generated_at": "2026-08-08T20:48:00.825204Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-08-08",
-  "count_today": 2,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-08-08",
@@ -18,9 +18,21 @@
       "title": "如何成为记忆工程师：来自 Stanford、Microsoft、Anthropic 与 NVIDIA 的视角",
       "summary": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
       "url": "https://waytoagi.feishu.cn/wiki/PCj7wTswPigE9ukBveicR3Frnzh?from=from_copylink"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "为什么托管式智能体会成为智能体构建的下一个重要方向",
+      "summary": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+      "url": "https://waytoagi.feishu.cn/wiki/PHrZwoc6GijA2IkXryccO06KnFh?from=from_copylink"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Graph Engineering：来自Anthropic 的真实落地实践",
+      "summary": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
+      "url": "https://waytoagi.feishu.cn/wiki/RrslwsTiJitt1GkJvF3ckf0Nnvn?from=from_copylink"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 34,
   "updates_7d": [
     {
       "date": "2026-08-08",
@@ -33,6 +45,18 @@
       "title": "如何成为记忆工程师：来自 Stanford、Microsoft、Anthropic 与 NVIDIA 的视角",
       "summary": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
       "url": "https://waytoagi.feishu.cn/wiki/PCj7wTswPigE9ukBveicR3Frnzh?from=from_copylink"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "为什么托管式智能体会成为智能体构建的下一个重要方向",
+      "summary": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+      "url": "https://waytoagi.feishu.cn/wiki/PHrZwoc6GijA2IkXryccO06KnFh?from=from_copylink"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Graph Engineering：来自Anthropic 的真实落地实践",
+      "summary": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
+      "url": "https://waytoagi.feishu.cn/wiki/RrslwsTiJitt1GkJvF3ckf0Nnvn?from=from_copylink"
     },
     {
       "date": "2026-08-07",
