@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T15:46:46.997009Z",
+  "generated_at": "2026-08-09T16:53:51.033142Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -32,7 +32,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/RrslwsTiJitt1GkJvF3ckf0Nnvn?from=from_copylink"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 27,
   "updates_7d": [
     {
       "date": "2026-08-08",
@@ -195,48 +195,6 @@
       "title": "Vibe Coding 视觉词典（上篇）：布局、页面结构、导航与常用组件",
       "summary": "这篇Vibe Coding 新手视觉宝典，把网页拆成四层：布局、页面结构、导航和组件。针对 卡片、瀑布流、Bento、分屏、CSS Grid/Flexbox、Hero、Landing Page、Sticky Navbar、Drawer、Tabs、Modal、Toast、表单、Command Palette都讲了各自的适用场景，还配了对应的提示词。如果你想用AI搭个人网站、作品集、产品页，可以参考一下。",
       "url": "https://waytoagi.feishu.cn/wiki/XBlhwhR6RimU4ukhIzfcJb4OnTh?from=from_copylink"
-    },
-    {
-      "date": "2026-08-03",
-      "title": "老金实测：提示词删82%之后，MiniMax退步，GPT-5.6没省Token",
-      "summary": "很多人看到“Anthropic把Claude Code的系统提示词删掉80% ”，第一反应就是：那我也赶紧把规则砍短，省 Token、省成本。但提示词变短不等于真实成本下降，能不能删，要看模型会不会主动补资料、补边界，还得拿真实任务测试。老金拿他的开源项目 Meta_Kim 做了48 次 A/B 测试，覆盖简单的单文件修改、模糊产品任务、跨文件高风险任务，并加入公开测试、隐藏测试和盲评。来看看他的测试效果！",
-      "url": "https://waytoagi.feishu.cn/wiki/KeIvwylkLi4zLNkhRw1cN4gAnLh?from=from_copylink"
-    },
-    {
-      "date": "2026-08-03",
-      "title": "开放通用智能，MiniMax H3 正式开源",
-      "summary": "MiniMax H3正式开源，能统一理解文本、图片、视频、音频输入等构成的多模态上下文，生成最长 15 秒、最高 2K、带原生立体声音频的视频；还支持首尾帧、参考图/视频/音频等多种模式。更关键的是，H3-Base已开放本地部署，支持SGLang、vLLM、diffusers、ComfyUI；官方还给了 768p 本地验证和 2K 完整工作流。快来部署到自己的工作流里试一试！",
-      "url": "https://waytoagi.feishu.cn/wiki/S2VWwitzsiri1Skrzj6cQQswnRb?from=from_copylink"
-    },
-    {
-      "date": "2026-08-03",
-      "title": "分享2个让Codex和Claude跨机器共用记忆技巧",
-      "summary": "如果你同时用Codex、Claude Code，又经常在MacBook、Mac mini之间切项目，最烦的或许就是每次都要重新解释背景：这个项目是什么、之前为什么这么设计、哪些坑已经踩过。全塞进AGENTS.md又容易把上下文撑爆。卡尔给了一个更轻的记忆方案：每台机器用claude-mem本地捕获会话里的关键记忆，再只把架构决策、稳定偏好、重要发现和已验证的Bug修复同步到 Mem0。这样Codex和Claude都能按项目检索共享记忆。",
-      "url": "https://waytoagi.feishu.cn/wiki/VuhfwMkwzi1nsukosOcceSupn9d?from=from_copylink"
-    },
-    {
-      "date": "2026-08-03",
-      "title": "上下文工程：理解 AGENTS.md、SKILL.md 与 CLAUDE.md",
-      "summary": "如果你用 Codex、Claude、Cursor 做项目，应该见过根目录里都会有一堆Markdown：CLAUDE.md、AGENTS.md、SKILL.md。每个文件其实都在解决一个真实问题，理解它们之间的差异，能避免你用不同方式重复维护同一份上下文。",
-      "url": "https://waytoagi.feishu.cn/wiki/B51QwMHGdiVGgik0Ja5cmH8Hnag?from=from_copylink"
-    },
-    {
-      "date": "2026-08-03",
-      "title": "Whatnot CPO：每个团队都需要产品经理吗？丨Lenny's Podcast",
-      "summary": "这篇聊的是Whatnot CPO Tom Verrilli对产品组织的反常识看法：优秀的PM要能靠近客户、读懂系统、看数据、写清规格，并亲自推动上线。AI进一步放大了这种趋势：它省掉的是等待判断的时间，可以让资深PM、设计师、工程师都有机会直接理解问题、修正问题。让我们一起重新思考下“AI时代的产品经理到底该创造什么价值”。",
-      "url": "https://waytoagi.feishu.cn/wiki/IobCwR0JoikQo5kHz5rcFrc4n4e?from=from_copylink"
-    },
-    {
-      "date": "2026-08-03",
-      "title": "Vibe coding 做出来的产品，正在裸奔（附安全 review 提示词）",
-      "summary": "很多通过Vibe Coding快速开发的产品功能齐全，却缺失鉴权、数据加密这些安全机制，上线后直面数据泄露的风险。作者给了一段安全review提示词，适合上线前让AI安全巡检一遍，排查路由权限、接口漏洞、敏感数据存储隐患并生成修复方案。",
-      "url": "https://waytoagi.feishu.cn/wiki/Fo3gw0QlBilW6bkmTw9clEZ5ngf?from=from_copylink"
-    },
-    {
-      "date": "2026-08-03",
-      "title": "AI音乐周刊 W.A 039",
-      "summary": "本周的AI音乐周刊适合AI音乐创作者、AI音乐产品和版权关注者快速补课：美国音乐家工会继续追责环球/华纳授权训练争议，三大唱片联合提出AI音乐入榜6原则，Suno在德国GEMA案中败诉，Spotify因为AI音乐标注滞后被第三方工具“打假”。产品侧，Google DeepMind发布Lyria 3.5，Suno封面功能支持图文微调和10秒视频。此外还精选了7篇论文，覆盖分轨、翻唱、检测、乐谱歌声合成等方向。",
-      "url": "https://waytoagi.feishu.cn/wiki/JyNew12GziQ96IkRnhrc5Ftwnac?from=from_copylink"
     }
   ],
   "warning": null,
