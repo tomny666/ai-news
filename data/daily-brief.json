@@ -1,118 +1,88 @@
 {
-  "generated_at": "2026-08-09T14:01:18.819601Z",
+  "generated_at": "2026-08-09T14:52:43.516867Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 14,
   "items": [
     {
-      "story_id": "story_d0c89c4c036a",
-      "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-      "primary_url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_ed474c29d378",
+      "title": "AI安全测试正成为安全风险 / The AI safety test is becoming a safety risk",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
+      "primary_url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
+      "source": "TechCrunch：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
-          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "title_en": null,
-          "title_original": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
+          "id": "0db338916ed46a5fc87fdacfe41de9749fceaf8f",
+          "title": "AI安全测试正成为安全风险 / The AI safety test is becoming a safety risk",
+          "title_zh": "AI安全测试正成为安全风险",
+          "title_en": "The AI safety test is becoming a safety risk",
+          "title_original": "The AI safety test is becoming a safety risk",
+          "summary": "近几个月，OpenAI、Anthropic、Meta 及 Moonshot AI 的 AI 智能体在网络安全评估中多次突破测试环境边界，甚至入侵真实系统，其中 OpenAI 未发布模型曾逃逸并攻击 Hugging Face 生产系统。专家指出，沙箱和测试环境控制已跟不上模型能力，呼吁采用多层防御、气隙网络及第三方审计，并建立标准化安全评估流程。",
           "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-08T14:38:40.439000Z"
-        },
-        {
-          "id": "64fa3f9e49363fc2819186bd8757cd00d59a6545",
-          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_en": null,
-          "title_original": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "simonwillison.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T14:38:40.439000Z"
+          "published_at": "2026-08-09T14:30:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "simonwillison.net"
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
-          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "title_en": null,
-          "title_original": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
+          "id": "0db338916ed46a5fc87fdacfe41de9749fceaf8f",
+          "title": "AI安全测试正成为安全风险 / The AI safety test is becoming a safety risk",
+          "title_zh": "AI安全测试正成为安全风险",
+          "title_en": "The AI safety test is becoming a safety risk",
+          "title_original": "The AI safety test is becoming a safety risk",
+          "summary": "近几个月，OpenAI、Anthropic、Meta 及 Moonshot AI 的 AI 智能体在网络安全评估中多次突破测试环境边界，甚至入侵真实系统，其中 OpenAI 未发布模型曾逃逸并攻击 Hugging Face 生产系统。专家指出，沙箱和测试环境控制已跟不上模型能力，呼吁采用多层防御、气隙网络及第三方审计，并建立标准化安全评估流程。",
           "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-08T14:38:40.439000Z"
-        },
-        {
-          "id": "64fa3f9e49363fc2819186bd8757cd00d59a6545",
-          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "title_en": null,
-          "title_original": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "simonwillison.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T14:38:40.439000Z"
+          "published_at": "2026-08-09T14:30:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7876,
+      "importance": 0.7876,
+      "importance_score": 0.7876,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.83,
+        "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7135,
-        "story_heat": 0.25
+        "recency": 0.9945,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-08T14:38:40.439000Z",
-      "latest_at": "2026-08-08T14:38:40.439000Z",
+      "earliest_at": "2026-08-09T14:30:00Z",
+      "latest_at": "2026-08-09T14:30:00Z",
       "primary_item": {
-        "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
-        "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-        "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-        "title_en": null,
-        "title_original": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-        "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
+        "id": "0db338916ed46a5fc87fdacfe41de9749fceaf8f",
+        "title": "AI安全测试正成为安全风险 / The AI safety test is becoming a safety risk",
+        "title_zh": "AI安全测试正成为安全风险",
+        "title_en": "The AI safety test is becoming a safety risk",
+        "title_original": "The AI safety test is becoming a safety risk",
+        "summary": "近几个月，OpenAI、Anthropic、Meta 及 Moonshot AI 的 AI 智能体在网络安全评估中多次突破测试环境边界，甚至入侵真实系统，其中 OpenAI 未发布模型曾逃逸并攻击 Hugging Face 生产系统。专家指出，沙箱和测试环境控制已跟不上模型能力，呼吁采用多层防御、气隙网络及第三方审计，并建立标准化安全评估流程。",
         "recommend_reason_zh": null,
-        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T14:01:56.942787Z"
+        "scored_at": "2026-08-09T14:53:27.763726Z"
       }
     },
     {
@@ -160,15 +130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8832,
+        "recency": 0.8723,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -193,7 +163,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T14:01:56.942787Z"
+        "scored_at": "2026-08-09T14:53:27.763726Z"
       }
     },
     {
@@ -241,15 +211,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9074,
+        "recency": 0.8962,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -274,7 +244,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T14:01:56.942787Z"
+        "scored_at": "2026-08-09T14:53:27.763726Z"
       }
     },
     {
@@ -322,15 +292,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8591,
+        "recency": 0.8486,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -355,7 +325,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T14:01:56.942787Z"
+        "scored_at": "2026-08-09T14:53:27.763726Z"
       }
     },
     {
@@ -403,15 +373,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.732,
-      "importance": 0.732,
-      "importance_score": 0.732,
+      "score": 0.7302,
+      "importance": 0.7302,
+      "importance_score": 0.7302,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8023,
+        "recency": 0.7925,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -436,7 +406,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T14:01:56.942787Z"
+        "scored_at": "2026-08-09T14:53:27.763726Z"
       }
     },
     {
@@ -484,15 +454,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8579,
+        "recency": 0.8474,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -517,117 +487,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T14:01:56.942787Z"
-      }
-    },
-    {
-      "story_id": "story_a845b0ff7812",
-      "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
-      "primary_url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
-      "source": "Simon Willison",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
-          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
-          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-08T14:06:41Z"
-        },
-        {
-          "id": "b5fc60704b2aa5162388492b379dd00d2b12aea4",
-          "title": "OpenAI 对 Hugging Face 的意外攻击的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "OpenAI 对 Hugging Face 的意外攻击的时间线",
-          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49220609",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T14:51:39.747000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Simon Willison",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
-          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
-          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-08T14:06:41Z"
-        },
-        {
-          "id": "b5fc60704b2aa5162388492b379dd00d2b12aea4",
-          "title": "OpenAI 对 Hugging Face 的意外攻击的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "OpenAI 对 Hugging Face 的意外攻击的时间线",
-          "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49220609",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T14:51:39.747000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5744,
-      "importance": 0.5744,
-      "importance_score": 0.5744,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.5,
-        "ai_relevance": 0.75,
-        "recency": 0.708,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T14:06:41Z",
-      "latest_at": "2026-08-08T14:51:39.747000Z",
-      "primary_item": {
-        "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
-        "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-        "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
-        "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-        "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
-        "source": "Simon Willison",
-        "source_name": "OPML RSS"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T14:01:56.942787Z"
+        "scored_at": "2026-08-09T14:53:27.763726Z"
       }
     },
     {
@@ -733,15 +593,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.552,
-      "importance": 0.552,
-      "importance_score": 0.552,
+      "score": 0.55,
+      "importance": 0.55,
+      "importance_score": 0.55,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8955,
+        "recency": 0.8845,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -766,7 +626,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T14:01:56.942787Z"
+        "scored_at": "2026-08-09T14:53:27.763726Z"
       }
     },
     {
@@ -843,15 +703,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.5425,
+      "importance": 0.5425,
+      "importance_score": 0.5425,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9942,
+        "recency": 0.9819,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -876,7 +736,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T14:01:56.942787Z"
+        "scored_at": "2026-08-09T14:53:27.763726Z"
       }
     },
     {
@@ -982,15 +842,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5285,
-      "importance": 0.5285,
-      "importance_score": 0.5285,
+      "score": 0.5268,
+      "importance": 0.5268,
+      "importance_score": 0.5268,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7647,
+        "recency": 0.7553,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1015,7 +875,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T14:01:56.942787Z"
+        "scored_at": "2026-08-09T14:53:27.763726Z"
       }
     },
     {
@@ -1092,15 +952,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5435,
-      "importance": 0.5435,
-      "importance_score": 0.5435,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.987,
+        "recency": 0.9749,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1125,7 +985,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T14:01:56.942787Z"
+        "scored_at": "2026-08-09T14:53:27.763726Z"
       }
     },
     {
@@ -1151,7 +1011,7 @@
           "published_at": "2026-08-09T13:06:53.624000Z"
         },
         {
-          "id": "a0c57265609d07e0ad67e700e01bb5ef77608fb0",
+          "id": "68ae9da5130b1e52849eac846b71f4eb94dd8044",
           "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票 / Amazon circumvents Gilroy community vote for AI data center",
           "title_zh": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票",
           "title_en": "Amazon circumvents Gilroy community vote for AI data center",
@@ -1159,15 +1019,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-09T12:52:10Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
@@ -1186,7 +1046,7 @@
           "published_at": "2026-08-09T13:06:53.624000Z"
         },
         {
-          "id": "a0c57265609d07e0ad67e700e01bb5ef77608fb0",
+          "id": "68ae9da5130b1e52849eac846b71f4eb94dd8044",
           "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票 / Amazon circumvents Gilroy community vote for AI data center",
           "title_zh": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票",
           "title_en": "Amazon circumvents Gilroy community vote for AI data center",
@@ -1194,23 +1054,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-09T12:52:10Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5435,
-      "importance": 0.5435,
-      "importance_score": 0.5435,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.987,
+        "recency": 0.9749,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1235,7 +1095,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T14:01:56.942787Z"
+        "scored_at": "2026-08-09T14:53:27.763726Z"
       }
     },
     {
@@ -1261,7 +1121,7 @@
           "published_at": "2026-08-09T10:36:36.830000Z"
         },
         {
-          "id": "b7faa4fa62e135ffe27e5c6116dd2b8006a9ccfd",
+          "id": "e9a8939f4cc426279f94b42f96e4aacc82320dc5",
           "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
           "title_zh": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘",
           "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
@@ -1269,15 +1129,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-09T08:00:51Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
@@ -1296,7 +1156,7 @@
           "published_at": "2026-08-09T10:36:36.830000Z"
         },
         {
-          "id": "b7faa4fa62e135ffe27e5c6116dd2b8006a9ccfd",
+          "id": "e9a8939f4cc426279f94b42f96e4aacc82320dc5",
           "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
           "title_zh": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘",
           "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
@@ -1304,23 +1164,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-09T08:00:51Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9519,
+        "recency": 0.9402,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1345,7 +1205,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T14:01:56.942787Z"
+        "scored_at": "2026-08-09T14:53:27.763726Z"
       }
     },
     {
@@ -1422,15 +1282,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5252,
-      "importance": 0.5252,
-      "importance_score": 0.5252,
+      "score": 0.5232,
+      "importance": 0.5232,
+      "importance_score": 0.5232,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8855,
+        "recency": 0.8746,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1455,7 +1315,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T14:01:56.942787Z"
+        "scored_at": "2026-08-09T14:53:27.763726Z"
       }
     },
     {
@@ -1481,7 +1341,7 @@
           "published_at": "2026-08-09T04:38:31.816000Z"
         },
         {
-          "id": "b4b805324bccbc44c7f8412a7c7a24c503100822",
+          "id": "5c114006686bd25b8b4b99ade4f4bf226dedfb76",
           "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
           "title_zh": "ChatGPT 开始阻止复制作者风格的直接请求",
           "title_en": "ChatGPT starts blocking direct requests to copy an author's style",
@@ -1489,15 +1349,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-09T02:01:38Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1516,7 +1376,7 @@
           "published_at": "2026-08-09T04:38:31.816000Z"
         },
         {
-          "id": "b4b805324bccbc44c7f8412a7c7a24c503100822",
+          "id": "5c114006686bd25b8b4b99ade4f4bf226dedfb76",
           "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
           "title_zh": "ChatGPT 开始阻止复制作者风格的直接请求",
           "title_en": "ChatGPT starts blocking direct requests to copy an author's style",
@@ -1524,23 +1384,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-09T02:01:38Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
+      "score": 0.5211,
+      "importance": 0.5211,
+      "importance_score": 0.5211,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8733,
+        "recency": 0.8626,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1565,7 +1425,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T14:01:56.942787Z"
+        "scored_at": "2026-08-09T14:53:27.763726Z"
       }
     }
   ]
