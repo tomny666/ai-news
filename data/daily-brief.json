@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T10:36:20.076801Z",
+  "generated_at": "2026-08-10T11:58:49.790181Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8587,
-      "importance": 0.8587,
-      "importance_score": 0.8587,
+      "score": 0.8552,
+      "importance": 0.8552,
+      "importance_score": 0.8552,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9926,
+        "recency": 0.9731,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T10:37:09.367435Z"
+        "scored_at": "2026-08-10T12:01:44.420070Z"
+      }
+    },
+    {
+      "story_id": "story_895e60ee83c3",
+      "title": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "primary_url": "https://huggingface.co/blog/muse-glimmer",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4c0b7e66a80d2246586eb18415c39c893219d70f",
+          "title": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "title_zh": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源",
+          "title_en": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "title_original": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/muse-glimmer",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "4c0b7e66a80d2246586eb18415c39c893219d70f",
+          "title": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "title_zh": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源",
+          "title_en": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "title_original": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/muse-glimmer",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8314,
+      "importance": 0.8314,
+      "importance_score": 0.8314,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8411,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T00:00:00Z",
+      "latest_at": "2026-08-10T00:00:00Z",
+      "primary_item": {
+        "id": "4c0b7e66a80d2246586eb18415c39c893219d70f",
+        "title": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+        "title_zh": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源",
+        "title_en": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+        "title_original": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/muse-glimmer",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T12:01:44.420070Z"
+      }
+    },
+    {
+      "story_id": "story_376615090e56",
+      "title": "Scale AI 开源 Muse 系列模型 / 1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+      "url": "https://x.com/alexandr_wang/status/2086756152034066792",
+      "primary_url": "https://x.com/alexandr_wang/status/2086756152034066792",
+      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b7a1d176abd8a43e84fd375862e58907e1fd4ee0",
+          "title": "Scale AI 开源 Muse 系列模型 / 1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+          "title_zh": "Scale AI 开源 Muse 系列模型",
+          "title_en": "1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+          "title_original": "1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+          "summary": "1/ 今天有个重大消息：我们很快将发布 Muse Spark 1.2 的开源权重版本。\n\n同时，我们还将发布 Muse Glimmer--一个 30B 参数的智能体模型，采用 Apache 2.0 协议开源权重。Muse Glimmer 可在 24GB 显存上运行，且不损失智能体可靠性。🧵",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/alexandr_wang/status/2086756152034066792",
+          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T10:06:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)"
+      ],
+      "items": [
+        {
+          "id": "b7a1d176abd8a43e84fd375862e58907e1fd4ee0",
+          "title": "Scale AI 开源 Muse 系列模型 / 1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+          "title_zh": "Scale AI 开源 Muse 系列模型",
+          "title_en": "1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+          "title_original": "1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+          "summary": "1/ 今天有个重大消息：我们很快将发布 Muse Spark 1.2 的开源权重版本。\n\n同时，我们还将发布 Muse Glimmer--一个 30B 参数的智能体模型，采用 Apache 2.0 协议开源权重。Muse Glimmer 可在 24GB 显存上运行，且不损失智能体可靠性。🧵",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/alexandr_wang/status/2086756152034066792",
+          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T10:06:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9734,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T10:06:51Z",
+      "latest_at": "2026-08-10T10:06:51Z",
+      "primary_item": {
+        "id": "b7a1d176abd8a43e84fd375862e58907e1fd4ee0",
+        "title": "Scale AI 开源 Muse 系列模型 / 1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+        "title_zh": "Scale AI 开源 Muse 系列模型",
+        "title_en": "1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+        "title_original": "1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+        "summary": "1/ 今天有个重大消息：我们很快将发布 Muse Spark 1.2 的开源权重版本。\n\n同时，我们还将发布 Muse Glimmer--一个 30B 参数的智能体模型，采用 Apache 2.0 协议开源权重。Muse Glimmer 可在 24GB 显存上运行，且不损失智能体可靠性。🧵",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/alexandr_wang/status/2086756152034066792",
+        "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T12:01:44.420070Z"
       }
     },
     {
@@ -160,15 +325,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.776,
-      "importance": 0.776,
-      "importance_score": 0.776,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8577,
+        "recency": 0.8408,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -195,7 +360,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T10:37:09.367435Z"
+        "scored_at": "2026-08-10T12:01:44.420070Z"
+      }
+    },
+    {
+      "story_id": "story_3711c7beb745",
+      "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理 / Blog SGLang Adds Day-0 Support for Muse Glimmer， a Multimodal Model Built for Local Agentic Workflows We're excited to partner with Meta Superintelligence Labs to bring Day-0 support for Muse Glimmer to SGLang， with dedicated optimizations tailored for high-performance inference of agentic workflows o… Meta Superintelligence Labs and the SGLang Team",
+      "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
+      "primary_url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4b1deafc19f11b0b2c9849b01377f1c620ca4f0e",
+          "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理 / Blog SGLang Adds Day-0 Support for Muse Glimmer， a Multimodal Model Built for Local Agentic Workflows We're excited to partner with Meta Superintelligence Labs to bring Day-0 support for Muse Glimmer to SGLang， with dedicated optimizations tailored for high-performance inference of agentic workflows o… Meta Superintelligence Labs and the SGLang Team",
+          "title_zh": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
+          "title_en": "Blog SGLang Adds Day-0 Support for Muse Glimmer， a Multimodal Model Built for Local Agentic Workflows We're excited to partner with Meta Superintelligence Labs to bring Day-0 support for Muse Glimmer to SGLang， with dedicated optimizations tailored for high-performance inference of agentic workflows o… Meta Superintelligence Labs and the SGLang Team",
+          "title_original": "Blog SGLang Adds Day-0 Support for Muse Glimmer， a Multimodal Model Built for Local Agentic Workflows We're excited to partner with Meta Superintelligence Labs to bring Day-0 support for Muse Glimmer to SGLang， with dedicated optimizations tailored for high-performance inference of agentic workflows o… Meta Superintelligence Labs and the SGLang Team",
+          "summary": "SGLang 与 Meta Superintelligence Labs 合作，为 30B 参数多模态模型 Muse Glimmer 提供 Day-0 支持，该模型拥有 128k+ token 上下文窗口。",
+          "recommend_reason_zh": null,
+          "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T11:51:38.747000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "4b1deafc19f11b0b2c9849b01377f1c620ca4f0e",
+          "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理 / Blog SGLang Adds Day-0 Support for Muse Glimmer， a Multimodal Model Built for Local Agentic Workflows We're excited to partner with Meta Superintelligence Labs to bring Day-0 support for Muse Glimmer to SGLang， with dedicated optimizations tailored for high-performance inference of agentic workflows o… Meta Superintelligence Labs and the SGLang Team",
+          "title_zh": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
+          "title_en": "Blog SGLang Adds Day-0 Support for Muse Glimmer， a Multimodal Model Built for Local Agentic Workflows We're excited to partner with Meta Superintelligence Labs to bring Day-0 support for Muse Glimmer to SGLang， with dedicated optimizations tailored for high-performance inference of agentic workflows o… Meta Superintelligence Labs and the SGLang Team",
+          "title_original": "Blog SGLang Adds Day-0 Support for Muse Glimmer， a Multimodal Model Built for Local Agentic Workflows We're excited to partner with Meta Superintelligence Labs to bring Day-0 support for Muse Glimmer to SGLang， with dedicated optimizations tailored for high-performance inference of agentic workflows o… Meta Superintelligence Labs and the SGLang Team",
+          "summary": "SGLang 与 Meta Superintelligence Labs 合作，为 30B 参数多模态模型 Muse Glimmer 提供 Day-0 支持，该模型拥有 128k+ token 上下文窗口。",
+          "recommend_reason_zh": null,
+          "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T11:51:38.747000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7673,
+      "importance": 0.7673,
+      "importance_score": 0.7673,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9983,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T11:51:38.747000Z",
+      "latest_at": "2026-08-10T11:51:38.747000Z",
+      "primary_item": {
+        "id": "4b1deafc19f11b0b2c9849b01377f1c620ca4f0e",
+        "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理 / Blog SGLang Adds Day-0 Support for Muse Glimmer， a Multimodal Model Built for Local Agentic Workflows We're excited to partner with Meta Superintelligence Labs to bring Day-0 support for Muse Glimmer to SGLang， with dedicated optimizations tailored for high-performance inference of agentic workflows o… Meta Superintelligence Labs and the SGLang Team",
+        "title_zh": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
+        "title_en": "Blog SGLang Adds Day-0 Support for Muse Glimmer， a Multimodal Model Built for Local Agentic Workflows We're excited to partner with Meta Superintelligence Labs to bring Day-0 support for Muse Glimmer to SGLang， with dedicated optimizations tailored for high-performance inference of agentic workflows o… Meta Superintelligence Labs and the SGLang Team",
+        "title_original": "Blog SGLang Adds Day-0 Support for Muse Glimmer， a Multimodal Model Built for Local Agentic Workflows We're excited to partner with Meta Superintelligence Labs to bring Day-0 support for Muse Glimmer to SGLang， with dedicated optimizations tailored for high-performance inference of agentic workflows o… Meta Superintelligence Labs and the SGLang Team",
+        "summary": "SGLang 与 Meta Superintelligence Labs 合作，为 30B 参数多模态模型 Muse Glimmer 提供 Day-0 支持，该模型拥有 128k+ token 上下文窗口。",
+        "recommend_reason_zh": null,
+        "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T12:01:44.420070Z"
       }
     },
     {
@@ -243,15 +490,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9803,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -277,7 +524,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T10:37:09.367435Z"
+        "scored_at": "2026-08-10T12:01:44.420070Z"
       }
     },
     {
@@ -325,15 +572,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9917,
+        "recency": 0.9722,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -359,7 +606,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T10:37:09.367435Z"
+        "scored_at": "2026-08-10T12:01:44.420070Z"
       }
     },
     {
@@ -407,15 +654,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8847,
+        "recency": 0.8673,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -440,7 +687,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T10:37:09.367435Z"
+        "scored_at": "2026-08-10T12:01:44.420070Z"
       }
     },
     {
@@ -517,15 +764,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7929,
+        "recency": 0.7773,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -551,7 +798,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T10:37:09.367435Z"
+        "scored_at": "2026-08-10T12:01:44.420070Z"
       }
     },
     {
@@ -599,15 +846,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9099,
+        "recency": 0.8921,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -632,7 +879,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T10:37:09.367435Z"
+        "scored_at": "2026-08-10T12:01:44.420070Z"
       }
     },
     {
@@ -680,15 +927,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.748,
+        "recency": 0.7333,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -713,7 +960,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T10:37:09.367435Z"
+        "scored_at": "2026-08-10T12:01:44.420070Z"
       }
     },
     {
@@ -761,15 +1008,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7378,
-      "importance": 0.7378,
-      "importance_score": 0.7378,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8676,
+        "recency": 0.8506,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -794,7 +1041,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T10:37:09.367435Z"
+        "scored_at": "2026-08-10T12:01:44.420070Z"
       }
     },
     {
@@ -842,15 +1089,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9803,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -876,7 +1123,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T10:37:09.367435Z"
+        "scored_at": "2026-08-10T12:01:44.420070Z"
       }
     },
     {
@@ -924,15 +1171,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8472,
+        "recency": 0.8305,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -957,7 +1204,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T10:37:09.367435Z"
+        "scored_at": "2026-08-10T12:01:44.420070Z"
       }
     },
     {
@@ -1005,15 +1252,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9749,
+        "recency": 0.9558,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1039,7 +1286,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T10:37:09.367435Z"
+        "scored_at": "2026-08-10T12:01:44.420070Z"
       }
     },
     {
@@ -1087,15 +1334,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9749,
+        "recency": 0.9558,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1121,7 +1368,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T10:37:09.367435Z"
+        "scored_at": "2026-08-10T12:01:44.420070Z"
       }
     },
     {
@@ -1169,15 +1416,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9749,
+        "recency": 0.9558,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1203,7 +1450,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T10:37:09.367435Z"
+        "scored_at": "2026-08-10T12:01:44.420070Z"
       }
     },
     {
@@ -1280,15 +1527,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6381,
-      "importance": 0.6381,
-      "importance_score": 0.6381,
+      "score": 0.6353,
+      "importance": 0.6353,
+      "importance_score": 0.6353,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.8022,
+        "recency": 0.7864,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1314,7 +1561,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T10:37:09.367435Z"
+        "scored_at": "2026-08-10T12:01:44.420070Z"
       }
     },
     {
@@ -1362,15 +1609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9749,
+        "recency": 0.9558,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1396,7 +1643,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T10:37:09.367435Z"
+        "scored_at": "2026-08-10T12:01:44.420070Z"
       }
     },
     {
@@ -1444,15 +1691,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9749,
+        "recency": 0.9558,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1478,424 +1725,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T10:37:09.367435Z"
-      }
-    },
-    {
-      "story_id": "story_d10e608ddfc9",
-      "title": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
-      "url": "https://www.docker.com/products/docker-sandboxes",
-      "primary_url": "https://www.docker.com/products/docker-sandboxes",
-      "source": "www.docker.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ca1faf9ac0d638700e0b67788edc7f13be0bb07a",
-          "title": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
-          "title_zh": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
-          "title_en": null,
-          "title_original": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.docker.com/products/docker-sandboxes",
-          "source": "www.docker.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-10T07:58:21.108000Z"
-        },
-        {
-          "id": "905acd55692d6ca55368002624b04cead3f8645c",
-          "title": "Docker Sandboxes – 用于 AI 代理的一次性隔离沙箱 / Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-          "title_zh": "Docker Sandboxes – 用于 AI 代理的一次性隔离沙箱",
-          "title_en": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-          "title_original": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49239751",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T06:18:24.408000Z"
-        },
-        {
-          "id": "2ee82fb6cb664d2814ba8a47e5d89ccf4dce5cd0",
-          "title": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱 / Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-          "title_zh": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
-          "title_en": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-          "title_original": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.docker.com/products/docker-sandboxes",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T06:02:38Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "www.docker.com"
-      ],
-      "items": [
-        {
-          "id": "ca1faf9ac0d638700e0b67788edc7f13be0bb07a",
-          "title": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
-          "title_zh": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
-          "title_en": null,
-          "title_original": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.docker.com/products/docker-sandboxes",
-          "source": "www.docker.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-10T07:58:21.108000Z"
-        },
-        {
-          "id": "905acd55692d6ca55368002624b04cead3f8645c",
-          "title": "Docker Sandboxes – 用于 AI 代理的一次性隔离沙箱 / Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-          "title_zh": "Docker Sandboxes – 用于 AI 代理的一次性隔离沙箱",
-          "title_en": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-          "title_original": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49239751",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T06:18:24.408000Z"
-        },
-        {
-          "id": "2ee82fb6cb664d2814ba8a47e5d89ccf4dce5cd0",
-          "title": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱 / Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-          "title_zh": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
-          "title_en": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-          "title_original": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.docker.com/products/docker-sandboxes",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T06:02:38Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5641,
-      "importance": 0.5641,
-      "importance_score": 0.5641,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9627,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-10T06:02:38Z",
-      "latest_at": "2026-08-10T07:58:21.108000Z",
-      "primary_item": {
-        "id": "ca1faf9ac0d638700e0b67788edc7f13be0bb07a",
-        "title": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
-        "title_zh": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
-        "title_en": null,
-        "title_original": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.docker.com/products/docker-sandboxes",
-        "source": "www.docker.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T10:37:09.367435Z"
-      }
-    },
-    {
-      "story_id": "story_cca82cecf2ae",
-      "title": "“自动模式”现已成为 Claude Code 的默认设置",
-      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "primary_url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "source": "claude.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "789b2fe10390c2092e0511aa9d920fcbb46622e5",
-          "title": "“自动模式”现已成为 Claude Code 的默认设置",
-          "title_zh": "“自动模式”现已成为 Claude Code 的默认设置",
-          "title_en": null,
-          "title_original": "“自动模式”现已成为 Claude Code 的默认设置",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-10T06:06:29.188000Z"
-        },
-        {
-          "id": "0801e6b357a97132dd8026d429ec2454828f70ab",
-          "title": "自动模式现在是 Claude Code 中的默认模式 / Auto mode is now the default in Claude Code",
-          "title_zh": "自动模式现在是 Claude Code 中的默认模式",
-          "title_en": "Auto mode is now the default in Claude Code",
-          "title_original": "Auto mode is now the default in Claude Code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49239021",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T04:54:26.223000Z"
-        },
-        {
-          "id": "1c847893da1d425098ccdd4b2eb857091900e3f5",
-          "title": "“自动模式”现已成为 Claude Code 的默认设置 / Auto mode is now the default in Claude Code",
-          "title_zh": "“自动模式”现已成为 Claude Code 的默认设置",
-          "title_en": "Auto mode is now the default in Claude Code",
-          "title_original": "Auto mode is now the default in Claude Code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-10T03:50:00Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "claude.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "789b2fe10390c2092e0511aa9d920fcbb46622e5",
-          "title": "“自动模式”现已成为 Claude Code 的默认设置",
-          "title_zh": "“自动模式”现已成为 Claude Code 的默认设置",
-          "title_en": null,
-          "title_original": "“自动模式”现已成为 Claude Code 的默认设置",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-10T06:06:29.188000Z"
-        },
-        {
-          "id": "0801e6b357a97132dd8026d429ec2454828f70ab",
-          "title": "自动模式现在是 Claude Code 中的默认模式 / Auto mode is now the default in Claude Code",
-          "title_zh": "自动模式现在是 Claude Code 中的默认模式",
-          "title_en": "Auto mode is now the default in Claude Code",
-          "title_original": "Auto mode is now the default in Claude Code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49239021",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T04:54:26.223000Z"
-        },
-        {
-          "id": "1c847893da1d425098ccdd4b2eb857091900e3f5",
-          "title": "“自动模式”现已成为 Claude Code 的默认设置 / Auto mode is now the default in Claude Code",
-          "title_zh": "“自动模式”现已成为 Claude Code 的默认设置",
-          "title_en": "Auto mode is now the default in Claude Code",
-          "title_original": "Auto mode is now the default in Claude Code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-10T03:50:00Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5595,
-      "importance": 0.5595,
-      "importance_score": 0.5595,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9371,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-10T03:50:00Z",
-      "latest_at": "2026-08-10T06:06:29.188000Z",
-      "primary_item": {
-        "id": "789b2fe10390c2092e0511aa9d920fcbb46622e5",
-        "title": "“自动模式”现已成为 Claude Code 的默认设置",
-        "title_zh": "“自动模式”现已成为 Claude Code 的默认设置",
-        "title_en": null,
-        "title_original": "“自动模式”现已成为 Claude Code 的默认设置",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-        "source": "claude.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T10:37:09.367435Z"
-      }
-    },
-    {
-      "story_id": "story_4ce0c388aa43",
-      "title": "“公地悲剧”的AI版",
-      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-      "primary_url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-      "source": "www.economist.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "31cf5ad4b82f99d72041217baaed5a37c28ad070",
-          "title": "“公地悲剧”的AI版",
-          "title_zh": "“公地悲剧”的AI版",
-          "title_en": null,
-          "title_original": "“公地悲剧”的AI版",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-10T05:50:30.600000Z"
-        },
-        {
-          "id": "2493cce8919efb1f054ac62b08d7acb01980be84",
-          "title": "The tragedy of the commons, AI edition",
-          "title_zh": null,
-          "title_en": "The tragedy of the commons, AI edition",
-          "title_original": "The tragedy of the commons, AI edition",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49235011",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T21:38:17.984000Z"
-        },
-        {
-          "id": "858ce1f865a829da05fd79ea627e1b87408e49d1",
-          "title": "“公地悲剧”的AI版 / The tragedy of the commons, AI edition",
-          "title_zh": "“公地悲剧”的AI版",
-          "title_en": "The tragedy of the commons, AI edition",
-          "title_original": "The tragedy of the commons, AI edition",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T19:43:52Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.economist.com"
-      ],
-      "items": [
-        {
-          "id": "31cf5ad4b82f99d72041217baaed5a37c28ad070",
-          "title": "“公地悲剧”的AI版",
-          "title_zh": "“公地悲剧”的AI版",
-          "title_en": null,
-          "title_original": "“公地悲剧”的AI版",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-10T05:50:30.600000Z"
-        },
-        {
-          "id": "2493cce8919efb1f054ac62b08d7acb01980be84",
-          "title": "The tragedy of the commons, AI edition",
-          "title_zh": null,
-          "title_en": "The tragedy of the commons, AI edition",
-          "title_original": "The tragedy of the commons, AI edition",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49235011",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T21:38:17.984000Z"
-        },
-        {
-          "id": "858ce1f865a829da05fd79ea627e1b87408e49d1",
-          "title": "“公地悲剧”的AI版 / The tragedy of the commons, AI edition",
-          "title_zh": "“公地悲剧”的AI版",
-          "title_en": "The tragedy of the commons, AI edition",
-          "title_original": "The tragedy of the commons, AI edition",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T19:43:52Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5588,
-      "importance": 0.5588,
-      "importance_score": 0.5588,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9335,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T19:43:52Z",
-      "latest_at": "2026-08-10T05:50:30.600000Z",
-      "primary_item": {
-        "id": "31cf5ad4b82f99d72041217baaed5a37c28ad070",
-        "title": "“公地悲剧”的AI版",
-        "title_zh": "“公地悲剧”的AI版",
-        "title_en": null,
-        "title_original": "“公地悲剧”的AI版",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-        "source": "www.economist.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T10:37:09.367435Z"
+        "scored_at": "2026-08-10T12:01:44.420070Z"
       }
     }
   ]
