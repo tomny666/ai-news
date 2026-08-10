@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T19:16:33.219609Z",
+  "generated_at": "2026-08-10T20:04:08.048120Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9138,
-      "importance": 0.9138,
-      "importance_score": 0.9138,
+      "score": 0.9119,
+      "importance": 0.9119,
+      "importance_score": 0.9119,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9266,
+        "recency": 0.9161,
         "story_heat": 0.75
       },
       "category": "official",
@@ -171,7 +171,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T19:17:11.086315Z"
+        "scored_at": "2026-08-10T20:06:13.016004Z"
       }
     },
     {
@@ -219,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8527,
-      "importance": 0.8527,
-      "importance_score": 0.8527,
+      "score": 0.8508,
+      "importance": 0.8508,
+      "importance_score": 0.8508,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9597,
+        "recency": 0.9488,
         "story_heat": 0.0
       },
       "category": "official",
@@ -254,7 +254,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T19:17:11.086315Z"
+        "scored_at": "2026-08-10T20:06:13.016004Z"
+      }
+    },
+    {
+      "story_id": "story_f612b5d58d1d",
+      "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+      "primary_url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
+          "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+          "title_zh": "使用适用于 Java 的 GitHub Copilot SDK",
+          "title_en": "Using the GitHub Copilot SDK for Java",
+          "title_original": "Using the GitHub Copilot SDK for Java",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T19:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
+          "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+          "title_zh": "使用适用于 Java 的 GitHub Copilot SDK",
+          "title_en": "Using the GitHub Copilot SDK for Java",
+          "title_original": "Using the GitHub Copilot SDK for Java",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T19:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8505,
+      "importance": 0.8505,
+      "importance_score": 0.8505,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9918,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T19:30:00Z",
+      "latest_at": "2026-08-10T19:30:00Z",
+      "primary_item": {
+        "id": "24acb4029cb84001e3b5f778e74906def87075dc",
+        "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+        "title_zh": "使用适用于 Java 的 GitHub Copilot SDK",
+        "title_en": "Using the GitHub Copilot SDK for Java",
+        "title_original": "Using the GitHub Copilot SDK for Java",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T20:06:13.016004Z"
       }
     },
     {
@@ -302,15 +385,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8399,
-      "importance": 0.8399,
-      "importance_score": 0.8399,
+      "score": 0.838,
+      "importance": 0.838,
+      "importance_score": 0.838,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9327,
+        "recency": 0.9221,
         "story_heat": 0.0
       },
       "category": "official",
@@ -337,7 +420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T19:17:11.086315Z"
+        "scored_at": "2026-08-10T20:06:13.016004Z"
       }
     },
     {
@@ -385,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
+      "score": 0.8301,
+      "importance": 0.8301,
+      "importance_score": 0.8301,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9334,
+        "recency": 0.9227,
         "story_heat": 0.0
       },
       "category": "official",
@@ -420,7 +503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T19:17:11.086315Z"
+        "scored_at": "2026-08-10T20:06:13.016004Z"
       }
     },
     {
@@ -555,15 +638,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
+      "score": 0.8276,
+      "importance": 0.8276,
+      "importance_score": 0.8276,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9274,
+        "recency": 0.9169,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -590,7 +673,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T19:17:11.086315Z"
+        "scored_at": "2026-08-10T20:06:13.016004Z"
       }
     },
     {
@@ -638,15 +721,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8223,
-      "importance": 0.8223,
-      "importance_score": 0.8223,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.757,
+        "recency": 0.7484,
         "story_heat": 0.0
       },
       "category": "official",
@@ -673,7 +756,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T19:17:11.086315Z"
+        "scored_at": "2026-08-10T20:06:13.016004Z"
       }
     },
     {
@@ -721,15 +804,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8462,
-      "importance": 0.8462,
-      "importance_score": 0.8462,
+      "score": 0.8442,
+      "importance": 0.8442,
+      "importance_score": 0.8442,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9677,
+        "recency": 0.9567,
         "story_heat": 0.0
       },
       "category": "official",
@@ -756,7 +839,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T19:17:11.086315Z"
+        "scored_at": "2026-08-10T20:06:13.016004Z"
       }
     },
     {
@@ -804,15 +887,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
+      "score": 0.8359,
+      "importance": 0.8359,
+      "importance_score": 0.8359,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8758,
+        "recency": 0.8658,
         "story_heat": 0.0
       },
       "category": "official",
@@ -839,7 +922,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T19:17:11.086315Z"
+        "scored_at": "2026-08-10T20:06:13.016004Z"
       }
     },
     {
@@ -887,15 +970,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8308,
-      "importance": 0.8308,
-      "importance_score": 0.8308,
+      "score": 0.8289,
+      "importance": 0.8289,
+      "importance_score": 0.8289,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9269,
+        "recency": 0.9163,
         "story_heat": 0.0
       },
       "category": "official",
@@ -922,7 +1005,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T19:17:11.086315Z"
+        "scored_at": "2026-08-10T20:06:13.016004Z"
       }
     },
     {
@@ -970,15 +1053,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7986,
-      "importance": 0.7986,
-      "importance_score": 0.7986,
+      "score": 0.7967,
+      "importance": 0.7967,
+      "importance_score": 0.7967,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9536,
+        "recency": 0.9427,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1004,7 +1087,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T19:17:11.086315Z"
+        "scored_at": "2026-08-10T20:06:13.016004Z"
       }
     },
     {
@@ -1052,15 +1135,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.842,
-      "importance": 0.842,
-      "importance_score": 0.842,
+      "score": 0.8402,
+      "importance": 0.8402,
+      "importance_score": 0.8402,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9003,
+        "recency": 0.89,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1087,7 +1170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T19:17:11.086315Z"
+        "scored_at": "2026-08-10T20:06:13.016004Z"
       }
     },
     {
@@ -1135,15 +1218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8278,
-      "importance": 0.8278,
-      "importance_score": 0.8278,
+      "score": 0.826,
+      "importance": 0.826,
+      "importance_score": 0.826,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9102,
+        "recency": 0.8999,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1170,7 +1253,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T19:17:11.086315Z"
+        "scored_at": "2026-08-10T20:06:13.016004Z"
       }
     },
     {
@@ -1218,15 +1301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.7585,
+      "importance": 0.7585,
+      "importance_score": 0.7585,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8761,
+        "recency": 0.8661,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1252,7 +1335,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T19:17:11.086315Z"
+        "scored_at": "2026-08-10T20:06:13.016004Z"
       }
     },
     {
@@ -1329,15 +1412,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7568,
+        "recency": 0.7482,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1364,7 +1447,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T19:17:11.086315Z"
+        "scored_at": "2026-08-10T20:06:13.016004Z"
       }
     },
     {
@@ -1412,15 +1495,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
+      "score": 0.8147,
+      "importance": 0.8147,
+      "importance_score": 0.8147,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.757,
+        "recency": 0.7484,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1447,7 +1530,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T19:17:11.086315Z"
+        "scored_at": "2026-08-10T20:06:13.016004Z"
       }
     },
     {
@@ -1495,15 +1578,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9268,
+        "recency": 0.9163,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1529,7 +1612,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T19:17:11.086315Z"
+        "scored_at": "2026-08-10T20:06:13.016004Z"
       }
     },
     {
@@ -1577,15 +1660,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8985,
+        "recency": 0.8882,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1610,7 +1693,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T19:17:11.086315Z"
+        "scored_at": "2026-08-10T20:06:13.016004Z"
       }
     },
     {
@@ -1658,15 +1741,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8823,
+        "recency": 0.8723,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1691,7 +1774,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T19:17:11.086315Z"
+        "scored_at": "2026-08-10T20:06:13.016004Z"
       }
     },
     {
@@ -1739,15 +1822,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.8276,
+      "importance": 0.8276,
+      "importance_score": 0.8276,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8746,
+        "recency": 0.8647,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1774,88 +1857,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T19:17:11.086315Z"
-      }
-    },
-    {
-      "story_id": "story_b21a5deb85d6",
-      "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器 / Model Routing Powered by Wisdom of the Market",
-      "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
-      "primary_url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d9c8296ef28d97a78bffcf38683b6ea3c1fecdef",
-          "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器 / Model Routing Powered by Wisdom of the Market",
-          "title_zh": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
-          "title_en": "Model Routing Powered by Wisdom of the Market",
-          "title_original": "Model Routing Powered by Wisdom of the Market",
-          "summary": "OpenRouter 基于每周超 55T token 的社区消费数据，推出新版 Auto 路由器（openrouter/auto），其模型选择在多数任务和成本档位上优于旧版。新路由器按约 30 种任务类型匹配近 7 天社区实际消费的模型，支持 cost_tier 参数（low 至 max）并遵循账户隐私设置。在 MMLU Pro 等基准上，新默认档位在多数领域以更低成本达到旧版同等性能。",
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d9c8296ef28d97a78bffcf38683b6ea3c1fecdef",
-          "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器 / Model Routing Powered by Wisdom of the Market",
-          "title_zh": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
-          "title_en": "Model Routing Powered by Wisdom of the Market",
-          "title_original": "Model Routing Powered by Wisdom of the Market",
-          "summary": "OpenRouter 基于每周超 55T token 的社区消费数据，推出新版 Auto 路由器（openrouter/auto），其模型选择在多数任务和成本档位上优于旧版。新路由器按约 30 种任务类型匹配近 7 天社区实际消费的模型，支持 cost_tier 参数（low 至 max）并遵循账户隐私设置。在 MMLU Pro 等基准上，新默认档位在多数领域以更低成本达到旧版同等性能。",
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.757,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T00:00:00Z",
-      "latest_at": "2026-08-10T00:00:00Z",
-      "primary_item": {
-        "id": "d9c8296ef28d97a78bffcf38683b6ea3c1fecdef",
-        "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器 / Model Routing Powered by Wisdom of the Market",
-        "title_zh": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
-        "title_en": "Model Routing Powered by Wisdom of the Market",
-        "title_original": "Model Routing Powered by Wisdom of the Market",
-        "summary": "OpenRouter 基于每周超 55T token 的社区消费数据，推出新版 Auto 路由器（openrouter/auto），其模型选择在多数任务和成本档位上优于旧版。新路由器按约 30 种任务类型匹配近 7 天社区实际消费的模型，支持 cost_tier 参数（low 至 max）并遵循账户隐私设置。在 MMLU Pro 等基准上，新默认档位在多数领域以更低成本达到旧版同等性能。",
-        "recommend_reason_zh": null,
-        "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T19:17:11.086315Z"
+        "scored_at": "2026-08-10T20:06:13.016004Z"
       }
     }
   ]
