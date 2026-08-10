@@ -1,8 +1,284 @@
 {
-  "generated_at": "2026-08-09T23:46:43.122054Z",
+  "generated_at": "2026-08-10T02:34:29.326068Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_db693db10af6",
+      "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+      "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+      "primary_url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "aa483986fc4901ff2b1ba3e8fa8cfa5d6bf11e80",
+          "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_zh": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+          "title_en": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_original": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "summary": "NVIDIA 发布开源端到端全双工语音对话模型 NemotronLabs VoiceChat 11B，在统一网络中完成流式语音理解与生成，实测轮换延迟 448 毫秒。该模型为首个支持对话中工具调用的开源全双工模型，通过独立输出通道及预置\"保持\"话术避免 API 执行期间冷场。权重与容器已公开，但仅限研究用途，需单张 80 GB 显存 GPU，目前无托管 API。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T23:58:34Z"
+        },
+        {
+          "id": "b9b1454acf8d39a8829479ee1624a3959b0ce0f8",
+          "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_zh": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+          "title_en": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_original": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-09T23:58:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "aa483986fc4901ff2b1ba3e8fa8cfa5d6bf11e80",
+          "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_zh": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+          "title_en": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_original": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "summary": "NVIDIA 发布开源端到端全双工语音对话模型 NemotronLabs VoiceChat 11B，在统一网络中完成流式语音理解与生成，实测轮换延迟 448 毫秒。该模型为首个支持对话中工具调用的开源全双工模型，通过独立输出通道及预置\"保持\"话术避免 API 执行期间冷场。权重与容器已公开，但仅限研究用途，需单张 80 GB 显存 GPU，目前无托管 API。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T23:58:34Z"
+        },
+        {
+          "id": "b9b1454acf8d39a8829479ee1624a3959b0ce0f8",
+          "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_zh": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+          "title_en": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_original": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-09T23:58:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9632,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T23:58:34Z",
+      "latest_at": "2026-08-09T23:58:34Z",
+      "primary_item": {
+        "id": "aa483986fc4901ff2b1ba3e8fa8cfa5d6bf11e80",
+        "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+        "title_zh": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+        "title_en": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+        "title_original": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+        "summary": "NVIDIA 发布开源端到端全双工语音对话模型 NemotronLabs VoiceChat 11B，在统一网络中完成流式语音理解与生成，实测轮换延迟 448 毫秒。该模型为首个支持对话中工具调用的开源全双工模型，通过独立输出通道及预置\"保持\"话术避免 API 执行期间冷场。权重与容器已公开，但仅限研究用途，需单张 80 GB 显存 GPU，目前无托管 API。",
+        "recommend_reason_zh": null,
+        "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T02:35:10.850230Z"
+      }
+    },
+    {
+      "story_id": "story_d9b7ad25a0ae",
+      "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+      "source": "公众号：千问APP（阿里）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a175dd92c3c7d4e6925dbcffee3b6ef7a0d2b2d6",
+          "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "title_zh": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "title_en": null,
+          "title_original": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T02:07:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：千问APP（阿里）"
+      ],
+      "items": [
+        {
+          "id": "a175dd92c3c7d4e6925dbcffee3b6ef7a0d2b2d6",
+          "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "title_zh": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "title_en": null,
+          "title_original": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T02:07:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7694,
+      "importance": 0.7694,
+      "importance_score": 0.7694,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9935,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T02:07:18Z",
+      "latest_at": "2026-08-10T02:07:18Z",
+      "primary_item": {
+        "id": "a175dd92c3c7d4e6925dbcffee3b6ef7a0d2b2d6",
+        "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+        "title_zh": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+        "title_en": null,
+        "title_original": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+        "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+        "source": "公众号：千问APP（阿里）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T02:35:10.850230Z"
+      }
+    },
+    {
+      "story_id": "story_638e0ee7c5f7",
+      "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+      "url": "https://www.aibase.com/news/30207",
+      "primary_url": "https://www.aibase.com/news/30207",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0b94fe3987e6c1d706139de2a142a317a3e76abc",
+          "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+          "title_zh": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+          "title_en": null,
+          "title_original": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30207",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:34:29.326068Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0b94fe3987e6c1d706139de2a142a317a3e76abc",
+          "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+          "title_zh": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+          "title_en": null,
+          "title_original": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30207",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:34:29.326068Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T02:34:29.326068Z",
+      "latest_at": "2026-08-10T02:34:29.326068Z",
+      "primary_item": {
+        "id": "0b94fe3987e6c1d706139de2a142a317a3e76abc",
+        "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+        "title_zh": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+        "title_en": null,
+        "title_original": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30207",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T02:35:10.850230Z"
+      }
+    },
     {
       "story_id": "story_ed474c29d378",
       "title": "AI安全测试正成为安全风险 / The AI safety test is becoming a safety risk",
@@ -48,15 +324,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8746,
+        "recency": 0.84,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -82,7 +358,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:47:18.168030Z"
+        "scored_at": "2026-08-10T02:35:10.850230Z"
+      }
+    },
+    {
+      "story_id": "story_9d4e935f861b",
+      "title": "OpenChamber：一个基于代理的开发环境",
+      "url": "https://openchamber.dev",
+      "primary_url": "https://openchamber.dev",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c171df9c3b7454128276a4174bc6b638a51034f2",
+          "title": "OpenChamber：一个基于代理的开发环境",
+          "title_zh": "OpenChamber：一个基于代理的开发环境",
+          "title_en": null,
+          "title_original": "OpenChamber：一个基于代理的开发环境",
+          "summary": "OpenChamber 是一个基于代理的开发环境，可跨桌面、浏览器、手机和 VS Code 使用，支持会话目标、多模型并行运行与融合、变更走查、从 issue 到 PR 的完整流程及定时任务。该工具基于 OpenCode SDK，完全开源且免费，代码和会话内容均保存在本地，远程访问可通过 UI 密码和端到端加密的 Private Relay 保护。",
+          "recommend_reason_zh": null,
+          "url": "https://openchamber.dev",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T00:46:27.596000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "c171df9c3b7454128276a4174bc6b638a51034f2",
+          "title": "OpenChamber：一个基于代理的开发环境",
+          "title_zh": "OpenChamber：一个基于代理的开发环境",
+          "title_en": null,
+          "title_original": "OpenChamber：一个基于代理的开发环境",
+          "summary": "OpenChamber 是一个基于代理的开发环境，可跨桌面、浏览器、手机和 VS Code 使用，支持会话目标、多模型并行运行与融合、变更走查、从 issue 到 PR 的完整流程及定时任务。该工具基于 OpenCode SDK，完全开源且免费，代码和会话内容均保存在本地，远程访问可通过 UI 密码和端到端加密的 Private Relay 保护。",
+          "recommend_reason_zh": null,
+          "url": "https://openchamber.dev",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T00:46:27.596000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9743,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T00:46:27.596000Z",
+      "latest_at": "2026-08-10T00:46:27.596000Z",
+      "primary_item": {
+        "id": "c171df9c3b7454128276a4174bc6b638a51034f2",
+        "title": "OpenChamber：一个基于代理的开发环境",
+        "title_zh": "OpenChamber：一个基于代理的开发环境",
+        "title_en": null,
+        "title_original": "OpenChamber：一个基于代理的开发环境",
+        "summary": "OpenChamber 是一个基于代理的开发环境，可跨桌面、浏览器、手机和 VS Code 使用，支持会话目标、多模型并行运行与融合、变更走查、从 issue 到 PR 的完整流程及定时任务。该工具基于 OpenCode SDK，完全开源且免费，代码和会话内容均保存在本地，远程访问可通过 UI 密码和端到端加密的 Private Relay 保护。",
+        "recommend_reason_zh": null,
+        "url": "https://openchamber.dev",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T02:35:10.850230Z"
       }
     },
     {
@@ -130,15 +488,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9905,
+        "recency": 0.9513,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -164,7 +522,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:47:18.168030Z"
+        "scored_at": "2026-08-10T02:35:10.850230Z"
       }
     },
     {
@@ -212,15 +570,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9271,
+        "recency": 0.8904,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -245,7 +603,170 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:47:18.168030Z"
+        "scored_at": "2026-08-10T02:35:10.850230Z"
+      }
+    },
+    {
+      "story_id": "story_ad5a6d38f4aa",
+      "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+      "url": "https://www.aibase.com/news/30202",
+      "primary_url": "https://www.aibase.com/news/30202",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "65c08bb6c7201465b2901f8c9832d6e6c17f9cb6",
+          "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "title_zh": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "title_en": null,
+          "title_original": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30202",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:34:29.326068Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "65c08bb6c7201465b2901f8c9832d6e6c17f9cb6",
+          "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "title_zh": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "title_en": null,
+          "title_original": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30202",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:34:29.326068Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T02:34:29.326068Z",
+      "latest_at": "2026-08-10T02:34:29.326068Z",
+      "primary_item": {
+        "id": "65c08bb6c7201465b2901f8c9832d6e6c17f9cb6",
+        "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+        "title_zh": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+        "title_en": null,
+        "title_original": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30202",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T02:35:10.850230Z"
+      }
+    },
+    {
+      "story_id": "story_85e804b6deb3",
+      "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f3e6f771ee246bff51399a9dd2465c3bbb18b0db",
+          "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+          "title_zh": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+          "title_en": null,
+          "title_original": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+          "summary": "作者耗时54小时开发并免费开放了一个聚合多家可信榜单的AI大模型综合排行榜LatentRank。该榜单采用Bradley-Terry成对比较算法，并加入先验限制小样本结果，以解决不同榜单规模、领先幅度和模型缺失带来的评分偏差。目前榜单前五名中，Opus 5超过Fable 5位居前列。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T00:52:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "f3e6f771ee246bff51399a9dd2465c3bbb18b0db",
+          "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+          "title_zh": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+          "title_en": null,
+          "title_original": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+          "summary": "作者耗时54小时开发并免费开放了一个聚合多家可信榜单的AI大模型综合排行榜LatentRank。该榜单采用Bradley-Terry成对比较算法，并加入先验限制小样本结果，以解决不同榜单规模、领先幅度和模型缺失带来的评分偏差。目前榜单前五名中，Opus 5超过Fable 5位居前列。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T00:52:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7302,
+      "importance": 0.7302,
+      "importance_score": 0.7302,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9757,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-10T00:52:19Z",
+      "latest_at": "2026-08-10T00:52:19Z",
+      "primary_item": {
+        "id": "f3e6f771ee246bff51399a9dd2465c3bbb18b0db",
+        "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+        "title_zh": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+        "title_en": null,
+        "title_original": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+        "summary": "作者耗时54小时开发并免费开放了一个聚合多家可信榜单的AI大模型综合排行榜LatentRank。该榜单采用Bradley-Terry成对比较算法，并加入先验限制小样本结果，以解决不同榜单规模、领先幅度和模型缺失带来的评分偏差。目前榜单前五名中，Opus 5超过Fable 5位居前列。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T02:35:10.850230Z"
       }
     },
     {
@@ -293,15 +814,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7257,
-      "importance": 0.7257,
-      "importance_score": 0.7257,
+      "score": 0.7202,
+      "importance": 0.7202,
+      "importance_score": 0.7202,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7671,
+        "recency": 0.7367,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -326,250 +847,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:47:18.168030Z"
+        "scored_at": "2026-08-10T02:35:10.850230Z"
       }
     },
     {
-      "story_id": "story_5da542bcba7e",
-      "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习 / IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-      "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
-      "primary_url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_83e68d96b0b8",
+      "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+      "url": "https://www.aibase.com/news/30203",
+      "primary_url": "https://www.aibase.com/news/30203",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "9d0376059a540cf55332476d773f52e93dce002c",
-          "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习 / IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-          "title_zh": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
-          "title_en": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-          "title_original": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-          "summary": "本教程基于Stanford IMDb数据集构建端到端情感分析流程，对比TF-IDF逻辑回归基线与LoRA微调的DistilBERT。模型评估涵盖准确率、macro-F1、ROC-AUC及期望校准误差，并分析置信错误、长度影响与词级遮挡显著性。最后利用未标注IMDb数据做置信度伪标注，比较半监督模型与基线，保存合并后的Transformer用于推理。",
+          "id": "53ca2e39d52f7a58e7d43a830580595aeedf1987",
+          "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "title_zh": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "title_en": null,
+          "title_original": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T07:17:35Z"
+          "url": "https://www.aibase.com/news/30203",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:34:29.326068Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "MarkTechPost（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "9d0376059a540cf55332476d773f52e93dce002c",
-          "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习 / IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-          "title_zh": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
-          "title_en": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-          "title_original": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-          "summary": "本教程基于Stanford IMDb数据集构建端到端情感分析流程，对比TF-IDF逻辑回归基线与LoRA微调的DistilBERT。模型评估涵盖准确率、macro-F1、ROC-AUC及期望校准误差，并分析置信错误、长度影响与词级遮挡显著性。最后利用未标注IMDb数据做置信度伪标注，比较半监督模型与基线，保存合并后的Transformer用于推理。",
+          "id": "53ca2e39d52f7a58e7d43a830580595aeedf1987",
+          "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "title_zh": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "title_en": null,
+          "title_original": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T07:17:35Z"
+          "url": "https://www.aibase.com/news/30203",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:34:29.326068Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7235,
-      "importance": 0.7235,
-      "importance_score": 0.7235,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7882,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-09T07:17:35Z",
-      "latest_at": "2026-08-09T07:17:35Z",
-      "primary_item": {
-        "id": "9d0376059a540cf55332476d773f52e93dce002c",
-        "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习 / IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-        "title_zh": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
-        "title_en": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-        "title_original": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-        "summary": "本教程基于Stanford IMDb数据集构建端到端情感分析流程，对比TF-IDF逻辑回归基线与LoRA微调的DistilBERT。模型评估涵盖准确率、macro-F1、ROC-AUC及期望校准误差，并分析置信错误、长度影响与词级遮挡显著性。最后利用未标注IMDb数据做置信度伪标注，比较半监督模型与基线，保存合并后的Transformer用于推理。",
-        "recommend_reason_zh": null,
-        "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:47:18.168030Z"
-      }
-    },
-    {
-      "story_id": "story_019e440fd20f",
-      "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
-          "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-09T03:30:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
-          "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-09T03:30:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7462,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-09T03:30:30Z",
-      "latest_at": "2026-08-09T03:30:30Z",
+      "earliest_at": "2026-08-10T02:34:29.326068Z",
+      "latest_at": "2026-08-10T02:34:29.326068Z",
       "primary_item": {
-        "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
-        "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
-        "title_zh": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+        "id": "53ca2e39d52f7a58e7d43a830580595aeedf1987",
+        "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+        "title_zh": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
         "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+        "title_original": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
+        "url": "https://www.aibase.com/news/30203",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:47:18.168030Z"
+        "scored_at": "2026-08-10T02:35:10.850230Z"
       }
     },
     {
-      "story_id": "story_5309a01ab201",
-      "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
+      "story_id": "story_882121d179e0",
+      "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+      "url": "https://www.aibase.com/news/30210",
+      "primary_url": "https://www.aibase.com/news/30210",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
-          "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "id": "527862e451260bcdcf23e1995729283740eb2d67",
+          "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+          "title_zh": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
           "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "title_original": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-09T03:24:44Z"
+          "url": "https://www.aibase.com/news/30210",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:34:29.326068Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Daily Digest"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
-          "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "id": "527862e451260bcdcf23e1995729283740eb2d67",
+          "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+          "title_zh": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
           "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "title_original": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-09T03:24:44Z"
+          "url": "https://www.aibase.com/news/30210",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:34:29.326068Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7217,
-      "importance": 0.7217,
-      "importance_score": 0.7217,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7452,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-09T03:24:44Z",
-      "latest_at": "2026-08-09T03:24:44Z",
+      "earliest_at": "2026-08-10T02:34:29.326068Z",
+      "latest_at": "2026-08-10T02:34:29.326068Z",
       "primary_item": {
-        "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
-        "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
-        "title_zh": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+        "id": "527862e451260bcdcf23e1995729283740eb2d67",
+        "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+        "title_zh": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
         "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+        "title_original": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
+        "url": "https://www.aibase.com/news/30210",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:47:18.168030Z"
+        "scored_at": "2026-08-10T02:35:10.850230Z"
       }
     },
     {
@@ -646,15 +1088,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6626,
-      "importance": 0.6626,
-      "importance_score": 0.6626,
+      "score": 0.6559,
+      "importance": 0.6559,
+      "importance_score": 0.6559,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.9379,
+        "recency": 0.9008,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -680,7 +1122,253 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:47:18.168030Z"
+        "scored_at": "2026-08-10T02:35:10.850230Z"
+      }
+    },
+    {
+      "story_id": "story_60c45f9e2562",
+      "title": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+      "url": "https://www.aibase.com/news/30200",
+      "primary_url": "https://www.aibase.com/news/30200",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "39729f6f93d1c28a80b4dbc212492b1b026f10be",
+          "title": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "title_zh": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "title_en": null,
+          "title_original": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30200",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:34:29.326068Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "39729f6f93d1c28a80b4dbc212492b1b026f10be",
+          "title": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "title_zh": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "title_en": null,
+          "title_original": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30200",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:34:29.326068Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T02:34:29.326068Z",
+      "latest_at": "2026-08-10T02:34:29.326068Z",
+      "primary_item": {
+        "id": "39729f6f93d1c28a80b4dbc212492b1b026f10be",
+        "title": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+        "title_zh": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+        "title_en": null,
+        "title_original": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30200",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T02:35:10.850230Z"
+      }
+    },
+    {
+      "story_id": "story_3628e8845d8e",
+      "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+      "url": "https://www.aibase.com/news/30206",
+      "primary_url": "https://www.aibase.com/news/30206",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f00e72445229b58d87baebc6842423424a765494",
+          "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+          "title_zh": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+          "title_en": null,
+          "title_original": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30206",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:34:29.326068Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f00e72445229b58d87baebc6842423424a765494",
+          "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+          "title_zh": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+          "title_en": null,
+          "title_original": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30206",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:34:29.326068Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T02:34:29.326068Z",
+      "latest_at": "2026-08-10T02:34:29.326068Z",
+      "primary_item": {
+        "id": "f00e72445229b58d87baebc6842423424a765494",
+        "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+        "title_zh": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+        "title_en": null,
+        "title_original": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30206",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T02:35:10.850230Z"
+      }
+    },
+    {
+      "story_id": "story_5744e38c3127",
+      "title": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
+      "url": "https://www.aibase.com/news/30201",
+      "primary_url": "https://www.aibase.com/news/30201",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c2c888893f7019f61fc92b501fbc45ca93d54411",
+          "title": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
+          "title_zh": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
+          "title_en": null,
+          "title_original": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30201",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:34:29.326068Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c2c888893f7019f61fc92b501fbc45ca93d54411",
+          "title": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
+          "title_zh": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
+          "title_en": null,
+          "title_original": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30201",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:34:29.326068Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T02:34:29.326068Z",
+      "latest_at": "2026-08-10T02:34:29.326068Z",
+      "primary_item": {
+        "id": "c2c888893f7019f61fc92b501fbc45ca93d54411",
+        "title": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
+        "title_zh": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
+        "title_en": null,
+        "title_original": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30201",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T02:35:10.850230Z"
       }
     },
     {
@@ -815,15 +1503,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5794,
-      "importance": 0.5794,
-      "importance_score": 0.5794,
+      "score": 0.573,
+      "importance": 0.573,
+      "importance_score": 0.573,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9091,
+        "recency": 0.8731,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -848,7 +1536,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:47:18.168030Z"
+        "scored_at": "2026-08-10T02:35:10.850230Z"
+      }
+    },
+    {
+      "story_id": "story_589994013cde",
+      "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+      "url": "https://www.aibase.com/news/30205",
+      "primary_url": "https://www.aibase.com/news/30205",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "057cdc268a9f0cc69f01561f4b884520acfeae58",
+          "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+          "title_zh": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+          "title_en": null,
+          "title_original": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30205",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:34:29.326068Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "057cdc268a9f0cc69f01561f4b884520acfeae58",
+          "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+          "title_zh": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+          "title_en": null,
+          "title_original": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30205",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:34:29.326068Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T02:34:29.326068Z",
+      "latest_at": "2026-08-10T02:34:29.326068Z",
+      "primary_item": {
+        "id": "057cdc268a9f0cc69f01561f4b884520acfeae58",
+        "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+        "title_zh": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+        "title_en": null,
+        "title_original": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30205",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T02:35:10.850230Z"
       }
     },
     {
@@ -954,15 +1724,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5625,
-      "importance": 0.5625,
-      "importance_score": 0.5625,
+      "score": 0.5557,
+      "importance": 0.5557,
+      "importance_score": 0.5557,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9539,
+        "recency": 0.9161,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -987,7 +1757,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:47:18.168030Z"
+        "scored_at": "2026-08-10T02:35:10.850230Z"
       }
     },
     {
@@ -1064,15 +1834,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5387,
+      "importance": 0.5387,
+      "importance_score": 0.5387,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9605,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1097,1025 +1867,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:47:18.168030Z"
-      }
-    },
-    {
-      "story_id": "story_4ce0c388aa43",
-      "title": "The tragedy of the commons, AI edition",
-      "url": "https://news.ycombinator.com/item?id=49235011",
-      "primary_url": "https://news.ycombinator.com/item?id=49235011",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2493cce8919efb1f054ac62b08d7acb01980be84",
-          "title": "The tragedy of the commons, AI edition",
-          "title_zh": null,
-          "title_en": "The tragedy of the commons, AI edition",
-          "title_original": "The tragedy of the commons, AI edition",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49235011",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T21:38:17.984000Z"
-        },
-        {
-          "id": "858ce1f865a829da05fd79ea627e1b87408e49d1",
-          "title": "The tragedy of the commons, AI edition",
-          "title_zh": null,
-          "title_en": "The tragedy of the commons, AI edition",
-          "title_original": "The tragedy of the commons, AI edition",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T19:43:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2493cce8919efb1f054ac62b08d7acb01980be84",
-          "title": "The tragedy of the commons, AI edition",
-          "title_zh": null,
-          "title_en": "The tragedy of the commons, AI edition",
-          "title_original": "The tragedy of the commons, AI edition",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49235011",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T21:38:17.984000Z"
-        },
-        {
-          "id": "858ce1f865a829da05fd79ea627e1b87408e49d1",
-          "title": "The tragedy of the commons, AI edition",
-          "title_zh": null,
-          "title_en": "The tragedy of the commons, AI edition",
-          "title_original": "The tragedy of the commons, AI edition",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T19:43:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9696,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T19:43:52Z",
-      "latest_at": "2026-08-09T21:38:17.984000Z",
-      "primary_item": {
-        "id": "2493cce8919efb1f054ac62b08d7acb01980be84",
-        "title": "The tragedy of the commons, AI edition",
-        "title_zh": null,
-        "title_en": "The tragedy of the commons, AI edition",
-        "title_original": "The tragedy of the commons, AI edition",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49235011",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:47:18.168030Z"
-      }
-    },
-    {
-      "story_id": "story_117aef884c19",
-      "title": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会 / I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-      "url": "https://news.ycombinator.com/item?id=49235836",
-      "primary_url": "https://news.ycombinator.com/item?id=49235836",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "b5a4adc36469cacdcfee577749c6d553a122a25f",
-          "title": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会 / I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-          "title_zh": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会",
-          "title_en": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-          "title_original": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49235836",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T21:38:17.984000Z"
-        },
-        {
-          "id": "087f4b4f40dfeef3e4a8651579d74a2b7b2feb1b",
-          "title": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会 / I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-          "title_zh": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会",
-          "title_en": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-          "title_original": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T21:01:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b5a4adc36469cacdcfee577749c6d553a122a25f",
-          "title": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会 / I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-          "title_zh": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会",
-          "title_en": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-          "title_original": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49235836",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T21:38:17.984000Z"
-        },
-        {
-          "id": "087f4b4f40dfeef3e4a8651579d74a2b7b2feb1b",
-          "title": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会 / I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-          "title_zh": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会",
-          "title_en": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-          "title_original": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T21:01:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9696,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T21:01:31Z",
-      "latest_at": "2026-08-09T21:38:17.984000Z",
-      "primary_item": {
-        "id": "b5a4adc36469cacdcfee577749c6d553a122a25f",
-        "title": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会 / I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-        "title_zh": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会",
-        "title_en": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-        "title_original": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49235836",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:47:18.168030Z"
-      }
-    },
-    {
-      "story_id": "story_b435d77dc108",
-      "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-      "url": "https://news.ycombinator.com/item?id=49229412",
-      "primary_url": "https://news.ycombinator.com/item?id=49229412",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
-          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "title_zh": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘",
-          "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "title_original": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49229412",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T10:36:36.830000Z"
-        },
-        {
-          "id": "043e5a58ca2dc5197f19b6d486667dada039441e",
-          "title": "由于人工智能成本飙升，SAP 停止了大部分旅行和招聘 / SAP stops most travel and hiring because of AI's soaring cost",
-          "title_zh": "由于人工智能成本飙升，SAP 停止了大部分旅行和招聘",
-          "title_en": "SAP stops most travel and hiring because of AI's soaring cost",
-          "title_original": "SAP stops most travel and hiring because of AI's soaring cost",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T08:00:51Z"
-        },
-        {
-          "id": "9c4cf3ed4f10036b42fc8c84a568dffeb72fd36f",
-          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "title_zh": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘",
-          "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "title_original": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T08:00:51Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
-          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "title_zh": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘",
-          "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "title_original": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49229412",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T10:36:36.830000Z"
-        },
-        {
-          "id": "043e5a58ca2dc5197f19b6d486667dada039441e",
-          "title": "由于人工智能成本飙升，SAP 停止了大部分旅行和招聘 / SAP stops most travel and hiring because of AI's soaring cost",
-          "title_zh": "由于人工智能成本飙升，SAP 停止了大部分旅行和招聘",
-          "title_en": "SAP stops most travel and hiring because of AI's soaring cost",
-          "title_original": "SAP stops most travel and hiring because of AI's soaring cost",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T08:00:51Z"
-        },
-        {
-          "id": "9c4cf3ed4f10036b42fc8c84a568dffeb72fd36f",
-          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "title_zh": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘",
-          "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "title_original": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T08:00:51Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8268,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T08:00:51Z",
-      "latest_at": "2026-08-09T10:36:36.830000Z",
-      "primary_item": {
-        "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
-        "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-        "title_zh": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘",
-        "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-        "title_original": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49229412",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:47:18.168030Z"
-      }
-    },
-    {
-      "story_id": "story_4503613082a3",
-      "title": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡 / An OpenAI Strategist Says AI Labs Should Rival Government Power",
-      "url": "https://news.ycombinator.com/item?id=49232778",
-      "primary_url": "https://news.ycombinator.com/item?id=49232778",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "67e5d1c393262bf02ec860a788ad1b7739d58e51",
-          "title": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡 / An OpenAI Strategist Says AI Labs Should Rival Government Power",
-          "title_zh": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡",
-          "title_en": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
-          "title_original": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49232778",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T18:37:41.870000Z"
-        },
-        {
-          "id": "477d0951df4245966f9710413e119cf7cb4d9c63",
-          "title": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡 / An OpenAI Strategist Says AI Labs Should Rival Government Power",
-          "title_zh": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡",
-          "title_en": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
-          "title_original": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T16:18:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "67e5d1c393262bf02ec860a788ad1b7739d58e51",
-          "title": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡 / An OpenAI Strategist Says AI Labs Should Rival Government Power",
-          "title_zh": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡",
-          "title_en": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
-          "title_original": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49232778",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T18:37:41.870000Z"
-        },
-        {
-          "id": "477d0951df4245966f9710413e119cf7cb4d9c63",
-          "title": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡 / An OpenAI Strategist Says AI Labs Should Rival Government Power",
-          "title_zh": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡",
-          "title_en": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
-          "title_original": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T16:18:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5329,
-      "importance": 0.5329,
-      "importance_score": 0.5329,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9283,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T16:18:39Z",
-      "latest_at": "2026-08-09T18:37:41.870000Z",
-      "primary_item": {
-        "id": "67e5d1c393262bf02ec860a788ad1b7739d58e51",
-        "title": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡 / An OpenAI Strategist Says AI Labs Should Rival Government Power",
-        "title_zh": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡",
-        "title_en": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
-        "title_original": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49232778",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:47:18.168030Z"
-      }
-    },
-    {
-      "story_id": "story_0921672e30ae",
-      "title": "人类与人工智能——代理编辑下文本的基于差异的行级出处 / Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-      "url": "https://news.ycombinator.com/item?id=49232300",
-      "primary_url": "https://news.ycombinator.com/item?id=49232300",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "a77869a6f151c09961698d0e97ca224261408d1d",
-          "title": "人类与人工智能——代理编辑下文本的基于差异的行级出处 / Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-          "title_zh": "人类与人工智能——代理编辑下文本的基于差异的行级出处",
-          "title_en": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-          "title_original": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49232300",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T17:37:28.949000Z"
-        },
-        {
-          "id": "9288bc7b004a9e35f6e5758db6ba9bb8b3395793",
-          "title": "人类与人工智能——代理编辑下文本的基于差异的行级出处 / Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-          "title_zh": "人类与人工智能——代理编辑下文本的基于差异的行级出处",
-          "title_en": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-          "title_original": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/eighttrigrams/us-vs-them",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T15:25:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "a77869a6f151c09961698d0e97ca224261408d1d",
-          "title": "人类与人工智能——代理编辑下文本的基于差异的行级出处 / Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-          "title_zh": "人类与人工智能——代理编辑下文本的基于差异的行级出处",
-          "title_en": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-          "title_original": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49232300",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T17:37:28.949000Z"
-        },
-        {
-          "id": "9288bc7b004a9e35f6e5758db6ba9bb8b3395793",
-          "title": "人类与人工智能——代理编辑下文本的基于差异的行级出处 / Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-          "title_zh": "人类与人工智能——代理编辑下文本的基于差异的行级出处",
-          "title_en": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-          "title_original": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/eighttrigrams/us-vs-them",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T15:25:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5305,
-      "importance": 0.5305,
-      "importance_score": 0.5305,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.915,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T15:25:29Z",
-      "latest_at": "2026-08-09T17:37:28.949000Z",
-      "primary_item": {
-        "id": "a77869a6f151c09961698d0e97ca224261408d1d",
-        "title": "人类与人工智能——代理编辑下文本的基于差异的行级出处 / Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-        "title_zh": "人类与人工智能——代理编辑下文本的基于差异的行级出处",
-        "title_en": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-        "title_original": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49232300",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:47:18.168030Z"
-      }
-    },
-    {
-      "story_id": "story_51fad9d35640",
-      "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
-      "url": "https://news.ycombinator.com/item?id=49231838",
-      "primary_url": "https://news.ycombinator.com/item?id=49231838",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "41dfa3b088cf4a07b88680efcf96ec0e61aea9b0",
-          "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
-          "title_zh": "我想拥有这条安全带。然后 Codex Desktop 获胜",
-          "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
-          "title_original": "I Wanted to Own the Harness. Then Codex Desktop Won",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49231838",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T16:37:19.032000Z"
-        },
-        {
-          "id": "a1925d17d55a737b655ccae97f1a47ce1cd16aa8",
-          "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
-          "title_zh": "我想拥有这条安全带。然后 Codex Desktop 获胜",
-          "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
-          "title_original": "I Wanted to Own the Harness. Then Codex Desktop Won",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://jorypestorious.com/blog/portable-agent-factory",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T14:36:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "41dfa3b088cf4a07b88680efcf96ec0e61aea9b0",
-          "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
-          "title_zh": "我想拥有这条安全带。然后 Codex Desktop 获胜",
-          "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
-          "title_original": "I Wanted to Own the Harness. Then Codex Desktop Won",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49231838",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T16:37:19.032000Z"
-        },
-        {
-          "id": "a1925d17d55a737b655ccae97f1a47ce1cd16aa8",
-          "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
-          "title_zh": "我想拥有这条安全带。然后 Codex Desktop 获胜",
-          "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
-          "title_original": "I Wanted to Own the Harness. Then Codex Desktop Won",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://jorypestorious.com/blog/portable-agent-factory",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T14:36:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9018,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T14:36:46Z",
-      "latest_at": "2026-08-09T16:37:19.032000Z",
-      "primary_item": {
-        "id": "41dfa3b088cf4a07b88680efcf96ec0e61aea9b0",
-        "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
-        "title_zh": "我想拥有这条安全带。然后 Codex Desktop 获胜",
-        "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
-        "title_original": "I Wanted to Own the Harness. Then Codex Desktop Won",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49231838",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:47:18.168030Z"
-      }
-    },
-    {
-      "story_id": "story_ea708b7a6475",
-      "title": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关 / Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-      "url": "https://news.ycombinator.com/item?id=49231022",
-      "primary_url": "https://news.ycombinator.com/item?id=49231022",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "faefcecd27d54e9a5b23de511c89ecdebd486d7b",
-          "title": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关 / Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-          "title_zh": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关",
-          "title_en": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-          "title_original": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49231022",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T13:37:00.708000Z"
-        },
-        {
-          "id": "b05da0cc7affb1c4cbe4b31c2553f0618b5e16bc",
-          "title": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关 / Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-          "title_zh": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关",
-          "title_en": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-          "title_original": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T13:03:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "faefcecd27d54e9a5b23de511c89ecdebd486d7b",
-          "title": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关 / Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-          "title_zh": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关",
-          "title_en": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-          "title_original": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49231022",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T13:37:00.708000Z"
-        },
-        {
-          "id": "b05da0cc7affb1c4cbe4b31c2553f0618b5e16bc",
-          "title": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关 / Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-          "title_zh": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关",
-          "title_en": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-          "title_original": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T13:03:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5212,
-      "importance": 0.5212,
-      "importance_score": 0.5212,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8635,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T13:03:49Z",
-      "latest_at": "2026-08-09T13:37:00.708000Z",
-      "primary_item": {
-        "id": "faefcecd27d54e9a5b23de511c89ecdebd486d7b",
-        "title": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关 / Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-        "title_zh": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关",
-        "title_en": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-        "title_original": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49231022",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:47:18.168030Z"
-      }
-    },
-    {
-      "story_id": "story_ca48e27df6dc",
-      "title": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-      "url": "https://news.ycombinator.com/item?id=49230550",
-      "primary_url": "https://news.ycombinator.com/item?id=49230550",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "170aa6c78fb817e9e360f77b6a1353d936704c82",
-          "title": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-          "title_zh": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间",
-          "title_en": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-          "title_original": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49230550",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T13:06:53.624000Z"
-        },
-        {
-          "id": "bcea122e50442a20d68b1681ca7f2feeeb6ad581",
-          "title": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-          "title_zh": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间",
-          "title_en": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-          "title_original": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T11:46:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "170aa6c78fb817e9e360f77b6a1353d936704c82",
-          "title": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-          "title_zh": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间",
-          "title_en": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-          "title_original": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49230550",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T13:06:53.624000Z"
-        },
-        {
-          "id": "bcea122e50442a20d68b1681ca7f2feeeb6ad581",
-          "title": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-          "title_zh": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间",
-          "title_en": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-          "title_original": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T11:46:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5201,
-      "importance": 0.5201,
-      "importance_score": 0.5201,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8573,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T11:46:28Z",
-      "latest_at": "2026-08-09T13:06:53.624000Z",
-      "primary_item": {
-        "id": "170aa6c78fb817e9e360f77b6a1353d936704c82",
-        "title": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-        "title_zh": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间",
-        "title_en": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-        "title_original": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49230550",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:47:18.168030Z"
-      }
-    },
-    {
-      "story_id": "story_db4e33c200ca",
-      "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票 / Amazon circumvents Gilroy community vote for AI data center",
-      "url": "https://news.ycombinator.com/item?id=49230954",
-      "primary_url": "https://news.ycombinator.com/item?id=49230954",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "fbb26dd8519ef67248f19dd9f8c0bff19c9694dd",
-          "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票 / Amazon circumvents Gilroy community vote for AI data center",
-          "title_zh": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票",
-          "title_en": "Amazon circumvents Gilroy community vote for AI data center",
-          "title_original": "Amazon circumvents Gilroy community vote for AI data center",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49230954",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T13:06:53.624000Z"
-        },
-        {
-          "id": "e92172beddcb1912109ace63adf377086e39d234",
-          "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票 / Amazon circumvents Gilroy community vote for AI data center",
-          "title_zh": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票",
-          "title_en": "Amazon circumvents Gilroy community vote for AI data center",
-          "title_original": "Amazon circumvents Gilroy community vote for AI data center",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T12:52:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "fbb26dd8519ef67248f19dd9f8c0bff19c9694dd",
-          "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票 / Amazon circumvents Gilroy community vote for AI data center",
-          "title_zh": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票",
-          "title_en": "Amazon circumvents Gilroy community vote for AI data center",
-          "title_original": "Amazon circumvents Gilroy community vote for AI data center",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49230954",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T13:06:53.624000Z"
-        },
-        {
-          "id": "e92172beddcb1912109ace63adf377086e39d234",
-          "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票 / Amazon circumvents Gilroy community vote for AI data center",
-          "title_zh": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票",
-          "title_en": "Amazon circumvents Gilroy community vote for AI data center",
-          "title_original": "Amazon circumvents Gilroy community vote for AI data center",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T12:52:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5201,
-      "importance": 0.5201,
-      "importance_score": 0.5201,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8573,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T12:52:10Z",
-      "latest_at": "2026-08-09T13:06:53.624000Z",
-      "primary_item": {
-        "id": "fbb26dd8519ef67248f19dd9f8c0bff19c9694dd",
-        "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票 / Amazon circumvents Gilroy community vote for AI data center",
-        "title_zh": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票",
-        "title_en": "Amazon circumvents Gilroy community vote for AI data center",
-        "title_original": "Amazon circumvents Gilroy community vote for AI data center",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49230954",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T23:47:18.168030Z"
+        "scored_at": "2026-08-10T02:35:10.850230Z"
       }
     }
   ]
