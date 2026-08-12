@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T19:20:17.362392Z",
+  "generated_at": "2026-08-12T21:02:47.461794Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8591,
-      "importance": 0.8591,
-      "importance_score": 0.8591,
+      "score": 0.8548,
+      "importance": 0.8548,
+      "importance_score": 0.8548,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9951,
+        "recency": 0.9709,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:22:24.207141Z"
+        "scored_at": "2026-08-12T21:03:29.299607Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8527,
-      "importance": 0.8527,
-      "importance_score": 0.8527,
+      "score": 0.8486,
+      "importance": 0.8486,
+      "importance_score": 0.8486,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.926,
+        "recency": 0.9034,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:22:24.207141Z"
+        "scored_at": "2026-08-12T21:03:29.299607Z"
+      }
+    },
+    {
+      "story_id": "story_094f6572bd5f",
+      "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+      "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "18e5595d096312125c112295fde577991c1afc7c",
+          "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "title_zh": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0",
+          "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T18:39:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "18e5595d096312125c112295fde577991c1afc7c",
+          "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "title_zh": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0",
+          "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T18:39:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8459,
+      "importance": 0.8459,
+      "importance_score": 0.8459,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.966,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T18:39:11Z",
+      "latest_at": "2026-08-12T18:39:11Z",
+      "primary_item": {
+        "id": "18e5595d096312125c112295fde577991c1afc7c",
+        "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+        "title_zh": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0",
+        "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+        "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T21:03:29.299607Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8307,
-      "importance": 0.8307,
-      "importance_score": 0.8307,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9263,
+        "recency": 0.9037,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:22:24.207141Z"
+        "scored_at": "2026-08-12T21:03:29.299607Z"
       }
     },
     {
@@ -384,15 +467,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8224,
-      "importance": 0.8224,
-      "importance_score": 0.8224,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8211,
+        "recency": 0.8011,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -419,7 +502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:22:24.207141Z"
+        "scored_at": "2026-08-12T21:03:29.299607Z"
       }
     },
     {
@@ -467,15 +550,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8521,
-      "importance": 0.8521,
-      "importance_score": 0.8521,
+      "score": 0.8479,
+      "importance": 0.8479,
+      "importance_score": 0.8479,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9563,
+        "recency": 0.933,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,7 +585,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:22:24.207141Z"
+        "scored_at": "2026-08-12T21:03:29.299607Z"
       }
     },
     {
@@ -550,15 +633,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8205,
-      "importance": 0.8205,
-      "importance_score": 0.8205,
+      "score": 0.8168,
+      "importance": 0.8168,
+      "importance_score": 0.8168,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8248,
+        "recency": 0.8047,
         "story_heat": 0.0
       },
       "category": "official",
@@ -585,30 +668,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:22:24.207141Z"
+        "scored_at": "2026-08-12T21:03:29.299607Z"
       }
     },
     {
-      "story_id": "story_d21fb74b185b",
-      "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
-      "primary_url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+      "story_id": "story_953c86e801a6",
+      "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+      "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
-          "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
-          "title_zh": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama",
-          "title_en": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
-          "title_original": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
+          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+          "title_zh": "公共预览版中组织的规则见解",
+          "title_en": "Rule insights for organizations in public preview",
+          "title_original": "Rule insights for organizations in public preview",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-11T20:15:55Z"
+          "published_at": "2026-08-12T18:30:28Z"
         }
       ],
       "source_count": 1,
@@ -617,31 +700,31 @@
       ],
       "items": [
         {
-          "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
-          "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
-          "title_zh": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama",
-          "title_en": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
-          "title_original": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
+          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+          "title_zh": "公共预览版中组织的规则见解",
+          "title_en": "Rule insights for organizations in public preview",
+          "title_original": "Rule insights for organizations in public preview",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-11T20:15:55Z"
+          "published_at": "2026-08-12T18:30:28Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7166,
+        "ai_relevance": 0.87,
+        "recency": 0.964,
         "story_heat": 0.0
       },
       "category": "official",
@@ -650,17 +733,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-11T20:15:55Z",
-      "latest_at": "2026-08-11T20:15:55Z",
+      "earliest_at": "2026-08-12T18:30:28Z",
+      "latest_at": "2026-08-12T18:30:28Z",
       "primary_item": {
-        "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
-        "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
-        "title_zh": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama",
-        "title_en": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
-        "title_original": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+        "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
+        "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+        "title_zh": "公共预览版中组织的规则见解",
+        "title_en": "Rule insights for organizations in public preview",
+        "title_original": "Rule insights for organizations in public preview",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+        "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -668,7 +751,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:22:24.207141Z"
+        "scored_at": "2026-08-12T21:03:29.299607Z"
       }
     },
     {
@@ -716,15 +799,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7945,
-      "importance": 0.7945,
-      "importance_score": 0.7945,
+      "score": 0.7902,
+      "importance": 0.7902,
+      "importance_score": 0.7902,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9803,
+        "recency": 0.9564,
         "story_heat": 0.0
       },
       "category": "official",
@@ -750,7 +833,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:22:24.207141Z"
+        "scored_at": "2026-08-12T21:03:29.299607Z"
       }
     },
     {
@@ -798,15 +881,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9552,
+        "recency": 0.932,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -832,7 +915,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:22:24.207141Z"
+        "scored_at": "2026-08-12T21:03:29.299607Z"
       }
     },
     {
@@ -909,15 +992,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7563,
+        "recency": 0.7379,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -944,90 +1027,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:22:24.207141Z"
-      }
-    },
-    {
-      "story_id": "story_f4f6d73ecb41",
-      "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
-      "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-      "primary_url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
-          "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
-          "title_zh": "GitHub Enterprise Server 3.22 候选版本",
-          "title_en": "GitHub Enterprise Server 3.22 release candidate",
-          "title_original": "GitHub Enterprise Server 3.22 release candidate",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T20:26:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
-          "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
-          "title_zh": "GitHub Enterprise Server 3.22 候选版本",
-          "title_en": "GitHub Enterprise Server 3.22 release candidate",
-          "title_original": "GitHub Enterprise Server 3.22 release candidate",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T20:26:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7933,
-      "importance": 0.7933,
-      "importance_score": 0.7933,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7185,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T20:26:26Z",
-      "latest_at": "2026-08-11T20:26:26Z",
-      "primary_item": {
-        "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
-        "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
-        "title_zh": "GitHub Enterprise Server 3.22 候选版本",
-        "title_en": "GitHub Enterprise Server 3.22 release candidate",
-        "title_original": "GitHub Enterprise Server 3.22 release candidate",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:22:24.207141Z"
+        "scored_at": "2026-08-12T21:03:29.299607Z"
       }
     },
     {
@@ -1075,15 +1075,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8995,
+        "recency": 0.8776,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1108,7 +1108,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:22:24.207141Z"
+        "scored_at": "2026-08-12T21:03:29.299607Z"
       }
     },
     {
@@ -1156,15 +1156,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7492,
-      "importance": 0.7492,
-      "importance_score": 0.7492,
+      "score": 0.7449,
+      "importance": 0.7449,
+      "importance_score": 0.7449,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9809,
+        "recency": 0.957,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1189,7 +1189,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:22:24.207141Z"
+        "scored_at": "2026-08-12T21:03:29.299607Z"
+      }
+    },
+    {
+      "story_id": "story_5535217c6b3d",
+      "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话 / The Claude in Chrome side panel is now Claude Cowork",
+      "url": "https://claude.com/blog/cowork-chrome-side-panel",
+      "primary_url": "https://claude.com/blog/cowork-chrome-side-panel",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fc9380064c748bd843a4ec5431d78b939970f548",
+          "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话 / The Claude in Chrome side panel is now Claude Cowork",
+          "title_zh": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+          "title_en": "The Claude in Chrome side panel is now Claude Cowork",
+          "title_original": "The Claude in Chrome side panel is now Claude Cowork",
+          "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/cowork-chrome-side-panel",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T20:15:51.977000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "fc9380064c748bd843a4ec5431d78b939970f548",
+          "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话 / The Claude in Chrome side panel is now Claude Cowork",
+          "title_zh": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+          "title_en": "The Claude in Chrome side panel is now Claude Cowork",
+          "title_original": "The Claude in Chrome side panel is now Claude Cowork",
+          "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/cowork-chrome-side-panel",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T20:15:51.977000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9888,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T20:15:51.977000Z",
+      "latest_at": "2026-08-12T20:15:51.977000Z",
+      "primary_item": {
+        "id": "fc9380064c748bd843a4ec5431d78b939970f548",
+        "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话 / The Claude in Chrome side panel is now Claude Cowork",
+        "title_zh": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+        "title_en": "The Claude in Chrome side panel is now Claude Cowork",
+        "title_original": "The Claude in Chrome side panel is now Claude Cowork",
+        "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
+        "recommend_reason_zh": null,
+        "url": "https://claude.com/blog/cowork-chrome-side-panel",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T21:03:29.299607Z"
       }
     },
     {
@@ -1237,15 +1318,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.878,
+        "recency": 0.8566,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1270,7 +1351,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:22:24.207141Z"
+        "scored_at": "2026-08-12T21:03:29.299607Z"
       }
     },
     {
@@ -1318,15 +1399,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9532,
+        "recency": 0.9299,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1351,169 +1432,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:22:24.207141Z"
-      }
-    },
-    {
-      "story_id": "story_8a4c14a3381a",
-      "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
-          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
-          "title_zh": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-          "title_en": "ChatGPT and Gemini both just passed 1 billion users",
-          "title_original": "ChatGPT and Gemini both just passed 1 billion users",
-          "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T19:41:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
-          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
-          "title_zh": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-          "title_en": "ChatGPT and Gemini both just passed 1 billion users",
-          "title_original": "ChatGPT and Gemini both just passed 1 billion users",
-          "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T19:41:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7108,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T19:41:42Z",
-      "latest_at": "2026-08-11T19:41:42Z",
-      "primary_item": {
-        "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
-        "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
-        "title_zh": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-        "title_en": "ChatGPT and Gemini both just passed 1 billion users",
-        "title_original": "ChatGPT and Gemini both just passed 1 billion users",
-        "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:22:24.207141Z"
-      }
-    },
-    {
-      "story_id": "story_72a76c10c59d",
-      "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？ / I wrote an AI textbook - how long until AI can do it better？",
-      "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-      "primary_url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-      "source": "Nathan Lambert：Interconnects（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9ebbab8acc299b2a6ba84182ed950e6abe29ec7b",
-          "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？ / I wrote an AI textbook - how long until AI can do it better？",
-          "title_zh": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-          "title_en": "I wrote an AI textbook - how long until AI can do it better？",
-          "title_original": "I wrote an AI textbook - how long until AI can do it better？",
-          "summary": "作者在完成一本 RLHF 教科书后反思，LLM 在长文非虚构写作上进展停滞，GPT 4.5 和 Kimi K2 等写作强模型已显老旧，而编码、数学等任务已接近超人水平。模型能改错字、做编辑，但组织整章内容时仍混乱且易出错，作者认为这阻碍了模型自主解决开放科学问题。",
-          "recommend_reason_zh": null,
-          "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T13:01:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Nathan Lambert：Interconnects（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9ebbab8acc299b2a6ba84182ed950e6abe29ec7b",
-          "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？ / I wrote an AI textbook - how long until AI can do it better？",
-          "title_zh": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-          "title_en": "I wrote an AI textbook - how long until AI can do it better？",
-          "title_original": "I wrote an AI textbook - how long until AI can do it better？",
-          "summary": "作者在完成一本 RLHF 教科书后反思，LLM 在长文非虚构写作上进展停滞，GPT 4.5 和 Kimi K2 等写作强模型已显老旧，而编码、数学等任务已接近超人水平。模型能改错字、做编辑，但组织整章内容时仍混乱且易出错，作者认为这阻碍了模型自主解决开放科学问题。",
-          "recommend_reason_zh": null,
-          "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T13:01:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9128,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T13:01:16Z",
-      "latest_at": "2026-08-12T13:01:16Z",
-      "primary_item": {
-        "id": "9ebbab8acc299b2a6ba84182ed950e6abe29ec7b",
-        "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？ / I wrote an AI textbook - how long until AI can do it better？",
-        "title_zh": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-        "title_en": "I wrote an AI textbook - how long until AI can do it better？",
-        "title_original": "I wrote an AI textbook - how long until AI can do it better？",
-        "summary": "作者在完成一本 RLHF 教科书后反思，LLM 在长文非虚构写作上进展停滞，GPT 4.5 和 Kimi K2 等写作强模型已显老旧，而编码、数学等任务已接近超人水平。模型能改错字、做编辑，但组织整章内容时仍混乱且易出错，作者认为这阻碍了模型自主解决开放科学问题。",
-        "recommend_reason_zh": null,
-        "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-        "source": "Nathan Lambert：Interconnects（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:22:24.207141Z"
+        "scored_at": "2026-08-12T21:03:29.299607Z"
       }
     },
     {
@@ -1561,15 +1480,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.878,
+        "recency": 0.8566,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1594,7 +1513,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:22:24.207141Z"
+        "scored_at": "2026-08-12T21:03:29.299607Z"
       }
     },
     {
@@ -1642,15 +1561,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8342,
+        "recency": 0.8138,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1675,7 +1594,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:22:24.207141Z"
+        "scored_at": "2026-08-12T21:03:29.299607Z"
       }
     },
     {
@@ -1723,15 +1642,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.878,
+        "recency": 0.8566,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1756,7 +1675,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:22:24.207141Z"
+        "scored_at": "2026-08-12T21:03:29.299607Z"
+      }
+    },
+    {
+      "story_id": "story_17d6705d1084",
+      "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+      "url": "https://www.aibase.com/news/30276",
+      "primary_url": "https://www.aibase.com/news/30276",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "19885d82860a200a6c11b27212173a78ac3ba013",
+          "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "title_zh": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "title_en": null,
+          "title_original": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30276",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T08:39:27.673559Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "19885d82860a200a6c11b27212173a78ac3ba013",
+          "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "title_zh": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "title_en": null,
+          "title_original": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30276",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T08:39:27.673559Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8362,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T08:39:27.673559Z",
+      "latest_at": "2026-08-12T08:39:27.673559Z",
+      "primary_item": {
+        "id": "19885d82860a200a6c11b27212173a78ac3ba013",
+        "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+        "title_zh": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+        "title_en": null,
+        "title_original": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30276",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T21:03:29.299607Z"
       }
     }
   ]
