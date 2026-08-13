@@ -1,51 +1,45 @@
 {
-  "generated_at": "2026-08-13T17:12:26.119366Z",
+  "generated_at": "2026-08-13T18:07:45.131132Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-08-11",
-  "count_today": 6,
+  "latest_date": "2026-08-13",
+  "count_today": 1,
   "updates_today": [
     {
-      "date": "2026-08-11",
-      "title": "硅谷观察日记｜AI恐慌退潮，分享我走访多所大学后的四点观察",
-      "summary": "作者在走访纽约大学、卡内基梅隆、南加大、UCLA、ACCD后发现，美国高校的 AI 恐慌正在退潮，老师们更关心一项作业里哪些步骤能交给 AI，哪些必须学生亲手完成。AI 让答案变便宜了，人的判断、过程和责任反而更值钱。",
-      "url": "https://waytoagi.feishu.cn/wiki/FR2WwcGY2iJ0qRkbldLcGokOnxf?from=from_copylink"
-    },
-    {
-      "date": "2026-08-11",
-      "title": "从 RAG 到上下文图：9 步路线图",
-      "summary": "这篇文章把从RAG到上下文图的路线拆成 9 步：先找一个RAG答不好的多跳问题，再抽实体和关系、做实体规范化、建正反向边、给边加权并保留来源，最后按路径检索并带引用生成答案。适合做企业知识库、GraphRAG、Agent上下文工程的人看。",
-      "url": "https://waytoagi.feishu.cn/wiki/XZvOwM99nivQSAkHzsJc261xnhh?from=from_copylink"
-    },
-    {
-      "date": "2026-08-11",
-      "title": "Codex Security，开源了！",
-      "summary": "现在用 AI 半天搓个产品上线，已经不稀奇了，但最容易被忽略的往往是安全：权限没收紧、数据库没校验、接口没防护，前期看不出问题，真有流量后就可能变成事故。OpenAI 开源的Codex Security可以直接装成npm包，在项目里扫描漏洞，还会先验证风险、给出位置和修复建议，支持日常检查和深度扫描，也能对比修复前后的结果。产品上线前用它跑一遍，至少能少踩几个安全坑。",
-      "url": "https://waytoagi.feishu.cn/wiki/Kgu3wTyD3inmRwkmbufcaLzWnWd?from=from_copylink"
-    },
-    {
-      "date": "2026-08-11",
-      "title": "Claude/Codex能跨会话传消息，我重构工作流",
-      "summary": "很多人用Claude/Codex来vibe coding，都会遇到一个很烦的问题。上下文一乱，新想法塞进当前对话会带偏主线，重开一条又要补充背景、重复解释踩过的坑。Claude/Codex能跨会话传消息后，就可以探索所有可行路径还不丢上下文。Codex适合用会话ID精确寻址，Claude Code则更适合按项目、日期、主题搜索历史会话。快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/AoMvwYVlpiaBtPkm55HcGvxjn2d?from=from_copylink"
-    },
-    {
-      "date": "2026-08-11",
-      "title": "Claude Tag 可能会是下一个现象级 AI 产品。",
-      "summary": "一个月前，Anthropic 在Slack里上线了Claude Tag。阿颖这篇文章把Claude Tag和Claude Code、Codex、OpenClaw放在一起进行了对比，发现Claude Tag或许会是下一个现象级 AI 产品。",
-      "url": "https://waytoagi.feishu.cn/wiki/OF3IwAy1rip2BKkNGnQcUmITnwf?from=from_copylink"
-    },
-    {
-      "date": "2026-08-11",
-      "title": "AI 工程师必备的 7 条自改进智能体循环规则",
-      "summary": "智能体会自己写代码、自己改提示词、自己跑循环，看起来越来越聪明；但如果你没先定义什么叫“好”，它很可能只是把分数刷漂亮，真实效果反而变差。来一起看看Google官方的自改进智能体循环是如何避免这一问题的！",
-      "url": "https://waytoagi.feishu.cn/wiki/ENInwjmnViH3I4knMO2cmO1PnVg?from=from_copylink"
+      "date": "2026-08-13",
+      "title": "DeepSeek-V4-Pro 正式版上线",
+      "summary": "DeepSeek V4 Pro 正式版已同步在 APP、网页端和 API 更新上线。",
+      "url": "https://waytoagi.feishu.cn/wiki/CXAGwKXMLi4XNOkE8vSc6vpDnGb?from=from_copylink"
     }
   ],
-  "count_7d": 23,
+  "count_7d": 27,
   "updates_7d": [
+    {
+      "date": "2026-08-13",
+      "title": "DeepSeek-V4-Pro 正式版上线",
+      "summary": "DeepSeek V4 Pro 正式版已同步在 APP、网页端和 API 更新上线。",
+      "url": "https://waytoagi.feishu.cn/wiki/CXAGwKXMLi4XNOkE8vSc6vpDnGb?from=from_copylink"
+    },
+    {
+      "date": "2026-08-12",
+      "title": "开源之后，MiniMax H3 拥有了 300 个分身",
+      "summary": "Mini Max H3开源之后，社区已经把它拆成了“300 个分身”：压缩到消费级显卡能跑、重写Mac原生推理、做 NVIDIA/AMD加速，还摸索出“本地低成本打样，云端高质量成片”的新流程。这篇适合AI视频创作者、ComfyUI 玩家和Agent工作流开发者看。里面不仅有长视频续写、单帧图像编辑、独立音频生成这些冷门玩法，还展示了H3被接进自动化制片系统后的可能性。",
+      "url": "https://waytoagi.feishu.cn/wiki/RN0HwuIxDiTdFfkrOJPcmewpn8e?from=from_copylink"
+    },
+    {
+      "date": "2026-08-12",
+      "title": "Wan3.0众测！一次直出30秒，甩链接也能直接出视频",
+      "summary": "这篇是 WaytoAGI 众测团对Wan3.0的实测复盘，30位创作者做了90+案例，覆盖短漫剧、广告片、产品演示、UI 动效、MV、数字空间和影视叙事。最值得看的不是单条样片，而是它已经能把30秒叙事、网页/Word/PDF/Excel 输入、多参考图、人物微表情、角色一致性和视听协同放进真实流程里。",
+      "url": "https://waytoagi.feishu.cn/wiki/QmppwJonui3GsjkE0bncfKPdn8f?from=from_copylink"
+    },
+    {
+      "date": "2026-08-12",
+      "title": "Stripe创始人：AI时代，创业还需要“小步快跑”吗？丨YC",
+      "summary": "Stripe创始人Patrick在这期YC的播客上输出了很多对AI创业过程中的反思。面对一群正在考虑退学、用 AI 创业的学生。大家最关心的是：AI 能替人做多少事？过去那套“小步快跑”的创业方法还管用吗？ Patrick 的答案是：AI 确实让新公司出现得更快、收入来得更早，但学什么、做什么、什么时候推出产品，仍要靠创业者自己判断。",
+      "url": "https://waytoagi.feishu.cn/wiki/D2fSwVarFicLf9kjayEcIzusnbo?from=from_copylink"
+    },
     {
       "date": "2026-08-11",
       "title": "硅谷观察日记｜AI恐慌退潮，分享我走访多所大学后的四点观察",
