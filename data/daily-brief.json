@@ -1,8 +1,370 @@
 {
-  "generated_at": "2026-08-13T18:07:45.131132Z",
+  "generated_at": "2026-08-13T19:19:53.254966Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_3fd84efeedff",
+      "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "primary_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4f7dedbe4a69766d646c14d32955cbaf6870a15c",
+          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
+          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+          "title_en": "The builder’s guide to GPT‑5.6",
+          "title_original": "The builder’s guide to GPT‑5.6",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T11:00:00Z"
+        },
+        {
+          "id": "864d3f33938ba9eb0280be7495fcd78fa2fd212b",
+          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder's guide to GPT-5.6",
+          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+          "title_en": "The builder's guide to GPT-5.6",
+          "title_original": "The builder's guide to GPT-5.6",
+          "summary": "GPT-5.6 模型家族以更低成本实现前沿级智能体性能，并新增推理持久化、原生多智能体编排和程序化工具调用等 API 能力。在 ARC-AGI-3 上，启用保留推理和压缩后，Sol 得分从 13.3% 跃升至 38.3%，且输出 token 减少约 6 倍。Luna 在 BrowseComp 上以 84.04% 的得分追平 GPT-5.5（84.36%），成本从 $33.27 降至 $1.33。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T11:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "4f7dedbe4a69766d646c14d32955cbaf6870a15c",
+          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
+          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+          "title_en": "The builder’s guide to GPT‑5.6",
+          "title_original": "The builder’s guide to GPT‑5.6",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T11:00:00Z"
+        },
+        {
+          "id": "864d3f33938ba9eb0280be7495fcd78fa2fd212b",
+          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder's guide to GPT-5.6",
+          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+          "title_en": "The builder's guide to GPT-5.6",
+          "title_original": "The builder's guide to GPT-5.6",
+          "summary": "GPT-5.6 模型家族以更低成本实现前沿级智能体性能，并新增推理持久化、原生多智能体编排和程序化工具调用等 API 能力。在 ARC-AGI-3 上，启用保留推理和压缩后，Sol 得分从 13.3% 跃升至 38.3%，且输出 token 减少约 6 倍。Luna 在 BrowseComp 上以 84.04% 的得分追平 GPT-5.5（84.36%），成本从 $33.27 降至 $1.33。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T11:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8646,
+      "importance": 0.8646,
+      "importance_score": 0.8646,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8866,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T11:00:00Z",
+      "latest_at": "2026-08-13T11:00:00Z",
+      "primary_item": {
+        "id": "4f7dedbe4a69766d646c14d32955cbaf6870a15c",
+        "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
+        "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+        "title_en": "The builder’s guide to GPT‑5.6",
+        "title_original": "The builder’s guide to GPT‑5.6",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T19:20:34.993393Z"
+      }
+    },
+    {
+      "story_id": "story_7243b3d66c55",
+      "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "primary_url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
+          "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "title_zh": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署",
+          "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T17:16:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
+          "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "title_zh": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署",
+          "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T17:16:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8607,
+      "importance": 0.8607,
+      "importance_score": 0.8607,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9706,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T17:16:04Z",
+      "latest_at": "2026-08-13T17:16:04Z",
+      "primary_item": {
+        "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
+        "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "title_zh": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署",
+        "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T19:20:34.993393Z"
+      }
+    },
+    {
+      "story_id": "story_230b99496aae",
+      "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+      "primary_url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
+          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
+          "title_zh": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
+          "title_en": "Introducing Gemini 3.7 Flash",
+          "title_original": "Introducing Gemini 3.7 Flash",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T17:04:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
+          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
+          "title_zh": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
+          "title_en": "Introducing Gemini 3.7 Flash",
+          "title_original": "Introducing Gemini 3.7 Flash",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T17:04:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8462,
+      "importance": 0.8462,
+      "importance_score": 0.8462,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9679,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T17:04:18Z",
+      "latest_at": "2026-08-13T17:04:18Z",
+      "primary_item": {
+        "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
+        "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
+        "title_zh": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
+        "title_en": "Introducing Gemini 3.7 Flash",
+        "title_original": "Introducing Gemini 3.7 Flash",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T19:20:34.993393Z"
+      }
+    },
+    {
+      "story_id": "story_c2a711833862",
+      "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+      "primary_url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
+          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+          "title_zh": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+          "title_en": "Bring your spreadsheet data to life with Sheets canvas",
+          "title_original": "Bring your spreadsheet data to life with Sheets canvas",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T16:45:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
+          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+          "title_zh": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+          "title_en": "Bring your spreadsheet data to life with Sheets canvas",
+          "title_original": "Bring your spreadsheet data to life with Sheets canvas",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T16:45:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8374,
+      "importance": 0.8374,
+      "importance_score": 0.8374,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9634,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T16:45:00Z",
+      "latest_at": "2026-08-13T16:45:00Z",
+      "primary_item": {
+        "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
+        "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+        "title_zh": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+        "title_en": "Bring your spreadsheet data to life with Sheets canvas",
+        "title_original": "Bring your spreadsheet data to life with Sheets canvas",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T19:20:34.993393Z"
+      }
+    },
     {
       "story_id": "story_55c454217558",
       "title": "预览超快模式：GPT-5.6 Sol 速度高达 14 倍 / Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
@@ -77,15 +439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8651,
-      "importance": 0.8651,
-      "importance_score": 0.8651,
+      "score": 0.8623,
+      "importance": 0.8623,
+      "importance_score": 0.8623,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8892,
+        "recency": 0.8739,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,63 +475,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:10:20.096591Z"
+        "scored_at": "2026-08-13T19:20:34.993393Z"
       }
     },
     {
-      "story_id": "story_7243b3d66c55",
-      "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "primary_url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "source": "Hugging Face Blog",
+      "story_id": "story_4b3de57e13b8",
+      "title": "Computer History",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
-          "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-          "title_zh": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署",
-          "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-          "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "id": "44695098290e3788d04048785a37b110c9282a6d",
+          "title": "Computer History",
+          "title_zh": null,
+          "title_en": "Computer History",
+          "title_original": "Computer History",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-          "source": "Hugging Face Blog",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T17:16:04Z"
+          "published_at": "2026-08-13T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "OpenAI Codex Changelog"
       ],
       "items": [
         {
-          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
-          "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-          "title_zh": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署",
-          "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-          "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "id": "44695098290e3788d04048785a37b110c9282a6d",
+          "title": "Computer History",
+          "title_zh": null,
+          "title_en": "Computer History",
+          "title_original": "Computer History",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-          "source": "Hugging Face Blog",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T17:16:04Z"
+          "published_at": "2026-08-13T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8638,
-      "importance": 0.8638,
-      "importance_score": 0.8638,
+      "score": 0.8222,
+      "importance": 0.8222,
+      "importance_score": 0.8222,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9876,
+        "recency": 0.7564,
         "story_heat": 0.0
       },
       "category": "official",
@@ -178,440 +540,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-13T17:16:04Z",
-      "latest_at": "2026-08-13T17:16:04Z",
+      "earliest_at": "2026-08-13T00:00:00Z",
+      "latest_at": "2026-08-13T00:00:00Z",
       "primary_item": {
-        "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
-        "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-        "title_zh": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署",
-        "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-        "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "id": "44695098290e3788d04048785a37b110c9282a6d",
+        "title": "Computer History",
+        "title_zh": null,
+        "title_en": "Computer History",
+        "title_original": "Computer History",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-        "source": "Hugging Face Blog",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:10:20.096591Z"
-      }
-    },
-    {
-      "story_id": "story_230b99496aae",
-      "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-      "primary_url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
-          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
-          "title_zh": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
-          "title_en": "Introducing Gemini 3.7 Flash",
-          "title_original": "Introducing Gemini 3.7 Flash",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T17:04:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
-          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
-          "title_zh": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
-          "title_en": "Introducing Gemini 3.7 Flash",
-          "title_original": "Introducing Gemini 3.7 Flash",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T17:04:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8493,
-      "importance": 0.8493,
-      "importance_score": 0.8493,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9848,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T17:04:18Z",
-      "latest_at": "2026-08-13T17:04:18Z",
-      "primary_item": {
-        "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
-        "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
-        "title_zh": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
-        "title_en": "Introducing Gemini 3.7 Flash",
-        "title_original": "Introducing Gemini 3.7 Flash",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:10:20.096591Z"
-      }
-    },
-    {
-      "story_id": "story_c2a711833862",
-      "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-      "primary_url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
-          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
-          "title_zh": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
-          "title_en": "Bring your spreadsheet data to life with Sheets canvas",
-          "title_original": "Bring your spreadsheet data to life with Sheets canvas",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T16:45:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
-          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
-          "title_zh": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
-          "title_en": "Bring your spreadsheet data to life with Sheets canvas",
-          "title_original": "Bring your spreadsheet data to life with Sheets canvas",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T16:45:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8405,
-      "importance": 0.8405,
-      "importance_score": 0.8405,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9803,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T16:45:00Z",
-      "latest_at": "2026-08-13T16:45:00Z",
-      "primary_item": {
-        "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
-        "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
-        "title_zh": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
-        "title_en": "Bring your spreadsheet data to life with Sheets canvas",
-        "title_original": "Bring your spreadsheet data to life with Sheets canvas",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:10:20.096591Z"
-      }
-    },
-    {
-      "story_id": "story_fdae5f4986f9",
-      "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
-      "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
-          "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
-          "title_zh": "使用 GitHub Copilot 应用编写您的第一个提示",
-          "title_en": "Write your first prompt with the GitHub Copilot app",
-          "title_original": "Write your first prompt with the GitHub Copilot app",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
-          "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
-          "title_zh": "使用 GitHub Copilot 应用编写您的第一个提示",
-          "title_en": "Write your first prompt with the GitHub Copilot app",
-          "title_original": "Write your first prompt with the GitHub Copilot app",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7161,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T19:00:00Z",
-      "latest_at": "2026-08-12T19:00:00Z",
-      "primary_item": {
-        "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
-        "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
-        "title_zh": "使用 GitHub Copilot 应用编写您的第一个提示",
-        "title_en": "Write your first prompt with the GitHub Copilot app",
-        "title_original": "Write your first prompt with the GitHub Copilot app",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:10:20.096591Z"
-      }
-    },
-    {
-      "story_id": "story_094f6572bd5f",
-      "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-      "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "18e5595d096312125c112295fde577991c1afc7c",
-          "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "title_zh": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0",
-          "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T18:39:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "18e5595d096312125c112295fde577991c1afc7c",
-          "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "title_zh": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0",
-          "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T18:39:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7125,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T18:39:11Z",
-      "latest_at": "2026-08-12T18:39:11Z",
-      "primary_item": {
-        "id": "18e5595d096312125c112295fde577991c1afc7c",
-        "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-        "title_zh": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0",
-        "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-        "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:10:20.096591Z"
-      }
-    },
-    {
-      "story_id": "story_54d692d2c27d",
-      "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "primary_url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
-          "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "title_zh": "OpenAI 任命 Dali Rajic 为首席营收官",
-          "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
-          "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "title_zh": "OpenAI 任命 Dali Rajic 为首席营收官",
-          "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8298,
-      "importance": 0.8298,
-      "importance_score": 0.8298,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8765,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T09:00:00Z",
-      "latest_at": "2026-08-13T09:00:00Z",
-      "primary_item": {
-        "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
-        "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
-        "title_zh": "OpenAI 任命 Dali Rajic 为首席营收官",
-        "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-        "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:10:20.096591Z"
+        "scored_at": "2026-08-13T19:20:34.993393Z"
       }
     },
     {
@@ -659,15 +606,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7697,
+        "recency": 0.7564,
         "story_heat": 0.0
       },
       "category": "official",
@@ -694,7 +641,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:10:20.096591Z"
+        "scored_at": "2026-08-13T19:20:34.993393Z"
       }
     },
     {
@@ -742,15 +689,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.7748,
+      "importance": 0.7748,
+      "importance_score": 0.7748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9058,
+        "recency": 0.8902,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -776,63 +723,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:10:20.096591Z"
+        "scored_at": "2026-08-13T19:20:34.993393Z"
       }
     },
     {
-      "story_id": "story_953c86e801a6",
-      "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
-      "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
-      "source": "GitHub Changelog",
+      "story_id": "story_54d692d2c27d",
+      "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "primary_url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
-          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
-          "title_zh": "公共预览版中组织的规则见解",
-          "title_en": "Rule insights for organizations in public preview",
-          "title_original": "Rule insights for organizations in public preview",
+          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
+          "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "title_zh": "OpenAI 任命 Dali Rajic 为首席营收官",
+          "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-12T18:30:28Z"
+          "published_at": "2026-08-13T09:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
-          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
-          "title_zh": "公共预览版中组织的规则见解",
-          "title_en": "Rule insights for organizations in public preview",
-          "title_original": "Rule insights for organizations in public preview",
+          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
+          "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "title_zh": "OpenAI 任命 Dali Rajic 为首席营收官",
+          "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-12T18:30:28Z"
+          "published_at": "2026-08-13T09:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.792,
-      "importance": 0.792,
-      "importance_score": 0.792,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.711,
+        "ai_relevance": 0.91,
+        "recency": 0.8614,
         "story_heat": 0.0
       },
       "category": "official",
@@ -841,25 +788,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-12T18:30:28Z",
-      "latest_at": "2026-08-12T18:30:28Z",
+      "earliest_at": "2026-08-13T09:00:00Z",
+      "latest_at": "2026-08-13T09:00:00Z",
       "primary_item": {
-        "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
-        "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
-        "title_zh": "公共预览版中组织的规则见解",
-        "title_en": "Rule insights for organizations in public preview",
-        "title_original": "Rule insights for organizations in public preview",
+        "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
+        "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "title_zh": "OpenAI 任命 Dali Rajic 为首席营收官",
+        "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
-        "source": "GitHub Changelog",
+        "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:10:20.096591Z"
+        "scored_at": "2026-08-13T19:20:34.993393Z"
       }
     },
     {
@@ -907,15 +854,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7566,
-      "importance": 0.7566,
-      "importance_score": 0.7566,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.889,
+        "recency": 0.8737,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -941,7 +888,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:10:20.096591Z"
+        "scored_at": "2026-08-13T19:20:34.993393Z"
       }
     },
     {
@@ -989,15 +936,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7848,
+        "recency": 0.7713,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1022,7 +969,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:10:20.096591Z"
+        "scored_at": "2026-08-13T19:20:34.993393Z"
       }
     },
     {
@@ -1070,15 +1017,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8953,
+        "recency": 0.8799,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1103,7 +1050,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:10:20.096591Z"
+        "scored_at": "2026-08-13T19:20:34.993393Z"
       }
     },
     {
@@ -1151,15 +1098,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9432,
+        "recency": 0.927,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1184,7 +1131,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:10:20.096591Z"
+        "scored_at": "2026-08-13T19:20:34.993393Z"
       }
     },
     {
@@ -1232,15 +1179,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
+      "score": 0.7343,
+      "importance": 0.7343,
+      "importance_score": 0.7343,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.982,
+        "recency": 0.9651,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1265,7 +1212,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:10:20.096591Z"
+        "scored_at": "2026-08-13T19:20:34.993393Z"
       }
     },
     {
@@ -1313,15 +1260,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9291,
+        "recency": 0.9131,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1346,7 +1293,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:10:20.096591Z"
+        "scored_at": "2026-08-13T19:20:34.993393Z"
+      }
+    },
+    {
+      "story_id": "story_e73e55e5b18e",
+      "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍 / Cloud agents start 3x faster with builds",
+      "url": "https://cursor.com/blog/builds",
+      "primary_url": "https://cursor.com/blog/builds",
+      "source": "Cursor Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b10bd989bb5e1f3b082880138208e5c1a8f3f067",
+          "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍 / Cloud agents start 3x faster with builds",
+          "title_zh": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
+          "title_en": "Cloud agents start 3x faster with builds",
+          "title_original": "Cloud agents start 3x faster with builds",
+          "summary": "Cursor 推出 builds 功能，在后台持续准备就绪的开发环境副本，让云智能体启动时无需从零搭建，响应速度最高提升 3 倍。内部环境启动快 10 倍，首个 token 生成快 3 倍；智能体始终从最近一次成功的 build 启动，依赖更新或安装脚本出错时不会影响运行。8 月 17 日起所有环境默认启用 builds，无需额外费用。",
+          "recommend_reason_zh": null,
+          "url": "https://cursor.com/blog/builds",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Cursor Blog"
+      ],
+      "items": [
+        {
+          "id": "b10bd989bb5e1f3b082880138208e5c1a8f3f067",
+          "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍 / Cloud agents start 3x faster with builds",
+          "title_zh": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
+          "title_en": "Cloud agents start 3x faster with builds",
+          "title_original": "Cloud agents start 3x faster with builds",
+          "summary": "Cursor 推出 builds 功能，在后台持续准备就绪的开发环境副本，让云智能体启动时无需从零搭建，响应速度最高提升 3 倍。内部环境启动快 10 倍，首个 token 生成快 3 倍；智能体始终从最近一次成功的 build 启动，依赖更新或安装脚本出错时不会影响运行。8 月 17 日起所有环境默认启用 builds，无需额外费用。",
+          "recommend_reason_zh": null,
+          "url": "https://cursor.com/blog/builds",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7285,
+      "importance": 0.7285,
+      "importance_score": 0.7285,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8995,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-13T12:00:00Z",
+      "latest_at": "2026-08-13T12:00:00Z",
+      "primary_item": {
+        "id": "b10bd989bb5e1f3b082880138208e5c1a8f3f067",
+        "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍 / Cloud agents start 3x faster with builds",
+        "title_zh": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
+        "title_en": "Cloud agents start 3x faster with builds",
+        "title_original": "Cloud agents start 3x faster with builds",
+        "summary": "Cursor 推出 builds 功能，在后台持续准备就绪的开发环境副本，让云智能体启动时无需从零搭建，响应速度最高提升 3 倍。内部环境启动快 10 倍，首个 token 生成快 3 倍；智能体始终从最近一次成功的 build 启动，依赖更新或安装脚本出错时不会影响运行。8 月 17 日起所有环境默认启用 builds，无需额外费用。",
+        "recommend_reason_zh": null,
+        "url": "https://cursor.com/blog/builds",
+        "source": "Cursor Blog",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T19:20:34.993393Z"
       }
     },
     {
@@ -1394,15 +1422,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8953,
+        "recency": 0.8799,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1427,7 +1455,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:10:20.096591Z"
+        "scored_at": "2026-08-13T19:20:34.993393Z"
       }
     },
     {
@@ -1475,15 +1503,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8953,
+        "recency": 0.8799,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1508,7 +1536,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:10:20.096591Z"
+        "scored_at": "2026-08-13T19:20:34.993393Z"
       }
     },
     {
@@ -1556,15 +1584,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
+      "score": 0.742,
+      "importance": 0.742,
+      "importance_score": 0.742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.873,
+        "recency": 0.858,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1589,7 +1617,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:10:20.096591Z"
+        "scored_at": "2026-08-13T19:20:34.993393Z"
       }
     },
     {
@@ -1695,15 +1723,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6542,
-      "importance": 0.6542,
-      "importance_score": 0.6542,
+      "score": 0.6518,
+      "importance": 0.6518,
+      "importance_score": 0.6518,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.7526,
+        "recency": 0.7396,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1729,7 +1757,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:10:20.096591Z"
+        "scored_at": "2026-08-13T19:20:34.993393Z"
       }
     }
   ]
