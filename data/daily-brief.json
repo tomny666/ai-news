@@ -1,121 +1,8 @@
 {
-  "generated_at": "2026-08-14T10:15:55.086629Z",
+  "generated_at": "2026-08-14T11:10:34.225731Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_3fd84efeedff",
-      "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "primary_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4f7dedbe4a69766d646c14d32955cbaf6870a15c",
-          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
-          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
-          "title_en": "The builder’s guide to GPT‑5.6",
-          "title_original": "The builder’s guide to GPT‑5.6",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T11:00:00Z"
-        },
-        {
-          "id": "864d3f33938ba9eb0280be7495fcd78fa2fd212b",
-          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder's guide to GPT-5.6",
-          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
-          "title_en": "The builder's guide to GPT-5.6",
-          "title_original": "The builder's guide to GPT-5.6",
-          "summary": "GPT-5.6 模型家族以更低成本实现前沿级智能体性能，并新增推理持久化、原生多智能体编排和程序化工具调用等 API 能力。在 ARC-AGI-3 上，启用保留推理和压缩后，Sol 得分从 13.3% 跃升至 38.3%，且输出 token 减少约 6 倍。Luna 在 BrowseComp 上以 84.04% 的得分追平 GPT-5.5（84.36%），成本从 $33.27 降至 $1.33。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T11:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "4f7dedbe4a69766d646c14d32955cbaf6870a15c",
-          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
-          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
-          "title_en": "The builder’s guide to GPT‑5.6",
-          "title_original": "The builder’s guide to GPT‑5.6",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T11:00:00Z"
-        },
-        {
-          "id": "864d3f33938ba9eb0280be7495fcd78fa2fd212b",
-          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder's guide to GPT-5.6",
-          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
-          "title_en": "The builder's guide to GPT-5.6",
-          "title_original": "The builder's guide to GPT-5.6",
-          "summary": "GPT-5.6 模型家族以更低成本实现前沿级智能体性能，并新增推理持久化、原生多智能体编排和程序化工具调用等 API 能力。在 ARC-AGI-3 上，启用保留推理和压缩后，Sol 得分从 13.3% 跃升至 38.3%，且输出 token 减少约 6 倍。Luna 在 BrowseComp 上以 84.04% 的得分追平 GPT-5.5（84.36%），成本从 $33.27 降至 $1.33。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T11:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7146,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T11:00:00Z",
-      "latest_at": "2026-08-13T11:00:00Z",
-      "primary_item": {
-        "id": "4f7dedbe4a69766d646c14d32955cbaf6870a15c",
-        "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
-        "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
-        "title_en": "The builder’s guide to GPT‑5.6",
-        "title_original": "The builder’s guide to GPT‑5.6",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T10:17:58.631945Z"
-      }
-    },
     {
       "story_id": "story_7243b3d66c55",
       "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
@@ -161,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7823,
+        "recency": 0.7721,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T10:17:58.631945Z"
+        "scored_at": "2026-08-14T11:11:15.591596Z"
       }
     },
     {
@@ -244,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
+      "score": 0.8126,
+      "importance": 0.8126,
+      "importance_score": 0.8126,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7464,
+        "recency": 0.7367,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T10:17:58.631945Z"
+        "scored_at": "2026-08-14T11:11:15.591596Z"
       }
     },
     {
@@ -327,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8124,
-      "importance": 0.8124,
-      "importance_score": 0.8124,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7801,
+        "recency": 0.7699,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T10:17:58.631945Z"
+        "scored_at": "2026-08-14T11:11:15.591596Z"
       }
     },
     {
@@ -410,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
+      "score": 0.8019,
+      "importance": 0.8019,
+      "importance_score": 0.8019,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7765,
+        "recency": 0.7664,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T10:17:58.631945Z"
+        "scored_at": "2026-08-14T11:11:15.591596Z"
       }
     },
     {
@@ -493,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
+      "score": 0.807,
+      "importance": 0.807,
+      "importance_score": 0.807,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8049,
+        "recency": 0.7944,
         "story_heat": 0.0
       },
       "category": "official",
@@ -528,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T10:17:58.631945Z"
+        "scored_at": "2026-08-14T11:11:15.591596Z"
       }
     },
     {
@@ -576,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9869,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -610,7 +497,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T10:17:58.631945Z"
+        "scored_at": "2026-08-14T11:11:15.591596Z"
       }
     },
     {
@@ -658,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7565,
+      "importance": 0.7565,
+      "importance_score": 0.7565,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9337,
+        "recency": 0.9215,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -692,7 +579,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T10:17:58.631945Z"
+        "scored_at": "2026-08-14T11:11:15.591596Z"
       }
     },
     {
@@ -740,15 +627,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8027,
+        "recency": 0.7922,
         "story_heat": 0.0
       },
       "category": "official",
@@ -775,7 +662,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T10:17:58.631945Z"
+        "scored_at": "2026-08-14T11:11:15.591596Z"
       }
     },
     {
@@ -852,15 +739,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8311,
+        "recency": 0.8202,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -886,7 +773,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T10:17:58.631945Z"
+        "scored_at": "2026-08-14T11:11:15.591596Z"
       }
     },
     {
@@ -934,15 +821,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7175,
+        "recency": 0.7082,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -967,7 +854,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T10:17:58.631945Z"
+        "scored_at": "2026-08-14T11:11:15.591596Z"
       }
     },
     {
@@ -1015,15 +902,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9869,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1049,7 +936,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T10:17:58.631945Z"
+        "scored_at": "2026-08-14T11:11:15.591596Z"
       }
     },
     {
@@ -1097,15 +984,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8618,
+        "recency": 0.8506,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1130,7 +1017,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T10:17:58.631945Z"
+        "scored_at": "2026-08-14T11:11:15.591596Z"
       }
     },
     {
@@ -1178,15 +1065,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9259,
+        "recency": 0.9138,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1211,88 +1098,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T10:17:58.631945Z"
-      }
-    },
-    {
-      "story_id": "story_9d903e6ade1a",
-      "title": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487525&idx=1&sn=b9def9117e34b45fce50ab76eeed726c",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487525&idx=1&sn=b9def9117e34b45fce50ab76eeed726c",
-      "source": "公众号：蚂蚁百灵（Ling）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "123e827449941c9038e9125e572debf591dab2d8",
-          "title": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
-          "title_zh": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
-          "title_en": null,
-          "title_original": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
-          "summary": "蚂蚁百灵与 ASystem 团队合作，用 Ling-3.0-tiny 和 AReno 在 DGX Spark 上跑通单机 Agentic RL 后训练闭环。以井字棋为最小验证任务，用 GSPO 算法训练 400 步后，rollout/rewards_mean 从约 -0.5 升至 0.4，response_len 降至约 850 tokens，工具调用与动作选择趋于稳定。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487525&idx=1&sn=b9def9117e34b45fce50ab76eeed726c",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T04:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：蚂蚁百灵（Ling）"
-      ],
-      "items": [
-        {
-          "id": "123e827449941c9038e9125e572debf591dab2d8",
-          "title": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
-          "title_zh": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
-          "title_en": null,
-          "title_original": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
-          "summary": "蚂蚁百灵与 ASystem 团队合作，用 Ling-3.0-tiny 和 AReno 在 DGX Spark 上跑通单机 Agentic RL 后训练闭环。以井字棋为最小验证任务，用 GSPO 算法训练 400 步后，rollout/rewards_mean 从约 -0.5 升至 0.4，response_len 降至约 850 tokens，工具调用与动作选择趋于稳定。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487525&idx=1&sn=b9def9117e34b45fce50ab76eeed726c",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T04:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.722,
-      "importance": 0.722,
-      "importance_score": 0.722,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9135,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T04:00:00Z",
-      "latest_at": "2026-08-14T04:00:00Z",
-      "primary_item": {
-        "id": "123e827449941c9038e9125e572debf591dab2d8",
-        "title": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
-        "title_zh": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
-        "title_en": null,
-        "title_original": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
-        "summary": "蚂蚁百灵与 ASystem 团队合作，用 Ling-3.0-tiny 和 AReno 在 DGX Spark 上跑通单机 Agentic RL 后训练闭环。以井字棋为最小验证任务，用 GSPO 算法训练 400 步后，rollout/rewards_mean 从约 -0.5 升至 0.4，response_len 降至约 850 tokens，工具调用与动作选择趋于稳定。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487525&idx=1&sn=b9def9117e34b45fce50ab76eeed726c",
-        "source": "公众号：蚂蚁百灵（Ling）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T10:17:58.631945Z"
+        "scored_at": "2026-08-14T11:11:15.591596Z"
       }
     },
     {
@@ -1340,15 +1146,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9765,
+        "recency": 0.9638,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1374,7 +1180,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T10:17:58.631945Z"
+        "scored_at": "2026-08-14T11:11:15.591596Z"
       }
     },
     {
@@ -1422,15 +1228,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9765,
+        "recency": 0.9638,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1456,7 +1262,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T10:17:58.631945Z"
+        "scored_at": "2026-08-14T11:11:15.591596Z"
       }
     },
     {
@@ -1504,15 +1310,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9765,
+        "recency": 0.9638,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1538,7 +1344,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T10:17:58.631945Z"
+        "scored_at": "2026-08-14T11:11:15.591596Z"
       }
     },
     {
@@ -1615,15 +1421,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6389,
-      "importance": 0.6389,
-      "importance_score": 0.6389,
+      "score": 0.637,
+      "importance": 0.637,
+      "importance_score": 0.637,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.8066,
+        "recency": 0.796,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1649,7 +1455,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T10:17:58.631945Z"
+        "scored_at": "2026-08-14T11:11:15.591596Z"
       }
     },
     {
@@ -1697,15 +1503,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9765,
+        "recency": 0.9638,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1731,7 +1537,199 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T10:17:58.631945Z"
+        "scored_at": "2026-08-14T11:11:15.591596Z"
+      }
+    },
+    {
+      "story_id": "story_df3cadd6dc23",
+      "title": "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型 / Apple trained its own AI model for China with help from Alibaba",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "b48a94fbbe103bab1b05ca13b32326d5e59b4e5a",
+          "title": "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型 / Apple trained its own AI model for China with help from Alibaba",
+          "title_zh": "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型",
+          "title_en": "Apple trained its own AI model for China with help from Alibaba",
+          "title_original": "Apple trained its own AI model for China with help from Alibaba",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-14T09:21:17Z"
+        },
+        {
+          "id": "4a92499d9a353c37f2b90952d4ffcb4fd710c8e7",
+          "title": "苹果在阿里巴巴的帮助下为中国市场训练了自己的人工智能模型 / Apple Trained Own AI model for China Market With Help From Alibaba",
+          "title_zh": "苹果在阿里巴巴的帮助下为中国市场训练了自己的人工智能模型",
+          "title_en": "Apple Trained Own AI model for China Market With Help From Alibaba",
+          "title_original": "Apple Trained Own AI model for China Market With Help From Alibaba",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china",
+          "source": "Mac Rumors",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-14T09:46:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Mac Rumors",
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "b48a94fbbe103bab1b05ca13b32326d5e59b4e5a",
+          "title": "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型 / Apple trained its own AI model for China with help from Alibaba",
+          "title_zh": "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型",
+          "title_en": "Apple trained its own AI model for China with help from Alibaba",
+          "title_original": "Apple trained its own AI model for China with help from Alibaba",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-14T09:21:17Z"
+        },
+        {
+          "id": "4a92499d9a353c37f2b90952d4ffcb4fd710c8e7",
+          "title": "苹果在阿里巴巴的帮助下为中国市场训练了自己的人工智能模型 / Apple Trained Own AI model for China Market With Help From Alibaba",
+          "title_zh": "苹果在阿里巴巴的帮助下为中国市场训练了自己的人工智能模型",
+          "title_en": "Apple Trained Own AI model for China Market With Help From Alibaba",
+          "title_original": "Apple Trained Own AI model for China Market With Help From Alibaba",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china",
+          "source": "Mac Rumors",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-14T09:46:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6108,
+      "importance": 0.6108,
+      "importance_score": 0.6108,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.974,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-14T09:21:17Z",
+      "latest_at": "2026-08-14T09:46:29Z",
+      "primary_item": {
+        "id": "b48a94fbbe103bab1b05ca13b32326d5e59b4e5a",
+        "title": "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型 / Apple trained its own AI model for China with help from Alibaba",
+        "title_zh": "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型",
+        "title_en": "Apple trained its own AI model for China with help from Alibaba",
+        "title_original": "Apple trained its own AI model for China with help from Alibaba",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-14T11:11:15.591596Z"
+      }
+    },
+    {
+      "story_id": "story_8d30d003a2da",
+      "title": "百万上下文解锁复杂办公!金山办公灵犀全量上线 DeepSeek-V4正式版双模型",
+      "url": "https://www.aibase.com/news/30355",
+      "primary_url": "https://www.aibase.com/news/30355",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "824a1fbb1544e879aebe6e9f9eb2b554b93b252c",
+          "title": "百万上下文解锁复杂办公!金山办公灵犀全量上线 DeepSeek-V4正式版双模型",
+          "title_zh": "百万上下文解锁复杂办公!金山办公灵犀全量上线 DeepSeek-V4正式版双模型",
+          "title_en": null,
+          "title_original": "百万上下文解锁复杂办公!金山办公灵犀全量上线 DeepSeek-V4正式版双模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30355",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T08:37:13.372207Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "824a1fbb1544e879aebe6e9f9eb2b554b93b252c",
+          "title": "百万上下文解锁复杂办公!金山办公灵犀全量上线 DeepSeek-V4正式版双模型",
+          "title_zh": "百万上下文解锁复杂办公!金山办公灵犀全量上线 DeepSeek-V4正式版双模型",
+          "title_en": null,
+          "title_original": "百万上下文解锁复杂办公!金山办公灵犀全量上线 DeepSeek-V4正式版双模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30355",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T08:37:13.372207Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9638,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T08:37:13.372207Z",
+      "latest_at": "2026-08-14T08:37:13.372207Z",
+      "primary_item": {
+        "id": "824a1fbb1544e879aebe6e9f9eb2b554b93b252c",
+        "title": "百万上下文解锁复杂办公!金山办公灵犀全量上线 DeepSeek-V4正式版双模型",
+        "title_zh": "百万上下文解锁复杂办公!金山办公灵犀全量上线 DeepSeek-V4正式版双模型",
+        "title_en": null,
+        "title_original": "百万上下文解锁复杂办公!金山办公灵犀全量上线 DeepSeek-V4正式版双模型",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30355",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-14T11:11:15.591596Z"
       }
     }
   ]
