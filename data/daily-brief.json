@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:35:55.315973Z",
+  "generated_at": "2026-08-15T01:49:45.042334Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.842,
-      "importance": 0.842,
-      "importance_score": 0.842,
+      "score": 0.8369,
+      "importance": 0.8369,
+      "importance_score": 0.8369,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8999,
+        "recency": 0.8714,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:36:34.615618Z"
+        "scored_at": "2026-08-15T01:50:23.012519Z"
       }
     },
     {
@@ -189,15 +189,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8344,
-      "importance": 0.8344,
-      "importance_score": 0.8344,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9409,
+        "recency": 0.9111,
         "story_heat": 0.5
       },
       "category": "official",
@@ -224,120 +224,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:36:34.615618Z"
-      }
-    },
-    {
-      "story_id": "story_0276dc6b6132",
-      "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models: Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "primary_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
-          "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models: Summer 2026 Observations",
-          "title_zh": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
-          "title_en": "State of Open Models: Summer 2026 Observations",
-          "title_original": "State of Open Models: Summer 2026 Observations",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T00:00:00Z"
-        },
-        {
-          "id": "030a229abe0fb0d1c5720cf82ffdce5bc90379c4",
-          "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models： Summer 2026 Observations",
-          "title_zh": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
-          "title_en": "State of Open Models： Summer 2026 Observations",
-          "title_original": "State of Open Models： Summer 2026 Observations",
-          "summary": "2026年1至8月，Hugging Face公开模型仓库从243万增至296万，但85.6%的模型下载量不足200次，1.5%的仓库占据99.2%下载量。中国实验室月度最大开源模型参数规模在754B至2.78万亿之间，美国实验室七个月中五个月低于130B。AMD与NVIDIA各发布超200个新模型仓库，成为发布开源模型最多的机构。",
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
-          "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models: Summer 2026 Observations",
-          "title_zh": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
-          "title_en": "State of Open Models: Summer 2026 Observations",
-          "title_original": "State of Open Models: Summer 2026 Observations",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T00:00:00Z"
-        },
-        {
-          "id": "030a229abe0fb0d1c5720cf82ffdce5bc90379c4",
-          "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models： Summer 2026 Observations",
-          "title_zh": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
-          "title_en": "State of Open Models： Summer 2026 Observations",
-          "title_original": "State of Open Models： Summer 2026 Observations",
-          "summary": "2026年1至8月，Hugging Face公开模型仓库从243万增至296万，但85.6%的模型下载量不足200次，1.5%的仓库占据99.2%下载量。中国实验室月度最大开源模型参数规模在754B至2.78万亿之间，美国实验室七个月中五个月低于130B。AMD与NVIDIA各发布超200个新模型仓库，成为发布开源模型最多的机构。",
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7112,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T00:00:00Z",
-      "latest_at": "2026-08-14T00:00:00Z",
-      "primary_item": {
-        "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
-        "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models: Summer 2026 Observations",
-        "title_zh": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
-        "title_en": "State of Open Models: Summer 2026 Observations",
-        "title_original": "State of Open Models: Summer 2026 Observations",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:36:34.615618Z"
+        "scored_at": "2026-08-15T01:50:23.012519Z"
       }
     },
     {
@@ -385,15 +272,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8253,
-      "importance": 0.8253,
-      "importance_score": 0.8253,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8961,
+        "recency": 0.8677,
         "story_heat": 0.0
       },
       "category": "official",
@@ -420,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:36:34.615618Z"
+        "scored_at": "2026-08-15T01:50:23.012519Z"
       }
     },
     {
@@ -468,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8418,
-      "importance": 0.8418,
-      "importance_score": 0.8418,
+      "score": 0.8361,
+      "importance": 0.8361,
+      "importance_score": 0.8361,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9875,
+        "recency": 0.9562,
         "story_heat": 0.0
       },
       "category": "official",
@@ -503,7 +390,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:36:34.615618Z"
+        "scored_at": "2026-08-15T01:50:23.012519Z"
       }
     },
     {
@@ -551,15 +438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8388,
+        "recency": 0.8122,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -585,89 +472,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:36:34.615618Z"
-      }
-    },
-    {
-      "story_id": "story_e5e76630b687",
-      "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
-      "primary_url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
-          "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "title_zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战",
-          "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T14:27:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
-          "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "title_zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战",
-          "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T14:27:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8763,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T14:27:14Z",
-      "latest_at": "2026-08-14T14:27:14Z",
-      "primary_item": {
-        "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
-        "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "title_zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战",
-        "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:36:34.615618Z"
+        "scored_at": "2026-08-15T01:50:23.012519Z"
       }
     },
     {
@@ -715,15 +520,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8588,
+        "recency": 0.8315,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -749,7 +554,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:36:34.615618Z"
+        "scored_at": "2026-08-15T01:50:23.012519Z"
+      }
+    },
+    {
+      "story_id": "story_e5e76630b687",
+      "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+      "primary_url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
+          "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "title_zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战",
+          "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T14:27:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
+          "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "title_zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战",
+          "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T14:27:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8485,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T14:27:14Z",
+      "latest_at": "2026-08-14T14:27:14Z",
+      "primary_item": {
+        "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
+        "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "title_zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战",
+        "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T01:50:23.012519Z"
       }
     },
     {
@@ -826,22 +713,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8458,
+        "recency": 0.819,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-14T12:00:00Z",
       "latest_at": "2026-08-14T17:11:35.671000Z",
@@ -861,7 +747,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:36:34.615618Z"
+        "scored_at": "2026-08-15T01:50:23.012519Z"
       }
     },
     {
@@ -909,15 +795,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.8019,
+      "importance": 0.8019,
+      "importance_score": 0.8019,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7456,
+        "recency": 0.7219,
         "story_heat": 0.0
       },
       "category": "official",
@@ -944,7 +830,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:36:34.615618Z"
+        "scored_at": "2026-08-15T01:50:23.012519Z"
       }
     },
     {
@@ -992,15 +878,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8838,
+        "recency": 0.8558,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1025,7 +911,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:36:34.615618Z"
+        "scored_at": "2026-08-15T01:50:23.012519Z"
       }
     },
     {
@@ -1073,15 +959,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8249,
+        "recency": 0.7987,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1106,7 +992,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:36:34.615618Z"
+        "scored_at": "2026-08-15T01:50:23.012519Z"
       }
     },
     {
@@ -1154,15 +1040,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.7306,
+      "importance": 0.7306,
+      "importance_score": 0.7306,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9238,
+        "recency": 0.8945,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1187,7 +1073,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:36:34.615618Z"
+        "scored_at": "2026-08-15T01:50:23.012519Z"
       }
     },
     {
@@ -1235,15 +1121,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7702,
+        "recency": 0.7458,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1268,7 +1154,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:36:34.615618Z"
+        "scored_at": "2026-08-15T01:50:23.012519Z"
       }
     },
     {
@@ -1316,15 +1202,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8249,
+        "recency": 0.7987,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1349,7 +1235,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:36:34.615618Z"
+        "scored_at": "2026-08-15T01:50:23.012519Z"
       }
     },
     {
@@ -1397,15 +1283,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8055,
+        "recency": 0.78,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1430,7 +1316,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:36:34.615618Z"
+        "scored_at": "2026-08-15T01:50:23.012519Z"
       }
     },
     {
@@ -1478,15 +1364,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8055,
+        "recency": 0.78,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1511,7 +1397,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:36:34.615618Z"
+        "scored_at": "2026-08-15T01:50:23.012519Z"
       }
     },
     {
@@ -1588,15 +1474,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6306,
-      "importance": 0.6306,
-      "importance_score": 0.6306,
+      "score": 0.6255,
+      "importance": 0.6255,
+      "importance_score": 0.6255,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.899,
+        "recency": 0.8705,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1621,7 +1507,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:36:34.615618Z"
+        "scored_at": "2026-08-15T01:50:23.012519Z"
       }
     },
     {
@@ -1669,15 +1555,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8055,
+        "recency": 0.78,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1702,7 +1588,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:36:34.615618Z"
+        "scored_at": "2026-08-15T01:50:23.012519Z"
       }
     },
     {
@@ -1778,15 +1664,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6108,
-      "importance": 0.6108,
-      "importance_score": 0.6108,
+      "score": 0.6056,
+      "importance": 0.6056,
+      "importance_score": 0.6056,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9046,
+        "recency": 0.876,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1811,7 +1697,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T23:36:34.615618Z"
+        "scored_at": "2026-08-15T01:50:23.012519Z"
+      }
+    },
+    {
+      "story_id": "story_71eae7f8ef8d",
+      "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+      "url": "https://www.aibase.com/news/30357",
+      "primary_url": "https://www.aibase.com/news/30357",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "62b23d859a312442d8d155de51afd3b7e70d5535",
+          "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+          "title_zh": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+          "title_en": null,
+          "title_original": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30357",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T08:37:13.372207Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "62b23d859a312442d8d155de51afd3b7e70d5535",
+          "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+          "title_zh": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+          "title_en": null,
+          "title_original": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30357",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T08:37:13.372207Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.78,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-14T08:37:13.372207Z",
+      "latest_at": "2026-08-14T08:37:13.372207Z",
+      "primary_item": {
+        "id": "62b23d859a312442d8d155de51afd3b7e70d5535",
+        "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+        "title_zh": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+        "title_en": null,
+        "title_original": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30357",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T01:50:23.012519Z"
       }
     }
   ]
