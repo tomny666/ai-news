@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T15:49:19.243398Z",
+  "generated_at": "2026-08-20T16:50:39.936925Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8425,
-      "importance": 0.8425,
-      "importance_score": 0.8425,
+      "score": 0.8399,
+      "importance": 0.8399,
+      "importance_score": 0.8399,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9917,
+        "recency": 0.9771,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T15:50:02.477995Z"
+        "scored_at": "2026-08-20T16:51:18.182707Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8232,
-      "importance": 0.8232,
-      "importance_score": 0.8232,
+      "score": 0.8211,
+      "importance": 0.8211,
+      "importance_score": 0.8211,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7957,
+        "recency": 0.7841,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,256 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T15:50:02.477995Z"
-      }
-    },
-    {
-      "story_id": "story_c5030fa07ae8",
-      "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-      "primary_url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "title_zh": "针对 GitHub 代码质量的单独 GitHub Actions 路径",
-          "title_en": "Separate GitHub Actions path for GitHub Code Quality",
-          "title_original": "Separate GitHub Actions path for GitHub Code Quality",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "title_zh": "针对 GitHub 代码质量的单独 GitHub Actions 路径",
-          "title_en": "Separate GitHub Actions path for GitHub Code Quality",
-          "title_original": "Separate GitHub Actions path for GitHub Code Quality",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8406,
-      "importance": 0.8406,
-      "importance_score": 0.8406,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.981,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T14:29:27Z",
-      "latest_at": "2026-08-20T14:29:27Z",
-      "primary_item": {
-        "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-        "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-        "title_zh": "针对 GitHub 代码质量的单独 GitHub Actions 路径",
-        "title_en": "Separate GitHub Actions path for GitHub Code Quality",
-        "title_original": "Separate GitHub Actions path for GitHub Code Quality",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T15:50:02.477995Z"
-      }
-    },
-    {
-      "story_id": "story_c773429fa020",
-      "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
-          "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
-          "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
-          "title_en": "GitHub Copilot app for Beginners: Managing your work",
-          "title_original": "GitHub Copilot app for Beginners: Managing your work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T17:50:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
-          "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
-          "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
-          "title_en": "GitHub Copilot app for Beginners: Managing your work",
-          "title_original": "GitHub Copilot app for Beginners: Managing your work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T17:50:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.803,
-      "importance": 0.803,
-      "importance_score": 0.803,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.728,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T17:50:23Z",
-      "latest_at": "2026-08-19T17:50:23Z",
-      "primary_item": {
-        "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
-        "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
-        "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
-        "title_en": "GitHub Copilot app for Beginners: Managing your work",
-        "title_original": "GitHub Copilot app for Beginners: Managing your work",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T15:50:02.477995Z"
-      }
-    },
-    {
-      "story_id": "story_65f7ae8f351a",
-      "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
-          "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
-          "title_zh": "通过搜索提升学习水平的 5 种新方法",
-          "title_en": "5 new ways to level up your learning with Search",
-          "title_original": "5 new ways to level up your learning with Search",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
-          "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
-          "title_zh": "通过搜索提升学习水平的 5 种新方法",
-          "title_en": "5 new ways to level up your learning with Search",
-          "title_original": "5 new ways to level up your learning with Search",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7973,
-      "importance": 0.7973,
-      "importance_score": 0.7973,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7403,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T19:00:00Z",
-      "latest_at": "2026-08-19T19:00:00Z",
-      "primary_item": {
-        "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
-        "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
-        "title_zh": "通过搜索提升学习水平的 5 种新方法",
-        "title_en": "5 new ways to level up your learning with Search",
-        "title_original": "5 new ways to level up your learning with Search",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T15:50:02.477995Z"
+        "scored_at": "2026-08-20T16:51:18.182707Z"
       }
     },
     {
@@ -463,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8405,
-      "importance": 0.8405,
-      "importance_score": 0.8405,
+      "score": 0.838,
+      "importance": 0.838,
+      "importance_score": 0.838,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9808,
+        "recency": 0.9664,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +249,338 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T15:50:02.477995Z"
+        "scored_at": "2026-08-20T16:51:18.182707Z"
+      }
+    },
+    {
+      "story_id": "story_c773429fa020",
+      "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+          "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+          "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
+          "title_en": "GitHub Copilot app for Beginners: Managing your work",
+          "title_original": "GitHub Copilot app for Beginners: Managing your work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T17:50:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+          "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+          "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
+          "title_en": "GitHub Copilot app for Beginners: Managing your work",
+          "title_original": "GitHub Copilot app for Beginners: Managing your work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T17:50:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7173,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T17:50:23Z",
+      "latest_at": "2026-08-19T17:50:23Z",
+      "primary_item": {
+        "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+        "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+        "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
+        "title_en": "GitHub Copilot app for Beginners: Managing your work",
+        "title_original": "GitHub Copilot app for Beginners: Managing your work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T16:51:18.182707Z"
+      }
+    },
+    {
+      "story_id": "story_a4fea9f5c87a",
+      "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率 / Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+      "url": "https://mistral.ai/news/agentic-search",
+      "primary_url": "https://mistral.ai/news/agentic-search",
+      "source": "Mistral AI：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "294b8bfa7f1dbcaf05bd40143d528810ca70d355",
+          "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率 / Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+          "title_zh": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
+          "title_en": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+          "title_original": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+          "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/agentic-search",
+          "source": "Mistral AI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T16:02:07.300000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Mistral AI：News（网页）"
+      ],
+      "items": [
+        {
+          "id": "294b8bfa7f1dbcaf05bd40143d528810ca70d355",
+          "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率 / Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+          "title_zh": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
+          "title_en": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+          "title_original": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+          "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/agentic-search",
+          "source": "Mistral AI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T16:02:07.300000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7989,
+      "importance": 0.7989,
+      "importance_score": 0.7989,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9884,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T16:02:07.300000Z",
+      "latest_at": "2026-08-20T16:02:07.300000Z",
+      "primary_item": {
+        "id": "294b8bfa7f1dbcaf05bd40143d528810ca70d355",
+        "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率 / Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+        "title_zh": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
+        "title_en": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+        "title_original": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+        "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
+        "recommend_reason_zh": null,
+        "url": "https://mistral.ai/news/agentic-search",
+        "source": "Mistral AI：News（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T16:51:18.182707Z"
+      }
+    },
+    {
+      "story_id": "story_65f7ae8f351a",
+      "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
+          "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
+          "title_zh": "通过搜索提升学习水平的 5 种新方法",
+          "title_en": "5 new ways to level up your learning with Search",
+          "title_original": "5 new ways to level up your learning with Search",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
+          "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
+          "title_zh": "通过搜索提升学习水平的 5 种新方法",
+          "title_en": "5 new ways to level up your learning with Search",
+          "title_original": "5 new ways to level up your learning with Search",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7953,
+      "importance": 0.7953,
+      "importance_score": 0.7953,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7295,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T19:00:00Z",
+      "latest_at": "2026-08-19T19:00:00Z",
+      "primary_item": {
+        "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
+        "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
+        "title_zh": "通过搜索提升学习水平的 5 种新方法",
+        "title_en": "5 new ways to level up your learning with Search",
+        "title_original": "5 new ways to level up your learning with Search",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T16:51:18.182707Z"
+      }
+    },
+    {
+      "story_id": "story_c5030fa07ae8",
+      "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+      "primary_url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+          "title_zh": "针对 GitHub 代码质量的单独 GitHub Actions 路径",
+          "title_en": "Separate GitHub Actions path for GitHub Code Quality",
+          "title_original": "Separate GitHub Actions path for GitHub Code Quality",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T14:29:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+          "title_zh": "针对 GitHub 代码质量的单独 GitHub Actions 路径",
+          "title_en": "Separate GitHub Actions path for GitHub Code Quality",
+          "title_original": "Separate GitHub Actions path for GitHub Code Quality",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T14:29:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.838,
+      "importance": 0.838,
+      "importance_score": 0.838,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9666,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T14:29:27Z",
+      "latest_at": "2026-08-20T14:29:27Z",
+      "primary_item": {
+        "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+        "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+        "title_zh": "针对 GitHub 代码质量的单独 GitHub Actions 路径",
+        "title_en": "Separate GitHub Actions path for GitHub Code Quality",
+        "title_original": "Separate GitHub Actions path for GitHub Code Quality",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T16:51:18.182707Z"
       }
     },
     {
@@ -546,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7403,
+        "recency": 0.7295,
         "story_heat": 0.0
       },
       "category": "official",
@@ -581,7 +663,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T15:50:02.477995Z"
+        "scored_at": "2026-08-20T16:51:18.182707Z"
       }
     },
     {
@@ -629,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.755,
-      "importance": 0.755,
-      "importance_score": 0.755,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9298,
+        "recency": 0.9162,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -663,7 +745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T15:50:02.477995Z"
+        "scored_at": "2026-08-20T16:51:18.182707Z"
       }
     },
     {
@@ -711,15 +793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9162,
+        "recency": 0.9028,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -745,7 +827,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T15:50:02.477995Z"
+        "scored_at": "2026-08-20T16:51:18.182707Z"
       }
     },
     {
@@ -822,22 +904,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7698,
+        "recency": 0.7585,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-19T21:42:09.969000Z",
       "latest_at": "2026-08-19T21:42:09.969000Z",
@@ -857,7 +938,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T15:50:02.477995Z"
+        "scored_at": "2026-08-20T16:51:18.182707Z"
       }
     },
     {
@@ -905,15 +986,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9663,
+        "recency": 0.9521,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -938,7 +1019,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T15:50:02.477995Z"
+        "scored_at": "2026-08-20T16:51:18.182707Z"
       }
     },
     {
@@ -986,15 +1067,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9172,
+        "recency": 0.9037,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1020,169 +1101,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T15:50:02.477995Z"
-      }
-    },
-    {
-      "story_id": "story_0a0c7233557b",
-      "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法 / Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
-      "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
-      "primary_url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "106a6a47dd09951e75c4fd850f355248b2d26a1e",
-          "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法 / Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
-          "title_zh": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
-          "title_en": "Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
-          "title_original": "Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
-          "summary": "LMSYS 团队针对 1.6 万亿参数的 MoE 模型 DeepSeek-V4-Pro，在 H20 GPU 上通过场景化服务配置逼近 B300 性能。单节点 H20-141GB 参考实现达 271 output tokens/s，与 B300 的 383.7 tokens/s 性能差距缩小至 1.42×。",
-          "recommend_reason_zh": null,
-          "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T17:56:13.817000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "106a6a47dd09951e75c4fd850f355248b2d26a1e",
-          "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法 / Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
-          "title_zh": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
-          "title_en": "Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
-          "title_original": "Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
-          "summary": "LMSYS 团队针对 1.6 万亿参数的 MoE 模型 DeepSeek-V4-Pro，在 H20 GPU 上通过场景化服务配置逼近 B300 性能。单节点 H20-141GB 参考实现达 271 output tokens/s，与 B300 的 383.7 tokens/s 性能差距缩小至 1.42×。",
-          "recommend_reason_zh": null,
-          "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T17:56:13.817000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.729,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T17:56:13.817000Z",
-      "latest_at": "2026-08-19T17:56:13.817000Z",
-      "primary_item": {
-        "id": "106a6a47dd09951e75c4fd850f355248b2d26a1e",
-        "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法 / Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
-        "title_zh": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
-        "title_en": "Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
-        "title_original": "Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
-        "summary": "LMSYS 团队针对 1.6 万亿参数的 MoE 模型 DeepSeek-V4-Pro，在 H20 GPU 上通过场景化服务配置逼近 B300 性能。单节点 H20-141GB 参考实现达 271 output tokens/s，与 B300 的 383.7 tokens/s 性能差距缩小至 1.42×。",
-        "recommend_reason_zh": null,
-        "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T15:50:02.477995Z"
-      }
-    },
-    {
-      "story_id": "story_cf8446af2124",
-      "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
-      "url": "https://x.com/haoailab/status/2090177721913770407",
-      "primary_url": "https://x.com/haoailab/status/2090177721913770407",
-      "source": "X：Sky Computing Lab (@haoailab)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
-          "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
-          "title_zh": "FastMetal 让 Mac 本地 30 秒生成视频",
-          "title_en": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
-          "title_original": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
-          "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。\n\n📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/haoailab/status/2090177721913770407",
-          "source": "X：Sky Computing Lab (@haoailab)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T20:42:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sky Computing Lab (@haoailab)"
-      ],
-      "items": [
-        {
-          "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
-          "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
-          "title_zh": "FastMetal 让 Mac 本地 30 秒生成视频",
-          "title_en": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
-          "title_original": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
-          "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。\n\n📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/haoailab/status/2090177721913770407",
-          "source": "X：Sky Computing Lab (@haoailab)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T20:42:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7589,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T20:42:57Z",
-      "latest_at": "2026-08-19T20:42:57Z",
-      "primary_item": {
-        "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
-        "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
-        "title_zh": "FastMetal 让 Mac 本地 30 秒生成视频",
-        "title_en": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
-        "title_original": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
-        "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。\n\n📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/haoailab/status/2090177721913770407",
-        "source": "X：Sky Computing Lab (@haoailab)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T15:50:02.477995Z"
+        "scored_at": "2026-08-20T16:51:18.182707Z"
       }
     },
     {
@@ -1230,15 +1149,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
+      "score": 0.7995,
+      "importance": 0.7995,
+      "importance_score": 0.7995,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7638,
+        "recency": 0.7526,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1265,7 +1184,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T15:50:02.477995Z"
+        "scored_at": "2026-08-20T16:51:18.182707Z"
       }
     },
     {
@@ -1313,15 +1232,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
+      "score": 0.7263,
+      "importance": 0.7263,
+      "importance_score": 0.7263,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7991,
+        "recency": 0.7874,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1346,7 +1265,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T15:50:02.477995Z"
+        "scored_at": "2026-08-20T16:51:18.182707Z"
       }
     },
     {
@@ -1394,21 +1313,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9054,
+        "recency": 0.8922,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-20T08:56:32.404521Z",
       "latest_at": "2026-08-20T08:56:32.404521Z",
@@ -1428,7 +1346,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T15:50:02.477995Z"
+        "scored_at": "2026-08-20T16:51:18.182707Z"
       }
     },
     {
@@ -1476,21 +1394,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9054,
+        "recency": 0.8922,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-20T08:56:32.404521Z",
       "latest_at": "2026-08-20T08:56:32.404521Z",
@@ -1510,7 +1427,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T15:50:02.477995Z"
+        "scored_at": "2026-08-20T16:51:18.182707Z"
       }
     },
     {
@@ -1558,15 +1475,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8924,
+        "recency": 0.8793,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1591,7 +1508,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T15:50:02.477995Z"
+        "scored_at": "2026-08-20T16:51:18.182707Z"
       }
     },
     {
@@ -1639,15 +1556,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8816,
+        "recency": 0.8687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1672,7 +1589,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T15:50:02.477995Z"
+        "scored_at": "2026-08-20T16:51:18.182707Z"
+      }
+    },
+    {
+      "story_id": "story_5971ac49eb16",
+      "title": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
+      "url": "https://www.aibase.com/news/30502",
+      "primary_url": "https://www.aibase.com/news/30502",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a86d8f59dfae0cfc653f2b417bc9ff9a4b30e29c",
+          "title": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
+          "title_zh": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
+          "title_en": null,
+          "title_original": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30502",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T07:05:48.394879Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a86d8f59dfae0cfc653f2b417bc9ff9a4b30e29c",
+          "title": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
+          "title_zh": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
+          "title_en": null,
+          "title_original": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30502",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T07:05:48.394879Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8687,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-20T07:05:48.394879Z",
+      "latest_at": "2026-08-20T07:05:48.394879Z",
+      "primary_item": {
+        "id": "a86d8f59dfae0cfc653f2b417bc9ff9a4b30e29c",
+        "title": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
+        "title_zh": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
+        "title_en": null,
+        "title_original": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30502",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T16:51:18.182707Z"
       }
     }
   ]
