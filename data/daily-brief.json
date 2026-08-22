@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-22T18:48:32.157959Z",
+  "generated_at": "2026-08-22T19:34:52.849431Z",
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 8,
   "items": [
     {
       "story_id": "story_06a27d0d7448",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.936,
+        "recency": 0.9256,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -82,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:49:28.163970Z"
+        "scored_at": "2026-08-22T19:44:39.658830Z"
       }
     },
     {
@@ -188,15 +188,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5666,
-      "importance": 0.5666,
-      "importance_score": 0.5666,
+      "score": 0.5646,
+      "importance": 0.5646,
+      "importance_score": 0.5646,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9764,
+        "recency": 0.9656,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -221,7 +221,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:49:28.163970Z"
+        "scored_at": "2026-08-22T19:44:39.658830Z"
       }
     },
     {
@@ -327,15 +327,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5616,
-      "importance": 0.5616,
-      "importance_score": 0.5616,
+      "score": 0.5597,
+      "importance": 0.5597,
+      "importance_score": 0.5597,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9489,
+        "recency": 0.9384,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -360,7 +360,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:49:28.163970Z"
+        "scored_at": "2026-08-22T19:44:39.658830Z"
+      }
+    },
+    {
+      "story_id": "story_1b8b8b782f3a",
+      "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+      "url": "https://news.ycombinator.com/item?id=49399642",
+      "primary_url": "https://news.ycombinator.com/item?id=49399642",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
+          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_zh": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录",
+          "title_en": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_original": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49399642",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T19:05:40.131000Z"
+        },
+        {
+          "id": "ef1ac03c09bb8eff067942d548cd947f445b2980",
+          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_zh": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录",
+          "title_en": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_original": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T13:39:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
+          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_zh": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录",
+          "title_en": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_original": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49399642",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T19:05:40.131000Z"
+        },
+        {
+          "id": "ef1ac03c09bb8eff067942d548cd947f445b2980",
+          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_zh": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录",
+          "title_en": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_original": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T13:39:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.993,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T13:39:07Z",
+      "latest_at": "2026-08-22T19:05:40.131000Z",
+      "primary_item": {
+        "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
+        "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+        "title_zh": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录",
+        "title_en": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+        "title_original": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49399642",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-22T19:44:39.658830Z"
       }
     },
     {
@@ -436,15 +546,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5433,
+      "importance": 0.5433,
+      "importance_score": 0.5433,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9969,
+        "recency": 0.9858,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -469,7 +579,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:49:28.163970Z"
+        "scored_at": "2026-08-22T19:44:39.658830Z"
       }
     },
     {
@@ -495,7 +605,7 @@
           "published_at": "2026-08-22T17:11:08.754000Z"
         },
         {
-          "id": "00cfeb92a44fb91620deb3d7f679e17afae6e96f",
+          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
           "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
           "title_zh": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素",
           "title_en": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
@@ -503,15 +613,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-22T16:23:09Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -530,7 +640,7 @@
           "published_at": "2026-08-22T17:11:08.754000Z"
         },
         {
-          "id": "00cfeb92a44fb91620deb3d7f679e17afae6e96f",
+          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
           "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
           "title_zh": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素",
           "title_en": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
@@ -538,23 +648,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-22T16:23:09Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5416,
-      "importance": 0.5416,
-      "importance_score": 0.5416,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9768,
+        "recency": 0.966,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -579,7 +689,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:49:28.163970Z"
+        "scored_at": "2026-08-22T19:44:39.658830Z"
       }
     },
     {
@@ -656,15 +766,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.517,
-      "importance": 0.517,
-      "importance_score": 0.517,
+      "score": 0.5153,
+      "importance": 0.5153,
+      "importance_score": 0.5153,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.84,
+        "recency": 0.8307,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -689,7 +799,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:49:28.163970Z"
+        "scored_at": "2026-08-22T19:44:39.658830Z"
       }
     },
     {
@@ -766,15 +876,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4966,
-      "importance": 0.4966,
-      "importance_score": 0.4966,
+      "score": 0.4951,
+      "importance": 0.4951,
+      "importance_score": 0.4951,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7266,
+        "recency": 0.7185,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -799,7 +909,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:49:28.163970Z"
+        "scored_at": "2026-08-22T19:44:39.658830Z"
       }
     }
   ]
