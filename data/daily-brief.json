@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T07:58:16.051192Z",
+  "generated_at": "2026-08-25T09:00:16.774651Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8404,
-      "importance": 0.8404,
-      "importance_score": 0.8404,
+      "score": 0.8381,
+      "importance": 0.8381,
+      "importance_score": 0.8381,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8913,
+        "recency": 0.8781,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T08:37:20.590388Z"
+        "scored_at": "2026-08-25T09:38:14.782785Z"
+      }
+    },
+    {
+      "story_id": "story_4c08adc024bd",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
+          "title": "Disrupting a new covert influence campaign from Russia",
+          "title_zh": null,
+          "title_en": "Disrupting a new covert influence campaign from Russia",
+          "title_original": "Disrupting a new covert influence campaign from Russia",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
+          "title": "Disrupting a new covert influence campaign from Russia",
+          "title_zh": null,
+          "title_en": "Disrupting a new covert influence campaign from Russia",
+          "title_original": "Disrupting a new covert influence campaign from Russia",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8301,
+      "importance": 0.8301,
+      "importance_score": 0.8301,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8781,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T00:00:00Z",
+      "latest_at": "2026-08-25T00:00:00Z",
+      "primary_item": {
+        "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
+        "title": "Disrupting a new covert influence campaign from Russia",
+        "title_zh": null,
+        "title_en": "Disrupting a new covert influence campaign from Russia",
+        "title_original": "Disrupting a new covert influence campaign from Russia",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T09:38:14.782785Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
+      "score": 0.8189,
+      "importance": 0.8189,
+      "importance_score": 0.8189,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7495,
+        "recency": 0.7384,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,30 +249,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T08:37:20.590388Z"
+        "scored_at": "2026-08-25T09:38:14.782785Z"
       }
     },
     {
-      "story_id": "story_79b9ec90a382",
-      "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
-      "url": "https://www.aibase.com/news/30604",
-      "primary_url": "https://www.aibase.com/news/30604",
+      "story_id": "story_60dddcf38635",
+      "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
+      "url": "https://www.aibase.com/news/30607",
+      "primary_url": "https://www.aibase.com/news/30607",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "32bf9da3f8cd8b23a50f42dddb4d2c71448b97e0",
-          "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
-          "title_zh": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+          "id": "31953c88ca0e894418212e00d317e45880d995a7",
+          "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
+          "title_zh": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
           "title_en": null,
-          "title_original": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+          "title_original": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30604",
+          "url": "https://www.aibase.com/news/30607",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T07:58:16.051192Z"
+          "published_at": "2026-08-25T09:00:16.774651Z"
         }
       ],
       "source_count": 1,
@@ -198,18 +281,18 @@
       ],
       "items": [
         {
-          "id": "32bf9da3f8cd8b23a50f42dddb4d2c71448b97e0",
-          "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
-          "title_zh": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+          "id": "31953c88ca0e894418212e00d317e45880d995a7",
+          "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
+          "title_zh": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
           "title_en": null,
-          "title_original": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+          "title_original": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30604",
+          "url": "https://www.aibase.com/news/30607",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T07:58:16.051192Z"
+          "published_at": "2026-08-25T09:00:16.774651Z"
         }
       ],
       "item_count": 1,
@@ -230,17 +313,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T07:58:16.051192Z",
-      "latest_at": "2026-08-25T07:58:16.051192Z",
+      "earliest_at": "2026-08-25T09:00:16.774651Z",
+      "latest_at": "2026-08-25T09:00:16.774651Z",
       "primary_item": {
-        "id": "32bf9da3f8cd8b23a50f42dddb4d2c71448b97e0",
-        "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
-        "title_zh": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+        "id": "31953c88ca0e894418212e00d317e45880d995a7",
+        "title": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
+        "title_zh": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
         "title_en": null,
-        "title_original": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+        "title_original": "Meta数周内推出Hatch AI智能体，Watermelon模型10月亮相",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30604",
+        "url": "https://www.aibase.com/news/30607",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -248,7 +331,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T08:37:20.590388Z"
+        "scored_at": "2026-08-25T09:38:14.782785Z"
       }
     },
     {
@@ -325,15 +408,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
+      "score": 0.7454,
+      "importance": 0.7454,
+      "importance_score": 0.7454,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7826,
+        "recency": 0.7711,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -359,7 +442,335 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T08:37:20.590388Z"
+        "scored_at": "2026-08-25T09:38:14.782785Z"
+      }
+    },
+    {
+      "story_id": "story_01e284861740",
+      "title": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+      "url": "https://www.aibase.com/news/30608",
+      "primary_url": "https://www.aibase.com/news/30608",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7fe31aaa6af2cbc02a828bf1cd9824f319ca2186",
+          "title": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+          "title_zh": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+          "title_en": null,
+          "title_original": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30608",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T09:00:16.774651Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7fe31aaa6af2cbc02a828bf1cd9824f319ca2186",
+          "title": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+          "title_zh": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+          "title_en": null,
+          "title_original": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30608",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T09:00:16.774651Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T09:00:16.774651Z",
+      "latest_at": "2026-08-25T09:00:16.774651Z",
+      "primary_item": {
+        "id": "7fe31aaa6af2cbc02a828bf1cd9824f319ca2186",
+        "title": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+        "title_zh": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+        "title_en": null,
+        "title_original": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30608",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T09:38:14.782785Z"
+      }
+    },
+    {
+      "story_id": "story_c4b1ff481103",
+      "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+      "url": "https://www.aibase.com/news/30605",
+      "primary_url": "https://www.aibase.com/news/30605",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7e064355c7f51393c64feb9d3aec4d3c0e0783cb",
+          "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+          "title_zh": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+          "title_en": null,
+          "title_original": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30605",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T09:00:16.774651Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7e064355c7f51393c64feb9d3aec4d3c0e0783cb",
+          "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+          "title_zh": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+          "title_en": null,
+          "title_original": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30605",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T09:00:16.774651Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T09:00:16.774651Z",
+      "latest_at": "2026-08-25T09:00:16.774651Z",
+      "primary_item": {
+        "id": "7e064355c7f51393c64feb9d3aec4d3c0e0783cb",
+        "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+        "title_zh": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+        "title_en": null,
+        "title_original": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30605",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T09:38:14.782785Z"
+      }
+    },
+    {
+      "story_id": "story_82cd7b823da3",
+      "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+      "url": "https://www.aibase.com/news/30609",
+      "primary_url": "https://www.aibase.com/news/30609",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
+          "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "title_en": null,
+          "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30609",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T09:00:16.774651Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
+          "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "title_en": null,
+          "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30609",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T09:00:16.774651Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T09:00:16.774651Z",
+      "latest_at": "2026-08-25T09:00:16.774651Z",
+      "primary_item": {
+        "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
+        "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+        "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+        "title_en": null,
+        "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30609",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T09:38:14.782785Z"
+      }
+    },
+    {
+      "story_id": "story_79b9ec90a382",
+      "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+      "url": "https://www.aibase.com/news/30604",
+      "primary_url": "https://www.aibase.com/news/30604",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "32bf9da3f8cd8b23a50f42dddb4d2c71448b97e0",
+          "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+          "title_zh": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+          "title_en": null,
+          "title_original": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30604",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T07:58:16.051192Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "32bf9da3f8cd8b23a50f42dddb4d2c71448b97e0",
+          "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+          "title_zh": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+          "title_en": null,
+          "title_original": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30604",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T07:58:16.051192Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9852,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T07:58:16.051192Z",
+      "latest_at": "2026-08-25T07:58:16.051192Z",
+      "primary_item": {
+        "id": "32bf9da3f8cd8b23a50f42dddb4d2c71448b97e0",
+        "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+        "title_zh": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+        "title_en": null,
+        "title_original": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30604",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T09:38:14.782785Z"
       }
     },
     {
@@ -407,15 +818,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9852,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -441,7 +852,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T08:37:20.590388Z"
+        "scored_at": "2026-08-25T09:38:14.782785Z"
       }
     },
     {
@@ -489,15 +900,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9881,
+        "recency": 0.9734,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -523,7 +934,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T08:37:20.590388Z"
+        "scored_at": "2026-08-25T09:38:14.782785Z"
+      }
+    },
+    {
+      "story_id": "story_a382eafa5b52",
+      "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "primary_url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "source": "boydkane.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "97417977768554cb444b51c984aefaf71a02a8b5",
+          "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
+          "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
+          "title_en": null,
+          "title_original": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+          "source": "boydkane.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-25T03:02:56.442000Z"
+        },
+        {
+          "id": "ed23432d04a4d512c316552b37f2b39adab7cebd",
+          "title": "LLMs could control their host machines by exploiting inference engines",
+          "title_zh": null,
+          "title_en": "LLMs could control their host machines by exploiting inference engines",
+          "title_original": "LLMs could control their host machines by exploiting inference engines",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49424387",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T19:45:15.468000Z"
+        },
+        {
+          "id": "31a32bf26e7b09bdb44e1aa8b21319ee13334835",
+          "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器 / LLMs could control their host machines by exploiting inference engines",
+          "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
+          "title_en": "LLMs could control their host machines by exploiting inference engines",
+          "title_original": "LLMs could control their host machines by exploiting inference engines",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-24T19:03:06Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "boydkane.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "97417977768554cb444b51c984aefaf71a02a8b5",
+          "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
+          "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
+          "title_en": null,
+          "title_original": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+          "source": "boydkane.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-25T03:02:56.442000Z"
+        },
+        {
+          "id": "ed23432d04a4d512c316552b37f2b39adab7cebd",
+          "title": "LLMs could control their host machines by exploiting inference engines",
+          "title_zh": null,
+          "title_en": "LLMs could control their host machines by exploiting inference engines",
+          "title_original": "LLMs could control their host machines by exploiting inference engines",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49424387",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T19:45:15.468000Z"
+        },
+        {
+          "id": "31a32bf26e7b09bdb44e1aa8b21319ee13334835",
+          "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器 / LLMs could control their host machines by exploiting inference engines",
+          "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
+          "title_en": "LLMs could control their host machines by exploiting inference engines",
+          "title_original": "LLMs could control their host machines by exploiting inference engines",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-24T19:03:06Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.556,
+      "importance": 0.556,
+      "importance_score": 0.556,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9176,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-24T19:03:06Z",
+      "latest_at": "2026-08-25T03:02:56.442000Z",
+      "primary_item": {
+        "id": "97417977768554cb444b51c984aefaf71a02a8b5",
+        "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
+        "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
+        "title_en": null,
+        "title_original": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+        "source": "boydkane.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T09:38:14.782785Z"
       }
     },
     {
@@ -571,15 +1121,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9881,
+        "recency": 0.9734,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -605,474 +1155,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T08:37:20.590388Z"
-      }
-    },
-    {
-      "story_id": "story_82df8058db94",
-      "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-      "url": "https://www.aibase.com/news/30601",
-      "primary_url": "https://www.aibase.com/news/30601",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "92584b14cfa1c680be38bafd3089ec02d50332e1",
-          "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-          "title_zh": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-          "title_en": null,
-          "title_original": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30601",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T07:08:22.792996Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "92584b14cfa1c680be38bafd3089ec02d50332e1",
-          "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-          "title_zh": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-          "title_en": null,
-          "title_original": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30601",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T07:08:22.792996Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9881,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T07:08:22.792996Z",
-      "latest_at": "2026-08-25T07:08:22.792996Z",
-      "primary_item": {
-        "id": "92584b14cfa1c680be38bafd3089ec02d50332e1",
-        "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-        "title_zh": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-        "title_en": null,
-        "title_original": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30601",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T08:37:20.590388Z"
-      }
-    },
-    {
-      "story_id": "story_7c313959a64a",
-      "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-      "url": "https://www.aibase.com/news/30599",
-      "primary_url": "https://www.aibase.com/news/30599",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0695d549407753ec262acd842c71e7c96ca5a5a8",
-          "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "title_zh": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "title_en": null,
-          "title_original": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30599",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T07:08:22.792996Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0695d549407753ec262acd842c71e7c96ca5a5a8",
-          "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "title_zh": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "title_en": null,
-          "title_original": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30599",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T07:08:22.792996Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9881,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T07:08:22.792996Z",
-      "latest_at": "2026-08-25T07:08:22.792996Z",
-      "primary_item": {
-        "id": "0695d549407753ec262acd842c71e7c96ca5a5a8",
-        "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-        "title_zh": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-        "title_en": null,
-        "title_original": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30599",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T08:37:20.590388Z"
-      }
-    },
-    {
-      "story_id": "story_a6532975a7e9",
-      "title": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
-      "url": "https://www.aibase.com/news/30598",
-      "primary_url": "https://www.aibase.com/news/30598",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7f15c29642e53d43e696dc4c0265df4ddd168d24",
-          "title": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
-          "title_zh": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
-          "title_en": null,
-          "title_original": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30598",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T04:00:04.068513Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7f15c29642e53d43e696dc4c0265df4ddd168d24",
-          "title": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
-          "title_zh": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
-          "title_en": null,
-          "title_original": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30598",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T04:00:04.068513Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7576,
-      "importance": 0.7576,
-      "importance_score": 0.7576,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9443,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T04:00:04.068513Z",
-      "latest_at": "2026-08-25T04:00:04.068513Z",
-      "primary_item": {
-        "id": "7f15c29642e53d43e696dc4c0265df4ddd168d24",
-        "title": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
-        "title_zh": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
-        "title_en": null,
-        "title_original": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30598",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T08:37:20.590388Z"
-      }
-    },
-    {
-      "story_id": "story_a382eafa5b52",
-      "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "primary_url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "source": "boydkane.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "97417977768554cb444b51c984aefaf71a02a8b5",
-          "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_en": null,
-          "title_original": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "source": "boydkane.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T03:02:56.442000Z"
-        },
-        {
-          "id": "ed23432d04a4d512c316552b37f2b39adab7cebd",
-          "title": "LLMs could control their host machines by exploiting inference engines",
-          "title_zh": null,
-          "title_en": "LLMs could control their host machines by exploiting inference engines",
-          "title_original": "LLMs could control their host machines by exploiting inference engines",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49424387",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T19:45:15.468000Z"
-        },
-        {
-          "id": "d4b974bd04b63079ff7871491196e7b4cc22b54a",
-          "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器 / LLMs could control their host machines by exploiting inference engines",
-          "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_en": "LLMs could control their host machines by exploiting inference engines",
-          "title_original": "LLMs could control their host machines by exploiting inference engines",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T19:03:06Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "boydkane.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "97417977768554cb444b51c984aefaf71a02a8b5",
-          "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_en": null,
-          "title_original": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "source": "boydkane.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T03:02:56.442000Z"
-        },
-        {
-          "id": "ed23432d04a4d512c316552b37f2b39adab7cebd",
-          "title": "LLMs could control their host machines by exploiting inference engines",
-          "title_zh": null,
-          "title_en": "LLMs could control their host machines by exploiting inference engines",
-          "title_original": "LLMs could control their host machines by exploiting inference engines",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49424387",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T19:45:15.468000Z"
-        },
-        {
-          "id": "d4b974bd04b63079ff7871491196e7b4cc22b54a",
-          "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器 / LLMs could control their host machines by exploiting inference engines",
-          "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_en": "LLMs could control their host machines by exploiting inference engines",
-          "title_original": "LLMs could control their host machines by exploiting inference engines",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T19:03:06Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5585,
-      "importance": 0.5585,
-      "importance_score": 0.5585,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9314,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-24T19:03:06Z",
-      "latest_at": "2026-08-25T03:02:56.442000Z",
-      "primary_item": {
-        "id": "97417977768554cb444b51c984aefaf71a02a8b5",
-        "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-        "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-        "title_en": null,
-        "title_original": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-        "source": "boydkane.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T08:37:20.590388Z"
-      }
-    },
-    {
-      "story_id": "story_4954fa834dbf",
-      "title": "高盛合伙人警钟：华尔街把推理外包给 AI，或养出\"不会思考\"的一代",
-      "url": "https://www.aibase.com/news/30597",
-      "primary_url": "https://www.aibase.com/news/30597",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "50a4ff8105790e75b549e493d81e6d4f0042a365",
-          "title": "高盛合伙人警钟：华尔街把推理外包给 AI，或养出\"不会思考\"的一代",
-          "title_zh": "高盛合伙人警钟：华尔街把推理外包给 AI，或养出\"不会思考\"的一代",
-          "title_en": null,
-          "title_original": "高盛合伙人警钟：华尔街把推理外包给 AI，或养出\"不会思考\"的一代",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30597",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T04:00:04.068513Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "50a4ff8105790e75b549e493d81e6d4f0042a365",
-          "title": "高盛合伙人警钟：华尔街把推理外包给 AI，或养出\"不会思考\"的一代",
-          "title_zh": "高盛合伙人警钟：华尔街把推理外包给 AI，或养出\"不会思考\"的一代",
-          "title_en": null,
-          "title_original": "高盛合伙人警钟：华尔街把推理外包给 AI，或养出\"不会思考\"的一代",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30597",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T04:00:04.068513Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7576,
-      "importance": 0.7576,
-      "importance_score": 0.7576,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9443,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T04:00:04.068513Z",
-      "latest_at": "2026-08-25T04:00:04.068513Z",
-      "primary_item": {
-        "id": "50a4ff8105790e75b549e493d81e6d4f0042a365",
-        "title": "高盛合伙人警钟：华尔街把推理外包给 AI，或养出\"不会思考\"的一代",
-        "title_zh": "高盛合伙人警钟：华尔街把推理外包给 AI，或养出\"不会思考\"的一代",
-        "title_en": null,
-        "title_original": "高盛合伙人警钟：华尔街把推理外包给 AI，或养出\"不会思考\"的一代",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30597",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T08:37:20.590388Z"
+        "scored_at": "2026-08-25T09:38:14.782785Z"
       }
     },
     {
@@ -1178,15 +1261,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5395,
-      "importance": 0.5395,
-      "importance_score": 0.5395,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8263,
+        "recency": 0.8141,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1211,7 +1294,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T08:37:20.590388Z"
+        "scored_at": "2026-08-25T09:38:14.782785Z"
       }
     },
     {
@@ -1317,15 +1400,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5395,
-      "importance": 0.5395,
-      "importance_score": 0.5395,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8263,
+        "recency": 0.8141,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1350,7 +1433,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T08:37:20.590388Z"
+        "scored_at": "2026-08-25T09:38:14.782785Z"
       }
     },
     {
@@ -1456,15 +1539,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5393,
-      "importance": 0.5393,
-      "importance_score": 0.5393,
+      "score": 0.5371,
+      "importance": 0.5371,
+      "importance_score": 0.5371,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8248,
+        "recency": 0.8126,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1489,30 +1572,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T08:37:20.590388Z"
+        "scored_at": "2026-08-25T09:38:14.782785Z"
       }
     },
     {
-      "story_id": "story_ccaf8ce752f5",
-      "title": "七成英语生物医学论文已用 AI 代笔：学术界呼吁建监管而非封杀",
-      "url": "https://www.aibase.com/news/30594",
-      "primary_url": "https://www.aibase.com/news/30594",
+      "story_id": "story_82df8058db94",
+      "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
+      "url": "https://www.aibase.com/news/30601",
+      "primary_url": "https://www.aibase.com/news/30601",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "58e1e61198301ce8e0159d00322c8b5b47900fda",
-          "title": "七成英语生物医学论文已用 AI 代笔：学术界呼吁建监管而非封杀",
-          "title_zh": "七成英语生物医学论文已用 AI 代笔：学术界呼吁建监管而非封杀",
+          "id": "92584b14cfa1c680be38bafd3089ec02d50332e1",
+          "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
+          "title_zh": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
           "title_en": null,
-          "title_original": "七成英语生物医学论文已用 AI 代笔：学术界呼吁建监管而非封杀",
+          "title_original": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30594",
+          "url": "https://www.aibase.com/news/30601",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T03:12:59.148222Z"
+          "published_at": "2026-08-25T07:08:22.792996Z"
         }
       ],
       "source_count": 1,
@@ -1521,31 +1604,31 @@
       ],
       "items": [
         {
-          "id": "58e1e61198301ce8e0159d00322c8b5b47900fda",
-          "title": "七成英语生物医学论文已用 AI 代笔：学术界呼吁建监管而非封杀",
-          "title_zh": "七成英语生物医学论文已用 AI 代笔：学术界呼吁建监管而非封杀",
+          "id": "92584b14cfa1c680be38bafd3089ec02d50332e1",
+          "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
+          "title_zh": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
           "title_en": null,
-          "title_original": "七成英语生物医学论文已用 AI 代笔：学术界呼吁建监管而非封杀",
+          "title_original": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30594",
+          "url": "https://www.aibase.com/news/30601",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T03:12:59.148222Z"
+          "published_at": "2026-08-25T07:08:22.792996Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7557,
-      "importance": 0.7557,
-      "importance_score": 0.7557,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9336,
+        "recency": 0.9734,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1553,17 +1636,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T03:12:59.148222Z",
-      "latest_at": "2026-08-25T03:12:59.148222Z",
+      "earliest_at": "2026-08-25T07:08:22.792996Z",
+      "latest_at": "2026-08-25T07:08:22.792996Z",
       "primary_item": {
-        "id": "58e1e61198301ce8e0159d00322c8b5b47900fda",
-        "title": "七成英语生物医学论文已用 AI 代笔：学术界呼吁建监管而非封杀",
-        "title_zh": "七成英语生物医学论文已用 AI 代笔：学术界呼吁建监管而非封杀",
+        "id": "92584b14cfa1c680be38bafd3089ec02d50332e1",
+        "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
+        "title_zh": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
         "title_en": null,
-        "title_original": "七成英语生物医学论文已用 AI 代笔：学术界呼吁建监管而非封杀",
+        "title_original": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30594",
+        "url": "https://www.aibase.com/news/30601",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1571,7 +1654,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T08:37:20.590388Z"
+        "scored_at": "2026-08-25T09:38:14.782785Z"
       }
     },
     {
@@ -1597,7 +1680,7 @@
           "published_at": "2026-08-24T16:30:16Z"
         },
         {
-          "id": "d22b1ae33d04ccad6b8effe833619d4121694962",
+          "id": "804f29258a9b4a5855bc5293740535c38f248d34",
           "title": "Ox-Alpha Is GLM?",
           "title_zh": null,
           "title_en": "Ox-Alpha Is GLM?",
@@ -1605,15 +1688,14 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://dejan.ai/blog/ox-alpha",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-24T16:30:16Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
         "Hacker News · 24h最热"
       ],
       "items": [
@@ -1632,7 +1714,7 @@
           "published_at": "2026-08-24T16:30:16Z"
         },
         {
-          "id": "d22b1ae33d04ccad6b8effe833619d4121694962",
+          "id": "804f29258a9b4a5855bc5293740535c38f248d34",
           "title": "Ox-Alpha Is GLM?",
           "title_zh": null,
           "title_en": "Ox-Alpha Is GLM?",
@@ -1640,23 +1722,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://dejan.ai/blog/ox-alpha",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-24T16:30:16Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5098,
-      "importance": 0.5098,
-      "importance_score": 0.5098,
+      "score": 0.5076,
+      "importance": 0.5076,
+      "importance_score": 0.5076,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7998,
+        "recency": 0.788,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1681,7 +1763,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T08:37:20.590388Z"
+        "scored_at": "2026-08-25T09:38:14.782785Z"
       }
     },
     {
@@ -1758,15 +1840,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5306,
-      "importance": 0.5306,
-      "importance_score": 0.5306,
+      "score": 0.5282,
+      "importance": 0.5282,
+      "importance_score": 0.5282,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9158,
+        "recency": 0.9022,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1791,30 +1873,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T08:37:20.590388Z"
+        "scored_at": "2026-08-25T09:38:14.782785Z"
       }
     },
     {
-      "story_id": "story_42e25bda0211",
-      "title": "买的内存还能保修吗?SK海力士淘宝旗舰店宣布关店",
-      "url": "https://www.aibase.com/news/30595",
-      "primary_url": "https://www.aibase.com/news/30595",
+      "story_id": "story_7c313959a64a",
+      "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
+      "url": "https://www.aibase.com/news/30599",
+      "primary_url": "https://www.aibase.com/news/30599",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "609cdee7e4d2886fd0008ef8a68db930c27f264e",
-          "title": "买的内存还能保修吗?SK海力士淘宝旗舰店宣布关店",
-          "title_zh": "买的内存还能保修吗?SK海力士淘宝旗舰店宣布关店",
+          "id": "0695d549407753ec262acd842c71e7c96ca5a5a8",
+          "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
+          "title_zh": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
           "title_en": null,
-          "title_original": "买的内存还能保修吗?SK海力士淘宝旗舰店宣布关店",
+          "title_original": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30595",
+          "url": "https://www.aibase.com/news/30599",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T03:12:59.148222Z"
+          "published_at": "2026-08-25T07:08:22.792996Z"
         }
       ],
       "source_count": 1,
@@ -1823,31 +1905,31 @@
       ],
       "items": [
         {
-          "id": "609cdee7e4d2886fd0008ef8a68db930c27f264e",
-          "title": "买的内存还能保修吗?SK海力士淘宝旗舰店宣布关店",
-          "title_zh": "买的内存还能保修吗?SK海力士淘宝旗舰店宣布关店",
+          "id": "0695d549407753ec262acd842c71e7c96ca5a5a8",
+          "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
+          "title_zh": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
           "title_en": null,
-          "title_original": "买的内存还能保修吗?SK海力士淘宝旗舰店宣布关店",
+          "title_original": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30595",
+          "url": "https://www.aibase.com/news/30599",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T03:12:59.148222Z"
+          "published_at": "2026-08-25T07:08:22.792996Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7557,
-      "importance": 0.7557,
-      "importance_score": 0.7557,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9336,
+        "recency": 0.9734,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1855,17 +1937,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T03:12:59.148222Z",
-      "latest_at": "2026-08-25T03:12:59.148222Z",
+      "earliest_at": "2026-08-25T07:08:22.792996Z",
+      "latest_at": "2026-08-25T07:08:22.792996Z",
       "primary_item": {
-        "id": "609cdee7e4d2886fd0008ef8a68db930c27f264e",
-        "title": "买的内存还能保修吗?SK海力士淘宝旗舰店宣布关店",
-        "title_zh": "买的内存还能保修吗?SK海力士淘宝旗舰店宣布关店",
+        "id": "0695d549407753ec262acd842c71e7c96ca5a5a8",
+        "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
+        "title_zh": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
         "title_en": null,
-        "title_original": "买的内存还能保修吗?SK海力士淘宝旗舰店宣布关店",
+        "title_original": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30595",
+        "url": "https://www.aibase.com/news/30599",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1873,117 +1955,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T08:37:20.590388Z"
-      }
-    },
-    {
-      "story_id": "story_974793f4f4f9",
-      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "url": "https://news.ycombinator.com/item?id=49425800",
-      "primary_url": "https://news.ycombinator.com/item?id=49425800",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "4d2e6ea72770a6d0bdca9f741342114768dcd82d",
-          "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_zh": null,
-          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49425800",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T21:43:51.503000Z"
-        },
-        {
-          "id": "c4380897ee9fff0a6eb7c60a73f9b0d9b42a6b5c",
-          "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_zh": null,
-          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T21:01:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "4d2e6ea72770a6d0bdca9f741342114768dcd82d",
-          "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_zh": null,
-          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49425800",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T21:43:51.503000Z"
-        },
-        {
-          "id": "c4380897ee9fff0a6eb7c60a73f9b0d9b42a6b5c",
-          "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_zh": null,
-          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T21:01:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5211,
-      "importance": 0.5211,
-      "importance_score": 0.5211,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8625,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-24T21:01:38Z",
-      "latest_at": "2026-08-24T21:43:51.503000Z",
-      "primary_item": {
-        "id": "4d2e6ea72770a6d0bdca9f741342114768dcd82d",
-        "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-        "title_zh": null,
-        "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
-        "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49425800",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T08:37:20.590388Z"
+        "scored_at": "2026-08-25T09:38:14.782785Z"
       }
     }
   ]
