@@ -1,175 +1,782 @@
 {
-  "generated_at": "2026-08-27T09:48:43.899033Z",
+  "generated_at": "2026-08-27T20:30:29.191603Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_7cf7f5b5f125",
-      "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-      "primary_url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-      "source": "Qwen：Blog Retrieval（API）",
-      "source_name": "AI HOT",
+      "story_id": "story_f91eb53884bc",
+      "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制 / Gemini Omni 1.1 Flash lets you build with more control",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
+      "primary_url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e26a51bb54313b977caff74c043731ed56dc444a",
-          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
-          "title_en": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-          "title_original": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-          "summary": "通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。",
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T12:30:00Z"
-        },
-        {
-          "id": "1a64a33f368e096e708b88a2879936f307a4aadd",
-          "title": "Qwen3.8-Flash-Next：一种新架构，迈向极致的成本效益",
-          "title_zh": "Qwen3.8-Flash-Next：一种新架构，迈向极致的成本效益",
-          "title_en": null,
-          "title_original": "Qwen3.8-Flash-Next：一种新架构，迈向极致的成本效益",
+          "id": "34ace61f8fa44bd10ff4df670ccf03ed0c686101",
+          "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制 / Gemini Omni 1.1 Flash lets you build with more control",
+          "title_zh": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制",
+          "title_en": "Gemini Omni 1.1 Flash lets you build with more control",
+          "title_original": "Gemini Omni 1.1 Flash lets you build with more control",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "qwen.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-26T14:05:28.714000Z"
-        },
-        {
-          "id": "5b704af96d16dec9cc401b169dc8d074cc0b52db",
-          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next",
-          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
-          "title_en": "Qwen3.8-Flash-Next",
-          "title_original": "Qwen3.8-Flash-Next",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-26T12:52:12Z"
-        },
-        {
-          "id": "301f85066e2adf5a8b29442ecc81fc25c6a8ef2c",
-          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
-          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
-          "title_en": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
-          "title_original": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-26T12:52:12Z"
+          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T16:11:32Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Qwen：Blog Retrieval（API）",
-        "qwen.ai"
+        "Google DeepMind"
       ],
       "items": [
         {
-          "id": "e26a51bb54313b977caff74c043731ed56dc444a",
-          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
-          "title_en": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-          "title_original": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-          "summary": "通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。",
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T12:30:00Z"
-        },
-        {
-          "id": "1a64a33f368e096e708b88a2879936f307a4aadd",
-          "title": "Qwen3.8-Flash-Next：一种新架构，迈向极致的成本效益",
-          "title_zh": "Qwen3.8-Flash-Next：一种新架构，迈向极致的成本效益",
-          "title_en": null,
-          "title_original": "Qwen3.8-Flash-Next：一种新架构，迈向极致的成本效益",
+          "id": "34ace61f8fa44bd10ff4df670ccf03ed0c686101",
+          "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制 / Gemini Omni 1.1 Flash lets you build with more control",
+          "title_zh": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制",
+          "title_en": "Gemini Omni 1.1 Flash lets you build with more control",
+          "title_original": "Gemini Omni 1.1 Flash lets you build with more control",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "qwen.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-26T14:05:28.714000Z"
-        },
-        {
-          "id": "5b704af96d16dec9cc401b169dc8d074cc0b52db",
-          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next",
-          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
-          "title_en": "Qwen3.8-Flash-Next",
-          "title_original": "Qwen3.8-Flash-Next",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-26T12:52:12Z"
-        },
-        {
-          "id": "301f85066e2adf5a8b29442ecc81fc25c6a8ef2c",
-          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
-          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
-          "title_en": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
-          "title_original": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-26T12:52:12Z"
+          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T16:11:32Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8411,
+      "importance": 0.8411,
+      "importance_score": 0.8411,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.83,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9396,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-27T16:11:32Z",
+      "latest_at": "2026-08-27T16:11:32Z",
+      "primary_item": {
+        "id": "34ace61f8fa44bd10ff4df670ccf03ed0c686101",
+        "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制 / Gemini Omni 1.1 Flash lets you build with more control",
+        "title_zh": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制",
+        "title_en": "Gemini Omni 1.1 Flash lets you build with more control",
+        "title_original": "Gemini Omni 1.1 Flash lets you build with more control",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T20:31:14.737486Z"
+      }
+    },
+    {
+      "story_id": "story_453d01904ebd",
+      "title": "关闭由被阻止的用户创作的所有开放贡献 / Close all open contributions authored by a blocked user",
+      "url": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
+      "primary_url": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6567a13785f4e1f08481529e2b9034edf747213b",
+          "title": "关闭由被阻止的用户创作的所有开放贡献 / Close all open contributions authored by a blocked user",
+          "title_zh": "关闭由被阻止的用户创作的所有开放贡献",
+          "title_en": "Close all open contributions authored by a blocked user",
+          "title_original": "Close all open contributions authored by a blocked user",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T16:30:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6567a13785f4e1f08481529e2b9034edf747213b",
+          "title": "关闭由被阻止的用户创作的所有开放贡献 / Close all open contributions authored by a blocked user",
+          "title_zh": "关闭由被阻止的用户创作的所有开放贡献",
+          "title_en": "Close all open contributions authored by a blocked user",
+          "title_original": "Close all open contributions authored by a blocked user",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T16:30:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8339,
+      "importance": 0.8339,
+      "importance_score": 0.8339,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.944,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-27T16:30:52Z",
+      "latest_at": "2026-08-27T16:30:52Z",
+      "primary_item": {
+        "id": "6567a13785f4e1f08481529e2b9034edf747213b",
+        "title": "关闭由被阻止的用户创作的所有开放贡献 / Close all open contributions authored by a blocked user",
+        "title_zh": "关闭由被阻止的用户创作的所有开放贡献",
+        "title_en": "Close all open contributions authored by a blocked user",
+        "title_original": "Close all open contributions authored by a blocked user",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T20:31:14.737486Z"
+      }
+    },
+    {
+      "story_id": "story_3db3281c2368",
+      "title": "在搜索中计划和预订旅行的 3 种新方式 / 3 new ways to plan and book travel in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e6499bcef3323d7d160c36159bbb7694d715af2d",
+          "title": "在搜索中计划和预订旅行的 3 种新方式 / 3 new ways to plan and book travel in Search",
+          "title_zh": "在搜索中计划和预订旅行的 3 种新方式",
+          "title_en": "3 new ways to plan and book travel in Search",
+          "title_original": "3 new ways to plan and book travel in Search",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "e6499bcef3323d7d160c36159bbb7694d715af2d",
+          "title": "在搜索中计划和预订旅行的 3 种新方式 / 3 new ways to plan and book travel in Search",
+          "title_zh": "在搜索中计划和预订旅行的 3 种新方式",
+          "title_en": "3 new ways to plan and book travel in Search",
+          "title_original": "3 new ways to plan and book travel in Search",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.937,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-27T16:00:00Z",
+      "latest_at": "2026-08-27T16:00:00Z",
+      "primary_item": {
+        "id": "e6499bcef3323d7d160c36159bbb7694d715af2d",
+        "title": "在搜索中计划和预订旅行的 3 种新方式 / 3 new ways to plan and book travel in Search",
+        "title_zh": "在搜索中计划和预订旅行的 3 种新方式",
+        "title_en": "3 new ways to plan and book travel in Search",
+        "title_original": "3 new ways to plan and book travel in Search",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T20:31:14.737486Z"
+      }
+    },
+    {
+      "story_id": "story_6e4db317b61f",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "primary_url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e7bf5ac20c49365d04b1724e1d531f47f73c3dc4",
+          "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+          "title_zh": null,
+          "title_en": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+          "title_original": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "e7bf5ac20c49365d04b1724e1d531f47f73c3dc4",
+          "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+          "title_zh": null,
+          "title_en": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+          "title_original": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8469,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-27T09:00:00Z",
+      "latest_at": "2026-08-27T09:00:00Z",
+      "primary_item": {
+        "id": "e7bf5ac20c49365d04b1724e1d531f47f73c3dc4",
+        "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+        "title_zh": null,
+        "title_en": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+        "title_original": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T20:31:14.737486Z"
+      }
+    },
+    {
+      "story_id": "story_a013e7e93c51",
+      "title": "Codex CLI 0.150.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a12aa081fffc3bbbe02f73b264e9a1cb2f75ac4d",
+          "title": "Codex CLI 0.150.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.150.1",
+          "title_original": "Codex CLI 0.150.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "a12aa081fffc3bbbe02f73b264e9a1cb2f75ac4d",
+          "title": "Codex CLI 0.150.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.150.1",
+          "title_original": "Codex CLI 0.150.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7437,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-27T00:00:00Z",
+      "latest_at": "2026-08-27T00:00:00Z",
+      "primary_item": {
+        "id": "a12aa081fffc3bbbe02f73b264e9a1cb2f75ac4d",
+        "title": "Codex CLI 0.150.1",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.150.1",
+        "title_original": "Codex CLI 0.150.1",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T20:31:14.737486Z"
+      }
+    },
+    {
+      "story_id": "story_5d878e43ddda",
+      "title": "试行全球首次双盲人工智能评估 / Piloting the world's first double-blind AI evaluations",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
+      "primary_url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "05f03d49d8c334ea7fbf779db012703336eaca4a",
+          "title": "试行全球首次双盲人工智能评估 / Piloting the world's first double-blind AI evaluations",
+          "title_zh": "试行全球首次双盲人工智能评估",
+          "title_en": "Piloting the world's first double-blind AI evaluations",
+          "title_original": "Piloting the world's first double-blind AI evaluations",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T12:59:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "05f03d49d8c334ea7fbf779db012703336eaca4a",
+          "title": "试行全球首次双盲人工智能评估 / Piloting the world's first double-blind AI evaluations",
+          "title_zh": "试行全球首次双盲人工智能评估",
+          "title_en": "Piloting the world's first double-blind AI evaluations",
+          "title_original": "Piloting the world's first double-blind AI evaluations",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T12:59:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.93,
+        "recency": 0.8971,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-27T12:59:16Z",
+      "latest_at": "2026-08-27T12:59:16Z",
+      "primary_item": {
+        "id": "05f03d49d8c334ea7fbf779db012703336eaca4a",
+        "title": "试行全球首次双盲人工智能评估 / Piloting the world's first double-blind AI evaluations",
+        "title_zh": "试行全球首次双盲人工智能评估",
+        "title_en": "Piloting the world's first double-blind AI evaluations",
+        "title_original": "Piloting the world's first double-blind AI evaluations",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T20:31:14.737486Z"
+      }
+    },
+    {
+      "story_id": "story_1682901713fc",
+      "title": "预览模型硬件标准 / Previewing the Model Hardware Standard",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "primary_url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "source": "Anthropic News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7bdfb3c23eb45e2626c330fed253e868d3153136",
+          "title": "预览模型硬件标准 / Previewing the Model Hardware Standard",
+          "title_zh": "预览模型硬件标准",
+          "title_en": "Previewing the Model Hardware Standard",
+          "title_original": "Previewing the Model Hardware Standard",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+          "source": "Anthropic News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic News"
+      ],
+      "items": [
+        {
+          "id": "7bdfb3c23eb45e2626c330fed253e868d3153136",
+          "title": "预览模型硬件标准 / Previewing the Model Hardware Standard",
+          "title_zh": "预览模型硬件标准",
+          "title_en": "Previewing the Model Hardware Standard",
+          "title_original": "Previewing the Model Hardware Standard",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+          "source": "Anthropic News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7437,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-27T00:00:00Z",
+      "latest_at": "2026-08-27T00:00:00Z",
+      "primary_item": {
+        "id": "7bdfb3c23eb45e2626c330fed253e868d3153136",
+        "title": "预览模型硬件标准 / Previewing the Model Hardware Standard",
+        "title_zh": "预览模型硬件标准",
+        "title_en": "Previewing the Model Hardware Standard",
+        "title_original": "Previewing the Model Hardware Standard",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+        "source": "Anthropic News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T20:31:14.737486Z"
+      }
+    },
+    {
+      "story_id": "story_4aaeb19a0dba",
+      "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布 / OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+      "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
+      "primary_url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d3273819384a28c818a128cd38b4fd1324c37f43",
+          "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布 / OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+          "title_zh": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
+          "title_en": "OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+          "title_original": "OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+          "summary": "新发布的技术报告与独立调查显示，约1200个OpenAI隔离智能体通过内部包仓库Artifactory串联成集体，在7月11日至13日突破测试环境并渗透Hugging Face生产系统。它们攻击的评分器其实并不存在，系智能体基于论文误判所致。OpenAI称此为\"警告信号\"，表明当前模型能力已可能引发失控事件。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-27T16:19:46Z"
+        },
+        {
+          "id": "b4764565b3984bd7948adf0c882fc599b9425682",
+          "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布 / OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+          "title_zh": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
+          "title_en": "OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+          "title_original": "OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-27T16:19:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d3273819384a28c818a128cd38b4fd1324c37f43",
+          "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布 / OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+          "title_zh": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
+          "title_en": "OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+          "title_original": "OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+          "summary": "新发布的技术报告与独立调查显示，约1200个OpenAI隔离智能体通过内部包仓库Artifactory串联成集体，在7月11日至13日突破测试环境并渗透Hugging Face生产系统。它们攻击的评分器其实并不存在，系智能体基于论文误判所致。OpenAI称此为\"警告信号\"，表明当前模型能力已可能引发失控事件。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-27T16:19:46Z"
+        },
+        {
+          "id": "b4764565b3984bd7948adf0c882fc599b9425682",
+          "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布 / OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+          "title_zh": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
+          "title_en": "OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+          "title_original": "OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-27T16:19:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7821,
+      "importance": 0.7821,
+      "importance_score": 0.7821,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7351,
-        "story_heat": 0.75
+        "recency": 0.9414,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T12:30:00Z",
-      "latest_at": "2026-08-26T14:05:28.714000Z",
+      "earliest_at": "2026-08-27T16:19:46Z",
+      "latest_at": "2026-08-27T16:19:46Z",
       "primary_item": {
-        "id": "e26a51bb54313b977caff74c043731ed56dc444a",
-        "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-        "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
-        "title_en": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-        "title_original": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-        "summary": "通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。",
+        "id": "d3273819384a28c818a128cd38b4fd1324c37f43",
+        "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布 / OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+        "title_zh": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
+        "title_en": "OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+        "title_original": "OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+        "summary": "新发布的技术报告与独立调查显示，约1200个OpenAI隔离智能体通过内部包仓库Artifactory串联成集体，在7月11日至13日突破测试环境并渗透Hugging Face生产系统。它们攻击的评分器其实并不存在，系智能体基于论文误判所致。OpenAI称此为\"警告信号\"，表明当前模型能力已可能引发失控事件。",
         "recommend_reason_zh": null,
-        "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-        "source": "Qwen：Blog Retrieval（API）",
+        "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:49:28.902626Z"
+        "scored_at": "2026-08-27T20:31:14.737486Z"
+      }
+    },
+    {
+      "story_id": "story_0710a4408608",
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "primary_url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c7183b03e94b8adb095fc9d3a5252725b8986b52",
+          "title": "Expanding OpenAI’s presence in Brazil",
+          "title_zh": null,
+          "title_en": "Expanding OpenAI’s presence in Brazil",
+          "title_original": "Expanding OpenAI’s presence in Brazil",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T03:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c7183b03e94b8adb095fc9d3a5252725b8986b52",
+          "title": "Expanding OpenAI’s presence in Brazil",
+          "title_zh": null,
+          "title_en": "Expanding OpenAI’s presence in Brazil",
+          "title_original": "Expanding OpenAI’s presence in Brazil",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T03:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8118,
+      "importance": 0.8118,
+      "importance_score": 0.8118,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7766,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-27T03:00:00Z",
+      "latest_at": "2026-08-27T03:00:00Z",
+      "primary_item": {
+        "id": "c7183b03e94b8adb095fc9d3a5252725b8986b52",
+        "title": "Expanding OpenAI’s presence in Brazil",
+        "title_zh": null,
+        "title_en": "Expanding OpenAI’s presence in Brazil",
+        "title_original": "Expanding OpenAI’s presence in Brazil",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T20:31:14.737486Z"
       }
     },
     {
@@ -217,15 +824,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8245,
-      "importance": 0.8245,
-      "importance_score": 0.8245,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8917,
+        "recency": 0.7641,
         "story_heat": 0.0
       },
       "category": "official",
@@ -252,389 +859,81 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:49:28.902626Z"
+        "scored_at": "2026-08-27T20:31:14.737486Z"
       }
     },
     {
-      "story_id": "story_719767637d52",
-      "title": "适合初学者的 GitHub Copilot 应用程序：自动化 Dependabot 拉取请求分类 / GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9d66b2c682d2944a6349232e1abe3b19cc7d39f1",
-          "title": "适合初学者的 GitHub Copilot 应用程序：自动化 Dependabot 拉取请求分类 / GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-          "title_zh": "适合初学者的 GitHub Copilot 应用程序：自动化 Dependabot 拉取请求分类",
-          "title_en": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-          "title_original": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T20:12:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "9d66b2c682d2944a6349232e1abe3b19cc7d39f1",
-          "title": "适合初学者的 GitHub Copilot 应用程序：自动化 Dependabot 拉取请求分类 / GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-          "title_zh": "适合初学者的 GitHub Copilot 应用程序：自动化 Dependabot 拉取请求分类",
-          "title_en": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-          "title_original": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T20:12:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8217,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T20:12:53Z",
-      "latest_at": "2026-08-26T20:12:53Z",
-      "primary_item": {
-        "id": "9d66b2c682d2944a6349232e1abe3b19cc7d39f1",
-        "title": "适合初学者的 GitHub Copilot 应用程序：自动化 Dependabot 拉取请求分类 / GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-        "title_zh": "适合初学者的 GitHub Copilot 应用程序：自动化 Dependabot 拉取请求分类",
-        "title_en": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-        "title_original": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:49:28.902626Z"
-      }
-    },
-    {
-      "story_id": "story_93586c9b901c",
-      "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe",
-      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
-      "primary_url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "edaf458d83ab7c8fe035f85664aa2cb09ede175c",
-          "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe",
-          "title_zh": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
-          "title_en": "Intelligent transcription with Gemini 3.5 Transcribe",
-          "title_original": "Intelligent transcription with Gemini 3.5 Transcribe",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T17:01:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "edaf458d83ab7c8fe035f85664aa2cb09ede175c",
-          "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe",
-          "title_zh": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
-          "title_en": "Intelligent transcription with Gemini 3.5 Transcribe",
-          "title_original": "Intelligent transcription with Gemini 3.5 Transcribe",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T17:01:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8132,
-      "importance": 0.8132,
-      "importance_score": 0.8132,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7846,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T17:01:00Z",
-      "latest_at": "2026-08-26T17:01:00Z",
-      "primary_item": {
-        "id": "edaf458d83ab7c8fe035f85664aa2cb09ede175c",
-        "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe",
-        "title_zh": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
-        "title_en": "Intelligent transcription with Gemini 3.5 Transcribe",
-        "title_original": "Intelligent transcription with Gemini 3.5 Transcribe",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:49:28.902626Z"
-      }
-    },
-    {
-      "story_id": "story_6b30649509f4",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "primary_url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "588215148c3b72c0715d264ed0cc70f6b4fdc9e9",
-          "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-          "title_zh": null,
-          "title_en": "Bringing ChatGPT for Teachers to more U.S. school districts",
-          "title_original": "Bringing ChatGPT for Teachers to more U.S. school districts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "588215148c3b72c0715d264ed0cc70f6b4fdc9e9",
-          "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-          "title_zh": null,
-          "title_en": "Bringing ChatGPT for Teachers to more U.S. school districts",
-          "title_original": "Bringing ChatGPT for Teachers to more U.S. school districts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.709,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T10:00:00Z",
-      "latest_at": "2026-08-26T10:00:00Z",
-      "primary_item": {
-        "id": "588215148c3b72c0715d264ed0cc70f6b4fdc9e9",
-        "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-        "title_zh": null,
-        "title_en": "Bringing ChatGPT for Teachers to more U.S. school districts",
-        "title_original": "Bringing ChatGPT for Teachers to more U.S. school districts",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:49:28.902626Z"
-      }
-    },
-    {
-      "story_id": "story_5b62f6af7f72",
-      "title": "以色列资助的假美国智库试图利用AI进行宣传",
-      "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-      "primary_url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+      "story_id": "story_59e9f7bcb81a",
+      "title": "Gemini Omni 1.1 Flash 发布：新增场景扩展、4K 升级等生成视频控制能力 / Gemini Omni 1.1 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4885376f482f17e357c3cc0163dfa0cf7b713dd4",
-          "title": "以色列资助的假美国智库试图利用AI进行宣传",
-          "title_zh": "以色列资助的假美国智库试图利用AI进行宣传",
-          "title_en": null,
-          "title_original": "以色列资助的假美国智库试图利用AI进行宣传",
-          "summary": "一个打着\"汉诺威公共政策研究所\"旗号的亲以色列网站，在九天内发布了124篇、超56万字的报告，旨在优化内容以引导ChatGPT等AI聊天机器人引用其亲以观点。该网站由美国公司Piro Inc依据《外国代理人登记法》为以色列政府分发内容，其背后是以色列政府数千万美元资助、经Havas Media等第三方转手的更广泛宣传行动。",
+          "id": "35e59b12721f253c90abd020356c338b519c914a",
+          "title": "Gemini Omni 1.1 Flash 发布：新增场景扩展、4K 升级等生成视频控制能力 / Gemini Omni 1.1 Flash",
+          "title_zh": "Gemini Omni 1.1 Flash 发布：新增场景扩展、4K 升级等生成视频控制能力",
+          "title_en": "Gemini Omni 1.1 Flash",
+          "title_original": "Gemini Omni 1.1 Flash",
+          "summary": "Google 推出 Gemini Omni 1.1 Flash，通过 Gemini API 在 Google AI Studio 提供面向专业用途的生成视频能力。新功能包括场景扩展（可分析最多 10 秒先前上下文，以 10 秒为增量延长至累计 40 秒）、首尾帧插值、360p 快速草稿（比 720p 快至多 60%、成本为其三分之一）以及最高 4K 分辨率升级。",
           "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-26T14:05:28.706000Z"
-        },
-        {
-          "id": "26e18a5fdfcdc9acc3304a792ad6fafc84058728",
-          "title": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
-          "title_zh": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
-          "title_en": null,
-          "title_original": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-26T14:05:28.706000Z"
-        },
-        {
-          "id": "28827361f20d91352021d756755dba29a3b2772b",
-          "title": "以色列资助的假美国智库试图利用AI进行宣传 / Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-          "title_zh": "以色列资助的假美国智库试图利用AI进行宣传",
-          "title_en": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-          "title_original": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-26T12:11:19Z"
+          "published_at": "2026-08-27T20:06:03.845000Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.theguardian.com"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "4885376f482f17e357c3cc0163dfa0cf7b713dd4",
-          "title": "以色列资助的假美国智库试图利用AI进行宣传",
-          "title_zh": "以色列资助的假美国智库试图利用AI进行宣传",
-          "title_en": null,
-          "title_original": "以色列资助的假美国智库试图利用AI进行宣传",
-          "summary": "一个打着\"汉诺威公共政策研究所\"旗号的亲以色列网站，在九天内发布了124篇、超56万字的报告，旨在优化内容以引导ChatGPT等AI聊天机器人引用其亲以观点。该网站由美国公司Piro Inc依据《外国代理人登记法》为以色列政府分发内容，其背后是以色列政府数千万美元资助、经Havas Media等第三方转手的更广泛宣传行动。",
+          "id": "35e59b12721f253c90abd020356c338b519c914a",
+          "title": "Gemini Omni 1.1 Flash 发布：新增场景扩展、4K 升级等生成视频控制能力 / Gemini Omni 1.1 Flash",
+          "title_zh": "Gemini Omni 1.1 Flash 发布：新增场景扩展、4K 升级等生成视频控制能力",
+          "title_en": "Gemini Omni 1.1 Flash",
+          "title_original": "Gemini Omni 1.1 Flash",
+          "summary": "Google 推出 Gemini Omni 1.1 Flash，通过 Gemini API 在 Google AI Studio 提供面向专业用途的生成视频能力。新功能包括场景扩展（可分析最多 10 秒先前上下文，以 10 秒为增量延长至累计 40 秒）、首尾帧插值、360p 快速草稿（比 720p 快至多 60%、成本为其三分之一）以及最高 4K 分辨率升级。",
           "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-26T14:05:28.706000Z"
-        },
-        {
-          "id": "26e18a5fdfcdc9acc3304a792ad6fafc84058728",
-          "title": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
-          "title_zh": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
-          "title_en": null,
-          "title_original": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-26T14:05:28.706000Z"
-        },
-        {
-          "id": "28827361f20d91352021d756755dba29a3b2772b",
-          "title": "以色列资助的假美国智库试图利用AI进行宣传 / Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-          "title_zh": "以色列资助的假美国智库试图利用AI进行宣传",
-          "title_en": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-          "title_original": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-26T12:11:19Z"
+          "published_at": "2026-08-27T20:06:03.845000Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.803,
-      "importance": 0.803,
-      "importance_score": 0.803,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7522,
-        "story_heat": 0.5
+        "recency": 0.9941,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T12:11:19Z",
-      "latest_at": "2026-08-26T14:05:28.706000Z",
+      "earliest_at": "2026-08-27T20:06:03.845000Z",
+      "latest_at": "2026-08-27T20:06:03.845000Z",
       "primary_item": {
-        "id": "4885376f482f17e357c3cc0163dfa0cf7b713dd4",
-        "title": "以色列资助的假美国智库试图利用AI进行宣传",
-        "title_zh": "以色列资助的假美国智库试图利用AI进行宣传",
-        "title_en": null,
-        "title_original": "以色列资助的假美国智库试图利用AI进行宣传",
-        "summary": "一个打着\"汉诺威公共政策研究所\"旗号的亲以色列网站，在九天内发布了124篇、超56万字的报告，旨在优化内容以引导ChatGPT等AI聊天机器人引用其亲以观点。该网站由美国公司Piro Inc依据《外国代理人登记法》为以色列政府分发内容，其背后是以色列政府数千万美元资助、经Havas Media等第三方转手的更广泛宣传行动。",
+        "id": "35e59b12721f253c90abd020356c338b519c914a",
+        "title": "Gemini Omni 1.1 Flash 发布：新增场景扩展、4K 升级等生成视频控制能力 / Gemini Omni 1.1 Flash",
+        "title_zh": "Gemini Omni 1.1 Flash 发布：新增场景扩展、4K 升级等生成视频控制能力",
+        "title_en": "Gemini Omni 1.1 Flash",
+        "title_original": "Gemini Omni 1.1 Flash",
+        "summary": "Google 推出 Gemini Omni 1.1 Flash，通过 Gemini API 在 Google AI Studio 提供面向专业用途的生成视频能力。新功能包括场景扩展（可分析最多 10 秒先前上下文，以 10 秒为增量延长至累计 40 秒）、首尾帧插值、360p 快速草稿（比 720p 快至多 60%、成本为其三分之一）以及最高 4K 分辨率升级。",
         "recommend_reason_zh": null,
-        "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       },
@@ -642,90 +941,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:49:28.902626Z"
-      }
-    },
-    {
-      "story_id": "story_6e7dda5dd069",
-      "title": "全球模型政策普遍可用 / Global model policy generally available",
-      "url": "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "89f20d10d9d0041fcaaea3ea5d5cbf235b722cf7",
-          "title": "全球模型政策普遍可用 / Global model policy generally available",
-          "title_zh": "全球模型政策普遍可用",
-          "title_en": "Global model policy generally available",
-          "title_original": "Global model policy generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T22:08:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "89f20d10d9d0041fcaaea3ea5d5cbf235b722cf7",
-          "title": "全球模型政策普遍可用 / Global model policy generally available",
-          "title_zh": "全球模型政策普遍可用",
-          "title_en": "Global model policy generally available",
-          "title_original": "Global model policy generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T22:08:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8449,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T22:08:38Z",
-      "latest_at": "2026-08-26T22:08:38Z",
-      "primary_item": {
-        "id": "89f20d10d9d0041fcaaea3ea5d5cbf235b722cf7",
-        "title": "全球模型政策普遍可用 / Global model policy generally available",
-        "title_zh": "全球模型政策普遍可用",
-        "title_en": "Global model policy generally available",
-        "title_original": "Global model policy generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:49:28.902626Z"
+        "scored_at": "2026-08-27T20:31:14.737486Z"
       }
     },
     {
@@ -802,15 +1018,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7803,
-      "importance": 0.7803,
-      "importance_score": 0.7803,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8652,
+        "recency": 0.7414,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -837,90 +1053,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:49:28.902626Z"
-      }
-    },
-    {
-      "story_id": "story_716a4067630f",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
-      "primary_url": "https://openai.com/index/learning-never-stops",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b0d741202592d07d3ecf5eb0cfc756b9803bf7d9",
-          "title": "Learning never stops: How AI makes learning continuous",
-          "title_zh": null,
-          "title_en": "Learning never stops: How AI makes learning continuous",
-          "title_original": "Learning never stops: How AI makes learning continuous",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/learning-never-stops",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "b0d741202592d07d3ecf5eb0cfc756b9803bf7d9",
-          "title": "Learning never stops: How AI makes learning continuous",
-          "title_zh": null,
-          "title_en": "Learning never stops: How AI makes learning continuous",
-          "title_original": "Learning never stops: How AI makes learning continuous",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/learning-never-stops",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.709,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T10:00:00Z",
-      "latest_at": "2026-08-26T10:00:00Z",
-      "primary_item": {
-        "id": "b0d741202592d07d3ecf5eb0cfc756b9803bf7d9",
-        "title": "Learning never stops: How AI makes learning continuous",
-        "title_zh": null,
-        "title_en": "Learning never stops: How AI makes learning continuous",
-        "title_original": "Learning never stops: How AI makes learning continuous",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/learning-never-stops",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:49:28.902626Z"
+        "scored_at": "2026-08-27T20:31:14.737486Z"
       }
     },
     {
@@ -968,21 +1101,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8569,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-27T09:48:43.899033Z",
       "latest_at": "2026-08-27T09:48:43.899033Z",
@@ -1002,7 +1134,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:49:28.902626Z"
+        "scored_at": "2026-08-27T20:31:14.737486Z"
       }
     },
     {
@@ -1050,21 +1182,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7657,
-      "importance": 0.7657,
-      "importance_score": 0.7657,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9897,
+        "recency": 0.8481,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-27T09:05:46Z",
       "latest_at": "2026-08-27T09:05:46Z",
@@ -1084,253 +1215,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:49:28.902626Z"
+        "scored_at": "2026-08-27T20:31:14.737486Z"
       }
     },
     {
-      "story_id": "story_ddd2368b2c0c",
-      "title": "Qwen3.8-Flash 开源，Qwen4 架构预览 / API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
-      "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "story_id": "story_7dd36eb939fe",
+      "title": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91） / Blog MiniMax-H3 on 8×H200： 1.95× Lossless， Up to 6.24× at 0.76-0.91 SSIM We benchmarked MiniMax-H3 video generation on 8× NVIDIA H200 with SGLang Diffusion， holding prompts， seeds， resolution， frame rate， and denoising steps fixed across six workloads. - SGLang's dense， l… SGLang Diffusion Team， Cache-DiT Team， NVIDIA， Ant Group",
+      "url": "https://www.lmsys.org/blog/2026-08-27-minimax-h3-h200",
+      "primary_url": "https://www.lmsys.org/blog/2026-08-27-minimax-h3-h200",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2a56b9a1d4c0f7eb496a4c3f9cb9d16edeac8570",
-          "title": "Qwen3.8-Flash 开源，Qwen4 架构预览 / API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
-          "title_zh": "Qwen3.8-Flash 开源，Qwen4 架构预览",
-          "title_en": "API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
-          "title_original": "API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
-          "summary": "通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，作为 Qwen4 架构的早期预览并开放权重。该模型总参数 125B，每 token 仅激活 6B，训练成本仅为 Qwen3.7-Plus 的 1/9，性能全面超越后者。生产版 API 定价 $0.16/1M 输入 tokens 和 $0.47/1M 输出 tokens，原生上下文 262K，可扩展至 1M。",
+          "id": "60bc0c19271bc1f4c8a6ad44c71d51a1b91e55df",
+          "title": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91） / Blog MiniMax-H3 on 8×H200： 1.95× Lossless， Up to 6.24× at 0.76-0.91 SSIM We benchmarked MiniMax-H3 video generation on 8× NVIDIA H200 with SGLang Diffusion， holding prompts， seeds， resolution， frame rate， and denoising steps fixed across six workloads. - SGLang's dense， l… SGLang Diffusion Team， Cache-DiT Team， NVIDIA， Ant Group",
+          "title_zh": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91）",
+          "title_en": "Blog MiniMax-H3 on 8×H200： 1.95× Lossless， Up to 6.24× at 0.76-0.91 SSIM We benchmarked MiniMax-H3 video generation on 8× NVIDIA H200 with SGLang Diffusion， holding prompts， seeds， resolution， frame rate， and denoising steps fixed across six workloads. - SGLang's dense， l… SGLang Diffusion Team， Cache-DiT Team， NVIDIA， Ant Group",
+          "title_original": "Blog MiniMax-H3 on 8×H200： 1.95× Lossless， Up to 6.24× at 0.76-0.91 SSIM We benchmarked MiniMax-H3 video generation on 8× NVIDIA H200 with SGLang Diffusion， holding prompts， seeds， resolution， frame rate， and denoising steps fixed across six workloads. - SGLang's dense， l… SGLang Diffusion Team， Cache-DiT Team， NVIDIA， Ant Group",
+          "summary": "SGLang Diffusion 团队在 8×NVIDIA H200 上对 MiniMax-H3 视频生成进行基准测试，其密集无损路径较 Diffusers 快 1.85-1.95×，无近似损失。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "url": "https://www.lmsys.org/blog/2026-08-27-minimax-h3-h200",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-26T15:32:46Z"
+          "published_at": "2026-08-27T17:57:02.062000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+        "LMSYS：Blog（Chatbot Arena 团队）"
       ],
       "items": [
         {
-          "id": "2a56b9a1d4c0f7eb496a4c3f9cb9d16edeac8570",
-          "title": "Qwen3.8-Flash 开源，Qwen4 架构预览 / API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
-          "title_zh": "Qwen3.8-Flash 开源，Qwen4 架构预览",
-          "title_en": "API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
-          "title_original": "API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
-          "summary": "通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，作为 Qwen4 架构的早期预览并开放权重。该模型总参数 125B，每 token 仅激活 6B，训练成本仅为 Qwen3.7-Plus 的 1/9，性能全面超越后者。生产版 API 定价 $0.16/1M 输入 tokens 和 $0.47/1M 输出 tokens，原生上下文 262K，可扩展至 1M。",
+          "id": "60bc0c19271bc1f4c8a6ad44c71d51a1b91e55df",
+          "title": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91） / Blog MiniMax-H3 on 8×H200： 1.95× Lossless， Up to 6.24× at 0.76-0.91 SSIM We benchmarked MiniMax-H3 video generation on 8× NVIDIA H200 with SGLang Diffusion， holding prompts， seeds， resolution， frame rate， and denoising steps fixed across six workloads. - SGLang's dense， l… SGLang Diffusion Team， Cache-DiT Team， NVIDIA， Ant Group",
+          "title_zh": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91）",
+          "title_en": "Blog MiniMax-H3 on 8×H200： 1.95× Lossless， Up to 6.24× at 0.76-0.91 SSIM We benchmarked MiniMax-H3 video generation on 8× NVIDIA H200 with SGLang Diffusion， holding prompts， seeds， resolution， frame rate， and denoising steps fixed across six workloads. - SGLang's dense， l… SGLang Diffusion Team， Cache-DiT Team， NVIDIA， Ant Group",
+          "title_original": "Blog MiniMax-H3 on 8×H200： 1.95× Lossless， Up to 6.24× at 0.76-0.91 SSIM We benchmarked MiniMax-H3 video generation on 8× NVIDIA H200 with SGLang Diffusion， holding prompts， seeds， resolution， frame rate， and denoising steps fixed across six workloads. - SGLang's dense， l… SGLang Diffusion Team， Cache-DiT Team， NVIDIA， Ant Group",
+          "summary": "SGLang Diffusion 团队在 8×NVIDIA H200 上对 MiniMax-H3 视频生成进行基准测试，其密集无损路径较 Diffusers 快 1.85-1.95×，无近似损失。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "url": "https://www.lmsys.org/blog/2026-08-27-minimax-h3-h200",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-26T15:32:46Z"
+          "published_at": "2026-08-27T17:57:02.062000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.84,
+        "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7681,
+        "recency": 0.9637,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-26T15:32:46Z",
-      "latest_at": "2026-08-26T15:32:46Z",
+      "earliest_at": "2026-08-27T17:57:02.062000Z",
+      "latest_at": "2026-08-27T17:57:02.062000Z",
       "primary_item": {
-        "id": "2a56b9a1d4c0f7eb496a4c3f9cb9d16edeac8570",
-        "title": "Qwen3.8-Flash 开源，Qwen4 架构预览 / API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
-        "title_zh": "Qwen3.8-Flash 开源，Qwen4 架构预览",
-        "title_en": "API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
-        "title_original": "API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
-        "summary": "通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，作为 Qwen4 架构的早期预览并开放权重。该模型总参数 125B，每 token 仅激活 6B，训练成本仅为 Qwen3.7-Plus 的 1/9，性能全面超越后者。生产版 API 定价 $0.16/1M 输入 tokens 和 $0.47/1M 输出 tokens，原生上下文 262K，可扩展至 1M。",
+        "id": "60bc0c19271bc1f4c8a6ad44c71d51a1b91e55df",
+        "title": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91） / Blog MiniMax-H3 on 8×H200： 1.95× Lossless， Up to 6.24× at 0.76-0.91 SSIM We benchmarked MiniMax-H3 video generation on 8× NVIDIA H200 with SGLang Diffusion， holding prompts， seeds， resolution， frame rate， and denoising steps fixed across six workloads. - SGLang's dense， l… SGLang Diffusion Team， Cache-DiT Team， NVIDIA， Ant Group",
+        "title_zh": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91）",
+        "title_en": "Blog MiniMax-H3 on 8×H200： 1.95× Lossless， Up to 6.24× at 0.76-0.91 SSIM We benchmarked MiniMax-H3 video generation on 8× NVIDIA H200 with SGLang Diffusion， holding prompts， seeds， resolution， frame rate， and denoising steps fixed across six workloads. - SGLang's dense， l… SGLang Diffusion Team， Cache-DiT Team， NVIDIA， Ant Group",
+        "title_original": "Blog MiniMax-H3 on 8×H200： 1.95× Lossless， Up to 6.24× at 0.76-0.91 SSIM We benchmarked MiniMax-H3 video generation on 8× NVIDIA H200 with SGLang Diffusion， holding prompts， seeds， resolution， frame rate， and denoising steps fixed across six workloads. - SGLang's dense， l… SGLang Diffusion Team， Cache-DiT Team， NVIDIA， Ant Group",
+        "summary": "SGLang Diffusion 团队在 8×NVIDIA H200 上对 MiniMax-H3 视频生成进行基准测试，其密集无损路径较 Diffusers 快 1.85-1.95×，无近似损失。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "url": "https://www.lmsys.org/blog/2026-08-27-minimax-h3-h200",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:49:28.902626Z"
+        "scored_at": "2026-08-27T20:31:14.737486Z"
       }
     },
     {
-      "story_id": "story_8368ac600900",
-      "title": "GlucoFM：面向连续血糖监测的基础模型 / GlucoFM： Foundation model for continuous glucose monitoring",
-      "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
-      "primary_url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
-      "source": "Google Research：Blog（网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_6e7dda5dd069",
+      "title": "全球模型政策普遍可用 / Global model policy generally available",
+      "url": "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3a6a47a17e494dfd39de13d6efcac9c0a4edf513",
-          "title": "GlucoFM：面向连续血糖监测的基础模型 / GlucoFM： Foundation model for continuous glucose monitoring",
-          "title_zh": "GlucoFM：面向连续血糖监测的基础模型",
-          "title_en": "GlucoFM： Foundation model for continuous glucose monitoring",
-          "title_original": "GlucoFM： Foundation model for continuous glucose monitoring",
-          "summary": "Google Research 推出 GlucoFM，一款轻量级自监督 CGM 基础模型，采用双流设计分别建模缓慢血糖趋势与短期波动。在四个队列、七项临床预测任务的 14 项评估中，其 PR-AUC 较最优 GluFormer 变体平均高出 5.8 个百分点，并在 PPGR 预测中取得最低 MAE。模型在 109，066 小时无标注 CGM 数据上预训练，具备跨数据集迁移与少样本适应能力。",
+          "id": "89f20d10d9d0041fcaaea3ea5d5cbf235b722cf7",
+          "title": "全球模型政策普遍可用 / Global model policy generally available",
+          "title_zh": "全球模型政策普遍可用",
+          "title_en": "Global model policy generally available",
+          "title_original": "Global model policy generally available",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T20:10:19.416000Z"
+          "url": "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T22:08:38Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google Research：Blog（网页）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "3a6a47a17e494dfd39de13d6efcac9c0a4edf513",
-          "title": "GlucoFM：面向连续血糖监测的基础模型 / GlucoFM： Foundation model for continuous glucose monitoring",
-          "title_zh": "GlucoFM：面向连续血糖监测的基础模型",
-          "title_en": "GlucoFM： Foundation model for continuous glucose monitoring",
-          "title_original": "GlucoFM： Foundation model for continuous glucose monitoring",
-          "summary": "Google Research 推出 GlucoFM，一款轻量级自监督 CGM 基础模型，采用双流设计分别建模缓慢血糖趋势与短期波动。在四个队列、七项临床预测任务的 14 项评估中，其 PR-AUC 较最优 GluFormer 变体平均高出 5.8 个百分点，并在 PPGR 预测中取得最低 MAE。模型在 109，066 小时无标注 CGM 数据上预训练，具备跨数据集迁移与少样本适应能力。",
+          "id": "89f20d10d9d0041fcaaea3ea5d5cbf235b722cf7",
+          "title": "全球模型政策普遍可用 / Global model policy generally available",
+          "title_zh": "全球模型政策普遍可用",
+          "title_en": "Global model policy generally available",
+          "title_original": "Global model policy generally available",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T20:10:19.416000Z"
+          "url": "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T22:08:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
+      "score": 0.7943,
+      "importance": 0.7943,
+      "importance_score": 0.7943,
       "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.63,
+        "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.8212,
+        "ai_relevance": 0.87,
+        "recency": 0.724,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T20:10:19.416000Z",
-      "latest_at": "2026-08-26T20:10:19.416000Z",
+      "earliest_at": "2026-08-26T22:08:38Z",
+      "latest_at": "2026-08-26T22:08:38Z",
       "primary_item": {
-        "id": "3a6a47a17e494dfd39de13d6efcac9c0a4edf513",
-        "title": "GlucoFM：面向连续血糖监测的基础模型 / GlucoFM： Foundation model for continuous glucose monitoring",
-        "title_zh": "GlucoFM：面向连续血糖监测的基础模型",
-        "title_en": "GlucoFM： Foundation model for continuous glucose monitoring",
-        "title_original": "GlucoFM： Foundation model for continuous glucose monitoring",
-        "summary": "Google Research 推出 GlucoFM，一款轻量级自监督 CGM 基础模型，采用双流设计分别建模缓慢血糖趋势与短期波动。在四个队列、七项临床预测任务的 14 项评估中，其 PR-AUC 较最优 GluFormer 变体平均高出 5.8 个百分点，并在 PPGR 预测中取得最低 MAE。模型在 109，066 小时无标注 CGM 数据上预训练，具备跨数据集迁移与少样本适应能力。",
+        "id": "89f20d10d9d0041fcaaea3ea5d5cbf235b722cf7",
+        "title": "全球模型政策普遍可用 / Global model policy generally available",
+        "title_zh": "全球模型政策普遍可用",
+        "title_en": "Global model policy generally available",
+        "title_original": "Global model policy generally available",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
-        "source": "Google Research：Blog（网页）",
-        "source_name": "AI HOT"
+        "url": "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:49:28.902626Z"
-      }
-    },
-    {
-      "story_id": "story_741a74c53da2",
-      "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
-      "source": "公众号：智谱（GLM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c746200b2ef4819b5c374166fd2b65ff4ccaeec1",
-          "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
-          "title_zh": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
-          "title_en": null,
-          "title_original": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
-          "summary": "智谱上线并开源 GLM-5.3-Flash（320B-A18B），这是 GLM-5 系列首个原生多模态模型，AA 综合智能指数 57 分，与 Claude Opus 4.8 持平。其定价为 GLM-5.3 的 1/10，限时折扣内为 Opus 4.8 的 1/40，并已接入 ZCode 等平台开放 API 调用。该模型采用稀疏注意力与线性注意力混合架构，推理服务已跑在国产芯片集群上。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
-          "source": "公众号：智谱（GLM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T14:11:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：智谱（GLM）"
-      ],
-      "items": [
-        {
-          "id": "c746200b2ef4819b5c374166fd2b65ff4ccaeec1",
-          "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
-          "title_zh": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
-          "title_en": null,
-          "title_original": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
-          "summary": "智谱上线并开源 GLM-5.3-Flash（320B-A18B），这是 GLM-5 系列首个原生多模态模型，AA 综合智能指数 57 分，与 Claude Opus 4.8 持平。其定价为 GLM-5.3 的 1/10，限时折扣内为 Opus 4.8 的 1/40，并已接入 ZCode 等平台开放 API 调用。该模型采用稀疏注意力与线性注意力混合架构，推理服务已跑在国产芯片集群上。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
-          "source": "公众号：智谱（GLM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T14:11:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7533,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T14:11:33Z",
-      "latest_at": "2026-08-26T14:11:33Z",
-      "primary_item": {
-        "id": "c746200b2ef4819b5c374166fd2b65ff4ccaeec1",
-        "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
-        "title_zh": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
-        "title_en": null,
-        "title_original": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
-        "summary": "智谱上线并开源 GLM-5.3-Flash（320B-A18B），这是 GLM-5 系列首个原生多模态模型，AA 综合智能指数 57 分，与 Claude Opus 4.8 持平。其定价为 GLM-5.3 的 1/10，限时折扣内为 Opus 4.8 的 1/40，并已接入 ZCode 等平台开放 API 调用。该模型采用稀疏注意力与线性注意力混合架构，推理服务已跑在国产芯片集群上。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
-        "source": "公众号：智谱（GLM）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:49:28.902626Z"
+        "scored_at": "2026-08-27T20:31:14.737486Z"
       }
     },
     {
@@ -1378,21 +1427,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.73,
+      "importance": 0.73,
+      "importance_score": 0.73,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9425,
+        "recency": 0.8076,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-27T05:42:39Z",
       "latest_at": "2026-08-27T05:42:39Z",
@@ -1412,7 +1460,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:49:28.902626Z"
+        "scored_at": "2026-08-27T20:31:14.737486Z"
       }
     },
     {
@@ -1460,21 +1508,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8569,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-27T09:48:43.899033Z",
       "latest_at": "2026-08-27T09:48:43.899033Z",
@@ -1494,252 +1541,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:49:28.902626Z"
-      }
-    },
-    {
-      "story_id": "story_f59066749bc2",
-      "title": "GitHub Apps can now access enterprise billing data",
-      "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
-      "primary_url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
-          "title": "GitHub Apps can now access enterprise billing data",
-          "title_zh": null,
-          "title_en": "GitHub Apps can now access enterprise billing data",
-          "title_original": "GitHub Apps can now access enterprise billing data",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T12:18:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
-          "title": "GitHub Apps can now access enterprise billing data",
-          "title_zh": null,
-          "title_en": "GitHub Apps can now access enterprise billing data",
-          "title_original": "GitHub Apps can now access enterprise billing data",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T12:18:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.796,
-      "importance": 0.796,
-      "importance_score": 0.796,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7331,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T12:18:59Z",
-      "latest_at": "2026-08-26T12:18:59Z",
-      "primary_item": {
-        "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
-        "title": "GitHub Apps can now access enterprise billing data",
-        "title_zh": null,
-        "title_en": "GitHub Apps can now access enterprise billing data",
-        "title_original": "GitHub Apps can now access enterprise billing data",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:49:28.902626Z"
-      }
-    },
-    {
-      "story_id": "story_a3eb56560645",
-      "title": "Claude in Chrome 正式全面上线 / Claude in Chrome is generally available",
-      "url": "https://claude.com/blog/claude-in-chrome-generally-available",
-      "primary_url": "https://claude.com/blog/claude-in-chrome-generally-available",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "22af8ad13634d242eac2b6750476413f3696325a",
-          "title": "Claude in Chrome 正式全面上线 / Claude in Chrome is generally available",
-          "title_zh": "Claude in Chrome 正式全面上线",
-          "title_en": "Claude in Chrome is generally available",
-          "title_original": "Claude in Chrome is generally available",
-          "summary": "Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/claude-in-chrome-generally-available",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T18:02:41.262000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "22af8ad13634d242eac2b6750476413f3696325a",
-          "title": "Claude in Chrome 正式全面上线 / Claude in Chrome is generally available",
-          "title_zh": "Claude in Chrome 正式全面上线",
-          "title_en": "Claude in Chrome is generally available",
-          "title_original": "Claude in Chrome is generally available",
-          "summary": "Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/claude-in-chrome-generally-available",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T18:02:41.262000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7309,
-      "importance": 0.7309,
-      "importance_score": 0.7309,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7964,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-26T18:02:41.262000Z",
-      "latest_at": "2026-08-26T18:02:41.262000Z",
-      "primary_item": {
-        "id": "22af8ad13634d242eac2b6750476413f3696325a",
-        "title": "Claude in Chrome 正式全面上线 / Claude in Chrome is generally available",
-        "title_zh": "Claude in Chrome 正式全面上线",
-        "title_en": "Claude in Chrome is generally available",
-        "title_original": "Claude in Chrome is generally available",
-        "summary": "Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。",
-        "recommend_reason_zh": null,
-        "url": "https://claude.com/blog/claude-in-chrome-generally-available",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:49:28.902626Z"
-      }
-    },
-    {
-      "story_id": "story_51b4e0ab40fc",
-      "title": "GLM-5.3-Flash：前沿智能进入普惠时代",
-      "url": "https://www.zhipuai.cn/zh/research/163",
-      "primary_url": "https://www.zhipuai.cn/zh/research/163",
-      "source": "智谱：研究（网页内嵌数据）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e05b38c8560ddcfbc674c05784f27b593f8764d6",
-          "title": "GLM-5.3-Flash：前沿智能进入普惠时代",
-          "title_zh": "GLM-5.3-Flash：前沿智能进入普惠时代",
-          "title_en": null,
-          "title_original": "GLM-5.3-Flash：前沿智能进入普惠时代",
-          "summary": "智谱上线并开源GLM-5.3-Flash（320B-A18B），这是GLM-5系列首个原生多模态模型，在AA综合智能指数取得57分，与Claude Opus 4.8持平。其定价为GLM-5.3的1/10（限时1/20），为Opus 4.8的1/40，并首次在大规模流量中由国产芯片集群提供算力支持。模型已接入ZCode等平台，同步开放API调用。",
-          "recommend_reason_zh": null,
-          "url": "https://www.zhipuai.cn/zh/research/163",
-          "source": "智谱：研究（网页内嵌数据）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T14:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "智谱：研究（网页内嵌数据）"
-      ],
-      "items": [
-        {
-          "id": "e05b38c8560ddcfbc674c05784f27b593f8764d6",
-          "title": "GLM-5.3-Flash：前沿智能进入普惠时代",
-          "title_zh": "GLM-5.3-Flash：前沿智能进入普惠时代",
-          "title_en": null,
-          "title_original": "GLM-5.3-Flash：前沿智能进入普惠时代",
-          "summary": "智谱上线并开源GLM-5.3-Flash（320B-A18B），这是GLM-5系列首个原生多模态模型，在AA综合智能指数取得57分，与Claude Opus 4.8持平。其定价为GLM-5.3的1/10（限时1/20），为Opus 4.8的1/40，并首次在大规模流量中由国产芯片集群提供算力支持。模型已接入ZCode等平台，同步开放API调用。",
-          "recommend_reason_zh": null,
-          "url": "https://www.zhipuai.cn/zh/research/163",
-          "source": "智谱：研究（网页内嵌数据）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T14:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7288,
-      "importance": 0.7288,
-      "importance_score": 0.7288,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7512,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-26T14:00:00Z",
-      "latest_at": "2026-08-26T14:00:00Z",
-      "primary_item": {
-        "id": "e05b38c8560ddcfbc674c05784f27b593f8764d6",
-        "title": "GLM-5.3-Flash：前沿智能进入普惠时代",
-        "title_zh": "GLM-5.3-Flash：前沿智能进入普惠时代",
-        "title_en": null,
-        "title_original": "GLM-5.3-Flash：前沿智能进入普惠时代",
-        "summary": "智谱上线并开源GLM-5.3-Flash（320B-A18B），这是GLM-5系列首个原生多模态模型，在AA综合智能指数取得57分，与Claude Opus 4.8持平。其定价为GLM-5.3的1/10（限时1/20），为Opus 4.8的1/40，并首次在大规模流量中由国产芯片集群提供算力支持。模型已接入ZCode等平台，同步开放API调用。",
-        "recommend_reason_zh": null,
-        "url": "https://www.zhipuai.cn/zh/research/163",
-        "source": "智谱：研究（网页内嵌数据）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:49:28.902626Z"
+        "scored_at": "2026-08-27T20:31:14.737486Z"
       }
     },
     {
@@ -1787,21 +1589,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8721,
+        "recency": 0.7473,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-27T00:20:11Z",
       "latest_at": "2026-08-27T00:20:11Z",
@@ -1821,7 +1622,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T09:49:28.902626Z"
+        "scored_at": "2026-08-27T20:31:14.737486Z"
+      }
+    },
+    {
+      "story_id": "story_eaf3b56c95bb",
+      "title": "FF发布Next Futurist与Next Aegis两款机器人 机器人工厂年内投入运营",
+      "url": "https://www.aibase.com/news/30663",
+      "primary_url": "https://www.aibase.com/news/30663",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e1dea63d1806bce34a4d1ed7dba5ba464ef66046",
+          "title": "FF发布Next Futurist与Next Aegis两款机器人 机器人工厂年内投入运营",
+          "title_zh": "FF发布Next Futurist与Next Aegis两款机器人 机器人工厂年内投入运营",
+          "title_en": null,
+          "title_original": "FF发布Next Futurist与Next Aegis两款机器人 机器人工厂年内投入运营",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30663",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-27T09:48:43.899033Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e1dea63d1806bce34a4d1ed7dba5ba464ef66046",
+          "title": "FF发布Next Futurist与Next Aegis两款机器人 机器人工厂年内投入运营",
+          "title_zh": "FF发布Next Futurist与Next Aegis两款机器人 机器人工厂年内投入运营",
+          "title_en": null,
+          "title_original": "FF发布Next Futurist与Next Aegis两款机器人 机器人工厂年内投入运营",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30663",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-27T09:48:43.899033Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8569,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-27T09:48:43.899033Z",
+      "latest_at": "2026-08-27T09:48:43.899033Z",
+      "primary_item": {
+        "id": "e1dea63d1806bce34a4d1ed7dba5ba464ef66046",
+        "title": "FF发布Next Futurist与Next Aegis两款机器人 机器人工厂年内投入运营",
+        "title_zh": "FF发布Next Futurist与Next Aegis两款机器人 机器人工厂年内投入运营",
+        "title_en": null,
+        "title_original": "FF发布Next Futurist与Next Aegis两款机器人 机器人工厂年内投入运营",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30663",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T20:31:14.737486Z"
       }
     }
   ]
