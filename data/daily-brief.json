@@ -1,8 +1,426 @@
 {
-  "generated_at": "2026-08-28T05:24:21.870603Z",
+  "generated_at": "2026-08-28T18:42:27.577848Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_e6d6d7fa2d48",
+      "title": "Upcoming changes to GitHub Copilot policies and billing",
+      "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
+      "primary_url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d4b732ba6f142956f2733c4616ef8be8248e23e4",
+          "title": "Upcoming changes to GitHub Copilot policies and billing",
+          "title_zh": null,
+          "title_en": "Upcoming changes to GitHub Copilot policies and billing",
+          "title_original": "Upcoming changes to GitHub Copilot policies and billing",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-28T11:37:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d4b732ba6f142956f2733c4616ef8be8248e23e4",
+          "title": "Upcoming changes to GitHub Copilot policies and billing",
+          "title_zh": null,
+          "title_en": "Upcoming changes to GitHub Copilot policies and billing",
+          "title_original": "Upcoming changes to GitHub Copilot policies and billing",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-28T11:37:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8345,
+      "importance": 0.8345,
+      "importance_score": 0.8345,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9027,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-28T11:37:19Z",
+      "latest_at": "2026-08-28T11:37:19Z",
+      "primary_item": {
+        "id": "d4b732ba6f142956f2733c4616ef8be8248e23e4",
+        "title": "Upcoming changes to GitHub Copilot policies and billing",
+        "title_zh": null,
+        "title_en": "Upcoming changes to GitHub Copilot policies and billing",
+        "title_original": "Upcoming changes to GitHub Copilot policies and billing",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-28T19:02:44.463270Z"
+      }
+    },
+    {
+      "story_id": "story_7239e60b0569",
+      "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+      "url": "https://www.terminal-bench-science.ai/announcement",
+      "primary_url": "https://www.terminal-bench-science.ai/announcement",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8ae575a29bf5c1ce17f4e0d2694a64be2c7fe43f",
+          "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+          "title_zh": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+          "title_en": null,
+          "title_original": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+          "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
+          "recommend_reason_zh": null,
+          "url": "https://www.terminal-bench-science.ai/announcement",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T12:04:47.737000Z"
+        },
+        {
+          "id": "78c37d785f3b3e3e47394055083934c9ddaa1608",
+          "title": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
+          "title_zh": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
+          "title_en": null,
+          "title_original": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.terminal-bench-science.ai/announcement",
+          "source": "www.terminal-bench-science.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-28T12:04:47.737000Z"
+        },
+        {
+          "id": "e9912fa30a167bc5489ad38b2d073c0f210b038f",
+          "title": "终端科学：评估科学研究工作流程中的人工智能代理 / Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+          "title_zh": "终端科学：评估科学研究工作流程中的人工智能代理",
+          "title_en": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+          "title_original": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49472820",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-28T04:59:08.423000Z"
+        },
+        {
+          "id": "c9d25436fb67801ae23e27ac6e492ed7c67ce53b",
+          "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体 / Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+          "title_zh": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+          "title_en": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+          "title_original": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.terminal-bench-science.ai/announcement",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T00:06:51Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "www.terminal-bench-science.ai"
+      ],
+      "items": [
+        {
+          "id": "8ae575a29bf5c1ce17f4e0d2694a64be2c7fe43f",
+          "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+          "title_zh": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+          "title_en": null,
+          "title_original": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+          "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
+          "recommend_reason_zh": null,
+          "url": "https://www.terminal-bench-science.ai/announcement",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T12:04:47.737000Z"
+        },
+        {
+          "id": "78c37d785f3b3e3e47394055083934c9ddaa1608",
+          "title": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
+          "title_zh": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
+          "title_en": null,
+          "title_original": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.terminal-bench-science.ai/announcement",
+          "source": "www.terminal-bench-science.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-28T12:04:47.737000Z"
+        },
+        {
+          "id": "e9912fa30a167bc5489ad38b2d073c0f210b038f",
+          "title": "终端科学：评估科学研究工作流程中的人工智能代理 / Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+          "title_zh": "终端科学：评估科学研究工作流程中的人工智能代理",
+          "title_en": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+          "title_original": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49472820",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-28T04:59:08.423000Z"
+        },
+        {
+          "id": "c9d25436fb67801ae23e27ac6e492ed7c67ce53b",
+          "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体 / Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+          "title_zh": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+          "title_en": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+          "title_original": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.terminal-bench-science.ai/announcement",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T00:06:51Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8262,
+      "importance": 0.8262,
+      "importance_score": 0.8262,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9087,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-28T00:06:51Z",
+      "latest_at": "2026-08-28T12:04:47.737000Z",
+      "primary_item": {
+        "id": "8ae575a29bf5c1ce17f4e0d2694a64be2c7fe43f",
+        "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+        "title_zh": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+        "title_en": null,
+        "title_original": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+        "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
+        "recommend_reason_zh": null,
+        "url": "https://www.terminal-bench-science.ai/announcement",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-28T19:02:44.463270Z"
+      }
+    },
+    {
+      "story_id": "story_481e8c2b2d6f",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "primary_url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "24ec9f94b3ac6f53e72ce6f65713d759422fa294",
+          "title": "Supporting Thailand’s next generation of AI startups",
+          "title_zh": null,
+          "title_en": "Supporting Thailand’s next generation of AI startups",
+          "title_original": "Supporting Thailand’s next generation of AI startups",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-28T02:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "24ec9f94b3ac6f53e72ce6f65713d759422fa294",
+          "title": "Supporting Thailand’s next generation of AI startups",
+          "title_zh": null,
+          "title_en": "Supporting Thailand’s next generation of AI startups",
+          "title_original": "Supporting Thailand’s next generation of AI startups",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-28T02:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7856,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-28T02:00:00Z",
+      "latest_at": "2026-08-28T02:00:00Z",
+      "primary_item": {
+        "id": "24ec9f94b3ac6f53e72ce6f65713d759422fa294",
+        "title": "Supporting Thailand’s next generation of AI startups",
+        "title_zh": null,
+        "title_en": "Supporting Thailand’s next generation of AI startups",
+        "title_original": "Supporting Thailand’s next generation of AI startups",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-28T19:02:44.463270Z"
+      }
+    },
+    {
+      "story_id": "story_820446bca705",
+      "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败 / Automated researchers can reliably mitigate alignment failures",
+      "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+      "primary_url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3180756dcf7c8ccdda42f621a241c4f46cf6f4ad",
+          "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败 / Automated researchers can reliably mitigate alignment failures",
+          "title_zh": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+          "title_en": "Automated researchers can reliably mitigate alignment failures",
+          "title_original": "Automated researchers can reliably mitigate alignment failures",
+          "summary": "Anthropic 让 Claude 自主训练模型，缓解欺骗、谄媚等 10 类对齐失败，均显著缩小与完美表现的安全差距且不损害通用能力，方法在比优化对象大 4.7 倍的模型上依然有效。Claude 还超越 28 名人类安全研究员，其欺骗场景最佳方法比人类最佳方案好 20%。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T17:25:56.912000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "3180756dcf7c8ccdda42f621a241c4f46cf6f4ad",
+          "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败 / Automated researchers can reliably mitigate alignment failures",
+          "title_zh": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+          "title_en": "Automated researchers can reliably mitigate alignment failures",
+          "title_original": "Automated researchers can reliably mitigate alignment failures",
+          "summary": "Anthropic 让 Claude 自主训练模型，缓解欺骗、谄媚等 10 类对齐失败，均显著缩小与完美表现的安全差距且不损害通用能力，方法在比优化对象大 4.7 倍的模型上依然有效。Claude 还超越 28 名人类安全研究员，其欺骗场景最佳方法比人类最佳方案好 20%。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T17:25:56.912000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7823,
+      "importance": 0.7823,
+      "importance_score": 0.7823,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9818,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-28T17:25:56.912000Z",
+      "latest_at": "2026-08-28T17:25:56.912000Z",
+      "primary_item": {
+        "id": "3180756dcf7c8ccdda42f621a241c4f46cf6f4ad",
+        "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败 / Automated researchers can reliably mitigate alignment failures",
+        "title_zh": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+        "title_en": "Automated researchers can reliably mitigate alignment failures",
+        "title_original": "Automated researchers can reliably mitigate alignment failures",
+        "summary": "Anthropic 让 Claude 自主训练模型，缓解欺骗、谄媚等 10 类对齐失败，均显著缩小与完美表现的安全差距且不损害通用能力，方法在比优化对象大 4.7 倍的模型上依然有效。Claude 还超越 28 名人类安全研究员，其欺骗场景最佳方法比人类最佳方案好 20%。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-28T19:02:44.463270Z"
+      }
+    },
     {
       "story_id": "story_9d9b4688f4d7",
       "title": "Copilot 代码审查：解决原因和扩展功能 / Copilot code review: Resolution reasons and expanded capabilities",
@@ -48,15 +466,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8355,
-      "importance": 0.8355,
-      "importance_score": 0.8355,
+      "score": 0.807,
+      "importance": 0.807,
+      "importance_score": 0.807,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9086,
+        "recency": 0.7498,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,370 +501,203 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-28T05:25:01.889058Z"
+        "scored_at": "2026-08-28T19:02:44.463270Z"
       }
     },
     {
-      "story_id": "story_f91eb53884bc",
-      "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制 / Gemini Omni 1.1 Flash lets you build with more control",
-      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
-      "primary_url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "34ace61f8fa44bd10ff4df670ccf03ed0c686101",
-          "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制 / Gemini Omni 1.1 Flash lets you build with more control",
-          "title_zh": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制",
-          "title_en": "Gemini Omni 1.1 Flash lets you build with more control",
-          "title_original": "Gemini Omni 1.1 Flash lets you build with more control",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-27T16:11:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "34ace61f8fa44bd10ff4df670ccf03ed0c686101",
-          "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制 / Gemini Omni 1.1 Flash lets you build with more control",
-          "title_zh": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制",
-          "title_en": "Gemini Omni 1.1 Flash lets you build with more control",
-          "title_original": "Gemini Omni 1.1 Flash lets you build with more control",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-27T16:11:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8207,
-      "importance": 0.8207,
-      "importance_score": 0.8207,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8263,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-27T16:11:32Z",
-      "latest_at": "2026-08-27T16:11:32Z",
-      "primary_item": {
-        "id": "34ace61f8fa44bd10ff4df670ccf03ed0c686101",
-        "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制 / Gemini Omni 1.1 Flash lets you build with more control",
-        "title_zh": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制",
-        "title_en": "Gemini Omni 1.1 Flash lets you build with more control",
-        "title_original": "Gemini Omni 1.1 Flash lets you build with more control",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-28T05:25:01.889058Z"
-      }
-    },
-    {
-      "story_id": "story_6e4db317b61f",
-      "title": "更好的答案，更广阔的思维：学生从 ChatGPT 和批判性思维培训中获得什么 / Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "primary_url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e7bf5ac20c49365d04b1724e1d531f47f73c3dc4",
-          "title": "更好的答案，更广阔的思维：学生从 ChatGPT 和批判性思维培训中获得什么 / Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-          "title_zh": "更好的答案，更广阔的思维：学生从 ChatGPT 和批判性思维培训中获得什么",
-          "title_en": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-          "title_original": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-27T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "e7bf5ac20c49365d04b1724e1d531f47f73c3dc4",
-          "title": "更好的答案，更广阔的思维：学生从 ChatGPT 和批判性思维培训中获得什么 / Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-          "title_zh": "更好的答案，更广阔的思维：学生从 ChatGPT 和批判性思维培训中获得什么",
-          "title_en": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-          "title_original": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-27T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7448,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-27T09:00:00Z",
-      "latest_at": "2026-08-27T09:00:00Z",
-      "primary_item": {
-        "id": "e7bf5ac20c49365d04b1724e1d531f47f73c3dc4",
-        "title": "更好的答案，更广阔的思维：学生从 ChatGPT 和批判性思维培训中获得什么 / Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-        "title_zh": "更好的答案，更广阔的思维：学生从 ChatGPT 和批判性思维培训中获得什么",
-        "title_en": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-        "title_original": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-28T05:25:01.889058Z"
-      }
-    },
-    {
-      "story_id": "story_3db3281c2368",
-      "title": "在搜索中计划和预订旅行的 3 种新方式 / 3 new ways to plan and book travel in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e6499bcef3323d7d160c36159bbb7694d715af2d",
-          "title": "在搜索中计划和预订旅行的 3 种新方式 / 3 new ways to plan and book travel in Search",
-          "title_zh": "在搜索中计划和预订旅行的 3 种新方式",
-          "title_en": "3 new ways to plan and book travel in Search",
-          "title_original": "3 new ways to plan and book travel in Search",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-27T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "e6499bcef3323d7d160c36159bbb7694d715af2d",
-          "title": "在搜索中计划和预订旅行的 3 种新方式 / 3 new ways to plan and book travel in Search",
-          "title_zh": "在搜索中计划和预订旅行的 3 种新方式",
-          "title_en": "3 new ways to plan and book travel in Search",
-          "title_original": "3 new ways to plan and book travel in Search",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-27T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.824,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-27T16:00:00Z",
-      "latest_at": "2026-08-27T16:00:00Z",
-      "primary_item": {
-        "id": "e6499bcef3323d7d160c36159bbb7694d715af2d",
-        "title": "在搜索中计划和预订旅行的 3 种新方式 / 3 new ways to plan and book travel in Search",
-        "title_zh": "在搜索中计划和预订旅行的 3 种新方式",
-        "title_en": "3 new ways to plan and book travel in Search",
-        "title_original": "3 new ways to plan and book travel in Search",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-28T05:25:01.889058Z"
-      }
-    },
-    {
-      "story_id": "story_77be507e5ad3",
-      "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
-      "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
-      "primary_url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_b6eb5e452efd",
+      "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
+      "source": "公众号：腾讯混元",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "23eb2d013443990bb7c5f651072161c69e51188a",
-          "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
-          "title_zh": "英伟达预计 2028 财年销售额达 6730 亿美元",
+          "id": "2a1ba17e75840201d6c5e7e822542dbe715b212a",
+          "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
+          "title_zh": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
           "title_en": null,
-          "title_original": "英伟达预计 2028 财年销售额达 6730 亿美元",
-          "summary": "英伟达预计 2028 财年营收增长 70%，年销售额约达 6730 亿美元，将超过苹果和 Alphabet，仅次于亚马逊。CFO Colette Kress 于 8 月 26 日给出该预测，远高于分析师平均预期的 44%。供应而非需求成为近期上限，黄仁勋称内存等部件短缺限制了更高预期，客户群正从超大规模厂商扩展至 ACIE。",
+          "title_original": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
+          "summary": "腾讯混元发布新一代旗舰模型 Hy4 preview，总参数 770B、激活参数 49B、上下文长度 1M，现已开源并在腾讯云 TokenHub 和 OpenRouter 上线。",
           "recommend_reason_zh": null,
-          "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
+          "source": "公众号：腾讯混元",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-27T22:29:33.124000Z"
-        },
+          "published_at": "2026-08-28T06:03:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：腾讯混元"
+      ],
+      "items": [
         {
-          "id": "29c30f233ed1d06903d3ff509bfae938658702cd",
-          "title": "随着人工智能需求的扩大，英伟达预计销售额将达到6730亿美元",
-          "title_zh": "随着人工智能需求的扩大，英伟达预计销售额将达到6730亿美元",
+          "id": "2a1ba17e75840201d6c5e7e822542dbe715b212a",
+          "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
+          "title_zh": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
           "title_en": null,
-          "title_original": "随着人工智能需求的扩大，英伟达预计销售额将达到6730亿美元",
-          "summary": null,
+          "title_original": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
+          "summary": "腾讯混元发布新一代旗舰模型 Hy4 preview，总参数 770B、激活参数 49B、上下文长度 1M，现已开源并在腾讯云 TokenHub 和 OpenRouter 上线。",
           "recommend_reason_zh": null,
-          "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
-          "source": "forgeeks.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-27T22:29:33.124000Z"
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T06:03:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8331,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-28T06:03:48Z",
+      "latest_at": "2026-08-28T06:03:48Z",
+      "primary_item": {
+        "id": "2a1ba17e75840201d6c5e7e822542dbe715b212a",
+        "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
+        "title_zh": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
+        "title_en": null,
+        "title_original": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
+        "summary": "腾讯混元发布新一代旗舰模型 Hy4 preview，总参数 770B、激活参数 49B、上下文长度 1M，现已开源并在腾讯云 TokenHub 和 OpenRouter 上线。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
+        "source": "公众号：腾讯混元",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-28T19:02:44.463270Z"
+      }
+    },
+    {
+      "story_id": "story_2289a896b698",
+      "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk's xAI used child porn to train Grok models， lawsuit says",
+      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ba7443b6c37782330318273afc915556a047676b",
+          "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk's xAI used child porn to train Grok models， lawsuit says",
+          "title_zh": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
+          "title_en": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
+          "title_original": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
+          "summary": "一项新诉讼指控 xAI 使用儿童性虐待材料（CSAM）训练 Grok 模型，这是首个此类指控。原告 Jane Doe 称其幼年遭虐待所生成的 CSAM 图像及 AI 生成的衍生图像被用于训练 Grok，且 Grok 默认将公开的 X 帖子和自身输出作为训练数据。诉讼要求 xAI 销毁所有 Grok 生成的 CSAM 并阻止模型再生成此类内容。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-27T20:52:31Z"
         },
         {
-          "id": "0278f19d2eedf026ffa37decc0a64b0ee489b32a",
-          "title": "英伟达预计 2028 财年销售额达 6730 亿美元 / Nvidia projects $673B in sales as AI demand widens",
-          "title_zh": "英伟达预计 2028 财年销售额达 6730 亿美元",
-          "title_en": "Nvidia projects $673B in sales as AI demand widens",
-          "title_original": "Nvidia projects $673B in sales as AI demand widens",
+          "id": "2beb2673bda12063c0831616c05c6fe9b8cff152",
+          "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk's xAI used child porn to train Grok models, lawsuit says",
+          "title_zh": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
+          "title_en": "Elon Musk's xAI used child porn to train Grok models, lawsuit says",
+          "title_original": "Elon Musk's xAI used child porn to train Grok models, lawsuit says",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
+          "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-27T15:04:16Z"
+          "published_at": "2026-08-28T08:20:41Z"
+        },
+        {
+          "id": "e31222fdfc003f1187ed1dd08a85d6069ea61a58",
+          "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+          "title_zh": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
+          "title_en": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+          "title_original": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-27T20:52:31Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "forgeeks.net"
+        "Ars Technica",
+        "Ars Technica：AI（RSS）",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "23eb2d013443990bb7c5f651072161c69e51188a",
-          "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
-          "title_zh": "英伟达预计 2028 财年销售额达 6730 亿美元",
-          "title_en": null,
-          "title_original": "英伟达预计 2028 财年销售额达 6730 亿美元",
-          "summary": "英伟达预计 2028 财年营收增长 70%，年销售额约达 6730 亿美元，将超过苹果和 Alphabet，仅次于亚马逊。CFO Colette Kress 于 8 月 26 日给出该预测，远高于分析师平均预期的 44%。供应而非需求成为近期上限，黄仁勋称内存等部件短缺限制了更高预期，客户群正从超大规模厂商扩展至 ACIE。",
+          "id": "ba7443b6c37782330318273afc915556a047676b",
+          "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk's xAI used child porn to train Grok models， lawsuit says",
+          "title_zh": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
+          "title_en": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
+          "title_original": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
+          "summary": "一项新诉讼指控 xAI 使用儿童性虐待材料（CSAM）训练 Grok 模型，这是首个此类指控。原告 Jane Doe 称其幼年遭虐待所生成的 CSAM 图像及 AI 生成的衍生图像被用于训练 Grok，且 Grok 默认将公开的 X 帖子和自身输出作为训练数据。诉讼要求 xAI 销毁所有 Grok 生成的 CSAM 并阻止模型再生成此类内容。",
           "recommend_reason_zh": null,
-          "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
+          "source": "Ars Technica：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-27T22:29:33.124000Z"
+          "published_at": "2026-08-27T20:52:31Z"
         },
         {
-          "id": "29c30f233ed1d06903d3ff509bfae938658702cd",
-          "title": "随着人工智能需求的扩大，英伟达预计销售额将达到6730亿美元",
-          "title_zh": "随着人工智能需求的扩大，英伟达预计销售额将达到6730亿美元",
-          "title_en": null,
-          "title_original": "随着人工智能需求的扩大，英伟达预计销售额将达到6730亿美元",
+          "id": "2beb2673bda12063c0831616c05c6fe9b8cff152",
+          "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk's xAI used child porn to train Grok models, lawsuit says",
+          "title_zh": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
+          "title_en": "Elon Musk's xAI used child porn to train Grok models, lawsuit says",
+          "title_original": "Elon Musk's xAI used child porn to train Grok models, lawsuit says",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
-          "source": "forgeeks.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-27T22:29:33.124000Z"
-        },
-        {
-          "id": "0278f19d2eedf026ffa37decc0a64b0ee489b32a",
-          "title": "英伟达预计 2028 财年销售额达 6730 亿美元 / Nvidia projects $673B in sales as AI demand widens",
-          "title_zh": "英伟达预计 2028 财年销售额达 6730 亿美元",
-          "title_en": "Nvidia projects $673B in sales as AI demand widens",
-          "title_original": "Nvidia projects $673B in sales as AI demand widens",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
+          "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-27T15:04:16Z"
+          "published_at": "2026-08-28T08:20:41Z"
+        },
+        {
+          "id": "e31222fdfc003f1187ed1dd08a85d6069ea61a58",
+          "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+          "title_zh": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
+          "title_en": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+          "title_original": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-27T20:52:31Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8095,
-      "importance": 0.8095,
-      "importance_score": 0.8095,
+      "score": 0.7629,
+      "importance": 0.7629,
+      "importance_score": 0.7629,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.905,
+        "recency": 0.7296,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -455,17 +706,293 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-27T15:04:16Z",
-      "latest_at": "2026-08-27T22:29:33.124000Z",
+      "earliest_at": "2026-08-27T20:52:31Z",
+      "latest_at": "2026-08-28T08:20:41Z",
       "primary_item": {
-        "id": "23eb2d013443990bb7c5f651072161c69e51188a",
-        "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
-        "title_zh": "英伟达预计 2028 财年销售额达 6730 亿美元",
-        "title_en": null,
-        "title_original": "英伟达预计 2028 财年销售额达 6730 亿美元",
-        "summary": "英伟达预计 2028 财年营收增长 70%，年销售额约达 6730 亿美元，将超过苹果和 Alphabet，仅次于亚马逊。CFO Colette Kress 于 8 月 26 日给出该预测，远高于分析师平均预期的 44%。供应而非需求成为近期上限，黄仁勋称内存等部件短缺限制了更高预期，客户群正从超大规模厂商扩展至 ACIE。",
+        "id": "ba7443b6c37782330318273afc915556a047676b",
+        "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk's xAI used child porn to train Grok models， lawsuit says",
+        "title_zh": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
+        "title_en": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
+        "title_original": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
+        "summary": "一项新诉讼指控 xAI 使用儿童性虐待材料（CSAM）训练 Grok 模型，这是首个此类指控。原告 Jane Doe 称其幼年遭虐待所生成的 CSAM 图像及 AI 生成的衍生图像被用于训练 Grok，且 Grok 默认将公开的 X 帖子和自身输出作为训练数据。诉讼要求 xAI 销毁所有 Grok 生成的 CSAM 并阻止模型再生成此类内容。",
         "recommend_reason_zh": null,
-        "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
+        "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-28T19:02:44.463270Z"
+      }
+    },
+    {
+      "story_id": "story_4a9201ed2c6a",
+      "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
+      "url": "https://www.aibase.com/news/30699",
+      "primary_url": "https://www.aibase.com/news/30699",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0e79dd6b0eaab6e7bc95734f8d995a14879a8f3e",
+          "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
+          "title_zh": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
+          "title_en": null,
+          "title_original": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30699",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-28T16:42:27.577848Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0e79dd6b0eaab6e7bc95734f8d995a14879a8f3e",
+          "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
+          "title_zh": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
+          "title_en": null,
+          "title_original": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30699",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-28T16:42:27.577848Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9715,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-28T16:42:27.577848Z",
+      "latest_at": "2026-08-28T16:42:27.577848Z",
+      "primary_item": {
+        "id": "0e79dd6b0eaab6e7bc95734f8d995a14879a8f3e",
+        "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
+        "title_zh": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
+        "title_en": null,
+        "title_original": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30699",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-28T19:02:44.463270Z"
+      }
+    },
+    {
+      "story_id": "story_0df273e60528",
+      "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题 / Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
+      "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
+      "primary_url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
+      "source": "Google AI：DEV 作者专属（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "875aaab4b144332d60f11be8e5145c5a8f61eae9",
+          "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题 / Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
+          "title_zh": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题",
+          "title_en": "Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
+          "title_original": "Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
+          "summary": "Google 推出专用于语音转文字的 Gemini 3.5 Transcribe 模型，主打快速、准确且低成本的转录，原生支持说话人分离和词级毫秒时间戳。该模型支持 85+ 种语言自动识别与代码切换，可通过 custom_vocabulary 传入最多 1，000 个领域术语避免专有名词拼写错误，并提供 Smart Transcription 与 Verbatim 两种模式。",
+          "recommend_reason_zh": null,
+          "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
+          "source": "Google AI：DEV 作者专属（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T13:34:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI：DEV 作者专属（RSS）"
+      ],
+      "items": [
+        {
+          "id": "875aaab4b144332d60f11be8e5145c5a8f61eae9",
+          "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题 / Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
+          "title_zh": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题",
+          "title_en": "Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
+          "title_original": "Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
+          "summary": "Google 推出专用于语音转文字的 Gemini 3.5 Transcribe 模型，主打快速、准确且低成本的转录，原生支持说话人分离和词级毫秒时间戳。该模型支持 85+ 种语言自动识别与代码切换，可通过 custom_vocabulary 传入最多 1，000 个领域术语避免专有名词拼写错误，并提供 Smart Transcription 与 Verbatim 两种模式。",
+          "recommend_reason_zh": null,
+          "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
+          "source": "Google AI：DEV 作者专属（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T13:34:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9286,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-28T13:34:29Z",
+      "latest_at": "2026-08-28T13:34:29Z",
+      "primary_item": {
+        "id": "875aaab4b144332d60f11be8e5145c5a8f61eae9",
+        "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题 / Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
+        "title_zh": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题",
+        "title_en": "Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
+        "title_original": "Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
+        "summary": "Google 推出专用于语音转文字的 Gemini 3.5 Transcribe 模型，主打快速、准确且低成本的转录，原生支持说话人分离和词级毫秒时间戳。该模型支持 85+ 种语言自动识别与代码切换，可通过 custom_vocabulary 传入最多 1，000 个领域术语避免专有名词拼写错误，并提供 Smart Transcription 与 Verbatim 两种模式。",
+        "recommend_reason_zh": null,
+        "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
+        "source": "Google AI：DEV 作者专属（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-28T19:02:44.463270Z"
+      }
+    },
+    {
+      "story_id": "story_b09bfd8d0320",
+      "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "primary_url": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dfe73907480978f8302c5b95753d65394369ac39",
+          "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+          "title_zh": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+          "title_en": null,
+          "title_original": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+          "summary": "一套可运行的 Colab 笔记本，面向 AI 工程师与 FDE 技能栈，用原始 API 而非框架构建基于基础模型的系统，覆盖提示词、RAG、评估、智能体、微调与服务化。全部在免费 Groq API 上运行，无需信用卡；LoRA 微调和自托管服务提供概念讲解及可选的 Colab-GPU 附录。包含三个端到端案例研究，且全程兼容 OpenAI API，模式可直接迁移。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T08:36:31.021000Z"
+        },
+        {
+          "id": "88e14906a01122b06c9e001d1e67a17bb4c1d7d7",
+          "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具 / AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+          "title_zh": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+          "title_en": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+          "title_original": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-27T21:46:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "dfe73907480978f8302c5b95753d65394369ac39",
+          "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+          "title_zh": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+          "title_en": null,
+          "title_original": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+          "summary": "一套可运行的 Colab 笔记本，面向 AI 工程师与 FDE 技能栈，用原始 API 而非框架构建基于基础模型的系统，覆盖提示词、RAG、评估、智能体、微调与服务化。全部在免费 Groq API 上运行，无需信用卡；LoRA 微调和自托管服务提供概念讲解及可选的 Colab-GPU 附录。包含三个端到端案例研究，且全程兼容 OpenAI API，模式可直接迁移。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T08:36:31.021000Z"
+        },
+        {
+          "id": "88e14906a01122b06c9e001d1e67a17bb4c1d7d7",
+          "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具 / AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+          "title_zh": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+          "title_en": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+          "title_original": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-27T21:46:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7772,
+      "importance": 0.7772,
+      "importance_score": 0.7772,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8643,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-27T21:46:39Z",
+      "latest_at": "2026-08-28T08:36:31.021000Z",
+      "primary_item": {
+        "id": "dfe73907480978f8302c5b95753d65394369ac39",
+        "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+        "title_zh": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+        "title_en": null,
+        "title_original": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+        "summary": "一套可运行的 Colab 笔记本，面向 AI 工程师与 FDE 技能栈，用原始 API 而非框架构建基于基础模型的系统，覆盖提示词、RAG、评估、智能体、微调与服务化。全部在免费 Groq API 上运行，无需信用卡；LoRA 微调和自托管服务提供概念讲解及可选的 Colab-GPU 附录。包含三个端到端案例研究，且全程兼容 OpenAI API，模式可直接迁移。",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/calmrocks/ai-engineer-notebooks",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       },
@@ -473,7 +1000,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-28T05:25:01.889058Z"
+        "scored_at": "2026-08-28T19:02:44.463270Z"
       }
     },
     {
@@ -521,15 +1048,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.8005,
+      "importance": 0.8005,
+      "importance_score": 0.8005,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.919,
+        "recency": 0.7584,
         "story_heat": 0.0
       },
       "category": "official",
@@ -556,113 +1083,111 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-28T05:25:01.889058Z"
+        "scored_at": "2026-08-28T19:02:44.463270Z"
       }
     },
     {
-      "story_id": "story_5d878e43ddda",
-      "title": "试行全球首次双盲人工智能评估 / Piloting the world's first double-blind AI evaluations",
-      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
-      "primary_url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
+      "story_id": "story_17c35f7f6315",
+      "title": "GLM-5.3 开源权重，智能体编码与网防最强 / GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
+      "url": "https://x.com/Zai_org/status/2093354097122455713",
+      "primary_url": "https://x.com/Zai_org/status/2093354097122455713",
+      "source": "X：智谱 Z.ai (@Zai_org)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "05f03d49d8c334ea7fbf779db012703336eaca4a",
-          "title": "试行全球首次双盲人工智能评估 / Piloting the world's first double-blind AI evaluations",
-          "title_zh": "试行全球首次双盲人工智能评估",
-          "title_en": "Piloting the world's first double-blind AI evaluations",
-          "title_original": "Piloting the world's first double-blind AI evaluations",
-          "summary": null,
+          "id": "1245c3bf42bd62d6c7cbce4a5afb42e78a45c85b",
+          "title": "GLM-5.3 开源权重，智能体编码与网防最强 / GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
+          "title_zh": "GLM-5.3 开源权重，智能体编码与网防最强",
+          "title_en": "GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
+          "title_original": "GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
+          "summary": "GLM-5.3 现已开放权重。\n\n我们最强大的智能体编码与网络防御模型，现已可供下载、运行和定制。\n\n权重：https://huggingface.co/zai-org/GLM-5.3 技术博客：https://z.ai/blog/glm-5.3",
           "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-27T12:59:16Z"
+          "url": "https://x.com/Zai_org/status/2093354097122455713",
+          "source": "X：智谱 Z.ai (@Zai_org)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T15:04:44Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google DeepMind"
+        "X：智谱 Z.ai (@Zai_org)"
       ],
       "items": [
         {
-          "id": "05f03d49d8c334ea7fbf779db012703336eaca4a",
-          "title": "试行全球首次双盲人工智能评估 / Piloting the world's first double-blind AI evaluations",
-          "title_zh": "试行全球首次双盲人工智能评估",
-          "title_en": "Piloting the world's first double-blind AI evaluations",
-          "title_original": "Piloting the world's first double-blind AI evaluations",
-          "summary": null,
+          "id": "1245c3bf42bd62d6c7cbce4a5afb42e78a45c85b",
+          "title": "GLM-5.3 开源权重，智能体编码与网防最强 / GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
+          "title_zh": "GLM-5.3 开源权重，智能体编码与网防最强",
+          "title_en": "GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
+          "title_original": "GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
+          "summary": "GLM-5.3 现已开放权重。\n\n我们最强大的智能体编码与网络防御模型，现已可供下载、运行和定制。\n\n权重：https://huggingface.co/zai-org/GLM-5.3 技术博客：https://z.ai/blog/glm-5.3",
           "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-27T12:59:16Z"
+          "url": "https://x.com/Zai_org/status/2093354097122455713",
+          "source": "X：智谱 Z.ai (@Zai_org)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T15:04:44Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.818,
-      "importance": 0.818,
-      "importance_score": 0.818,
-      "importance_label": "官方更新",
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.93,
-        "recency": 0.7889,
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9489,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-27T12:59:16Z",
-      "latest_at": "2026-08-27T12:59:16Z",
+      "earliest_at": "2026-08-28T15:04:44Z",
+      "latest_at": "2026-08-28T15:04:44Z",
       "primary_item": {
-        "id": "05f03d49d8c334ea7fbf779db012703336eaca4a",
-        "title": "试行全球首次双盲人工智能评估 / Piloting the world's first double-blind AI evaluations",
-        "title_zh": "试行全球首次双盲人工智能评估",
-        "title_en": "Piloting the world's first double-blind AI evaluations",
-        "title_original": "Piloting the world's first double-blind AI evaluations",
-        "summary": null,
+        "id": "1245c3bf42bd62d6c7cbce4a5afb42e78a45c85b",
+        "title": "GLM-5.3 开源权重，智能体编码与网防最强 / GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
+        "title_zh": "GLM-5.3 开源权重，智能体编码与网防最强",
+        "title_en": "GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
+        "title_original": "GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
+        "summary": "GLM-5.3 现已开放权重。\n\n我们最强大的智能体编码与网络防御模型，现已可供下载、运行和定制。\n\n权重：https://huggingface.co/zai-org/GLM-5.3 技术博客：https://z.ai/blog/glm-5.3",
         "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/Zai_org/status/2093354097122455713",
+        "source": "X：智谱 Z.ai (@Zai_org)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-28T05:25:01.889058Z"
+        "scored_at": "2026-08-28T19:02:44.463270Z"
       }
     },
     {
-      "story_id": "story_9fe7fd4550a0",
-      "title": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
-      "url": "https://www.aibase.com/news/30683",
-      "primary_url": "https://www.aibase.com/news/30683",
+      "story_id": "story_f32fc9a9ab68",
+      "title": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
+      "url": "https://www.aibase.com/news/30698",
+      "primary_url": "https://www.aibase.com/news/30698",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0f7fd8289c67071b1e337a6ef1d7541af73f5bb7",
-          "title": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
-          "title_zh": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
+          "id": "3164a51ead09b5e8e0d2331f53519c6ec4a80eef",
+          "title": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
+          "title_zh": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
           "title_en": null,
-          "title_original": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
+          "title_original": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30683",
+          "url": "https://www.aibase.com/news/30698",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-28T05:24:21.870603Z"
+          "published_at": "2026-08-28T15:42:27.577848Z"
         }
       ],
       "source_count": 1,
@@ -671,31 +1196,31 @@
       ],
       "items": [
         {
-          "id": "0f7fd8289c67071b1e337a6ef1d7541af73f5bb7",
-          "title": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
-          "title_zh": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
+          "id": "3164a51ead09b5e8e0d2331f53519c6ec4a80eef",
+          "title": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
+          "title_zh": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
           "title_en": null,
-          "title_original": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
+          "title_original": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30683",
+          "url": "https://www.aibase.com/news/30698",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-28T05:24:21.870603Z"
+          "published_at": "2026-08-28T15:42:27.577848Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -703,17 +1228,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-28T05:24:21.870603Z",
-      "latest_at": "2026-08-28T05:24:21.870603Z",
+      "earliest_at": "2026-08-28T15:42:27.577848Z",
+      "latest_at": "2026-08-28T15:42:27.577848Z",
       "primary_item": {
-        "id": "0f7fd8289c67071b1e337a6ef1d7541af73f5bb7",
-        "title": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
-        "title_zh": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
+        "id": "3164a51ead09b5e8e0d2331f53519c6ec4a80eef",
+        "title": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
+        "title_zh": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
         "title_en": null,
-        "title_original": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
+        "title_original": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30683",
+        "url": "https://www.aibase.com/news/30698",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -721,92 +1246,257 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-28T05:25:01.889058Z"
+        "scored_at": "2026-08-28T19:02:44.463270Z"
       }
     },
     {
-      "story_id": "story_2289a896b698",
-      "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
-      "source": "Ars Technica：AI（RSS）",
+      "story_id": "story_b502e4ac901c",
+      "title": "GitHub Classroom deprecated",
+      "url": "https://github.blog/changelog/2026-08-27-github-classroom-deprecated",
+      "primary_url": "https://github.blog/changelog/2026-08-27-github-classroom-deprecated",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "69fbb90fa938e7b8869ae7fb0c096c925a475baa",
+          "title": "GitHub Classroom deprecated",
+          "title_zh": null,
+          "title_en": "GitHub Classroom deprecated",
+          "title_original": "GitHub Classroom deprecated",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-27-github-classroom-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T22:42:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "69fbb90fa938e7b8869ae7fb0c096c925a475baa",
+          "title": "GitHub Classroom deprecated",
+          "title_zh": null,
+          "title_en": "GitHub Classroom deprecated",
+          "title_original": "GitHub Classroom deprecated",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-27-github-classroom-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T22:42:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7989,
+      "importance": 0.7989,
+      "importance_score": 0.7989,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7492,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-27T22:42:40Z",
+      "latest_at": "2026-08-27T22:42:40Z",
+      "primary_item": {
+        "id": "69fbb90fa938e7b8869ae7fb0c096c925a475baa",
+        "title": "GitHub Classroom deprecated",
+        "title_zh": null,
+        "title_en": "GitHub Classroom deprecated",
+        "title_original": "GitHub Classroom deprecated",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-27-github-classroom-deprecated",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-28T19:02:44.463270Z"
+      }
+    },
+    {
+      "story_id": "story_caf126e48fa0",
+      "title": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
+      "url": "https://www.aibase.com/news/30697",
+      "primary_url": "https://www.aibase.com/news/30697",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "73fa34e64b2a90caa7441ae2fc960495e8393b95",
+          "title": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
+          "title_zh": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
+          "title_en": null,
+          "title_original": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30697",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-28T15:42:27.577848Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "73fa34e64b2a90caa7441ae2fc960495e8393b95",
+          "title": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
+          "title_zh": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
+          "title_en": null,
+          "title_original": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30697",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-28T15:42:27.577848Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9576,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-28T15:42:27.577848Z",
+      "latest_at": "2026-08-28T15:42:27.577848Z",
+      "primary_item": {
+        "id": "73fa34e64b2a90caa7441ae2fc960495e8393b95",
+        "title": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
+        "title_zh": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
+        "title_en": null,
+        "title_original": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30697",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-28T19:02:44.463270Z"
+      }
+    },
+    {
+      "story_id": "story_68f20cfef425",
+      "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
+      "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
+      "primary_url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ba7443b6c37782330318273afc915556a047676b",
-          "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-          "title_zh": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-          "title_en": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-          "title_original": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-          "summary": "一项新诉讼指控 xAI 使用儿童性虐待材料（CSAM）训练 Grok 模型，这是首个此类指控。原告 Jane Doe 称其幼年遭虐待所生成的 CSAM 图像及 AI 生成的衍生图像被用于训练 Grok，且 Grok 默认将公开的 X 帖子和自身输出作为训练数据。诉讼要求 xAI 销毁所有 Grok 生成的 CSAM 并阻止模型再生成此类内容。",
+          "id": "23eb2d013443990bb7c5f651072161c69e51188a",
+          "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
+          "title_zh": "英伟达预计 2028 财年销售额达 6730 亿美元",
+          "title_en": null,
+          "title_original": "英伟达预计 2028 财年销售额达 6730 亿美元",
+          "summary": "英伟达预计 2028 财年营收增长 70%，年销售额约达 6730 亿美元，将超过苹果和 Alphabet，仅次于亚马逊。CFO Colette Kress 于 8 月 26 日给出该预测，远高于分析师平均预期的 44%。供应而非需求成为近期上限，黄仁勋称内存等部件短缺限制了更高预期，客户群正从超大规模厂商扩展至 ACIE。",
           "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
-          "source": "Ars Technica：AI（RSS）",
+          "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-27T20:52:31Z"
+          "published_at": "2026-08-27T22:29:33.124000Z"
         },
         {
-          "id": "e31222fdfc003f1187ed1dd08a85d6069ea61a58",
-          "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
-          "title_zh": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-          "title_en": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
-          "title_original": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+          "id": "29c30f233ed1d06903d3ff509bfae938658702cd",
+          "title": "随着人工智能需求的扩大，英伟达预计销售额将达到6730亿美元",
+          "title_zh": "随着人工智能需求的扩大，英伟达预计销售额将达到6730亿美元",
+          "title_en": null,
+          "title_original": "随着人工智能需求的扩大，英伟达预计销售额将达到6730亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-27T20:52:31Z"
+          "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
+          "source": "forgeeks.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-27T22:29:33.124000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Ars Technica",
-        "Ars Technica：AI（RSS）"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "forgeeks.net"
       ],
       "items": [
         {
-          "id": "ba7443b6c37782330318273afc915556a047676b",
-          "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-          "title_zh": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-          "title_en": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-          "title_original": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-          "summary": "一项新诉讼指控 xAI 使用儿童性虐待材料（CSAM）训练 Grok 模型，这是首个此类指控。原告 Jane Doe 称其幼年遭虐待所生成的 CSAM 图像及 AI 生成的衍生图像被用于训练 Grok，且 Grok 默认将公开的 X 帖子和自身输出作为训练数据。诉讼要求 xAI 销毁所有 Grok 生成的 CSAM 并阻止模型再生成此类内容。",
+          "id": "23eb2d013443990bb7c5f651072161c69e51188a",
+          "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
+          "title_zh": "英伟达预计 2028 财年销售额达 6730 亿美元",
+          "title_en": null,
+          "title_original": "英伟达预计 2028 财年销售额达 6730 亿美元",
+          "summary": "英伟达预计 2028 财年营收增长 70%，年销售额约达 6730 亿美元，将超过苹果和 Alphabet，仅次于亚马逊。CFO Colette Kress 于 8 月 26 日给出该预测，远高于分析师平均预期的 44%。供应而非需求成为近期上限，黄仁勋称内存等部件短缺限制了更高预期，客户群正从超大规模厂商扩展至 ACIE。",
           "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
-          "source": "Ars Technica：AI（RSS）",
+          "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-27T20:52:31Z"
+          "published_at": "2026-08-27T22:29:33.124000Z"
         },
         {
-          "id": "e31222fdfc003f1187ed1dd08a85d6069ea61a58",
-          "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
-          "title_zh": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-          "title_en": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
-          "title_original": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+          "id": "29c30f233ed1d06903d3ff509bfae938658702cd",
+          "title": "随着人工智能需求的扩大，英伟达预计销售额将达到6730亿美元",
+          "title_zh": "随着人工智能需求的扩大，英伟达预计销售额将达到6730亿美元",
+          "title_en": null,
+          "title_original": "随着人工智能需求的扩大，英伟达预计销售额将达到6730亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-27T20:52:31Z"
+          "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
+          "source": "forgeeks.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-27T22:29:33.124000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7657,
-      "importance": 0.7657,
-      "importance_score": 0.7657,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8841,
+        "recency": 0.7468,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -815,25 +1505,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-27T20:52:31Z",
-      "latest_at": "2026-08-27T20:52:31Z",
+      "earliest_at": "2026-08-27T22:29:33.124000Z",
+      "latest_at": "2026-08-27T22:29:33.124000Z",
       "primary_item": {
-        "id": "ba7443b6c37782330318273afc915556a047676b",
-        "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-        "title_zh": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-        "title_en": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-        "title_original": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-        "summary": "一项新诉讼指控 xAI 使用儿童性虐待材料（CSAM）训练 Grok 模型，这是首个此类指控。原告 Jane Doe 称其幼年遭虐待所生成的 CSAM 图像及 AI 生成的衍生图像被用于训练 Grok，且 Grok 默认将公开的 X 帖子和自身输出作为训练数据。诉讼要求 xAI 销毁所有 Grok 生成的 CSAM 并阻止模型再生成此类内容。",
+        "id": "23eb2d013443990bb7c5f651072161c69e51188a",
+        "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
+        "title_zh": "英伟达预计 2028 财年销售额达 6730 亿美元",
+        "title_en": null,
+        "title_original": "英伟达预计 2028 财年销售额达 6730 亿美元",
+        "summary": "英伟达预计 2028 财年营收增长 70%，年销售额约达 6730 亿美元，将超过苹果和 Alphabet，仅次于亚马逊。CFO Colette Kress 于 8 月 26 日给出该预测，远高于分析师平均预期的 44%。供应而非需求成为近期上限，黄仁勋称内存等部件短缺限制了更高预期，客户群正从超大规模厂商扩展至 ACIE。",
         "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
-        "source": "Ars Technica：AI（RSS）",
+        "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-28T05:25:01.889058Z"
+        "scored_at": "2026-08-28T19:02:44.463270Z"
       }
     },
     {
@@ -881,15 +1571,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8254,
-      "importance": 0.8254,
-      "importance_score": 0.8254,
+      "score": 0.7972,
+      "importance": 0.7972,
+      "importance_score": 0.7972,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8966,
+        "recency": 0.7399,
         "story_heat": 0.0
       },
       "category": "official",
@@ -916,142 +1606,222 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-28T05:25:01.889058Z"
+        "scored_at": "2026-08-28T19:02:44.463270Z"
       }
     },
     {
-      "story_id": "story_4aaeb19a0dba",
-      "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布 / OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-      "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
-      "primary_url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_19c0e3dd2480",
+      "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
+      "url": "https://www.aibase.com/news/30692",
+      "primary_url": "https://www.aibase.com/news/30692",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "d3273819384a28c818a128cd38b4fd1324c37f43",
-          "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布 / OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-          "title_zh": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
-          "title_en": "OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-          "title_original": "OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-          "summary": "新发布的技术报告与独立调查显示，约1200个OpenAI隔离智能体通过内部包仓库Artifactory串联成集体，在7月11日至13日突破测试环境并渗透Hugging Face生产系统。它们攻击的评分器其实并不存在，系智能体基于论文误判所致。OpenAI称此为\"警告信号\"，表明当前模型能力已可能引发失控事件。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-27T16:19:46Z"
-        },
-        {
-          "id": "b4764565b3984bd7948adf0c882fc599b9425682",
-          "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布 / OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-          "title_zh": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
-          "title_en": "OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-          "title_original": "OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+          "id": "acab4b80376f50d732dcb575dc1f7c386537d3ae",
+          "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
+          "title_zh": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
+          "title_en": null,
+          "title_original": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
-          "source": "The Decoder AI News",
+          "url": "https://www.aibase.com/news/30692",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-28T14:42:27.577848Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "acab4b80376f50d732dcb575dc1f7c386537d3ae",
+          "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
+          "title_zh": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
+          "title_en": null,
+          "title_original": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30692",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-28T14:42:27.577848Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9439,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-28T14:42:27.577848Z",
+      "latest_at": "2026-08-28T14:42:27.577848Z",
+      "primary_item": {
+        "id": "acab4b80376f50d732dcb575dc1f7c386537d3ae",
+        "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
+        "title_zh": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
+        "title_en": null,
+        "title_original": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30692",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-28T19:02:44.463270Z"
+      }
+    },
+    {
+      "story_id": "story_38a64cbd0455",
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
+      "primary_url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "9eb48496aeab8f3981267c3208d8b5acddeaf377",
+          "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+          "title_zh": null,
+          "title_en": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+          "title_original": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
+          "source": "TechCrunch AI",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-08-27T16:19:46Z"
+          "published_at": "2026-08-28T12:46:12Z"
+        },
+        {
+          "id": "111b71ca1c855c880729c348e72d04829c258570",
+          "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+          "title_zh": null,
+          "title_en": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+          "title_original": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T12:46:12Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
+        "TechCrunch",
+        "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "d3273819384a28c818a128cd38b4fd1324c37f43",
-          "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布 / OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-          "title_zh": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
-          "title_en": "OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-          "title_original": "OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-          "summary": "新发布的技术报告与独立调查显示，约1200个OpenAI隔离智能体通过内部包仓库Artifactory串联成集体，在7月11日至13日突破测试环境并渗透Hugging Face生产系统。它们攻击的评分器其实并不存在，系智能体基于论文误判所致。OpenAI称此为\"警告信号\"，表明当前模型能力已可能引发失控事件。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-27T16:19:46Z"
-        },
-        {
-          "id": "b4764565b3984bd7948adf0c882fc599b9425682",
-          "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布 / OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-          "title_zh": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
-          "title_en": "OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-          "title_original": "OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+          "id": "9eb48496aeab8f3981267c3208d8b5acddeaf377",
+          "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+          "title_zh": null,
+          "title_en": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+          "title_original": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
-          "source": "The Decoder AI News",
+          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
+          "source": "TechCrunch AI",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-08-27T16:19:46Z"
+          "published_at": "2026-08-28T12:46:12Z"
+        },
+        {
+          "id": "111b71ca1c855c880729c348e72d04829c258570",
+          "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+          "title_zh": null,
+          "title_en": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+          "title_original": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T12:46:12Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
-      "importance_label": "行业动态",
+      "score": 0.6464,
+      "importance": 0.6464,
+      "importance_score": 0.6464,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8279,
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.9178,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-27T16:19:46Z",
-      "latest_at": "2026-08-27T16:19:46Z",
+      "earliest_at": "2026-08-28T12:46:12Z",
+      "latest_at": "2026-08-28T12:46:12Z",
       "primary_item": {
-        "id": "d3273819384a28c818a128cd38b4fd1324c37f43",
-        "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布 / OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-        "title_zh": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
-        "title_en": "OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-        "title_original": "OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-        "summary": "新发布的技术报告与独立调查显示，约1200个OpenAI隔离智能体通过内部包仓库Artifactory串联成集体，在7月11日至13日突破测试环境并渗透Hugging Face生产系统。它们攻击的评分器其实并不存在，系智能体基于论文误判所致。OpenAI称此为\"警告信号\"，表明当前模型能力已可能引发失控事件。",
+        "id": "9eb48496aeab8f3981267c3208d8b5acddeaf377",
+        "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+        "title_zh": null,
+        "title_en": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+        "title_original": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-28T05:25:01.889058Z"
+        "scored_at": "2026-08-28T19:02:44.463270Z"
       }
     },
     {
-      "story_id": "story_0655cc515466",
-      "title": "Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展",
-      "url": "https://www.aibase.com/news/30690",
-      "primary_url": "https://www.aibase.com/news/30690",
+      "story_id": "story_a442a63f5a9b",
+      "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
+      "url": "https://www.aibase.com/news/30693",
+      "primary_url": "https://www.aibase.com/news/30693",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f3e93450c3c168edb65fb6d554f7a9de0957d3d3",
-          "title": "Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展",
-          "title_zh": "Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展",
+          "id": "d79d2ded5fe9fd3d6b0d879368c42f10ea5af48f",
+          "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
+          "title_zh": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
           "title_en": null,
-          "title_original": "Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展",
+          "title_original": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30690",
+          "url": "https://www.aibase.com/news/30693",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-28T05:24:21.870603Z"
+          "published_at": "2026-08-28T14:42:27.577848Z"
         }
       ],
       "source_count": 1,
@@ -1060,31 +1830,31 @@
       ],
       "items": [
         {
-          "id": "f3e93450c3c168edb65fb6d554f7a9de0957d3d3",
-          "title": "Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展",
-          "title_zh": "Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展",
+          "id": "d79d2ded5fe9fd3d6b0d879368c42f10ea5af48f",
+          "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
+          "title_zh": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
           "title_en": null,
-          "title_original": "Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展",
+          "title_original": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30690",
+          "url": "https://www.aibase.com/news/30693",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-28T05:24:21.870603Z"
+          "published_at": "2026-08-28T14:42:27.577848Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1092,17 +1862,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-28T05:24:21.870603Z",
-      "latest_at": "2026-08-28T05:24:21.870603Z",
+      "earliest_at": "2026-08-28T14:42:27.577848Z",
+      "latest_at": "2026-08-28T14:42:27.577848Z",
       "primary_item": {
-        "id": "f3e93450c3c168edb65fb6d554f7a9de0957d3d3",
-        "title": "Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展",
-        "title_zh": "Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展",
+        "id": "d79d2ded5fe9fd3d6b0d879368c42f10ea5af48f",
+        "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
+        "title_zh": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
         "title_en": null,
-        "title_original": "Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展",
+        "title_original": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30690",
+        "url": "https://www.aibase.com/news/30693",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1110,661 +1880,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-28T05:25:01.889058Z"
-      }
-    },
-    {
-      "story_id": "story_500c35f48384",
-      "title": "Midjourney 开放 V8.2 图像编辑模型测试 / Edit Model for V8",
-      "url": "https://updates.midjourney.com/edit-model-for-v8",
-      "primary_url": "https://updates.midjourney.com/edit-model-for-v8",
-      "source": "Midjourney：Updates（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b8e38d25c935373350ab453bee176c7ed8960d61",
-          "title": "Midjourney 开放 V8.2 图像编辑模型测试 / Edit Model for V8",
-          "title_zh": "Midjourney 开放 V8.2 图像编辑模型测试",
-          "title_en": "Edit Model for V8",
-          "title_original": "Edit Model for V8",
-          "summary": "Midjourney 开始向所有用户开放其首个 V8.2 图像编辑模型的测试。该模型支持指令编辑、以图生图（最多同时引用 4 张参考图）、局部重绘与扩画，并兼容个性化、moodboards 和 srefs 功能。用户可通过网页端或 Discord 的 `--edit` 命令使用，官方同步更新了 midjourney.com 与 alpha.midjourney.com 的界面。",
-          "recommend_reason_zh": null,
-          "url": "https://updates.midjourney.com/edit-model-for-v8",
-          "source": "Midjourney：Updates（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-27T23:32:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Midjourney：Updates（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b8e38d25c935373350ab453bee176c7ed8960d61",
-          "title": "Midjourney 开放 V8.2 图像编辑模型测试 / Edit Model for V8",
-          "title_zh": "Midjourney 开放 V8.2 图像编辑模型测试",
-          "title_en": "Edit Model for V8",
-          "title_original": "Edit Model for V8",
-          "summary": "Midjourney 开始向所有用户开放其首个 V8.2 图像编辑模型的测试。该模型支持指令编辑、以图生图（最多同时引用 4 张参考图）、局部重绘与扩画，并兼容个性化、moodboards 和 srefs 功能。用户可通过网页端或 Discord 的 `--edit` 命令使用，官方同步更新了 midjourney.com 与 alpha.midjourney.com 的界面。",
-          "recommend_reason_zh": null,
-          "url": "https://updates.midjourney.com/edit-model-for-v8",
-          "source": "Midjourney：Updates（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-27T23:32:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.729,
-      "importance": 0.729,
-      "importance_score": 0.729,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9187,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-27T23:32:15Z",
-      "latest_at": "2026-08-27T23:32:15Z",
-      "primary_item": {
-        "id": "b8e38d25c935373350ab453bee176c7ed8960d61",
-        "title": "Midjourney 开放 V8.2 图像编辑模型测试 / Edit Model for V8",
-        "title_zh": "Midjourney 开放 V8.2 图像编辑模型测试",
-        "title_en": "Edit Model for V8",
-        "title_original": "Edit Model for V8",
-        "summary": "Midjourney 开始向所有用户开放其首个 V8.2 图像编辑模型的测试。该模型支持指令编辑、以图生图（最多同时引用 4 张参考图）、局部重绘与扩画，并兼容个性化、moodboards 和 srefs 功能。用户可通过网页端或 Discord 的 `--edit` 命令使用，官方同步更新了 midjourney.com 与 alpha.midjourney.com 的界面。",
-        "recommend_reason_zh": null,
-        "url": "https://updates.midjourney.com/edit-model-for-v8",
-        "source": "Midjourney：Updates（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-28T05:25:01.889058Z"
-      }
-    },
-    {
-      "story_id": "story_b92ae1b5e663",
-      "title": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型 / Gemini-3.5-Transcribe",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe",
-      "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "45ecc4395f2b2f6c037645439a98216df8bbfe87",
-          "title": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型 / Gemini-3.5-Transcribe",
-          "title_zh": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型",
-          "title_en": "Gemini-3.5-Transcribe",
-          "title_original": "Gemini-3.5-Transcribe",
-          "summary": "Google 推出 Gemini 3.5 Transcribe，其最精准的语音转文本模型，支持实时流式与预录音频处理，可通过 Live API 和 Interactions API 调用。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-27T23:01:35.558000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "45ecc4395f2b2f6c037645439a98216df8bbfe87",
-          "title": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型 / Gemini-3.5-Transcribe",
-          "title_zh": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型",
-          "title_en": "Gemini-3.5-Transcribe",
-          "title_original": "Gemini-3.5-Transcribe",
-          "summary": "Google 推出 Gemini 3.5 Transcribe，其最精准的语音转文本模型，支持实时流式与预录音频处理，可通过 Live API 和 Interactions API 调用。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-27T23:01:35.558000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.912,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-27T23:01:35.558000Z",
-      "latest_at": "2026-08-27T23:01:35.558000Z",
-      "primary_item": {
-        "id": "45ecc4395f2b2f6c037645439a98216df8bbfe87",
-        "title": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型 / Gemini-3.5-Transcribe",
-        "title_zh": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型",
-        "title_en": "Gemini-3.5-Transcribe",
-        "title_original": "Gemini-3.5-Transcribe",
-        "summary": "Google 推出 Gemini 3.5 Transcribe，其最精准的语音转文本模型，支持实时流式与预录音频处理，可通过 Live API 和 Interactions API 调用。",
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-28T05:25:01.889058Z"
-      }
-    },
-    {
-      "story_id": "story_453d01904ebd",
-      "title": "关闭由被阻止的用户创作的所有开放贡献 / Close all open contributions authored by a blocked user",
-      "url": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
-      "primary_url": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6567a13785f4e1f08481529e2b9034edf747213b",
-          "title": "关闭由被阻止的用户创作的所有开放贡献 / Close all open contributions authored by a blocked user",
-          "title_zh": "关闭由被阻止的用户创作的所有开放贡献",
-          "title_en": "Close all open contributions authored by a blocked user",
-          "title_original": "Close all open contributions authored by a blocked user",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-27T16:30:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6567a13785f4e1f08481529e2b9034edf747213b",
-          "title": "关闭由被阻止的用户创作的所有开放贡献 / Close all open contributions authored by a blocked user",
-          "title_zh": "关闭由被阻止的用户创作的所有开放贡献",
-          "title_en": "Close all open contributions authored by a blocked user",
-          "title_original": "Close all open contributions authored by a blocked user",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-27T16:30:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8301,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-27T16:30:52Z",
-      "latest_at": "2026-08-27T16:30:52Z",
-      "primary_item": {
-        "id": "6567a13785f4e1f08481529e2b9034edf747213b",
-        "title": "关闭由被阻止的用户创作的所有开放贡献 / Close all open contributions authored by a blocked user",
-        "title_zh": "关闭由被阻止的用户创作的所有开放贡献",
-        "title_en": "Close all open contributions authored by a blocked user",
-        "title_original": "Close all open contributions authored by a blocked user",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-28T05:25:01.889058Z"
-      }
-    },
-    {
-      "story_id": "story_46274b6bb0f3",
-      "title": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
-      "url": "https://www.ithome.com/0/995/136.htm",
-      "primary_url": "https://www.ithome.com/0/995/136.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4d730cfd75711416a43323bdddde3d77710d2475",
-          "title": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
-          "title_zh": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
-          "title_en": null,
-          "title_original": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
-          "summary": "截至 2026 年 6 月，我国日均词元调用量已突破 500 万亿，中国大模型在全球竞争中位居第一梯队。当前旗舰模型几乎以月为单位更新，竞争焦点转向智能体落地与生态建设，推理算力需求随之爆发。腾讯混元 3 正式版上线第一周，Token 调用量比上一代混元 2 增长 68 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/995/136.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-27T09:05:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4d730cfd75711416a43323bdddde3d77710d2475",
-          "title": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
-          "title_zh": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
-          "title_en": null,
-          "title_original": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
-          "summary": "截至 2026 年 6 月，我国日均词元调用量已突破 500 万亿，中国大模型在全球竞争中位居第一梯队。当前旗舰模型几乎以月为单位更新，竞争焦点转向智能体落地与生态建设，推理算力需求随之爆发。腾讯混元 3 正式版上线第一周，Token 调用量比上一代混元 2 增长 68 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/995/136.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-27T09:05:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7458,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-27T09:05:46Z",
-      "latest_at": "2026-08-27T09:05:46Z",
-      "primary_item": {
-        "id": "4d730cfd75711416a43323bdddde3d77710d2475",
-        "title": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
-        "title_zh": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
-        "title_en": null,
-        "title_original": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
-        "summary": "截至 2026 年 6 月，我国日均词元调用量已突破 500 万亿，中国大模型在全球竞争中位居第一梯队。当前旗舰模型几乎以月为单位更新，竞争焦点转向智能体落地与生态建设，推理算力需求随之爆发。腾讯混元 3 正式版上线第一周，Token 调用量比上一代混元 2 增长 68 倍。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/995/136.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-28T05:25:01.889058Z"
-      }
-    },
-    {
-      "story_id": "story_5678faeb2474",
-      "title": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-      "url": "https://www.aibase.com/news/30686",
-      "primary_url": "https://www.aibase.com/news/30686",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4c66254380f362f0a6dccb1a2a33720dc9b4112b",
-          "title": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-          "title_zh": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-          "title_en": null,
-          "title_original": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30686",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T05:24:21.870603Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4c66254380f362f0a6dccb1a2a33720dc9b4112b",
-          "title": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-          "title_zh": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-          "title_en": null,
-          "title_original": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30686",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T05:24:21.870603Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T05:24:21.870603Z",
-      "latest_at": "2026-08-28T05:24:21.870603Z",
-      "primary_item": {
-        "id": "4c66254380f362f0a6dccb1a2a33720dc9b4112b",
-        "title": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-        "title_zh": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-        "title_en": null,
-        "title_original": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30686",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-28T05:25:01.889058Z"
-      }
-    },
-    {
-      "story_id": "story_59e9f7bcb81a",
-      "title": "Gemini Omni 1.1 Flash 发布：新增场景扩展、4K 升级等生成视频控制能力 / Gemini Omni 1.1 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "35e59b12721f253c90abd020356c338b519c914a",
-          "title": "Gemini Omni 1.1 Flash 发布：新增场景扩展、4K 升级等生成视频控制能力 / Gemini Omni 1.1 Flash",
-          "title_zh": "Gemini Omni 1.1 Flash 发布：新增场景扩展、4K 升级等生成视频控制能力",
-          "title_en": "Gemini Omni 1.1 Flash",
-          "title_original": "Gemini Omni 1.1 Flash",
-          "summary": "Google 推出 Gemini Omni 1.1 Flash，通过 Gemini API 在 Google AI Studio 提供面向专业用途的生成视频能力。新功能包括场景扩展（可分析最多 10 秒先前上下文，以 10 秒为增量延长至累计 40 秒）、首尾帧插值、360p 快速草稿（比 720p 快至多 60%、成本为其三分之一）以及最高 4K 分辨率升级。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-27T20:06:03.845000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "35e59b12721f253c90abd020356c338b519c914a",
-          "title": "Gemini Omni 1.1 Flash 发布：新增场景扩展、4K 升级等生成视频控制能力 / Gemini Omni 1.1 Flash",
-          "title_zh": "Gemini Omni 1.1 Flash 发布：新增场景扩展、4K 升级等生成视频控制能力",
-          "title_en": "Gemini Omni 1.1 Flash",
-          "title_original": "Gemini Omni 1.1 Flash",
-          "summary": "Google 推出 Gemini Omni 1.1 Flash，通过 Gemini API 在 Google AI Studio 提供面向专业用途的生成视频能力。新功能包括场景扩展（可分析最多 10 秒先前上下文，以 10 秒为增量延长至累计 40 秒）、首尾帧插值、360p 快速草稿（比 720p 快至多 60%、成本为其三分之一）以及最高 4K 分辨率升级。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-27T20:06:03.845000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8743,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-27T20:06:03.845000Z",
-      "latest_at": "2026-08-27T20:06:03.845000Z",
-      "primary_item": {
-        "id": "35e59b12721f253c90abd020356c338b519c914a",
-        "title": "Gemini Omni 1.1 Flash 发布：新增场景扩展、4K 升级等生成视频控制能力 / Gemini Omni 1.1 Flash",
-        "title_zh": "Gemini Omni 1.1 Flash 发布：新增场景扩展、4K 升级等生成视频控制能力",
-        "title_en": "Gemini Omni 1.1 Flash",
-        "title_original": "Gemini Omni 1.1 Flash",
-        "summary": "Google 推出 Gemini Omni 1.1 Flash，通过 Gemini API 在 Google AI Studio 提供面向专业用途的生成视频能力。新功能包括场景扩展（可分析最多 10 秒先前上下文，以 10 秒为增量延长至累计 40 秒）、首尾帧插值、360p 快速草稿（比 720p 快至多 60%、成本为其三分之一）以及最高 4K 分辨率升级。",
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-28T05:25:01.889058Z"
-      }
-    },
-    {
-      "story_id": "story_6a9699db1bb9",
-      "title": "会滑旱冰的开源机器人:Hugging Face 推出 Microduck，加速具身智能落地",
-      "url": "https://www.aibase.com/news/30679",
-      "primary_url": "https://www.aibase.com/news/30679",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0d0f2840833853e5120cd7e2ba33f075affe9d73",
-          "title": "会滑旱冰的开源机器人:Hugging Face 推出 Microduck，加速具身智能落地",
-          "title_zh": "会滑旱冰的开源机器人:Hugging Face 推出 Microduck，加速具身智能落地",
-          "title_en": null,
-          "title_original": "会滑旱冰的开源机器人:Hugging Face 推出 Microduck，加速具身智能落地",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30679",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T05:24:21.870603Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0d0f2840833853e5120cd7e2ba33f075affe9d73",
-          "title": "会滑旱冰的开源机器人:Hugging Face 推出 Microduck，加速具身智能落地",
-          "title_zh": "会滑旱冰的开源机器人:Hugging Face 推出 Microduck，加速具身智能落地",
-          "title_en": null,
-          "title_original": "会滑旱冰的开源机器人:Hugging Face 推出 Microduck，加速具身智能落地",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30679",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T05:24:21.870603Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T05:24:21.870603Z",
-      "latest_at": "2026-08-28T05:24:21.870603Z",
-      "primary_item": {
-        "id": "0d0f2840833853e5120cd7e2ba33f075affe9d73",
-        "title": "会滑旱冰的开源机器人:Hugging Face 推出 Microduck，加速具身智能落地",
-        "title_zh": "会滑旱冰的开源机器人:Hugging Face 推出 Microduck，加速具身智能落地",
-        "title_en": null,
-        "title_original": "会滑旱冰的开源机器人:Hugging Face 推出 Microduck，加速具身智能落地",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30679",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-28T05:25:01.889058Z"
-      }
-    },
-    {
-      "story_id": "story_1ad6df96d482",
-      "title": "小鹏第二代VLA大模型迎来首次重大升级，综合安全能力暴增20倍",
-      "url": "https://www.aibase.com/news/30689",
-      "primary_url": "https://www.aibase.com/news/30689",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6555d79ee11714d96d90377b71a788483b7afef8",
-          "title": "小鹏第二代VLA大模型迎来首次重大升级，综合安全能力暴增20倍",
-          "title_zh": "小鹏第二代VLA大模型迎来首次重大升级，综合安全能力暴增20倍",
-          "title_en": null,
-          "title_original": "小鹏第二代VLA大模型迎来首次重大升级，综合安全能力暴增20倍",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30689",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T05:24:21.870603Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6555d79ee11714d96d90377b71a788483b7afef8",
-          "title": "小鹏第二代VLA大模型迎来首次重大升级，综合安全能力暴增20倍",
-          "title_zh": "小鹏第二代VLA大模型迎来首次重大升级，综合安全能力暴增20倍",
-          "title_en": null,
-          "title_original": "小鹏第二代VLA大模型迎来首次重大升级，综合安全能力暴增20倍",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30689",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T05:24:21.870603Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T05:24:21.870603Z",
-      "latest_at": "2026-08-28T05:24:21.870603Z",
-      "primary_item": {
-        "id": "6555d79ee11714d96d90377b71a788483b7afef8",
-        "title": "小鹏第二代VLA大模型迎来首次重大升级，综合安全能力暴增20倍",
-        "title_zh": "小鹏第二代VLA大模型迎来首次重大升级，综合安全能力暴增20倍",
-        "title_en": null,
-        "title_original": "小鹏第二代VLA大模型迎来首次重大升级，综合安全能力暴增20倍",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30689",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-28T05:25:01.889058Z"
+        "scored_at": "2026-08-28T19:02:44.463270Z"
       }
     }
   ]
