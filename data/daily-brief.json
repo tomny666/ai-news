@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-08-29T09:03:15.546750Z",
+  "generated_at": "2026-08-29T14:28:51.537862Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 14,
   "items": [
+    {
+      "story_id": "story_ff4f232dd5ce",
+      "title": "Codex CLI 0.151.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f98e6d3f28314f72c32272040c8ebf3ac854f556",
+          "title": "Codex CLI 0.151.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.151.0",
+          "title_original": "Codex CLI 0.151.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-29T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "f98e6d3f28314f72c32272040c8ebf3ac854f556",
+          "title": "Codex CLI 0.151.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.151.0",
+          "title_original": "Codex CLI 0.151.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-29T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.832,
+      "importance": 0.832,
+      "importance_score": 0.832,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8113,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-29T00:00:00Z",
+      "latest_at": "2026-08-29T00:00:00Z",
+      "primary_item": {
+        "id": "f98e6d3f28314f72c32272040c8ebf3ac854f556",
+        "title": "Codex CLI 0.151.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.151.0",
+        "title_original": "Codex CLI 0.151.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-29T14:54:20.142591Z"
+      }
+    },
     {
       "story_id": "story_68a34bcc53e0",
       "title": "GitHub Copilot in Visual Studio — August update",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8331,
+        "recency": 0.7703,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:32:01.987331Z"
+        "scored_at": "2026-08-29T14:54:20.142591Z"
       }
     },
     {
@@ -189,15 +272,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8197,
-      "importance": 0.8197,
-      "importance_score": 0.8197,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9783,
+        "recency": 0.9046,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -224,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:32:01.987331Z"
+        "scored_at": "2026-08-29T14:54:20.142591Z"
       }
     },
     {
@@ -272,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8216,
-      "importance": 0.8216,
-      "importance_score": 0.8216,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8309,
+        "recency": 0.7682,
         "story_heat": 0.0
       },
       "category": "official",
@@ -307,7 +390,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:32:01.987331Z"
+        "scored_at": "2026-08-29T14:54:20.142591Z"
       }
     },
     {
@@ -384,15 +467,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7657,
-      "importance": 0.7657,
-      "importance_score": 0.7657,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9005,
+        "recency": 0.8326,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -419,7 +502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:32:01.987331Z"
+        "scored_at": "2026-08-29T14:54:20.142591Z"
       }
     },
     {
@@ -467,21 +550,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9367,
+        "recency": 0.8661,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-29T04:31:21Z",
       "latest_at": "2026-08-29T04:31:21Z",
@@ -501,7 +583,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:32:01.987331Z"
+        "scored_at": "2026-08-29T14:54:20.142591Z"
       }
     },
     {
@@ -549,15 +631,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7492,
-      "importance": 0.7492,
-      "importance_score": 0.7492,
+      "score": 0.7384,
+      "importance": 0.7384,
+      "importance_score": 0.7384,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.798,
+        "recency": 0.7379,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -582,90 +664,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:32:01.987331Z"
-      }
-    },
-    {
-      "story_id": "story_e6d6d7fa2d48",
-      "title": "Upcoming changes to GitHub Copilot policies and billing",
-      "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
-      "primary_url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d4b732ba6f142956f2733c4616ef8be8248e23e4",
-          "title": "Upcoming changes to GitHub Copilot policies and billing",
-          "title_zh": null,
-          "title_en": "Upcoming changes to GitHub Copilot policies and billing",
-          "title_original": "Upcoming changes to GitHub Copilot policies and billing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T11:37:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d4b732ba6f142956f2733c4616ef8be8248e23e4",
-          "title": "Upcoming changes to GitHub Copilot policies and billing",
-          "title_zh": null,
-          "title_en": "Upcoming changes to GitHub Copilot policies and billing",
-          "title_original": "Upcoming changes to GitHub Copilot policies and billing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T11:37:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8041,
-      "importance": 0.8041,
-      "importance_score": 0.8041,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7338,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T11:37:19Z",
-      "latest_at": "2026-08-28T11:37:19Z",
-      "primary_item": {
-        "id": "d4b732ba6f142956f2733c4616ef8be8248e23e4",
-        "title": "Upcoming changes to GitHub Copilot policies and billing",
-        "title_zh": null,
-        "title_en": "Upcoming changes to GitHub Copilot policies and billing",
-        "title_original": "Upcoming changes to GitHub Copilot policies and billing",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:32:01.987331Z"
+        "scored_at": "2026-08-29T14:54:20.142591Z"
       }
     },
     {
@@ -713,15 +712,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7714,
-      "importance": 0.7714,
-      "importance_score": 0.7714,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9709,
+        "recency": 0.8977,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -747,795 +746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:32:01.987331Z"
-      }
-    },
-    {
-      "story_id": "story_4a9201ed2c6a",
-      "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-      "url": "https://www.aibase.com/news/30699",
-      "primary_url": "https://www.aibase.com/news/30699",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0e79dd6b0eaab6e7bc95734f8d995a14879a8f3e",
-          "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-          "title_zh": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-          "title_en": null,
-          "title_original": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30699",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T16:42:27.577848Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0e79dd6b0eaab6e7bc95734f8d995a14879a8f3e",
-          "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-          "title_zh": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-          "title_en": null,
-          "title_original": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30699",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T16:42:27.577848Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7897,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-28T16:42:27.577848Z",
-      "latest_at": "2026-08-28T16:42:27.577848Z",
-      "primary_item": {
-        "id": "0e79dd6b0eaab6e7bc95734f8d995a14879a8f3e",
-        "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-        "title_zh": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-        "title_en": null,
-        "title_original": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30699",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:32:01.987331Z"
-      }
-    },
-    {
-      "story_id": "story_56f5cda185d1",
-      "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1b7e6beff75bfc07fe4acdb48cd49c9e9c350f2f",
-          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-          "title_zh": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
-          "title_en": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-          "title_original": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-          "summary": "美国加州北区联邦地区法院法官 Rita Lin 裁定，特朗普政府将 Anthropic 列为国家安全供应链风险并禁止其 AI 技术使用的行为违法，构成违反第一修正案的非法报复。裁决指出，Anthropic 因拒绝放弃对其产品用于致命自主战争和大规模监控美国人的限制而遭政府封禁。法院批准了 Anthropic 部分即决判决动议。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T18:07:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1b7e6beff75bfc07fe4acdb48cd49c9e9c350f2f",
-          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-          "title_zh": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
-          "title_en": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-          "title_original": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-          "summary": "美国加州北区联邦地区法院法官 Rita Lin 裁定，特朗普政府将 Anthropic 列为国家安全供应链风险并禁止其 AI 技术使用的行为违法，构成违反第一修正案的非法报复。裁决指出，Anthropic 因拒绝放弃对其产品用于致命自主战争和大规模监控美国人的限制而遭政府封禁。法院批准了 Anthropic 部分即决判决动议。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T18:07:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7297,
-      "importance": 0.7297,
-      "importance_score": 0.7297,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8061,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-28T18:07:55Z",
-      "latest_at": "2026-08-28T18:07:55Z",
-      "primary_item": {
-        "id": "1b7e6beff75bfc07fe4acdb48cd49c9e9c350f2f",
-        "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-        "title_zh": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
-        "title_en": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-        "title_original": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-        "summary": "美国加州北区联邦地区法院法官 Rita Lin 裁定，特朗普政府将 Anthropic 列为国家安全供应链风险并禁止其 AI 技术使用的行为违法，构成违反第一修正案的非法报复。裁决指出，Anthropic 因拒绝放弃对其产品用于致命自主战争和大规模监控美国人的限制而遭政府封禁。法院批准了 Anthropic 部分即决判决动议。",
-        "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:32:01.987331Z"
-      }
-    },
-    {
-      "story_id": "story_0df273e60528",
-      "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题 / Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-      "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
-      "primary_url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "875aaab4b144332d60f11be8e5145c5a8f61eae9",
-          "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题 / Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-          "title_zh": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题",
-          "title_en": "Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-          "title_original": "Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-          "summary": "Google 推出专用于语音转文字的 Gemini 3.5 Transcribe 模型，主打快速、准确且低成本的转录，原生支持说话人分离和词级毫秒时间戳。该模型支持 85+ 种语言自动识别与代码切换，可通过 custom_vocabulary 传入最多 1，000 个领域术语避免专有名词拼写错误，并提供 Smart Transcription 与 Verbatim 两种模式。",
-          "recommend_reason_zh": null,
-          "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
-          "source": "Google AI：DEV 作者专属（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T13:34:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI：DEV 作者专属（RSS）"
-      ],
-      "items": [
-        {
-          "id": "875aaab4b144332d60f11be8e5145c5a8f61eae9",
-          "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题 / Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-          "title_zh": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题",
-          "title_en": "Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-          "title_original": "Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-          "summary": "Google 推出专用于语音转文字的 Gemini 3.5 Transcribe 模型，主打快速、准确且低成本的转录，原生支持说话人分离和词级毫秒时间戳。该模型支持 85+ 种语言自动识别与代码切换，可通过 custom_vocabulary 传入最多 1，000 个领域术语避免专有名词拼写错误，并提供 Smart Transcription 与 Verbatim 两种模式。",
-          "recommend_reason_zh": null,
-          "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
-          "source": "Google AI：DEV 作者专属（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T13:34:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7295,
-      "importance": 0.7295,
-      "importance_score": 0.7295,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7548,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-28T13:34:29Z",
-      "latest_at": "2026-08-28T13:34:29Z",
-      "primary_item": {
-        "id": "875aaab4b144332d60f11be8e5145c5a8f61eae9",
-        "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题 / Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-        "title_zh": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题",
-        "title_en": "Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-        "title_original": "Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-        "summary": "Google 推出专用于语音转文字的 Gemini 3.5 Transcribe 模型，主打快速、准确且低成本的转录，原生支持说话人分离和词级毫秒时间戳。该模型支持 85+ 种语言自动识别与代码切换，可通过 custom_vocabulary 传入最多 1，000 个领域术语避免专有名词拼写错误，并提供 Smart Transcription 与 Verbatim 两种模式。",
-        "recommend_reason_zh": null,
-        "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
-        "source": "Google AI：DEV 作者专属（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:32:01.987331Z"
-      }
-    },
-    {
-      "story_id": "story_f32fc9a9ab68",
-      "title": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-      "url": "https://www.aibase.com/news/30698",
-      "primary_url": "https://www.aibase.com/news/30698",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3164a51ead09b5e8e0d2331f53519c6ec4a80eef",
-          "title": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-          "title_zh": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-          "title_en": null,
-          "title_original": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30698",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T15:42:27.577848Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3164a51ead09b5e8e0d2331f53519c6ec4a80eef",
-          "title": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-          "title_zh": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-          "title_en": null,
-          "title_original": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30698",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T15:42:27.577848Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7784,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-28T15:42:27.577848Z",
-      "latest_at": "2026-08-28T15:42:27.577848Z",
-      "primary_item": {
-        "id": "3164a51ead09b5e8e0d2331f53519c6ec4a80eef",
-        "title": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-        "title_zh": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-        "title_en": null,
-        "title_original": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30698",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:32:01.987331Z"
-      }
-    },
-    {
-      "story_id": "story_3b6c8cbe0a8d",
-      "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-      "url": "https://www.terminal-bench-science.ai/announcement",
-      "primary_url": "https://www.terminal-bench-science.ai/announcement",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8ae575a29bf5c1ce17f4e0d2694a64be2c7fe43f",
-          "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-          "title_zh": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-          "title_en": null,
-          "title_original": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-          "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
-          "recommend_reason_zh": null,
-          "url": "https://www.terminal-bench-science.ai/announcement",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T12:04:47.737000Z"
-        },
-        {
-          "id": "78c37d785f3b3e3e47394055083934c9ddaa1608",
-          "title": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
-          "title_zh": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
-          "title_en": null,
-          "title_original": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.terminal-bench-science.ai/announcement",
-          "source": "www.terminal-bench-science.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T12:04:47.737000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.terminal-bench-science.ai"
-      ],
-      "items": [
-        {
-          "id": "8ae575a29bf5c1ce17f4e0d2694a64be2c7fe43f",
-          "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-          "title_zh": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-          "title_en": null,
-          "title_original": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-          "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
-          "recommend_reason_zh": null,
-          "url": "https://www.terminal-bench-science.ai/announcement",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T12:04:47.737000Z"
-        },
-        {
-          "id": "78c37d785f3b3e3e47394055083934c9ddaa1608",
-          "title": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
-          "title_zh": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
-          "title_en": null,
-          "title_original": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.terminal-bench-science.ai/announcement",
-          "source": "www.terminal-bench-science.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T12:04:47.737000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7387,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-28T12:04:47.737000Z",
-      "latest_at": "2026-08-28T12:04:47.737000Z",
-      "primary_item": {
-        "id": "8ae575a29bf5c1ce17f4e0d2694a64be2c7fe43f",
-        "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-        "title_zh": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-        "title_en": null,
-        "title_original": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-        "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
-        "recommend_reason_zh": null,
-        "url": "https://www.terminal-bench-science.ai/announcement",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:32:01.987331Z"
-      }
-    },
-    {
-      "story_id": "story_caf126e48fa0",
-      "title": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
-      "url": "https://www.aibase.com/news/30697",
-      "primary_url": "https://www.aibase.com/news/30697",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "73fa34e64b2a90caa7441ae2fc960495e8393b95",
-          "title": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
-          "title_zh": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
-          "title_en": null,
-          "title_original": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30697",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T15:42:27.577848Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "73fa34e64b2a90caa7441ae2fc960495e8393b95",
-          "title": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
-          "title_zh": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
-          "title_en": null,
-          "title_original": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30697",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T15:42:27.577848Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7784,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-28T15:42:27.577848Z",
-      "latest_at": "2026-08-28T15:42:27.577848Z",
-      "primary_item": {
-        "id": "73fa34e64b2a90caa7441ae2fc960495e8393b95",
-        "title": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
-        "title_zh": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
-        "title_en": null,
-        "title_original": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30697",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:32:01.987331Z"
-      }
-    },
-    {
-      "story_id": "story_19c0e3dd2480",
-      "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-      "url": "https://www.aibase.com/news/30692",
-      "primary_url": "https://www.aibase.com/news/30692",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "acab4b80376f50d732dcb575dc1f7c386537d3ae",
-          "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-          "title_zh": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-          "title_en": null,
-          "title_original": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30692",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T14:42:27.577848Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "acab4b80376f50d732dcb575dc1f7c386537d3ae",
-          "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-          "title_zh": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-          "title_en": null,
-          "title_original": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30692",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T14:42:27.577848Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7257,
-      "importance": 0.7257,
-      "importance_score": 0.7257,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7673,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-28T14:42:27.577848Z",
-      "latest_at": "2026-08-28T14:42:27.577848Z",
-      "primary_item": {
-        "id": "acab4b80376f50d732dcb575dc1f7c386537d3ae",
-        "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-        "title_zh": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-        "title_en": null,
-        "title_original": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30692",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:32:01.987331Z"
-      }
-    },
-    {
-      "story_id": "story_38a64cbd0455",
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
-      "primary_url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "9eb48496aeab8f3981267c3208d8b5acddeaf377",
-          "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-          "title_zh": null,
-          "title_en": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-          "title_original": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-28T12:46:12Z"
-        },
-        {
-          "id": "111b71ca1c855c880729c348e72d04829c258570",
-          "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
-          "title_zh": null,
-          "title_en": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
-          "title_original": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T12:46:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "9eb48496aeab8f3981267c3208d8b5acddeaf377",
-          "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-          "title_zh": null,
-          "title_en": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-          "title_original": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-28T12:46:12Z"
-        },
-        {
-          "id": "111b71ca1c855c880729c348e72d04829c258570",
-          "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
-          "title_zh": null,
-          "title_en": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
-          "title_original": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T12:46:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6155,
-      "importance": 0.6155,
-      "importance_score": 0.6155,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.7461,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-28T12:46:12Z",
-      "latest_at": "2026-08-28T12:46:12Z",
-      "primary_item": {
-        "id": "9eb48496aeab8f3981267c3208d8b5acddeaf377",
-        "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-        "title_zh": null,
-        "title_en": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-        "title_original": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:32:01.987331Z"
-      }
-    },
-    {
-      "story_id": "story_a442a63f5a9b",
-      "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-      "url": "https://www.aibase.com/news/30693",
-      "primary_url": "https://www.aibase.com/news/30693",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d79d2ded5fe9fd3d6b0d879368c42f10ea5af48f",
-          "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-          "title_zh": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-          "title_en": null,
-          "title_original": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30693",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T14:42:27.577848Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d79d2ded5fe9fd3d6b0d879368c42f10ea5af48f",
-          "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-          "title_zh": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-          "title_en": null,
-          "title_original": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30693",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T14:42:27.577848Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7257,
-      "importance": 0.7257,
-      "importance_score": 0.7257,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7673,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-28T14:42:27.577848Z",
-      "latest_at": "2026-08-28T14:42:27.577848Z",
-      "primary_item": {
-        "id": "d79d2ded5fe9fd3d6b0d879368c42f10ea5af48f",
-        "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-        "title_zh": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-        "title_en": null,
-        "title_original": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30693",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:32:01.987331Z"
+        "scored_at": "2026-08-29T14:54:20.142591Z"
       }
     },
     {
@@ -1611,15 +822,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5769,
-      "importance": 0.5769,
-      "importance_score": 0.5769,
+      "score": 0.5663,
+      "importance": 0.5663,
+      "importance_score": 0.5663,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7859,
+        "recency": 0.7267,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1644,88 +855,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:32:01.987331Z"
+        "scored_at": "2026-08-29T14:54:20.142591Z"
       }
     },
     {
-      "story_id": "story_d6244aae2aff",
-      "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
-      "url": "https://www.aibase.com/news/30696",
-      "primary_url": "https://www.aibase.com/news/30696",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_1df6423d9095",
+      "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "primary_url": "https://github.com/stemdeckapp/stemdeck",
+      "source": "github.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "993dff09f18b65be560f9f554e2264528c5fbb5b",
-          "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
-          "title_zh": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+          "id": "3282088eb06c0135b4b127f8e64362ac234defcb",
+          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+          "title_zh": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
           "title_en": null,
-          "title_original": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+          "title_original": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30696",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T14:42:27.577848Z"
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T10:12:23.295000Z"
+        },
+        {
+          "id": "9c0cb059b82e4f4bf76f12802892618bca471002",
+          "title": "StemDeck, a free, open-source and local AI stem separator",
+          "title_zh": null,
+          "title_en": "StemDeck, a free, open-source and local AI stem separator",
+          "title_original": "StemDeck, a free, open-source and local AI stem separator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49486081",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T02:12:06.087000Z"
+        },
+        {
+          "id": "1d31eeccd9609eb222d2609e16547bc812b08613",
+          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器 / StemDeck, a free, open-source and local AI stem separator",
+          "title_zh": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+          "title_en": "StemDeck, a free, open-source and local AI stem separator",
+          "title_original": "StemDeck, a free, open-source and local AI stem separator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T01:24:13Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "993dff09f18b65be560f9f554e2264528c5fbb5b",
-          "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
-          "title_zh": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+          "id": "3282088eb06c0135b4b127f8e64362ac234defcb",
+          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+          "title_zh": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
           "title_en": null,
-          "title_original": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+          "title_original": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30696",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T14:42:27.577848Z"
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T10:12:23.295000Z"
+        },
+        {
+          "id": "9c0cb059b82e4f4bf76f12802892618bca471002",
+          "title": "StemDeck, a free, open-source and local AI stem separator",
+          "title_zh": null,
+          "title_en": "StemDeck, a free, open-source and local AI stem separator",
+          "title_original": "StemDeck, a free, open-source and local AI stem separator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49486081",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T02:12:06.087000Z"
+        },
+        {
+          "id": "1d31eeccd9609eb222d2609e16547bc812b08613",
+          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器 / StemDeck, a free, open-source and local AI stem separator",
+          "title_zh": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+          "title_en": "StemDeck, a free, open-source and local AI stem separator",
+          "title_original": "StemDeck, a free, open-source and local AI stem separator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T01:24:13Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7257,
-      "importance": 0.7257,
-      "importance_score": 0.7257,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.56,
+      "importance": 0.56,
+      "importance_score": 0.56,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7673,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9401,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-28T14:42:27.577848Z",
-      "latest_at": "2026-08-28T14:42:27.577848Z",
+      "earliest_at": "2026-08-29T01:24:13Z",
+      "latest_at": "2026-08-29T10:12:23.295000Z",
       "primary_item": {
-        "id": "993dff09f18b65be560f9f554e2264528c5fbb5b",
-        "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
-        "title_zh": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+        "id": "3282088eb06c0135b4b127f8e64362ac234defcb",
+        "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+        "title_zh": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
         "title_en": null,
-        "title_original": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+        "title_original": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30696",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://github.com/stemdeckapp/stemdeck",
+        "source": "github.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:32:01.987331Z"
+        "scored_at": "2026-08-29T14:54:20.142591Z"
       }
     },
     {
@@ -1831,15 +1100,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5649,
-      "importance": 0.5649,
-      "importance_score": 0.5649,
+      "score": 0.5518,
+      "importance": 0.5518,
+      "importance_score": 0.5518,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9671,
+        "recency": 0.8942,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1864,7 +1133,337 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:32:01.987331Z"
+        "scored_at": "2026-08-29T14:54:20.142591Z"
+      }
+    },
+    {
+      "story_id": "story_3eef6a7665a4",
+      "title": "关于Cursor被SpaceX收购后的决定",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "primary_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "openai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
+          "title": "关于Cursor被SpaceX收购后的决定",
+          "title_zh": "关于Cursor被SpaceX收购后的决定",
+          "title_en": null,
+          "title_original": "关于Cursor被SpaceX收购后的决定",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T03:16:20.612000Z"
+        },
+        {
+          "id": "0018dc991022e6b1db6860f42552c3e9931199b0",
+          "title": "关于Cursor被SpaceX收购后的决定 / Our decision on Cursor following its acquisition by SpaceX",
+          "title_zh": "关于Cursor被SpaceX收购后的决定",
+          "title_en": "Our decision on Cursor following its acquisition by SpaceX",
+          "title_original": "Our decision on Cursor following its acquisition by SpaceX",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T01:47:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
+          "title": "关于Cursor被SpaceX收购后的决定",
+          "title_zh": "关于Cursor被SpaceX收购后的决定",
+          "title_en": null,
+          "title_original": "关于Cursor被SpaceX收购后的决定",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T03:16:20.612000Z"
+        },
+        {
+          "id": "0018dc991022e6b1db6860f42552c3e9931199b0",
+          "title": "关于Cursor被SpaceX收购后的决定 / Our decision on Cursor following its acquisition by SpaceX",
+          "title_zh": "关于Cursor被SpaceX收购后的决定",
+          "title_en": "Our decision on Cursor following its acquisition by SpaceX",
+          "title_original": "Our decision on Cursor following its acquisition by SpaceX",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T01:47:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5189,
+      "importance": 0.5189,
+      "importance_score": 0.5189,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8506,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T01:47:53Z",
+      "latest_at": "2026-08-29T03:16:20.612000Z",
+      "primary_item": {
+        "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
+        "title": "关于Cursor被SpaceX收购后的决定",
+        "title_zh": "关于Cursor被SpaceX收购后的决定",
+        "title_en": null,
+        "title_original": "关于Cursor被SpaceX收购后的决定",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+        "source": "openai.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-29T14:54:20.142591Z"
+      }
+    },
+    {
+      "story_id": "story_a91a944f2677",
+      "title": "OpenAI and Anthropic are ruining San Francisco",
+      "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
+      "primary_url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
+      "source": "HN Algolia · AI 24h",
+      "source_name": "Hacker News",
+      "sources": [
+        {
+          "id": "1b178be5d6b79b092cbecbb47769d18029c41983",
+          "title": "OpenAI and Anthropic are ruining San Francisco",
+          "title_zh": null,
+          "title_en": "OpenAI and Anthropic are ruining San Francisco",
+          "title_original": "OpenAI and Anthropic are ruining San Francisco",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-29T02:57:13Z"
+        },
+        {
+          "id": "65d7f50dc5a55c40712ad9072f595514ae02ad31",
+          "title": "OpenAI and Anthropic are ruining San Francisco",
+          "title_zh": null,
+          "title_en": "OpenAI and Anthropic are ruining San Francisco",
+          "title_original": "OpenAI and Anthropic are ruining San Francisco",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T01:50:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "1b178be5d6b79b092cbecbb47769d18029c41983",
+          "title": "OpenAI and Anthropic are ruining San Francisco",
+          "title_zh": null,
+          "title_en": "OpenAI and Anthropic are ruining San Francisco",
+          "title_original": "OpenAI and Anthropic are ruining San Francisco",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-29T02:57:13Z"
+        },
+        {
+          "id": "65d7f50dc5a55c40712ad9072f595514ae02ad31",
+          "title": "OpenAI and Anthropic are ruining San Francisco",
+          "title_zh": null,
+          "title_en": "OpenAI and Anthropic are ruining San Francisco",
+          "title_original": "OpenAI and Anthropic are ruining San Francisco",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T01:50:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5182,
+      "importance": 0.5182,
+      "importance_score": 0.5182,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8467,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T01:50:40Z",
+      "latest_at": "2026-08-29T02:57:13Z",
+      "primary_item": {
+        "id": "1b178be5d6b79b092cbecbb47769d18029c41983",
+        "title": "OpenAI and Anthropic are ruining San Francisco",
+        "title_zh": null,
+        "title_en": "OpenAI and Anthropic are ruining San Francisco",
+        "title_original": "OpenAI and Anthropic are ruining San Francisco",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
+        "source": "HN Algolia · AI 24h",
+        "source_name": "Hacker News"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-29T14:54:20.142591Z"
+      }
+    },
+    {
+      "story_id": "story_fb6e40a3017d",
+      "title": "Identifying fake cosmetics using AI",
+      "url": "https://news.ycombinator.com/item?id=49484925",
+      "primary_url": "https://news.ycombinator.com/item?id=49484925",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "3f4560bc72e84f830165c38ed74e5529ab9b2107",
+          "title": "Identifying fake cosmetics using AI",
+          "title_zh": null,
+          "title_en": "Identifying fake cosmetics using AI",
+          "title_original": "Identifying fake cosmetics using AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49484925",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T02:12:06.087000Z"
+        },
+        {
+          "id": "a862badf9b0271279c099db74a180b344c7da731",
+          "title": "Identifying fake cosmetics using AI",
+          "title_zh": null,
+          "title_en": "Identifying fake cosmetics using AI",
+          "title_original": "Identifying fake cosmetics using AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T22:18:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3f4560bc72e84f830165c38ed74e5529ab9b2107",
+          "title": "Identifying fake cosmetics using AI",
+          "title_zh": null,
+          "title_en": "Identifying fake cosmetics using AI",
+          "title_original": "Identifying fake cosmetics using AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49484925",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T02:12:06.087000Z"
+        },
+        {
+          "id": "a862badf9b0271279c099db74a180b344c7da731",
+          "title": "Identifying fake cosmetics using AI",
+          "title_zh": null,
+          "title_en": "Identifying fake cosmetics using AI",
+          "title_original": "Identifying fake cosmetics using AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T22:18:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5166,
+      "importance": 0.5166,
+      "importance_score": 0.5166,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8375,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-28T22:18:27Z",
+      "latest_at": "2026-08-29T02:12:06.087000Z",
+      "primary_item": {
+        "id": "3f4560bc72e84f830165c38ed74e5529ab9b2107",
+        "title": "Identifying fake cosmetics using AI",
+        "title_zh": null,
+        "title_en": "Identifying fake cosmetics using AI",
+        "title_original": "Identifying fake cosmetics using AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49484925",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-29T14:54:20.142591Z"
       }
     }
   ]
