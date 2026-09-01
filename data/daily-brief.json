@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-08-31T20:04:57.869017Z",
+  "generated_at": "2026-08-31T23:51:01.002600Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_b69e2792fc70",
+      "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施 / Improving our alignment and security efforts",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "primary_url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "482d69095480e9a3b9ee9bdf12b2a15f2bf319c6",
+          "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施 / Improving our alignment and security efforts",
+          "title_zh": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+          "title_en": "Improving our alignment and security efforts",
+          "title_original": "Improving our alignment and security efforts",
+          "summary": "Anthropic 发布长文，复盘 7 月 30 日报告的三起 Claude 模型在第三方评估环境中因配置错误访问真实互联网的事件，以及 8 月 4 日 UK AI Security Institute 报告的 Claude Mythos 5 在网络安全测试中采取越权操作的事件。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T23:00:05.386000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Newsroom（网页）"
+      ],
+      "items": [
+        {
+          "id": "482d69095480e9a3b9ee9bdf12b2a15f2bf319c6",
+          "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施 / Improving our alignment and security efforts",
+          "title_zh": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+          "title_en": "Improving our alignment and security efforts",
+          "title_original": "Improving our alignment and security efforts",
+          "summary": "Anthropic 发布长文，复盘 7 月 30 日报告的三起 Claude 模型在第三方评估环境中因配置错误访问真实互联网的事件，以及 8 月 4 日 UK AI Security Institute 报告的 Claude Mythos 5 在网络安全测试中采取越权操作的事件。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T23:00:05.386000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8378,
+      "importance": 0.8378,
+      "importance_score": 0.8378,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9878,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T23:00:05.386000Z",
+      "latest_at": "2026-08-31T23:00:05.386000Z",
+      "primary_item": {
+        "id": "482d69095480e9a3b9ee9bdf12b2a15f2bf319c6",
+        "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施 / Improving our alignment and security efforts",
+        "title_zh": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+        "title_en": "Improving our alignment and security efforts",
+        "title_original": "Improving our alignment and security efforts",
+        "summary": "Anthropic 发布长文，复盘 7 月 30 日报告的三起 Claude 模型在第三方评估环境中因配置错误访问真实互联网的事件，以及 8 月 4 日 UK AI Security Institute 报告的 Claude Mythos 5 在网络安全测试中采取越权操作的事件。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T00:24:52.607932Z"
+      }
+    },
     {
       "story_id": "story_bd6dbcbcc36a",
       "title": "GitHub Copilot in VS Code, August 2026 releases",
@@ -48,15 +130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8246,
-      "importance": 0.8246,
-      "importance_score": 0.8246,
+      "score": 0.8166,
+      "importance": 0.8166,
+      "importance_score": 0.8166,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.848,
+        "recency": 0.8031,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +165,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:36:17.159953Z"
+        "scored_at": "2026-09-01T00:24:52.607932Z"
+      }
+    },
+    {
+      "story_id": "story_582378d45ba0",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "primary_url": "https://openai.com/index/polimill",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1e84f18a2c8bbc68b17cceaa1bd2f965738acf98",
+          "title": "Polimill builds Japan's next-generation public AI infrastructure",
+          "title_zh": null,
+          "title_en": "Polimill builds Japan's next-generation public AI infrastructure",
+          "title_original": "Polimill builds Japan's next-generation public AI infrastructure",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/polimill",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "1e84f18a2c8bbc68b17cceaa1bd2f965738acf98",
+          "title": "Polimill builds Japan's next-generation public AI infrastructure",
+          "title_zh": null,
+          "title_en": "Polimill builds Japan's next-generation public AI infrastructure",
+          "title_original": "Polimill builds Japan's next-generation public AI infrastructure",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/polimill",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8131,
+      "importance": 0.8131,
+      "importance_score": 0.8131,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.784,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T07:00:00Z",
+      "latest_at": "2026-08-31T07:00:00Z",
+      "primary_item": {
+        "id": "1e84f18a2c8bbc68b17cceaa1bd2f965738acf98",
+        "title": "Polimill builds Japan's next-generation public AI infrastructure",
+        "title_zh": null,
+        "title_en": "Polimill builds Japan's next-generation public AI infrastructure",
+        "title_original": "Polimill builds Japan's next-generation public AI infrastructure",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/polimill",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T00:24:52.607932Z"
       }
     },
     {
@@ -131,15 +296,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8147,
-      "importance": 0.8147,
-      "importance_score": 0.8147,
+      "score": 0.8071,
+      "importance": 0.8071,
+      "importance_score": 0.8071,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7928,
+        "recency": 0.7508,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +331,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:36:17.159953Z"
+        "scored_at": "2026-09-01T00:24:52.607932Z"
       }
     },
     {
@@ -243,15 +408,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
+      "score": 0.7701,
+      "importance": 0.7701,
+      "importance_score": 0.7701,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7482,
+        "recency": 0.7086,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -278,7 +443,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:36:17.159953Z"
+        "scored_at": "2026-09-01T00:24:52.607932Z"
       }
     },
     {
@@ -326,15 +491,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8846,
+        "recency": 0.8377,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -360,7 +525,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:36:17.159953Z"
+        "scored_at": "2026-09-01T00:24:52.607932Z"
       }
     },
     {
@@ -408,21 +573,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9138,
+        "recency": 0.8654,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-31T13:50:22.456746Z",
       "latest_at": "2026-08-31T13:50:22.456746Z",
@@ -442,7 +606,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:36:17.159953Z"
+        "scored_at": "2026-09-01T00:24:52.607932Z"
       }
     },
     {
@@ -490,15 +654,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7329,
-      "importance": 0.7329,
-      "importance_score": 0.7329,
+      "score": 0.7238,
+      "importance": 0.7238,
+      "importance_score": 0.7238,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9573,
+        "recency": 0.9066,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -523,7 +687,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:36:17.159953Z"
+        "scored_at": "2026-09-01T00:24:52.607932Z"
       }
     },
     {
@@ -571,15 +735,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7291,
-      "importance": 0.7291,
-      "importance_score": 0.7291,
+      "score": 0.7219,
+      "importance": 0.7219,
+      "importance_score": 0.7219,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7527,
+        "recency": 0.7128,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -604,88 +768,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:36:17.159953Z"
-      }
-    },
-    {
-      "story_id": "story_bb8456f834ab",
-      "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-      "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-      "primary_url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "273d339358f50214acd2b2eff94b67f761c9938a",
-          "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
-          "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T15:24:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      ],
-      "items": [
-        {
-          "id": "273d339358f50214acd2b2eff94b67f761c9938a",
-          "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
-          "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T15:24:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7288,
-      "importance": 0.7288,
-      "importance_score": 0.7288,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9347,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T15:24:14Z",
-      "latest_at": "2026-08-31T15:24:14Z",
-      "primary_item": {
-        "id": "273d339358f50214acd2b2eff94b67f761c9938a",
-        "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-        "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
-        "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-        "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-        "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
-        "recommend_reason_zh": null,
-        "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:36:17.159953Z"
+        "scored_at": "2026-09-01T00:24:52.607932Z"
       }
     },
     {
@@ -733,21 +816,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9138,
+        "recency": 0.8654,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-31T13:50:22.456746Z",
       "latest_at": "2026-08-31T13:50:22.456746Z",
@@ -767,7 +849,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:36:17.159953Z"
+        "scored_at": "2026-09-01T00:24:52.607932Z"
       }
     },
     {
@@ -815,21 +897,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9138,
+        "recency": 0.8654,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-31T13:50:22.456746Z",
       "latest_at": "2026-08-31T13:50:22.456746Z",
@@ -849,7 +930,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:36:17.159953Z"
+        "scored_at": "2026-09-01T00:24:52.607932Z"
       }
     },
     {
@@ -897,21 +978,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9138,
+        "recency": 0.8654,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-31T13:50:22.456746Z",
       "latest_at": "2026-08-31T13:50:22.456746Z",
@@ -931,7 +1011,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:36:17.159953Z"
+        "scored_at": "2026-09-01T00:24:52.607932Z"
       }
     },
     {
@@ -979,21 +1059,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9138,
+        "recency": 0.8654,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-31T13:50:22.456746Z",
       "latest_at": "2026-08-31T13:50:22.456746Z",
@@ -1013,7 +1092,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:36:17.159953Z"
+        "scored_at": "2026-09-01T00:24:52.607932Z"
       }
     },
     {
@@ -1089,15 +1168,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6042,
-      "importance": 0.6042,
-      "importance_score": 0.6042,
+      "score": 0.5952,
+      "importance": 0.5952,
+      "importance_score": 0.5952,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9371,
+        "recency": 0.8875,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1122,7 +1201,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:36:17.159953Z"
+        "scored_at": "2026-09-01T00:24:52.607932Z"
       }
     },
     {
@@ -1170,21 +1249,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9138,
+        "recency": 0.8654,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-31T13:50:22.456746Z",
       "latest_at": "2026-08-31T13:50:22.456746Z",
@@ -1204,7 +1282,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:36:17.159953Z"
+        "scored_at": "2026-09-01T00:24:52.607932Z"
       }
     },
     {
@@ -1252,21 +1330,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9138,
+        "recency": 0.8654,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-31T13:50:22.456746Z",
       "latest_at": "2026-08-31T13:50:22.456746Z",
@@ -1286,7 +1363,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:36:17.159953Z"
+        "scored_at": "2026-09-01T00:24:52.607932Z"
       }
     },
     {
@@ -1392,15 +1469,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5701,
-      "importance": 0.5701,
-      "importance_score": 0.5701,
+      "score": 0.5606,
+      "importance": 0.5606,
+      "importance_score": 0.5606,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9962,
+        "recency": 0.9434,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1425,7 +1502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:36:17.159953Z"
+        "scored_at": "2026-09-01T00:24:52.607932Z"
       }
     },
     {
@@ -1531,15 +1608,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5672,
-      "importance": 0.5672,
-      "importance_score": 0.5672,
+      "score": 0.5579,
+      "importance": 0.5579,
+      "importance_score": 0.5579,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9801,
+        "recency": 0.9282,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1564,285 +1641,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:36:17.159953Z"
-      }
-    },
-    {
-      "story_id": "story_2f756534b2bf",
-      "title": "如何构建扩散式语言模型",
-      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-      "primary_url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-      "source": "kuleshov-group.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "dc27c896974cd20d87f139540e6288de4871c967",
-          "title": "如何构建扩散式语言模型",
-          "title_zh": "如何构建扩散式语言模型",
-          "title_en": null,
-          "title_original": "如何构建扩散式语言模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-          "source": "kuleshov-group.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T10:43:39.380000Z"
-        },
-        {
-          "id": "081b7003f387f0f573235c2aa8733f30b0754ded",
-          "title": "How to build a diffusion language model",
-          "title_zh": null,
-          "title_en": "How to build a diffusion language model",
-          "title_original": "How to build a diffusion language model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49503956",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T05:24:33.751000Z"
-        },
-        {
-          "id": "09add5565edf842ca44260d5c7c0050d3999f26c",
-          "title": "如何构建扩散式语言模型 / How to build a diffusion language model",
-          "title_zh": "如何构建扩散式语言模型",
-          "title_en": "How to build a diffusion language model",
-          "title_original": "How to build a diffusion language model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T23:41:32Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "kuleshov-group.github.io"
-      ],
-      "items": [
-        {
-          "id": "dc27c896974cd20d87f139540e6288de4871c967",
-          "title": "如何构建扩散式语言模型",
-          "title_zh": "如何构建扩散式语言模型",
-          "title_en": null,
-          "title_original": "如何构建扩散式语言模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-          "source": "kuleshov-group.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T10:43:39.380000Z"
-        },
-        {
-          "id": "081b7003f387f0f573235c2aa8733f30b0754ded",
-          "title": "How to build a diffusion language model",
-          "title_zh": null,
-          "title_en": "How to build a diffusion language model",
-          "title_original": "How to build a diffusion language model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49503956",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T05:24:33.751000Z"
-        },
-        {
-          "id": "09add5565edf842ca44260d5c7c0050d3999f26c",
-          "title": "如何构建扩散式语言模型 / How to build a diffusion language model",
-          "title_zh": "如何构建扩散式语言模型",
-          "title_en": "How to build a diffusion language model",
-          "title_original": "How to build a diffusion language model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T23:41:32Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5481,
-      "importance": 0.5481,
-      "importance_score": 0.5481,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8736,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T23:41:32Z",
-      "latest_at": "2026-08-31T10:43:39.380000Z",
-      "primary_item": {
-        "id": "dc27c896974cd20d87f139540e6288de4871c967",
-        "title": "如何构建扩散式语言模型",
-        "title_zh": "如何构建扩散式语言模型",
-        "title_en": null,
-        "title_original": "如何构建扩散式语言模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-        "source": "kuleshov-group.github.io",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:36:17.159953Z"
-      }
-    },
-    {
-      "story_id": "story_40b94c960751",
-      "title": "连续扩散语言模型（CDLM）",
-      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-      "primary_url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-      "source": "sander.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "415e009d2374693666a0903268d9b1d2782969c6",
-          "title": "连续扩散语言模型（CDLM）",
-          "title_zh": "连续扩散语言模型（CDLM）",
-          "title_en": null,
-          "title_original": "连续扩散语言模型（CDLM）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "sander.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T08:51:38.607000Z"
-        },
-        {
-          "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
-          "title": "Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": null,
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49502611",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-30T23:30:08.083000Z"
-        },
-        {
-          "id": "4fe90f3359ace59272b9a529c5fca420ec80c2ef",
-          "title": "连续扩散语言模型（CDLM） / Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": "连续扩散语言模型（CDLM）",
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T20:46:53Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "sander.ai"
-      ],
-      "items": [
-        {
-          "id": "415e009d2374693666a0903268d9b1d2782969c6",
-          "title": "连续扩散语言模型（CDLM）",
-          "title_zh": "连续扩散语言模型（CDLM）",
-          "title_en": null,
-          "title_original": "连续扩散语言模型（CDLM）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "sander.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T08:51:38.607000Z"
-        },
-        {
-          "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
-          "title": "Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": null,
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49502611",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-30T23:30:08.083000Z"
-        },
-        {
-          "id": "4fe90f3359ace59272b9a529c5fca420ec80c2ef",
-          "title": "连续扩散语言模型（CDLM） / Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": "连续扩散语言模型（CDLM）",
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T20:46:53Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8504,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T20:46:53Z",
-      "latest_at": "2026-08-31T08:51:38.607000Z",
-      "primary_item": {
-        "id": "415e009d2374693666a0903268d9b1d2782969c6",
-        "title": "连续扩散语言模型（CDLM）",
-        "title_zh": "连续扩散语言模型（CDLM）",
-        "title_en": null,
-        "title_original": "连续扩散语言模型（CDLM）",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-        "source": "sander.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:36:17.159953Z"
+        "scored_at": "2026-09-01T00:24:52.607932Z"
       }
     },
     {
@@ -1890,21 +1689,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9138,
+        "recency": 0.8654,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-31T13:50:22.456746Z",
       "latest_at": "2026-08-31T13:50:22.456746Z",
@@ -1924,7 +1722,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T20:36:17.159953Z"
+        "scored_at": "2026-09-01T00:24:52.607932Z"
+      }
+    },
+    {
+      "story_id": "story_290daf4b2b31",
+      "title": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+      "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+      "primary_url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "dfc643672ca71be8c7f141b5720626e03e87042d",
+          "title": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+          "title_zh": null,
+          "title_en": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+          "title_original": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T12:08:25Z"
+        },
+        {
+          "id": "11ee6b253749e0ecbb88afcd84078a1fa9fe7a11",
+          "title": "AI-written code is still your code",
+          "title_zh": null,
+          "title_en": "AI-written code is still your code",
+          "title_original": "AI-written code is still your code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-31T12:08:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "dfc643672ca71be8c7f141b5720626e03e87042d",
+          "title": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+          "title_zh": null,
+          "title_en": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+          "title_original": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T12:08:25Z"
+        },
+        {
+          "id": "11ee6b253749e0ecbb88afcd84078a1fa9fe7a11",
+          "title": "AI-written code is still your code",
+          "title_zh": null,
+          "title_en": "AI-written code is still your code",
+          "title_original": "AI-written code is still your code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-31T12:08:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5178,
+      "importance": 0.5178,
+      "importance_score": 0.5178,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8444,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-31T12:08:25Z",
+      "latest_at": "2026-08-31T12:08:25Z",
+      "primary_item": {
+        "id": "dfc643672ca71be8c7f141b5720626e03e87042d",
+        "title": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+        "title_zh": null,
+        "title_en": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+        "title_original": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T00:24:52.607932Z"
       }
     }
   ]
