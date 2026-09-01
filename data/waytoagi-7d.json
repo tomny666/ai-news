@@ -1,12 +1,281 @@
 {
-  "generated_at": "2026-09-01T14:53:25.616318Z",
+  "generated_at": "2026-09-01T18:30:57.060067Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-  "history_url": null,
+  "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "count_7d": 0,
-  "updates_7d": [],
-  "warning": "WaytoAGI 近7日更新抓取失败",
-  "has_error": true,
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "latest_date": "2026-09-01",
+  "count_today": 8,
+  "updates_today": [
+    {
+      "date": "2026-09-01",
+      "title": "豆包工作接上飞书后怎么用？我整理了10个办公场景",
+      "summary": "豆包工作接上飞书后怎么用？小歪整理了10个办公场景：周报、项目排期、客户方案PPT、渠道分析、客服FAQ、经营会准备，再到商品素材、日历、朋友圈去AI味、用户访谈提纲。快来看看有没有你能用得到的？",
+      "url": "https://waytoagi.feishu.cn/wiki/TeT3wiDIPimfipk2CCLcYFAmnge?from=from_copylink"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "详解大语言模型中的静态、动态与连续批处理",
+      "summary": "这篇文章把大语言模型中的静态、动态、连续批处理讲得很清楚：静态适合分类/Embedding 这类固定输出，动态用于等待窗口减少排队，连续批处理则更适合输出长度不稳定的实时流量。或许可以帮你理解为何你的 GPU 在负载下闲置，以及哪种批处理策略能解决此问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/H6STwP6lViTWUJkPUVTc6Lr0npg?from=from_copylink"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "每位 AI 工程师都应了解的关于智能体沙箱的 5 件事",
+      "summary": "这篇来自谷歌云官方的分享戳破了Agent沙箱不少宣传误区，同时还给出实用的性能优化思路与四步选型准则，搭配可直接落地的部署方案，可以帮你搭建安全高效的智能体运行环境。",
+      "url": "https://waytoagi.feishu.cn/wiki/Xe2Xw27puiJFsTkPZdzcpxGendc?from=from_copylink"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "小龙虾又又又来了，OpenClaw 2.0 版大更新！新版本界面全览",
+      "summary": "OpenClaw 2.0迎来大规模迭代，大量社区贡献重构了整套底座，新增了共享会话，可以支持任务交接与多成员协作。已经在用的人，这次更新值得试一下。曾经装过又卸载的人，也可以重新看一眼，从一项低风险、重复出现、结果容易检查的任务开始。",
+      "url": "https://waytoagi.feishu.cn/wiki/QCqZwml2hiJpYbkWSnwct0yon9D?from=from_copylink"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "套了110个思维模型到AI之后，我帮你整理了最好用的24个（附提示词）。",
+      "summary": "很多人学思维模型，是想把AI调得更聪明：第一性原理、二阶思维、逆向思维全塞进提示词，结果发现没有明显的改善。作者借助AI搜集了 110 个思维模型：横跨决策、系统、心理学、统计学，每个都带出处，最后筛选出了24个比较好用的。一起来看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/YXENwsiS6i0hZFkKBimcjCN6nIc?from=from_copylink"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "万字长文｜Hugging Face从入门到精通",
+      "summary": "很多人找开源模型都会刷到Hugging Face，但第一次打开很容易被各种英文、模型名劝退：资源很多，却不知道哪个能直接用、哪个要下载。这篇文章适合想试试开源AI工具、下载本地模型、找数据集和论文的小白。",
+      "url": "https://waytoagi.feishu.cn/wiki/EQwbwkD3tiSTXrkwxJycmmDgn8f?from=from_copylink"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "万字长文！读懂模型微调的基本概念和名词",
+      "summary": "很多人准备做模型微调，第一反应是找教程、配环境、堆显卡，真上手才发现，很多基础概念还没搞明白：Base、SFT、LoRA、QLoRA、adapter、loss，这些名字都见过，但不知道各自解决什么问题。这篇文章可以作为“微调入门词典”收藏，会少走很多弯路。",
+      "url": "https://waytoagi.feishu.cn/wiki/JJpTwoNgSie45wkkVjZc3IT8n4N?from=from_copylink"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "《100 个问题》系列丛书",
+      "summary": "作者整理了关于Agent Skill的100个问题，从技能加载机制、触发排查、描述写法、脚本/参考文件拆分，讲到跨 Claude/Codex/Gemini 迁移、安全审查和未来趋势。建议可以当工具书时常翻一翻。",
+      "url": "https://waytoagi.feishu.cn/wiki/YTt3wPPIeixEK5kbJPnc0YL7nTf"
+    }
+  ],
+  "count_7d": 36,
+  "updates_7d": [
+    {
+      "date": "2026-09-01",
+      "title": "豆包工作接上飞书后怎么用？我整理了10个办公场景",
+      "summary": "豆包工作接上飞书后怎么用？小歪整理了10个办公场景：周报、项目排期、客户方案PPT、渠道分析、客服FAQ、经营会准备，再到商品素材、日历、朋友圈去AI味、用户访谈提纲。快来看看有没有你能用得到的？",
+      "url": "https://waytoagi.feishu.cn/wiki/TeT3wiDIPimfipk2CCLcYFAmnge?from=from_copylink"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "详解大语言模型中的静态、动态与连续批处理",
+      "summary": "这篇文章把大语言模型中的静态、动态、连续批处理讲得很清楚：静态适合分类/Embedding 这类固定输出，动态用于等待窗口减少排队，连续批处理则更适合输出长度不稳定的实时流量。或许可以帮你理解为何你的 GPU 在负载下闲置，以及哪种批处理策略能解决此问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/H6STwP6lViTWUJkPUVTc6Lr0npg?from=from_copylink"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "每位 AI 工程师都应了解的关于智能体沙箱的 5 件事",
+      "summary": "这篇来自谷歌云官方的分享戳破了Agent沙箱不少宣传误区，同时还给出实用的性能优化思路与四步选型准则，搭配可直接落地的部署方案，可以帮你搭建安全高效的智能体运行环境。",
+      "url": "https://waytoagi.feishu.cn/wiki/Xe2Xw27puiJFsTkPZdzcpxGendc?from=from_copylink"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "小龙虾又又又来了，OpenClaw 2.0 版大更新！新版本界面全览",
+      "summary": "OpenClaw 2.0迎来大规模迭代，大量社区贡献重构了整套底座，新增了共享会话，可以支持任务交接与多成员协作。已经在用的人，这次更新值得试一下。曾经装过又卸载的人，也可以重新看一眼，从一项低风险、重复出现、结果容易检查的任务开始。",
+      "url": "https://waytoagi.feishu.cn/wiki/QCqZwml2hiJpYbkWSnwct0yon9D?from=from_copylink"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "套了110个思维模型到AI之后，我帮你整理了最好用的24个（附提示词）。",
+      "summary": "很多人学思维模型，是想把AI调得更聪明：第一性原理、二阶思维、逆向思维全塞进提示词，结果发现没有明显的改善。作者借助AI搜集了 110 个思维模型：横跨决策、系统、心理学、统计学，每个都带出处，最后筛选出了24个比较好用的。一起来看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/YXENwsiS6i0hZFkKBimcjCN6nIc?from=from_copylink"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "万字长文｜Hugging Face从入门到精通",
+      "summary": "很多人找开源模型都会刷到Hugging Face，但第一次打开很容易被各种英文、模型名劝退：资源很多，却不知道哪个能直接用、哪个要下载。这篇文章适合想试试开源AI工具、下载本地模型、找数据集和论文的小白。",
+      "url": "https://waytoagi.feishu.cn/wiki/EQwbwkD3tiSTXrkwxJycmmDgn8f?from=from_copylink"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "万字长文！读懂模型微调的基本概念和名词",
+      "summary": "很多人准备做模型微调，第一反应是找教程、配环境、堆显卡，真上手才发现，很多基础概念还没搞明白：Base、SFT、LoRA、QLoRA、adapter、loss，这些名字都见过，但不知道各自解决什么问题。这篇文章可以作为“微调入门词典”收藏，会少走很多弯路。",
+      "url": "https://waytoagi.feishu.cn/wiki/JJpTwoNgSie45wkkVjZc3IT8n4N?from=from_copylink"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "《100 个问题》系列丛书",
+      "summary": "作者整理了关于Agent Skill的100个问题，从技能加载机制、触发排查、描述写法、脚本/参考文件拆分，讲到跨 Claude/Codex/Gemini 迁移、安全审查和未来趋势。建议可以当工具书时常翻一翻。",
+      "url": "https://waytoagi.feishu.cn/wiki/YTt3wPPIeixEK5kbJPnc0YL7nTf"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "快速学习的原则",
+      "summary": "很多人学AI、编程、写作时收藏教程、刷视频、记笔记，真要动手还是卡住。问题往往不在学得少，而是没有把知识变成可用能力。作者这篇文章把如何快速学习拆成7个原则：先动手做，尽快拿反馈；遇到问题先挣扎几分钟，再去问 AI；在真实问题里即时学习；用复述和教学检查自己是否真的懂了。快来从今天开始实操起来！",
+      "url": "https://waytoagi.feishu.cn/wiki/GV9SwlGNriE8F5kx93lc9yASnub?from=from_copylink"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "开源：350套排版布局 x 知识图鉴",
+      "summary": "做海报、封面、PPT、网页时，想让 AI 画得更准，或者和设计同事沟通得更清楚，都缺一套能直接指认的版式宝典。作者把原来整理的100种排版扩展到350种，按构图逻辑、视觉原则、网页UI、影视画面、中国传统构图、演示文稿等8类整理，还提供高清图、缩略图和CSV/JSON数据。找灵感、学构图、写提示词，都可以直接收藏这套开源图鉴。",
+      "url": "https://waytoagi.feishu.cn/wiki/SVg0wvyiqiFZ4Ckz20HcvRSMnAb?from=from_copylink"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
+      "summary": "MiniMax H3 Max凭借超快的音视频生成速度，跨过实时AI直播的技术门槛。海外开发者借此打造出24 小时AI直播网站，观众发布弹幕指令即可实时改写剧情走向。虽然实时直播仍存在并发、画面一致性等等问题，但它把AI视频从一次性制作工具变成持续响应的动态内容系统，给创作者们也打开了全新交互的想象空间！",
+      "url": "https://waytoagi.feishu.cn/wiki/SixAw5cnjiz7fCkToQzc90Xyn2b?from=from_copylink"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "在Uber规模下高效运营软件工厂",
+      "summary": "很多团队一用上Coding Agent，最先感受到的不是“效率飞升”，而是 token 成本、工具上下文、模型选择和会话失控一起冒出来。Uber 则是把AI 编程真正当成一座“软件工厂”来运营。这篇博客将介绍他们如何思考软件工厂：智能体会话运行的四个层次、他们用于分解支出的成本公式、他们如何衡量每一项，以及如何在每一层优化这些项。",
+      "url": "https://waytoagi.feishu.cn/wiki/XNNnwj5ypiAM9BkP9I7cR5uYnwc?from=from_copylink"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "从 ReAct 到 Agent Teams：一个工程师视角的 Agent 协作机制思考",
+      "summary": "这篇文章是作者两个月的 Agent 开发实践沉淀，从第一性原理出发，探讨 Agent 的本质、当前多 Agent 协作架构的不足，以及如何借鉴人类组织经验设计真正的 Agent Team 机制。",
+      "url": "https://waytoagi.feishu.cn/wiki/P6p1wDQ3yipgrUk6KEEcuTU5nIb?from=from_copylink"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "AI音乐周刊 W.A 043",
+      "summary": "AI 音乐行业正迎来版权风暴与产品创新的激烈碰撞。多起高额版权诉讼搅动行业根基，合规已经成为所有从业者绕不开的命题。Stability AI 获得巨头加持完成融资，多款工具落地分段编辑、对话修歌、实时音频生成等实用能力，还有多篇前沿音频论文发布。一起来看看AI音乐赛道的最新变化。",
+      "url": "https://waytoagi.feishu.cn/wiki/HBvnwPbDPiZ8Yokrhx8cBKAinrb?from=from_copylink"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "AI视频入门——剪辑思维-转场-拉片提升审美",
+      "summary": "这篇文章非常适合AI视频新手、短剧创作者看。作者用《大话西游》《盗梦空间》《闪灵》等经典片段做拉片，拆解了正反打、交叉剪辑、跳切、空镜、匹配剪辑、闪回这些常用手法，再落回到在AI漫剧里到底怎么用。快来一起探索下！",
+      "url": "https://waytoagi.feishu.cn/wiki/BSQUwrvyMi87ejkbw4Hc4jwnnOe?from=from_copylink"
+    },
+    {
+      "date": "2026-08-30",
+      "title": "小白AI入门必学的：66 个 AI 高频词（人话版）",
+      "summary": "作者整理了 66 个我认为的高频 AI 词汇，用说人话的方式解释清楚。每个词都会告诉你：它是什么、平时会在哪里遇到，以及用什么生活场景最好记。",
+      "url": "https://waytoagi.feishu.cn/wiki/FjjPweRNHiVKE9kzu7mcwbmvnoI?from=from_copylink"
+    },
+    {
+      "date": "2026-08-30",
+      "title": "关于Product Hunt，你只需要这一篇终极指南就够了",
+      "summary": "很多出海团队最头疼的，是产品上线后第一批用户从哪来。Product Hunt 看起来像“发一下就有流量”，真打过才知道，物料、日期、Hunter、Feature、票数和用户承接，每一步都影响结果。作者也希望通过本篇内容做一个总结，提供一个行动概览，这样未来更多团队能在需要的时候快速获取一批低成本的注册来推动自己产品发展。",
+      "url": "https://waytoagi.feishu.cn/wiki/Q3k2w8uXsiBrGVkkOYccVzS0nrf?from=from_copylink"
+    },
+    {
+      "date": "2026-08-30",
+      "title": "从 Microduck 的开放实践出发：怎样一步步做出一台小型机器人",
+      "summary": "最近发布的开源双足具身智能机器人Microduck ，会走路、会起身。关键是还公开了软件和强化学习训练代码。那么如果想借此做出一台自己的小型机器人，应该从哪里开始？每一步为什么要做，做到什么程度才算过关？CY这篇文章带你一起详细拆解下！",
+      "url": "https://waytoagi.feishu.cn/wiki/QJMMw2vXni4dFRkeEYXcf7pCnzc?from=from_copylink"
+    },
+    {
+      "date": "2026-08-30",
+      "title": "万字长文 | 最强 AI 工作台 Cherry Studio 从入门到精通（含本地模型部署）",
+      "summary": "身边把 AI 玩得比较深的朋友，有不少在用Cherry Studio。作者这篇文章就聊聊它能做什么，以及怎么把这套工作台用顺手。",
+      "url": "https://waytoagi.feishu.cn/wiki/BSclwtYzCiGFNuk01O8cN7HEnZg?from=from_copylink"
+    },
+    {
+      "date": "2026-08-30",
+      "title": "OpenAI产品负责人：AI 能力已经过剩，很多人却还困在小目标里丨Lenny’s Podcast",
+      "summary": "在这场访谈里，OpenAI 产品负责人Tara把 AI 产品正在经历的变化分成三段：Chat → Agent → 长期在线 AI 同事。这个变化并不只属于OpenAI。它会重新划分产品经理、工程师和普通知识工作者的日常。一起来看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/W7hJwjOoCiESI9kMwVzcqmrcnje?from=from_copylink"
+    },
+    {
+      "date": "2026-08-30",
+      "title": "8.24—8.30｜本周顶级 AI 论文",
+      "summary": "这周精选的10篇AI论文有个很明显的风向：大家已经不只盯模型参数和榜单了，而变成Agent怎么评估、怎么记忆、怎么积累经验，以及怎么在长任务里不丢关键规则。从Netflix评判器生命周期、NVIDIA的Skill Lift，到上下文管理、JIT-Agent、Prime Agent、自我改进、安全规则压缩、真实实验室里的Co-Scientist，再到技能库投毒风险，基本把本周Agent工程的关键线索串了一遍。",
+      "url": "https://waytoagi.feishu.cn/wiki/JCUfweUlhiAvrCkEonOcjGEsn9b?from=from_copylink"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "第四次GEO公开课：官网正在成为GEO主阵地：从企业事实到AI引用，官网GEO实战公开课",
+      "summary": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/AMQ6woRYsiAEsdknDugcGGlQn7d?from=from_copylink"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "图解大语言模型部署",
+      "summary": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
+      "url": "https://waytoagi.feishu.cn/wiki/AhyFwQxkYikUgtk4WzYc8mPNnme?from=from_copylink"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "吴恩达：AI最大的机遇并不在你想象的地方丨Silicon Valley Girl",
+      "summary": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
+      "url": "https://waytoagi.feishu.cn/wiki/Uxx8woTKri5sPAkyfpEcOAU9nFg?from=from_copylink"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "WebMCP 详解",
+      "summary": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/FR9KwNj6ZiG23XkLEOTcsP4InGh?from=from_copylink"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Warp 如何让 Agent 自我进化",
+      "summary": "让 Agent 做Code Review，最容易出现的卡点是它不懂你的项目习惯、团队规范和历史踩坑；你这次提醒过的问题，下次它可能照样忘。Warp这个终端工具一开始让 Agent review 代码，效果并不理想。后来换了个更聪明的做法：用两个 Skill 跑闭环，一个负责审代码，一个自动收集工程师在 PR 里的高质量评论，再把这些真实反馈反向更新审查 Skill。人只需要照常写评论，Agent 就能持续吸收团队经验。",
+      "url": "https://waytoagi.feishu.cn/wiki/ImjdwSjdAiUosTkGgTTcX5jQnxd?from=from_copylink"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "吴恩达：AI 工程技能图谱：软件工程基础",
+      "summary": "Agent可以帮你写代码，但真正决定项目能不能跑稳的，还是数据、架构、安全、部署、监控和扩展这些基本功。",
+      "url": "https://waytoagi.feishu.cn/wiki/G3IwwW1AIibAqokzMUOcx1QHnif?from=from_copylink"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "一人公司做到数百万美元：从验证、产品到获客的完整系统丨Product Faculty",
+      "summary": "内容分发工具Blotato的开发者Sabrina用一条30秒TikTok验证需求，把第一版砍到只剩一个功能，上线10天做到1万美元月度经常性收入，不到两年把业务做到了数百万美元年收入。AI帮她压缩执行成本，但产品判断、功能取舍和责任始终在人手里。想知道“一人公司”怎么少踩坑、先跑出确定性，可以认真看看她每一步的具体做法。",
+      "url": "https://waytoagi.feishu.cn/wiki/KzqdwEd1piv3HgkxlZCcWcAgnog?from=from_copylink"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "WorkBuddy 超保姆级入门教程-附图解实操 【万字长文】",
+      "summary": "这篇WorkBuddy 超保姆级入门教程就是给小白准备的：从下载安装到第一次打开界面，哪些按钮该看、哪些入口先不用管、怎么照着截图跑通第一个任务，都会一步步拆清楚。",
+      "url": "https://waytoagi.feishu.cn/wiki/Y6ZewCbWhiEx5jkE53kcVgKTnQh?from=from_copylink"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "KV、前缀、提示词与语义缓存：LLM 中四类缓存的清晰解析",
+      "summary": "这篇文章把KV缓存、前缀缓存、提示词缓存、语义缓存拆得很清楚。你需要了解的是你的输入token在哪里被重新计算，以及如何应对。本文从基本原理出发，覆盖四层缓存及其权衡、它们交互时会发生什么，以及阻碍缓存复用的五个最常见问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/OHAPwy71RidXi5kMWYFchCDhnzb?from=from_copylink"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Codex 进阶应用教程：普通人最常用的 10 个工作场景",
+      "summary": "Codex 适合处理有明确材料、具体步骤和可检查结果的任务。它可以读取文件、整理信息、运行命令、操作网页和软件，也可以把反复出现的要求保存成固定流程。下面十个场景按照普通人的实际使用顺序展开。每一节都会讲清任务为什么容易出错、怎样交给 Codex，以及完成以后检查什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/SXPwwEYhRiBY9AkEwUWc22GmnFd?from=from_copylink"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "10 个 Skill 搭建日更爆文的公众号写作系统",
+      "summary": "如果你也想做自媒体的话，作者这篇文章不容错过！作者把三年400多篇原创经验拆成了10个Skill，覆盖账号定位、爆款分析、每日选题、长短文写作、标题生成、封面配图、逻辑图和整篇排版，还延伸到视频复用、多平台分发。想把日更爆文的，可以试试这套流程。",
+      "url": "https://waytoagi.feishu.cn/wiki/MfWUwQc6piE3aWk2B2kcsJ0unZg?from=from_copylink"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "前Figma工程师是如何用 AI 进行设计的",
+      "summary": "前Figma工程师是如何用 AI 进行设计的",
+      "url": "https://waytoagi.feishu.cn/wiki/D3jewnaqRiFOzVkuAFRcCDwVnGg?from=from_copylink"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "万字长文｜Agent 从入门到精通（附实战：论文整理 Agent 搭建）",
+      "summary": "这篇文章很适合Agent新手和想把Codex用到真实工作的运营、研究者、开发者看。作者先解读了大模型、Tool/API、Agent Loop、MCP、CLI/桌面端这些概念，然后用“论文资料整理 Agent”带你落地，最后沉淀成 Skill。",
+      "url": "https://waytoagi.feishu.cn/wiki/JLDVw9Bqli57PJkvdMWcIxQonog?from=from_copylink"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "万字长文 | Pi Agent 零基础实操：从打开终端到完成第一个真实任务",
+      "summary": "这篇很适合 Pi Agent 小白从0上手。作者用一份会议记录带你跑完整个流程：新建安全练习目录、安装登录、看懂界面，用@引用文件生成行动清单，再回到命令行独立验收结果。后面还讲了AGENTS.md、会话管理、Skill/Extension/Package的区别。",
+      "url": "https://waytoagi.feishu.cn/wiki/FQ9RweSViibRb5k4kAacFgIznKg?from=from_copylink"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "AI 做海报、HTML 构图手册：16 种控制网格、图文关系与信息密度的海报构图——下册",
+      "summary": "这篇下册会同时给你两套表达：一套写给图像模型，一套写给 HTML / CSS。读完以后，你应该能从第 17–32 种里选出一个主构图，再把它落成可检查的网格、图文层级或节奏规则。",
+      "url": "https://waytoagi.feishu.cn/wiki/DPKZw4T8wiWN00kmewxcItRXnLD?from=from_copylink"
+    }
+  ],
+  "warning": null,
+  "has_error": false,
+  "error": null
 }
