@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T10:06:20.047033Z",
+  "generated_at": "2026-09-01T14:53:25.616318Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8416,
-      "importance": 0.8416,
-      "importance_score": 0.8416,
+      "score": 0.8312,
+      "importance": 0.8312,
+      "importance_score": 0.8312,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8642,
+        "recency": 0.8065,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T10:33:18.724834Z"
+        "scored_at": "2026-09-01T15:16:20.173331Z"
+      }
+    },
+    {
+      "story_id": "story_d2daab157b0c",
+      "title": "Copilot model access update for GitHub Team plans",
+      "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+      "primary_url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
+          "title": "Copilot model access update for GitHub Team plans",
+          "title_zh": null,
+          "title_en": "Copilot model access update for GitHub Team plans",
+          "title_original": "Copilot model access update for GitHub Team plans",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T21:58:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
+          "title": "Copilot model access update for GitHub Team plans",
+          "title_zh": null,
+          "title_en": "Copilot model access update for GitHub Team plans",
+          "title_original": "Copilot model access update for GitHub Team plans",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T21:58:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7833,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T21:58:46Z",
+      "latest_at": "2026-08-31T21:58:46Z",
+      "primary_item": {
+        "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
+        "title": "Copilot model access update for GitHub Team plans",
+        "title_zh": null,
+        "title_en": "Copilot model access update for GitHub Team plans",
+        "title_original": "Copilot model access update for GitHub Team plans",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T15:16:20.173331Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8133,
-      "importance": 0.8133,
-      "importance_score": 0.8133,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8518,
+        "recency": 0.795,
         "story_heat": 0.0
       },
       "category": "official",
@@ -165,30 +248,112 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T10:33:18.724834Z"
+        "scored_at": "2026-09-01T15:16:20.173331Z"
       }
     },
     {
-      "story_id": "story_faa62a90bef8",
-      "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-      "url": "https://www.aibase.com/news/30752",
-      "primary_url": "https://www.aibase.com/news/30752",
+      "story_id": "story_0ccf033da9a1",
+      "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+      "url": "https://www.ithome.com/0/997/147.htm",
+      "primary_url": "https://www.ithome.com/0/997/147.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5185e25016efc4497b35a35d691c0680728e6658",
+          "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+          "title_zh": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+          "title_en": null,
+          "title_original": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+          "summary": "据路透社报道，美国中西部、中大西洋和南部地区超大型用电户（主要为数据中心）提出的用电申请已超过 700 吉瓦，超过全美数据中心实际用电量估计的十倍，其中相当一部分可能是重复提交或缺乏资金能力的幻象需求。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/997/147.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T12:40:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5185e25016efc4497b35a35d691c0680728e6658",
+          "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+          "title_zh": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+          "title_en": null,
+          "title_original": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+          "summary": "据路透社报道，美国中西部、中大西洋和南部地区超大型用电户（主要为数据中心）提出的用电申请已超过 700 吉瓦，超过全美数据中心实际用电量估计的十倍，其中相当一部分可能是重复提交或缺乏资金能力的幻象需求。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/997/147.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T12:40:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9685,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T12:40:19Z",
+      "latest_at": "2026-09-01T12:40:19Z",
+      "primary_item": {
+        "id": "5185e25016efc4497b35a35d691c0680728e6658",
+        "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+        "title_zh": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+        "title_en": null,
+        "title_original": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+        "summary": "据路透社报道，美国中西部、中大西洋和南部地区超大型用电户（主要为数据中心）提出的用电申请已超过 700 吉瓦，超过全美数据中心实际用电量估计的十倍，其中相当一部分可能是重复提交或缺乏资金能力的幻象需求。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/997/147.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T15:16:20.173331Z"
+      }
+    },
+    {
+      "story_id": "story_e56fdeaae0c9",
+      "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
+      "url": "https://www.aibase.com/news/30760",
+      "primary_url": "https://www.aibase.com/news/30760",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4f68efb077aa099833250b7eb6a349b1a462132c",
-          "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-          "title_zh": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+          "id": "b4d352b739db619879d97925606394587b8ce728",
+          "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
+          "title_zh": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
           "title_en": null,
-          "title_original": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+          "title_original": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30752",
+          "url": "https://www.aibase.com/news/30760",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T10:06:20.047033Z"
+          "published_at": "2026-09-01T14:53:25.616318Z"
         }
       ],
       "source_count": 1,
@@ -197,18 +362,18 @@
       ],
       "items": [
         {
-          "id": "4f68efb077aa099833250b7eb6a349b1a462132c",
-          "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-          "title_zh": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+          "id": "b4d352b739db619879d97925606394587b8ce728",
+          "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
+          "title_zh": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
           "title_en": null,
-          "title_original": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+          "title_original": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30752",
+          "url": "https://www.aibase.com/news/30760",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T10:06:20.047033Z"
+          "published_at": "2026-09-01T14:53:25.616318Z"
         }
       ],
       "item_count": 1,
@@ -229,17 +394,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T10:06:20.047033Z",
-      "latest_at": "2026-09-01T10:06:20.047033Z",
+      "earliest_at": "2026-09-01T14:53:25.616318Z",
+      "latest_at": "2026-09-01T14:53:25.616318Z",
       "primary_item": {
-        "id": "4f68efb077aa099833250b7eb6a349b1a462132c",
-        "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-        "title_zh": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+        "id": "b4d352b739db619879d97925606394587b8ce728",
+        "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
+        "title_zh": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
         "title_en": null,
-        "title_original": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+        "title_original": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30752",
+        "url": "https://www.aibase.com/news/30760",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -247,7 +412,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T10:33:18.724834Z"
+        "scored_at": "2026-09-01T15:16:20.173331Z"
       }
     },
     {
@@ -295,15 +460,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.736,
+      "importance": 0.736,
+      "importance_score": 0.736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8659,
+        "recency": 0.808,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -328,7 +493,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T10:33:18.724834Z"
+        "scored_at": "2026-09-01T15:16:20.173331Z"
+      }
+    },
+    {
+      "story_id": "story_faa62a90bef8",
+      "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+      "url": "https://www.aibase.com/news/30752",
+      "primary_url": "https://www.aibase.com/news/30752",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4f68efb077aa099833250b7eb6a349b1a462132c",
+          "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+          "title_zh": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+          "title_en": null,
+          "title_original": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30752",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T10:06:20.047033Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4f68efb077aa099833250b7eb6a349b1a462132c",
+          "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+          "title_zh": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+          "title_en": null,
+          "title_original": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30752",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T10:06:20.047033Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9332,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T10:06:20.047033Z",
+      "latest_at": "2026-09-01T10:06:20.047033Z",
+      "primary_item": {
+        "id": "4f68efb077aa099833250b7eb6a349b1a462132c",
+        "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+        "title_zh": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+        "title_en": null,
+        "title_original": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30752",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T15:16:20.173331Z"
       }
     },
     {
@@ -376,15 +623,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9332,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -410,88 +657,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T10:33:18.724834Z"
-      }
-    },
-    {
-      "story_id": "story_5f8cb23153f3",
-      "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-      "url": "https://www.ithome.com/0/996/637.htm",
-      "primary_url": "https://www.ithome.com/0/996/637.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7cb41d08fa1c81ff847c4bdf2771e90755cb9ec8",
-          "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-          "title_zh": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-          "title_en": null,
-          "title_original": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-          "summary": "DeepSeek 于 8 月 31 日在 Hugging Face 开源首个多模态模型 DeepSeek-V4-Flash-Vision-Exp，采用 MIT License，公开模型文件、Tokenizer、Prompt Encoding 参考实现及最小化 PyTorch 推理实现。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/996/637.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T11:35:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "7cb41d08fa1c81ff847c4bdf2771e90755cb9ec8",
-          "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-          "title_zh": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-          "title_en": null,
-          "title_original": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-          "summary": "DeepSeek 于 8 月 31 日在 Hugging Face 开源首个多模态模型 DeepSeek-V4-Flash-Vision-Exp，采用 MIT License，公开模型文件、Tokenizer、Prompt Encoding 参考实现及最小化 PyTorch 推理实现。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/996/637.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T11:35:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7296,
-      "importance": 0.7296,
-      "importance_score": 0.7296,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7224,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T11:35:24Z",
-      "latest_at": "2026-08-31T11:35:24Z",
-      "primary_item": {
-        "id": "7cb41d08fa1c81ff847c4bdf2771e90755cb9ec8",
-        "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-        "title_zh": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-        "title_en": null,
-        "title_original": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-        "summary": "DeepSeek 于 8 月 31 日在 Hugging Face 开源首个多模态模型 DeepSeek-V4-Flash-Vision-Exp，采用 MIT License，公开模型文件、Tokenizer、Prompt Encoding 参考实现及最小化 PyTorch 推理实现。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/996/637.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-01T10:33:18.724834Z"
+        "scored_at": "2026-09-01T15:16:20.173331Z"
       }
     },
     {
@@ -539,15 +705,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9332,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -573,7 +739,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T10:33:18.724834Z"
+        "scored_at": "2026-09-01T15:16:20.173331Z"
       }
     },
     {
@@ -621,15 +787,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9332,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -655,7 +821,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T10:33:18.724834Z"
+        "scored_at": "2026-09-01T15:16:20.173331Z"
       }
     },
     {
@@ -703,15 +869,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9332,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -737,7 +903,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T10:33:18.724834Z"
+        "scored_at": "2026-09-01T15:16:20.173331Z"
       }
     },
     {
@@ -785,15 +951,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9332,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -819,89 +985,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T10:33:18.724834Z"
+        "scored_at": "2026-09-01T15:16:20.173331Z"
       }
     },
     {
-      "story_id": "story_18a954a364e8",
-      "title": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
-      "url": "https://www.aibase.com/news/30749",
-      "primary_url": "https://www.aibase.com/news/30749",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_48f071bde448",
+      "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+      "url": "https://news.ycombinator.com/item?id=49521315",
+      "primary_url": "https://news.ycombinator.com/item?id=49521315",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "aafe723be9b968f91776e8c7d2d73bfdf9f013b1",
-          "title": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
-          "title_zh": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
-          "title_en": null,
-          "title_original": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
+          "id": "39b94c93291404147770c6191455460b32be04e2",
+          "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+          "title_zh": null,
+          "title_en": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+          "title_original": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30749",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T10:06:20.047033Z"
+          "url": "https://news.ycombinator.com/item?id=49521315",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-01T14:42:27.743000Z"
+        },
+        {
+          "id": "2f891399b124d83d293d2152de6d981224719664",
+          "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
+          "title_zh": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
+          "title_en": null,
+          "title_original": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+          "source": "www.eff.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T14:41:25.376000Z"
+        },
+        {
+          "id": "1e103f3140fdd2b48b23170ea85c03917f2f41dd",
+          "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法 / EFF to Courts: Don't Rewrite Copyright over AI Hype",
+          "title_zh": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
+          "title_en": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+          "title_original": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T12:53:51Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News",
+        "hackernews",
+        "www.eff.org"
       ],
       "items": [
         {
-          "id": "aafe723be9b968f91776e8c7d2d73bfdf9f013b1",
-          "title": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
-          "title_zh": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
-          "title_en": null,
-          "title_original": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
+          "id": "39b94c93291404147770c6191455460b32be04e2",
+          "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+          "title_zh": null,
+          "title_en": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+          "title_original": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30749",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T10:06:20.047033Z"
+          "url": "https://news.ycombinator.com/item?id=49521315",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-01T14:42:27.743000Z"
+        },
+        {
+          "id": "2f891399b124d83d293d2152de6d981224719664",
+          "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
+          "title_zh": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
+          "title_en": null,
+          "title_original": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+          "source": "www.eff.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T14:41:25.376000Z"
+        },
+        {
+          "id": "1e103f3140fdd2b48b23170ea85c03917f2f41dd",
+          "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法 / EFF to Courts: Don't Rewrite Copyright over AI Hype",
+          "title_zh": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
+          "title_en": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+          "title_original": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T12:53:51Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5703,
+      "importance": 0.5703,
+      "importance_score": 0.5703,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9974,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-01T10:06:20.047033Z",
-      "latest_at": "2026-09-01T10:06:20.047033Z",
+      "earliest_at": "2026-09-01T12:53:51Z",
+      "latest_at": "2026-09-01T14:42:27.743000Z",
       "primary_item": {
-        "id": "aafe723be9b968f91776e8c7d2d73bfdf9f013b1",
-        "title": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
-        "title_zh": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
-        "title_en": null,
-        "title_original": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
+        "id": "39b94c93291404147770c6191455460b32be04e2",
+        "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+        "title_zh": null,
+        "title_en": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+        "title_original": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30749",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://news.ycombinator.com/item?id=49521315",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T10:33:18.724834Z"
+        "scored_at": "2026-09-01T15:16:20.173331Z"
       }
     },
     {
@@ -977,15 +1200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5732,
-      "importance": 0.5732,
-      "importance_score": 0.5732,
+      "score": 0.564,
+      "importance": 0.564,
+      "importance_score": 0.564,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7653,
+        "recency": 0.7142,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1010,26 +1233,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T10:33:18.724834Z"
+        "scored_at": "2026-09-01T15:16:20.173331Z"
       }
     },
     {
-      "story_id": "story_175ffde23042",
-      "title": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
-      "url": "https://www.aibase.com/news/30750",
-      "primary_url": "https://www.aibase.com/news/30750",
+      "story_id": "story_18a954a364e8",
+      "title": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
+      "url": "https://www.aibase.com/news/30749",
+      "primary_url": "https://www.aibase.com/news/30749",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f80b3cfa1eda766b953a027c15bafca0965bcf32",
-          "title": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
-          "title_zh": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+          "id": "aafe723be9b968f91776e8c7d2d73bfdf9f013b1",
+          "title": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
+          "title_zh": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
           "title_en": null,
-          "title_original": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+          "title_original": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30750",
+          "url": "https://www.aibase.com/news/30749",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1042,14 +1265,14 @@
       ],
       "items": [
         {
-          "id": "f80b3cfa1eda766b953a027c15bafca0965bcf32",
-          "title": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
-          "title_zh": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+          "id": "aafe723be9b968f91776e8c7d2d73bfdf9f013b1",
+          "title": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
+          "title_zh": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
           "title_en": null,
-          "title_original": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+          "title_original": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30750",
+          "url": "https://www.aibase.com/news/30749",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1058,15 +1281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9332,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1077,14 +1300,14 @@
       "earliest_at": "2026-09-01T10:06:20.047033Z",
       "latest_at": "2026-09-01T10:06:20.047033Z",
       "primary_item": {
-        "id": "f80b3cfa1eda766b953a027c15bafca0965bcf32",
-        "title": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
-        "title_zh": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+        "id": "aafe723be9b968f91776e8c7d2d73bfdf9f013b1",
+        "title": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
+        "title_zh": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
         "title_en": null,
-        "title_original": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+        "title_original": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30750",
+        "url": "https://www.aibase.com/news/30749",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1092,7 +1315,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T10:33:18.724834Z"
+        "scored_at": "2026-09-01T15:16:20.173331Z"
       }
     },
     {
@@ -1198,15 +1421,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5494,
-      "importance": 0.5494,
-      "importance_score": 0.5494,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8814,
+        "recency": 0.8225,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1231,285 +1454,199 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T10:33:18.724834Z"
+        "scored_at": "2026-09-01T15:16:20.173331Z"
       }
     },
     {
-      "story_id": "story_1820ecd798ef",
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "url": "https://news.ycombinator.com/item?id=49510000",
-      "primary_url": "https://news.ycombinator.com/item?id=49510000",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2efd78f8b3c61bfe61bf54549efa0a9f64848ce2",
-          "title": "ChatGPT Work Tool and Skill Reference",
-          "title_zh": null,
-          "title_en": "ChatGPT Work Tool and Skill Reference",
-          "title_original": "ChatGPT Work Tool and Skill Reference",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49510000",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T19:49:07.264000Z"
-        },
-        {
-          "id": "0da1b86ffc506f59634a759b5e35887ad07ae78f",
-          "title": "ChatGPT 工作工具与技能参考",
-          "title_zh": "ChatGPT 工作工具与技能参考",
-          "title_en": null,
-          "title_original": "ChatGPT 工作工具与技能参考",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://codex-tool-reference.simonw.chatgpt.site",
-          "source": "codex-tool-reference.simonw.chatgpt.site",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T17:21:15.952000Z"
-        },
-        {
-          "id": "977af0f0bc4c3dd106e272b74eed5bd50f4b8578",
-          "title": "ChatGPT 工作工具与技能参考 / ChatGPT Work Tool and Skill Reference",
-          "title_zh": "ChatGPT 工作工具与技能参考",
-          "title_en": "ChatGPT Work Tool and Skill Reference",
-          "title_original": "ChatGPT Work Tool and Skill Reference",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://codex-tool-reference.simonw.chatgpt.site",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T14:07:15Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "codex-tool-reference.simonw.chatgpt.site",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2efd78f8b3c61bfe61bf54549efa0a9f64848ce2",
-          "title": "ChatGPT Work Tool and Skill Reference",
-          "title_zh": null,
-          "title_en": "ChatGPT Work Tool and Skill Reference",
-          "title_original": "ChatGPT Work Tool and Skill Reference",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49510000",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T19:49:07.264000Z"
-        },
-        {
-          "id": "0da1b86ffc506f59634a759b5e35887ad07ae78f",
-          "title": "ChatGPT 工作工具与技能参考",
-          "title_zh": "ChatGPT 工作工具与技能参考",
-          "title_en": null,
-          "title_original": "ChatGPT 工作工具与技能参考",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://codex-tool-reference.simonw.chatgpt.site",
-          "source": "codex-tool-reference.simonw.chatgpt.site",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T17:21:15.952000Z"
-        },
-        {
-          "id": "977af0f0bc4c3dd106e272b74eed5bd50f4b8578",
-          "title": "ChatGPT 工作工具与技能参考 / ChatGPT Work Tool and Skill Reference",
-          "title_zh": "ChatGPT 工作工具与技能参考",
-          "title_en": "ChatGPT Work Tool and Skill Reference",
-          "title_original": "ChatGPT Work Tool and Skill Reference",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://codex-tool-reference.simonw.chatgpt.site",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T14:07:15Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5372,
-      "importance": 0.5372,
-      "importance_score": 0.5372,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8136,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-31T14:07:15Z",
-      "latest_at": "2026-08-31T19:49:07.264000Z",
-      "primary_item": {
-        "id": "2efd78f8b3c61bfe61bf54549efa0a9f64848ce2",
-        "title": "ChatGPT Work Tool and Skill Reference",
-        "title_zh": null,
-        "title_en": "ChatGPT Work Tool and Skill Reference",
-        "title_original": "ChatGPT Work Tool and Skill Reference",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49510000",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-01T10:33:18.724834Z"
-      }
-    },
-    {
-      "story_id": "story_33e3871730ab",
-      "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-      "primary_url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-      "source": "www.macrumors.com",
+      "story_id": "story_417795a6a239",
+      "title": "人工智能也能让你更快变差",
+      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+      "primary_url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+      "source": "www.hermit-tech.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
-          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "id": "2d8bdd448a3b068f4bd6b026675e1d279287f26a",
+          "title": "人工智能也能让你更快变差",
+          "title_zh": "人工智能也能让你更快变差",
           "title_en": null,
-          "title_original": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "title_original": "人工智能也能让你更快变差",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-          "source": "www.macrumors.com",
+          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+          "source": "www.hermit-tech.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-31T18:41:20.531000Z"
+          "published_at": "2026-09-01T11:45:30.411000Z"
         },
         {
-          "id": "dbac602454ffcaaa3f4844a6074fde512a0e07f6",
-          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-          "title_zh": null,
-          "title_en": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-          "title_original": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "id": "cb9073795c3eb91b0d8819872e8dd39a1a8db66e",
+          "title": "人工智能也能让你更快变差 / AI Can Make You Suck Faster Too",
+          "title_zh": "人工智能也能让你更快变差",
+          "title_en": "AI Can Make You Suck Faster Too",
+          "title_original": "AI Can Make You Suck Faster Too",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49508982",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T13:53:41.998000Z"
-        },
-        {
-          "id": "7bf130bbd0e6717c0903fc01569c981f69751471",
-          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及 / Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-          "title_en": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-          "title_original": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T12:41:22Z"
+          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T05:32:56Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.macrumors.com"
+        "Hacker News",
+        "www.hermit-tech.com"
       ],
       "items": [
         {
-          "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
-          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "id": "2d8bdd448a3b068f4bd6b026675e1d279287f26a",
+          "title": "人工智能也能让你更快变差",
+          "title_zh": "人工智能也能让你更快变差",
           "title_en": null,
-          "title_original": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "title_original": "人工智能也能让你更快变差",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-          "source": "www.macrumors.com",
+          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+          "source": "www.hermit-tech.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-31T18:41:20.531000Z"
+          "published_at": "2026-09-01T11:45:30.411000Z"
         },
         {
-          "id": "dbac602454ffcaaa3f4844a6074fde512a0e07f6",
-          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-          "title_zh": null,
-          "title_en": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-          "title_original": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "id": "cb9073795c3eb91b0d8819872e8dd39a1a8db66e",
+          "title": "人工智能也能让你更快变差 / AI Can Make You Suck Faster Too",
+          "title_zh": "人工智能也能让你更快变差",
+          "title_en": "AI Can Make You Suck Faster Too",
+          "title_original": "AI Can Make You Suck Faster Too",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49508982",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T13:53:41.998000Z"
-        },
-        {
-          "id": "7bf130bbd0e6717c0903fc01569c981f69751471",
-          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及 / Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-          "title_en": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-          "title_original": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T12:41:22Z"
+          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T05:32:56Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5378,
+      "importance": 0.5378,
+      "importance_score": 0.5378,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8004,
-        "story_heat": 0.5
+        "recency": 0.9558,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-31T12:41:22Z",
-      "latest_at": "2026-08-31T18:41:20.531000Z",
+      "earliest_at": "2026-09-01T05:32:56Z",
+      "latest_at": "2026-09-01T11:45:30.411000Z",
       "primary_item": {
-        "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
-        "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-        "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+        "id": "2d8bdd448a3b068f4bd6b026675e1d279287f26a",
+        "title": "人工智能也能让你更快变差",
+        "title_zh": "人工智能也能让你更快变差",
         "title_en": null,
-        "title_original": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+        "title_original": "人工智能也能让你更快变差",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-        "source": "www.macrumors.com",
+        "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+        "source": "www.hermit-tech.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T10:33:18.724834Z"
+        "scored_at": "2026-09-01T15:16:20.173331Z"
+      }
+    },
+    {
+      "story_id": "story_175ffde23042",
+      "title": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+      "url": "https://www.aibase.com/news/30750",
+      "primary_url": "https://www.aibase.com/news/30750",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f80b3cfa1eda766b953a027c15bafca0965bcf32",
+          "title": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+          "title_zh": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+          "title_en": null,
+          "title_original": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30750",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T10:06:20.047033Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f80b3cfa1eda766b953a027c15bafca0965bcf32",
+          "title": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+          "title_zh": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+          "title_en": null,
+          "title_original": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30750",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T10:06:20.047033Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9332,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T10:06:20.047033Z",
+      "latest_at": "2026-09-01T10:06:20.047033Z",
+      "primary_item": {
+        "id": "f80b3cfa1eda766b953a027c15bafca0965bcf32",
+        "title": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+        "title_zh": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+        "title_en": null,
+        "title_original": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30750",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T15:16:20.173331Z"
       }
     },
     {
@@ -1557,15 +1694,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9332,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1591,199 +1728,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T10:33:18.724834Z"
-      }
-    },
-    {
-      "story_id": "story_f25d703e5962",
-      "title": "科大讯飞旗下词元星火重磅开源两款全新机型",
-      "url": "https://www.aibase.com/news/30748",
-      "primary_url": "https://www.aibase.com/news/30748",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "420ade9e9758403f33683c1d541801ddd9a114e9",
-          "title": "科大讯飞旗下词元星火重磅开源两款全新机型",
-          "title_zh": "科大讯飞旗下词元星火重磅开源两款全新机型",
-          "title_en": null,
-          "title_original": "科大讯飞旗下词元星火重磅开源两款全新机型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30748",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T10:06:20.047033Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "420ade9e9758403f33683c1d541801ddd9a114e9",
-          "title": "科大讯飞旗下词元星火重磅开源两款全新机型",
-          "title_zh": "科大讯飞旗下词元星火重磅开源两款全新机型",
-          "title_en": null,
-          "title_original": "科大讯飞旗下词元星火重磅开源两款全新机型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30748",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T10:06:20.047033Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T10:06:20.047033Z",
-      "latest_at": "2026-09-01T10:06:20.047033Z",
-      "primary_item": {
-        "id": "420ade9e9758403f33683c1d541801ddd9a114e9",
-        "title": "科大讯飞旗下词元星火重磅开源两款全新机型",
-        "title_zh": "科大讯飞旗下词元星火重磅开源两款全新机型",
-        "title_en": null,
-        "title_original": "科大讯飞旗下词元星火重磅开源两款全新机型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30748",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-01T10:33:18.724834Z"
-      }
-    },
-    {
-      "story_id": "story_290daf4b2b31",
-      "title": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
-      "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
-      "primary_url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "dfc643672ca71be8c7f141b5720626e03e87042d",
-          "title": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
-          "title_zh": null,
-          "title_en": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
-          "title_original": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T12:08:25Z"
-        },
-        {
-          "id": "11ee6b253749e0ecbb88afcd84078a1fa9fe7a11",
-          "title": "AI-written code is still your code",
-          "title_zh": null,
-          "title_en": "AI-written code is still your code",
-          "title_original": "AI-written code is still your code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T12:08:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "dfc643672ca71be8c7f141b5720626e03e87042d",
-          "title": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
-          "title_zh": null,
-          "title_en": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
-          "title_original": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T12:08:25Z"
-        },
-        {
-          "id": "11ee6b253749e0ecbb88afcd84078a1fa9fe7a11",
-          "title": "AI-written code is still your code",
-          "title_zh": null,
-          "title_en": "AI-written code is still your code",
-          "title_original": "AI-written code is still your code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T12:08:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4969,
-      "importance": 0.4969,
-      "importance_score": 0.4969,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7282,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-31T12:08:25Z",
-      "latest_at": "2026-08-31T12:08:25Z",
-      "primary_item": {
-        "id": "dfc643672ca71be8c7f141b5720626e03e87042d",
-        "title": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
-        "title_zh": null,
-        "title_en": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
-        "title_original": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-01T10:33:18.724834Z"
+        "scored_at": "2026-09-01T15:16:20.173331Z"
       }
     },
     {
@@ -1860,15 +1805,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5122,
-      "importance": 0.5122,
-      "importance_score": 0.5122,
+      "score": 0.5025,
+      "importance": 0.5025,
+      "importance_score": 0.5025,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8136,
+        "recency": 0.7593,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1893,7 +1838,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T10:33:18.724834Z"
+        "scored_at": "2026-09-01T15:16:20.173331Z"
       }
     }
   ]
