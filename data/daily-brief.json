@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T21:51:32.847325Z",
+  "generated_at": "2026-09-09T00:15:00.066741Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8737,
-      "importance": 0.8737,
-      "importance_score": 0.8737,
+      "score": 0.8685,
+      "importance": 0.8685,
+      "importance_score": 0.8685,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8426,
+        "recency": 0.814,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,7 +142,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T22:27:36.706196Z"
+        "scored_at": "2026-09-09T00:50:17.722171Z"
       }
     },
     {
@@ -277,15 +277,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8707,
-      "importance": 0.8707,
-      "importance_score": 0.8707,
+      "score": 0.865,
+      "importance": 0.865,
+      "importance_score": 0.865,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9395,
+        "recency": 0.9076,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -312,7 +312,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T22:27:36.706196Z"
+        "scored_at": "2026-09-09T00:50:17.722171Z"
       }
     },
     {
@@ -352,7 +352,7 @@
           "published_at": "2026-09-08T06:48:43.523000Z"
         },
         {
-          "id": "f334cccbcaea5049296537c60a694c156e76b8aa",
+          "id": "16c398eb3a72470bb55ae51a7c46e14ca33f87aa",
           "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B",
           "title_zh": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
           "title_en": "Mistral raises €3B",
@@ -360,9 +360,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-08T05:06:23Z"
         },
         {
@@ -383,7 +383,7 @@
       "source_count": 4,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Mistral AI：News（网页）",
         "mistral.ai"
       ],
@@ -417,7 +417,7 @@
           "published_at": "2026-09-08T06:48:43.523000Z"
         },
         {
-          "id": "f334cccbcaea5049296537c60a694c156e76b8aa",
+          "id": "16c398eb3a72470bb55ae51a7c46e14ca33f87aa",
           "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B",
           "title_zh": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
           "title_en": "Mistral raises €3B",
@@ -425,9 +425,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-08T05:06:23Z"
         },
         {
@@ -447,15 +447,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8541,
-      "importance": 0.8541,
-      "importance_score": 0.8541,
+      "score": 0.8492,
+      "importance": 0.8492,
+      "importance_score": 0.8492,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.795,
+        "recency": 0.768,
         "story_heat": 0.75
       },
       "category": "official",
@@ -482,7 +482,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T22:27:36.706196Z"
+        "scored_at": "2026-09-09T00:50:17.722171Z"
+      }
+    },
+    {
+      "story_id": "story_cca71c225d5c",
+      "title": "GitHub Enterprise Server 3.22 is now generally available",
+      "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "81992c21c827e3d016b7b2c3b9c1b99e8713c4a3",
+          "title": "GitHub Enterprise Server 3.22 is now generally available",
+          "title_zh": null,
+          "title_en": "GitHub Enterprise Server 3.22 is now generally available",
+          "title_original": "GitHub Enterprise Server 3.22 is now generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T21:52:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "81992c21c827e3d016b7b2c3b9c1b99e8713c4a3",
+          "title": "GitHub Enterprise Server 3.22 is now generally available",
+          "title_zh": null,
+          "title_en": "GitHub Enterprise Server 3.22 is now generally available",
+          "title_original": "GitHub Enterprise Server 3.22 is now generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T21:52:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8379,
+      "importance": 0.8379,
+      "importance_score": 0.8379,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9663,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T21:52:42Z",
+      "latest_at": "2026-09-08T21:52:42Z",
+      "primary_item": {
+        "id": "81992c21c827e3d016b7b2c3b9c1b99e8713c4a3",
+        "title": "GitHub Enterprise Server 3.22 is now generally available",
+        "title_zh": null,
+        "title_en": "GitHub Enterprise Server 3.22 is now generally available",
+        "title_original": "GitHub Enterprise Server 3.22 is now generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T00:50:17.722171Z"
       }
     },
     {
@@ -530,15 +613,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8416,
-      "importance": 0.8416,
-      "importance_score": 0.8416,
+      "score": 0.8361,
+      "importance": 0.8361,
+      "importance_score": 0.8361,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8977,
+        "recency": 0.8672,
         "story_heat": 0.0
       },
       "category": "official",
@@ -565,90 +648,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T22:27:36.706196Z"
-      }
-    },
-    {
-      "story_id": "story_d1fac00d58a7",
-      "title": "New customer portal help.github.com",
-      "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
-      "primary_url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
-          "title": "New customer portal help.github.com",
-          "title_zh": null,
-          "title_en": "New customer portal help.github.com",
-          "title_original": "New customer portal help.github.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T18:00:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
-          "title": "New customer portal help.github.com",
-          "title_zh": null,
-          "title_en": "New customer portal help.github.com",
-          "title_original": "New customer portal help.github.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T18:00:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9458,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T18:00:10Z",
-      "latest_at": "2026-09-08T18:00:10Z",
-      "primary_item": {
-        "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
-        "title": "New customer portal help.github.com",
-        "title_zh": null,
-        "title_en": "New customer portal help.github.com",
-        "title_original": "New customer portal help.github.com",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T22:27:36.706196Z"
+        "scored_at": "2026-09-09T00:50:17.722171Z"
       }
     },
     {
@@ -725,15 +725,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.86,
-      "importance_score": 0.86,
+      "score": 0.8547,
+      "importance": 0.8547,
+      "importance_score": 0.8547,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8611,
+        "recency": 0.8318,
         "story_heat": 0.25
       },
       "category": "official",
@@ -761,7 +761,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T22:27:36.706196Z"
+        "scored_at": "2026-09-09T00:50:17.722171Z"
       }
     },
     {
@@ -809,15 +809,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8928,
+        "recency": 0.8625,
         "story_heat": 0.0
       },
       "category": "official",
@@ -844,30 +844,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T22:27:36.706196Z"
+        "scored_at": "2026-09-09T00:50:17.722171Z"
       }
     },
     {
-      "story_id": "story_8f80342078b7",
-      "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-      "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
-      "primary_url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+      "story_id": "story_d1fac00d58a7",
+      "title": "New customer portal help.github.com",
+      "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+      "primary_url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "32f856d8f25d835c5b1d71468a5235dc6b318604",
-          "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-          "title_zh": "自动 Dependabot 访问 GitHub 托管的注册表",
-          "title_en": "Automatic Dependabot access to GitHub-hosted registries",
-          "title_original": "Automatic Dependabot access to GitHub-hosted registries",
+          "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
+          "title": "New customer portal help.github.com",
+          "title_zh": null,
+          "title_en": "New customer portal help.github.com",
+          "title_original": "New customer portal help.github.com",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+          "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T16:46:05Z"
+          "published_at": "2026-09-08T18:00:10Z"
         }
       ],
       "source_count": 1,
@@ -876,31 +876,31 @@
       ],
       "items": [
         {
-          "id": "32f856d8f25d835c5b1d71468a5235dc6b318604",
-          "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-          "title_zh": "自动 Dependabot 访问 GitHub 托管的注册表",
-          "title_en": "Automatic Dependabot access to GitHub-hosted registries",
-          "title_original": "Automatic Dependabot access to GitHub-hosted registries",
+          "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
+          "title": "New customer portal help.github.com",
+          "title_zh": null,
+          "title_en": "New customer portal help.github.com",
+          "title_original": "New customer portal help.github.com",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+          "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T16:46:05Z"
+          "published_at": "2026-09-08T18:00:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8312,
-      "importance": 0.8312,
-      "importance_score": 0.8312,
+      "score": 0.8285,
+      "importance": 0.8285,
+      "importance_score": 0.8285,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9291,
+        "recency": 0.9137,
         "story_heat": 0.0
       },
       "category": "official",
@@ -909,17 +909,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T16:46:05Z",
-      "latest_at": "2026-09-08T16:46:05Z",
+      "earliest_at": "2026-09-08T18:00:10Z",
+      "latest_at": "2026-09-08T18:00:10Z",
       "primary_item": {
-        "id": "32f856d8f25d835c5b1d71468a5235dc6b318604",
-        "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-        "title_zh": "自动 Dependabot 访问 GitHub 托管的注册表",
-        "title_en": "Automatic Dependabot access to GitHub-hosted registries",
-        "title_original": "Automatic Dependabot access to GitHub-hosted registries",
+        "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
+        "title": "New customer portal help.github.com",
+        "title_zh": null,
+        "title_en": "New customer portal help.github.com",
+        "title_original": "New customer portal help.github.com",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+        "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -927,7 +927,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T22:27:36.706196Z"
+        "scored_at": "2026-09-09T00:50:17.722171Z"
       }
     },
     {
@@ -975,15 +975,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7889,
-      "importance": 0.7889,
-      "importance_score": 0.7889,
+      "score": 0.7832,
+      "importance": 0.7832,
+      "importance_score": 0.7832,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9326,
+        "recency": 0.9009,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1009,7 +1009,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T22:27:36.706196Z"
+        "scored_at": "2026-09-09T00:50:17.722171Z"
       }
     },
     {
@@ -1057,15 +1057,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8478,
-      "importance": 0.8478,
-      "importance_score": 0.8478,
+      "score": 0.8421,
+      "importance": 0.8421,
+      "importance_score": 0.8421,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9322,
+        "recency": 0.9006,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1092,7 +1092,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T22:27:36.706196Z"
+        "scored_at": "2026-09-09T00:50:17.722171Z"
       }
     },
     {
@@ -1140,15 +1140,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7778,
-      "importance": 0.7778,
-      "importance_score": 0.7778,
+      "score": 0.7721,
+      "importance": 0.7721,
+      "importance_score": 0.7721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9402,
+        "recency": 0.9083,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1174,7 +1174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T22:27:36.706196Z"
+        "scored_at": "2026-09-09T00:50:17.722171Z"
       }
     },
     {
@@ -1222,15 +1222,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.938,
+        "recency": 0.9062,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1256,7 +1256,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T22:27:36.706196Z"
+        "scored_at": "2026-09-09T00:50:17.722171Z"
+      }
+    },
+    {
+      "story_id": "story_8f80342078b7",
+      "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
+      "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+      "primary_url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "32f856d8f25d835c5b1d71468a5235dc6b318604",
+          "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
+          "title_zh": "自动 Dependabot 访问 GitHub 托管的注册表",
+          "title_en": "Automatic Dependabot access to GitHub-hosted registries",
+          "title_original": "Automatic Dependabot access to GitHub-hosted registries",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T16:46:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "32f856d8f25d835c5b1d71468a5235dc6b318604",
+          "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
+          "title_zh": "自动 Dependabot 访问 GitHub 托管的注册表",
+          "title_en": "Automatic Dependabot access to GitHub-hosted registries",
+          "title_original": "Automatic Dependabot access to GitHub-hosted registries",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T16:46:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8256,
+      "importance": 0.8256,
+      "importance_score": 0.8256,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8976,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T16:46:05Z",
+      "latest_at": "2026-09-08T16:46:05Z",
+      "primary_item": {
+        "id": "32f856d8f25d835c5b1d71468a5235dc6b318604",
+        "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
+        "title_zh": "自动 Dependabot 访问 GitHub 托管的注册表",
+        "title_en": "Automatic Dependabot access to GitHub-hosted registries",
+        "title_original": "Automatic Dependabot access to GitHub-hosted registries",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T00:50:17.722171Z"
       }
     },
     {
@@ -1304,15 +1387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8108,
+        "recency": 0.7833,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1338,7 +1421,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T22:27:36.706196Z"
+        "scored_at": "2026-09-09T00:50:17.722171Z"
       }
     },
     {
@@ -1386,15 +1469,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9375,
+        "recency": 0.9057,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1420,7 +1503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T22:27:36.706196Z"
+        "scored_at": "2026-09-09T00:50:17.722171Z"
       }
     },
     {
@@ -1468,15 +1551,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9464,
+        "recency": 0.9143,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1502,7 +1585,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T22:27:36.706196Z"
+        "scored_at": "2026-09-09T00:50:17.722171Z"
       }
     },
     {
@@ -1550,15 +1633,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8996,
+        "recency": 0.8691,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1583,7 +1666,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T22:27:36.706196Z"
+        "scored_at": "2026-09-09T00:50:17.722171Z"
+      }
+    },
+    {
+      "story_id": "story_76849f67b060",
+      "title": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑 / Introducing Runway for Premiere Pro & After Effects",
+      "url": "https://runwayml.com/news/company-news/runway-for-adobe",
+      "primary_url": "https://runwayml.com/news/company-news/runway-for-adobe",
+      "source": "Runway：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1310d63342038f95317c636e885b5a0638b480b5",
+          "title": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑 / Introducing Runway for Premiere Pro & After Effects",
+          "title_zh": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑",
+          "title_en": "Introducing Runway for Premiere Pro & After Effects",
+          "title_original": "Introducing Runway for Premiere Pro & After Effects",
+          "summary": "Runway 发布 Runway Plugins，新面板可直接嵌入 Premiere Pro 和 After Effects，在时间线内生成图像和视频、重绘片段并放置结果。Edit Studio 可基于已有片段用 Aleph 2 按原始时长重新渲染，插件免费下载（macOS 和 Windows），生成功能面向所有付费计划并消耗现有额度。",
+          "recommend_reason_zh": null,
+          "url": "https://runwayml.com/news/company-news/runway-for-adobe",
+          "source": "Runway：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T21:58:07.884000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Runway：News（网页）"
+      ],
+      "items": [
+        {
+          "id": "1310d63342038f95317c636e885b5a0638b480b5",
+          "title": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑 / Introducing Runway for Premiere Pro & After Effects",
+          "title_zh": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑",
+          "title_en": "Introducing Runway for Premiere Pro & After Effects",
+          "title_original": "Introducing Runway for Premiere Pro & After Effects",
+          "summary": "Runway 发布 Runway Plugins，新面板可直接嵌入 Premiere Pro 和 After Effects，在时间线内生成图像和视频、重绘片段并放置结果。Edit Studio 可基于已有片段用 Aleph 2 按原始时长重新渲染，插件免费下载（macOS 和 Windows），生成功能面向所有付费计划并消耗现有额度。",
+          "recommend_reason_zh": null,
+          "url": "https://runwayml.com/news/company-news/runway-for-adobe",
+          "source": "Runway：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T21:58:07.884000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9676,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-08T21:58:07.884000Z",
+      "latest_at": "2026-09-08T21:58:07.884000Z",
+      "primary_item": {
+        "id": "1310d63342038f95317c636e885b5a0638b480b5",
+        "title": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑 / Introducing Runway for Premiere Pro & After Effects",
+        "title_zh": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑",
+        "title_en": "Introducing Runway for Premiere Pro & After Effects",
+        "title_original": "Introducing Runway for Premiere Pro & After Effects",
+        "summary": "Runway 发布 Runway Plugins，新面板可直接嵌入 Premiere Pro 和 After Effects，在时间线内生成图像和视频、重绘片段并放置结果。Edit Studio 可基于已有片段用 Aleph 2 按原始时长重新渲染，插件免费下载（macOS 和 Windows），生成功能面向所有付费计划并消耗现有额度。",
+        "recommend_reason_zh": null,
+        "url": "https://runwayml.com/news/company-news/runway-for-adobe",
+        "source": "Runway：News（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T00:50:17.722171Z"
       }
     },
     {
@@ -1631,15 +1795,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8304,
-      "importance": 0.8304,
-      "importance_score": 0.8304,
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8799,
+        "recency": 0.8501,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1666,7 +1830,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T22:27:36.706196Z"
+        "scored_at": "2026-09-09T00:50:17.722171Z"
       }
     },
     {
@@ -1714,15 +1878,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7324,
+        "recency": 0.7075,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1747,169 +1911,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T22:27:36.706196Z"
-      }
-    },
-    {
-      "story_id": "story_87d7018b33e2",
-      "title": "OpenAI 向 Plus、Pro、Business 和 Enterprise 用户全面推送 Astra / Astra is fully rolled out to Plus， Pro， Business， and Enterprise users in Codex and ChatGPT Work. G…",
-      "url": "https://x.com/OpenAI/status/2097431322117476423",
-      "primary_url": "https://x.com/OpenAI/status/2097431322117476423",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6d724d8711f62543908c9eaf826f1446fef061a4",
-          "title": "OpenAI 向 Plus、Pro、Business 和 Enterprise 用户全面推送 Astra / Astra is fully rolled out to Plus， Pro， Business， and Enterprise users in Codex and ChatGPT Work. G…",
-          "title_zh": "OpenAI 向 Plus、Pro、Business 和 Enterprise 用户全面推送 Astra",
-          "title_en": "Astra is fully rolled out to Plus， Pro， Business， and Enterprise users in Codex and ChatGPT Work. G…",
-          "title_original": "Astra is fully rolled out to Plus， Pro， Business， and Enterprise users in Codex and ChatGPT Work. G…",
-          "summary": "OpenAI 宣布 Astra 已全面推送给 Codex 和 ChatGPT Work 中的 Plus、Pro、Business 和 Enterprise 用户。用户可以直接使用，并可通过 openai.com/gpt-tv/ 观看 Astra 的实机演示。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAI/status/2097431322117476423",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T21:06:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "6d724d8711f62543908c9eaf826f1446fef061a4",
-          "title": "OpenAI 向 Plus、Pro、Business 和 Enterprise 用户全面推送 Astra / Astra is fully rolled out to Plus， Pro， Business， and Enterprise users in Codex and ChatGPT Work. G…",
-          "title_zh": "OpenAI 向 Plus、Pro、Business 和 Enterprise 用户全面推送 Astra",
-          "title_en": "Astra is fully rolled out to Plus， Pro， Business， and Enterprise users in Codex and ChatGPT Work. G…",
-          "title_original": "Astra is fully rolled out to Plus， Pro， Business， and Enterprise users in Codex and ChatGPT Work. G…",
-          "summary": "OpenAI 宣布 Astra 已全面推送给 Codex 和 ChatGPT Work 中的 Plus、Pro、Business 和 Enterprise 用户。用户可以直接使用，并可通过 openai.com/gpt-tv/ 观看 Astra 的实机演示。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAI/status/2097431322117476423",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T21:06:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9891,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-08T21:06:10Z",
-      "latest_at": "2026-09-08T21:06:10Z",
-      "primary_item": {
-        "id": "6d724d8711f62543908c9eaf826f1446fef061a4",
-        "title": "OpenAI 向 Plus、Pro、Business 和 Enterprise 用户全面推送 Astra / Astra is fully rolled out to Plus， Pro， Business， and Enterprise users in Codex and ChatGPT Work. G…",
-        "title_zh": "OpenAI 向 Plus、Pro、Business 和 Enterprise 用户全面推送 Astra",
-        "title_en": "Astra is fully rolled out to Plus， Pro， Business， and Enterprise users in Codex and ChatGPT Work. G…",
-        "title_original": "Astra is fully rolled out to Plus， Pro， Business， and Enterprise users in Codex and ChatGPT Work. G…",
-        "summary": "OpenAI 宣布 Astra 已全面推送给 Codex 和 ChatGPT Work 中的 Plus、Pro、Business 和 Enterprise 用户。用户可以直接使用，并可通过 openai.com/gpt-tv/ 观看 Astra 的实机演示。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAI/status/2097431322117476423",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T22:27:36.706196Z"
-      }
-    },
-    {
-      "story_id": "story_bbef342e3266",
-      "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-      "url": "https://www.aibase.com/news/30908",
-      "primary_url": "https://www.aibase.com/news/30908",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
-          "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-          "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-          "title_en": null,
-          "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30908",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:41:18.734130Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
-          "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-          "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-          "title_en": null,
-          "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30908",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T09:41:18.734130Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7386,
-      "importance": 0.7386,
-      "importance_score": 0.7386,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8388,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-08T09:41:18.734130Z",
-      "latest_at": "2026-09-08T09:41:18.734130Z",
-      "primary_item": {
-        "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
-        "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-        "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-        "title_en": null,
-        "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30908",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T22:27:36.706196Z"
+        "scored_at": "2026-09-09T00:50:17.722171Z"
       }
     }
   ]
