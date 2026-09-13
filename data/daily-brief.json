@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T11:52:19.438796Z",
+  "generated_at": "2026-09-13T16:16:52.850284Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 12,
   "items": [
     {
       "story_id": "story_86ff3d2b9b70",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-13T11:52:19.438796Z",
-      "latest_at": "2026-09-13T11:52:19.438796Z",
+      "earliest_at": "2026-09-13T16:16:52.850284Z",
+      "latest_at": "2026-09-13T16:16:52.850284Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T12:03:35.908653Z"
+        "scored_at": "2026-09-13T16:17:32.908416Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7982,
-      "importance": 0.7982,
-      "importance_score": 0.7982,
+      "score": 0.7896,
+      "importance": 0.7896,
+      "importance_score": 0.7896,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7676,
+        "recency": 0.7202,
         "story_heat": 0.0
       },
       "category": "official",
@@ -165,148 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T12:03:35.908653Z"
-      }
-    },
-    {
-      "story_id": "story_910862ed59f6",
-      "title": "英伟达是人工智能领域的\"中央银行\"",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "primary_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
-          "title": "英伟达是人工智能领域的\"中央银行\"",
-          "title_zh": "英伟达是人工智能领域的\"中央银行\"",
-          "title_en": null,
-          "title_original": "英伟达是人工智能领域的\"中央银行\"",
-          "summary": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元、向客户提供 3000 亿美元财务支持，因此被称为\"AI 的中央银行\"。今年 8 月它同意为俄亥俄州一座大型数据中心提供最高 1050 亿美元的兜底，并与六家华尔街机构合作撬动超 5000 亿美元 AI 基础设施投资。批评者将其类比 1990 年代末思科和朗讯向电信客户放贷的互联网泡沫风险。",
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:37:21.932000Z"
-        },
-        {
-          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
-          "title": "英伟达是人工智能领域的“中央银行”",
-          "title_zh": "英伟达是人工智能领域的“中央银行”",
-          "title_en": null,
-          "title_original": "英伟达是人工智能领域的“中央银行”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T16:37:21.932000Z"
-        },
-        {
-          "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
-          "title": "英伟达是人工智能领域的\"中央银行\" / Nvidia is the central bank of AI",
-          "title_zh": "英伟达是人工智能领域的\"中央银行\"",
-          "title_en": "Nvidia is the central bank of AI",
-          "title_original": "Nvidia is the central bank of AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T15:08:27Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.economist.com"
-      ],
-      "items": [
-        {
-          "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
-          "title": "英伟达是人工智能领域的\"中央银行\"",
-          "title_zh": "英伟达是人工智能领域的\"中央银行\"",
-          "title_en": null,
-          "title_original": "英伟达是人工智能领域的\"中央银行\"",
-          "summary": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元、向客户提供 3000 亿美元财务支持，因此被称为\"AI 的中央银行\"。今年 8 月它同意为俄亥俄州一座大型数据中心提供最高 1050 亿美元的兜底，并与六家华尔街机构合作撬动超 5000 亿美元 AI 基础设施投资。批评者将其类比 1990 年代末思科和朗讯向电信客户放贷的互联网泡沫风险。",
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:37:21.932000Z"
-        },
-        {
-          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
-          "title": "英伟达是人工智能领域的“中央银行”",
-          "title_zh": "英伟达是人工智能领域的“中央银行”",
-          "title_en": null,
-          "title_original": "英伟达是人工智能领域的“中央银行”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T16:37:21.932000Z"
-        },
-        {
-          "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
-          "title": "英伟达是人工智能领域的\"中央银行\" / Nvidia is the central bank of AI",
-          "title_zh": "英伟达是人工智能领域的\"中央银行\"",
-          "title_en": "Nvidia is the central bank of AI",
-          "title_original": "Nvidia is the central bank of AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T15:08:27Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7573,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-12T15:08:27Z",
-      "latest_at": "2026-09-12T16:37:21.932000Z",
-      "primary_item": {
-        "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
-        "title": "英伟达是人工智能领域的\"中央银行\"",
-        "title_zh": "英伟达是人工智能领域的\"中央银行\"",
-        "title_en": null,
-        "title_original": "英伟达是人工智能领域的\"中央银行\"",
-        "summary": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元、向客户提供 3000 亿美元财务支持，因此被称为\"AI 的中央银行\"。今年 8 月它同意为俄亥俄州一座大型数据中心提供最高 1050 亿美元的兜底，并与六家华尔街机构合作撬动超 5000 亿美元 AI 基础设施投资。批评者将其类比 1990 年代末思科和朗讯向电信客户放贷的互联网泡沫风险。",
-        "recommend_reason_zh": null,
-        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T12:03:35.908653Z"
+        "scored_at": "2026-09-13T16:17:32.908416Z"
       }
     },
     {
@@ -354,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9178,
+        "recency": 0.8612,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -388,7 +247,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T12:03:35.908653Z"
+        "scored_at": "2026-09-13T16:17:32.908416Z"
+      }
+    },
+    {
+      "story_id": "story_03bcedfbcc62",
+      "title": "英伟达是人工智能领域的\"中央银行\"",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "primary_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
+          "title": "英伟达是人工智能领域的\"中央银行\"",
+          "title_zh": "英伟达是人工智能领域的\"中央银行\"",
+          "title_en": null,
+          "title_original": "英伟达是人工智能领域的\"中央银行\"",
+          "summary": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元、向客户提供 3000 亿美元财务支持，因此被称为\"AI 的中央银行\"。今年 8 月它同意为俄亥俄州一座大型数据中心提供最高 1050 亿美元的兜底，并与六家华尔街机构合作撬动超 5000 亿美元 AI 基础设施投资。批评者将其类比 1990 年代末思科和朗讯向电信客户放贷的互联网泡沫风险。",
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        },
+        {
+          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
+          "title": "英伟达是人工智能领域的“中央银行”",
+          "title_zh": "英伟达是人工智能领域的“中央银行”",
+          "title_en": null,
+          "title_original": "英伟达是人工智能领域的“中央银行”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.economist.com"
+      ],
+      "items": [
+        {
+          "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
+          "title": "英伟达是人工智能领域的\"中央银行\"",
+          "title_zh": "英伟达是人工智能领域的\"中央银行\"",
+          "title_en": null,
+          "title_original": "英伟达是人工智能领域的\"中央银行\"",
+          "summary": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元、向客户提供 3000 亿美元财务支持，因此被称为\"AI 的中央银行\"。今年 8 月它同意为俄亥俄州一座大型数据中心提供最高 1050 亿美元的兜底，并与六家华尔街机构合作撬动超 5000 亿美元 AI 基础设施投资。批评者将其类比 1990 年代末思科和朗讯向电信客户放贷的互联网泡沫风险。",
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        },
+        {
+          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
+          "title": "英伟达是人工智能领域的“中央银行”",
+          "title_zh": "英伟达是人工智能领域的“中央银行”",
+          "title_en": null,
+          "title_original": "英伟达是人工智能领域的“中央银行”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7106,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T16:37:21.932000Z",
+      "latest_at": "2026-09-12T16:37:21.932000Z",
+      "primary_item": {
+        "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
+        "title": "英伟达是人工智能领域的\"中央银行\"",
+        "title_zh": "英伟达是人工智能领域的\"中央银行\"",
+        "title_en": null,
+        "title_original": "英伟达是人工智能领域的\"中央银行\"",
+        "summary": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元、向客户提供 3000 亿美元财务支持，因此被称为\"AI 的中央银行\"。今年 8 月它同意为俄亥俄州一座大型数据中心提供最高 1050 亿美元的兜底，并与六家华尔街机构合作撬动超 5000 亿美元 AI 基础设施投资。批评者将其类比 1990 年代末思科和朗讯向电信客户放贷的互联网泡沫风险。",
+        "recommend_reason_zh": null,
+        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-13T16:17:32.908416Z"
       }
     },
     {
@@ -465,22 +436,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7561,
+        "recency": 0.7095,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-12T16:30:45Z",
       "latest_at": "2026-09-12T16:30:45Z",
@@ -500,7 +470,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T12:03:35.908653Z"
+        "scored_at": "2026-09-13T16:17:32.908416Z"
       }
     },
     {
@@ -577,22 +547,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7927,
+        "recency": 0.7438,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-12T19:46:58Z",
       "latest_at": "2026-09-12T19:46:58Z",
@@ -612,7 +581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T12:03:35.908653Z"
+        "scored_at": "2026-09-13T16:17:32.908416Z"
       }
     },
     {
@@ -660,15 +629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8337,
+        "recency": 0.7822,
         "story_heat": 0.0
       },
       "category": "official",
@@ -694,88 +663,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T12:03:35.908653Z"
-      }
-    },
-    {
-      "story_id": "story_f01e6682c6a0",
-      "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-      "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
-      "primary_url": "https://x.com/PeterMcCrory/status/2098868931071226252",
-      "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
-          "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-          "title_zh": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
-          "title_en": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-          "title_original": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-          "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
-          "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T20:18:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）"
-      ],
-      "items": [
-        {
-          "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
-          "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-          "title_zh": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
-          "title_en": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-          "title_original": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-          "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
-          "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T20:18:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7254,
-      "importance": 0.7254,
-      "importance_score": 0.7254,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7988,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-12T20:18:42Z",
-      "latest_at": "2026-09-12T20:18:42Z",
-      "primary_item": {
-        "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
-        "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-        "title_zh": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
-        "title_en": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-        "title_original": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-        "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
-        "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T12:03:35.908653Z"
+        "scored_at": "2026-09-13T16:17:32.908416Z"
       }
     },
     {
@@ -852,15 +740,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.625,
-      "importance": 0.625,
-      "importance_score": 0.625,
+      "score": 0.6162,
+      "importance": 0.6162,
+      "importance_score": 0.6162,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.7989,
+        "recency": 0.7496,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -885,7 +773,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T12:03:35.908653Z"
+        "scored_at": "2026-09-13T16:17:32.908416Z"
       }
     },
     {
@@ -962,15 +850,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5363,
-      "importance": 0.5363,
-      "importance_score": 0.5363,
+      "score": 0.5258,
+      "importance": 0.5258,
+      "importance_score": 0.5258,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9474,
+        "recency": 0.8889,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -995,7 +883,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T12:03:35.908653Z"
+        "scored_at": "2026-09-13T16:17:32.908416Z"
       }
     },
     {
@@ -1021,7 +909,7 @@
           "published_at": "2026-09-13T07:17:17.819000Z"
         },
         {
-          "id": "9e412ae433e266396fc5173b04c3a06016f71970",
+          "id": "a6c3eff31077ac67b7cf18c7b773d0b19f63670d",
           "title": "为什么人工智能代理会说谎、作弊并相互协调？ / Why are AI agents lying, cheating and coordinating?",
           "title_zh": "为什么人工智能代理会说谎、作弊并相互协调？",
           "title_en": "Why are AI agents lying, cheating and coordinating?",
@@ -1029,15 +917,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-13T01:22:31Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "yoshuabengio.org"
       ],
       "items": [
@@ -1056,7 +944,7 @@
           "published_at": "2026-09-13T07:17:17.819000Z"
         },
         {
-          "id": "9e412ae433e266396fc5173b04c3a06016f71970",
+          "id": "a6c3eff31077ac67b7cf18c7b773d0b19f63670d",
           "title": "为什么人工智能代理会说谎、作弊并相互协调？ / Why are AI agents lying, cheating and coordinating?",
           "title_zh": "为什么人工智能代理会说谎、作弊并相互协调？",
           "title_en": "Why are AI agents lying, cheating and coordinating?",
@@ -1064,23 +952,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-13T01:22:31Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5343,
-      "importance": 0.5343,
-      "importance_score": 0.5343,
+      "score": 0.5239,
+      "importance": 0.5239,
+      "importance_score": 0.5239,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.936,
+        "recency": 0.8782,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1105,7 +993,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T12:03:35.908653Z"
+        "scored_at": "2026-09-13T16:17:32.908416Z"
       }
     },
     {
@@ -1131,7 +1019,7 @@
           "published_at": "2026-09-13T02:05:04.827000Z"
         },
         {
-          "id": "218b58b5c323bc49d26551cfd4e640d78aaf8ccb",
+          "id": "f3a7691e5b9caa6be84969510cc1b311d83dc357",
           "title": "除了我之外，大家都应该放缓人工智能的发展步伐 / Everyone should slow down AI development except for me",
           "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
           "title_en": "Everyone should slow down AI development except for me",
@@ -1139,15 +1027,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-13T00:30:44Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "xeiaso.net"
       ],
       "items": [
@@ -1166,7 +1054,7 @@
           "published_at": "2026-09-13T02:05:04.827000Z"
         },
         {
-          "id": "218b58b5c323bc49d26551cfd4e640d78aaf8ccb",
+          "id": "f3a7691e5b9caa6be84969510cc1b311d83dc357",
           "title": "除了我之外，大家都应该放缓人工智能的发展步伐 / Everyone should slow down AI development except for me",
           "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
           "title_en": "Everyone should slow down AI development except for me",
@@ -1174,23 +1062,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-13T00:30:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5221,
-      "importance": 0.5221,
-      "importance_score": 0.5221,
+      "score": 0.5124,
+      "importance": 0.5124,
+      "importance_score": 0.5124,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8682,
+        "recency": 0.8146,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1215,7 +1103,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T12:03:35.908653Z"
+        "scored_at": "2026-09-13T16:17:32.908416Z"
       }
     },
     {
@@ -1241,7 +1129,7 @@
           "published_at": "2026-09-13T01:18:53.561000Z"
         },
         {
-          "id": "ab73b58de7e6496d28a0dd69e9c7d1ed0f358edd",
+          "id": "248195f6c9174fa19a2c159db0e5cd74078fb59e",
           "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
           "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
           "title_en": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
@@ -1249,15 +1137,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-12T20:25:48Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "withspecific.com"
       ],
       "items": [
@@ -1276,7 +1164,7 @@
           "published_at": "2026-09-13T01:18:53.561000Z"
         },
         {
-          "id": "ab73b58de7e6496d28a0dd69e9c7d1ed0f358edd",
+          "id": "248195f6c9174fa19a2c159db0e5cd74078fb59e",
           "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
           "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
           "title_en": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
@@ -1284,23 +1172,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-12T20:25:48Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5203,
-      "importance": 0.5203,
-      "importance_score": 0.5203,
+      "score": 0.5108,
+      "importance": 0.5108,
+      "importance_score": 0.5108,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8586,
+        "recency": 0.8056,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1325,117 +1213,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T12:03:35.908653Z"
-      }
-    },
-    {
-      "story_id": "story_ed95b5a9cf8e",
-      "title": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度 / Anthropic boss Dario Amodei calls for AI development to slow down",
-      "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-      "primary_url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "bf571b6f49e6677daf67408759a15d6ec4b42227",
-          "title": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度 / Anthropic boss Dario Amodei calls for AI development to slow down",
-          "title_zh": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度",
-          "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T16:56:52Z"
-        },
-        {
-          "id": "6799781635e87dd59afdb1d7924d495d8ba833eb",
-          "title": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度 / Anthropic boss Dario Amodei calls for AI development to slow down",
-          "title_zh": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度",
-          "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T15:37:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "bf571b6f49e6677daf67408759a15d6ec4b42227",
-          "title": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度 / Anthropic boss Dario Amodei calls for AI development to slow down",
-          "title_zh": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度",
-          "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T16:56:52Z"
-        },
-        {
-          "id": "6799781635e87dd59afdb1d7924d495d8ba833eb",
-          "title": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度 / Anthropic boss Dario Amodei calls for AI development to slow down",
-          "title_zh": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度",
-          "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T15:37:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5028,
-      "importance": 0.5028,
-      "importance_score": 0.5028,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7609,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T15:37:39Z",
-      "latest_at": "2026-09-12T16:56:52Z",
-      "primary_item": {
-        "id": "bf571b6f49e6677daf67408759a15d6ec4b42227",
-        "title": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度 / Anthropic boss Dario Amodei calls for AI development to slow down",
-        "title_zh": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度",
-        "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T12:03:35.908653Z"
+        "scored_at": "2026-09-13T16:17:32.908416Z"
       }
     }
   ]
