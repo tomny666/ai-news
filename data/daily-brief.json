@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T01:00:37.995657Z",
+  "generated_at": "2026-09-13T06:10:18.783488Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_86ff3d2b9b70",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-13T01:00:37.995657Z",
-      "latest_at": "2026-09-13T01:00:37.995657Z",
+      "earliest_at": "2026-09-13T06:10:18.783488Z",
+      "latest_at": "2026-09-13T06:10:18.783488Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:11:11.558244Z"
+        "scored_at": "2026-09-13T06:11:04.652239Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8216,
-      "importance": 0.8216,
-      "importance_score": 0.8216,
+      "score": 0.81,
+      "importance": 0.81,
+      "importance_score": 0.81,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8979,
+        "recency": 0.8335,
         "story_heat": 0.0
       },
       "category": "official",
@@ -165,148 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:11:11.558244Z"
-      }
-    },
-    {
-      "story_id": "story_4f105f17bfdc",
-      "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
-      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-      "primary_url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "title_original": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T02:39:39Z"
-        },
-        {
-          "id": "dc157b82300112dd9d9e6e708a2586f74eabe0a6",
-          "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "title_zh": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "title_en": null,
-          "title_original": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "www.minitap.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T05:37:39.339000Z"
-        },
-        {
-          "id": "86d3ffef67a216332afb31ac15e7e55c85322225",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "title_en": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "title_original": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T02:39:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News：AI 热帖",
-        "www.minitap.ai"
-      ],
-      "items": [
-        {
-          "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "title_original": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T02:39:39Z"
-        },
-        {
-          "id": "dc157b82300112dd9d9e6e708a2586f74eabe0a6",
-          "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "title_zh": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "title_en": null,
-          "title_original": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "www.minitap.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T05:37:39.339000Z"
-        },
-        {
-          "id": "86d3ffef67a216332afb31ac15e7e55c85322225",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "title_en": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "title_original": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T02:39:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7799,
-      "importance": 0.7799,
-      "importance_score": 0.7799,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7242,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-12T02:39:39Z",
-      "latest_at": "2026-09-12T05:37:39.339000Z",
-      "primary_item": {
-        "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
-        "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
-        "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-        "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-        "title_original": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-        "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
-        "recommend_reason_zh": null,
-        "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:11:11.558244Z"
+        "scored_at": "2026-09-13T06:11:04.652239Z"
       }
     },
     {
@@ -354,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
+      "score": 0.7929,
+      "importance": 0.7929,
+      "importance_score": 0.7929,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9752,
+        "recency": 0.9052,
         "story_heat": 0.0
       },
       "category": "official",
@@ -388,7 +247,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:11:11.558244Z"
+        "scored_at": "2026-09-13T06:11:04.652239Z"
       }
     },
     {
@@ -436,21 +295,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8845,
+        "recency": 0.821,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-12T16:30:45Z",
       "latest_at": "2026-09-12T16:30:45Z",
@@ -470,7 +328,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:11:11.558244Z"
+        "scored_at": "2026-09-13T06:11:04.652239Z"
       }
     },
     {
@@ -518,21 +376,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9273,
+        "recency": 0.8607,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-12T19:46:58Z",
       "latest_at": "2026-09-12T19:46:58Z",
@@ -552,7 +409,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:11:11.558244Z"
+        "scored_at": "2026-09-13T06:11:04.652239Z"
       }
     },
     {
@@ -600,15 +457,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9344,
+        "recency": 0.8673,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -633,7 +490,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:11:11.558244Z"
+        "scored_at": "2026-09-13T06:11:04.652239Z"
       }
     },
     {
@@ -681,15 +538,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7237,
+      "importance": 0.7237,
+      "importance_score": 0.7237,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8864,
+        "recency": 0.8227,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -714,12 +571,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:11:11.558244Z"
+        "scored_at": "2026-09-13T06:11:04.652239Z"
       }
     },
     {
       "story_id": "story_449833896f65",
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
       "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
       "primary_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
       "source": "TechCrunch AI",
@@ -727,8 +584,8 @@
       "sources": [
         {
           "id": "126dd4f2f9cb9d0dc87f8281a71a0e85ec28afcf",
-          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "title_zh": null,
+          "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "title_zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
           "title_en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
           "title_original": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
           "summary": null,
@@ -740,30 +597,30 @@
           "published_at": "2026-09-12T20:19:16Z"
         },
         {
-          "id": "86bb588c47cf8749a6c9a05905f2ca5c26a0d0ec",
-          "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-          "title_zh": null,
+          "id": "85a498b61766d76b0b31dbaea0f0ddd802451b2c",
+          "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "title_zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
           "title_en": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
           "title_original": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-12T20:28:29Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "TechCrunch AI"
       ],
       "items": [
         {
           "id": "126dd4f2f9cb9d0dc87f8281a71a0e85ec28afcf",
-          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "title_zh": null,
+          "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "title_zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
           "title_en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
           "title_original": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
           "summary": null,
@@ -775,31 +632,31 @@
           "published_at": "2026-09-12T20:19:16Z"
         },
         {
-          "id": "86bb588c47cf8749a6c9a05905f2ca5c26a0d0ec",
-          "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-          "title_zh": null,
+          "id": "85a498b61766d76b0b31dbaea0f0ddd802451b2c",
+          "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "title_zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
           "title_en": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
           "title_original": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-12T20:28:29Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6495,
-      "importance": 0.6495,
-      "importance_score": 0.6495,
+      "score": 0.6374,
+      "importance": 0.6374,
+      "importance_score": 0.6374,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.9345,
+        "recency": 0.8674,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -810,8 +667,8 @@
       "latest_at": "2026-09-12T20:28:29Z",
       "primary_item": {
         "id": "126dd4f2f9cb9d0dc87f8281a71a0e85ec28afcf",
-        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-        "title_zh": null,
+        "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+        "title_zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
         "title_en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
         "title_original": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
         "summary": null,
@@ -824,7 +681,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:11:11.558244Z"
+        "scored_at": "2026-09-13T06:11:04.652239Z"
+      }
+    },
+    {
+      "story_id": "story_759bdd7a2753",
+      "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+      "primary_url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+      "source": "xeiaso.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
+          "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "title_en": null,
+          "title_original": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+          "source": "xeiaso.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T02:05:04.827000Z"
+        },
+        {
+          "id": "218b58b5c323bc49d26551cfd4e640d78aaf8ccb",
+          "title": "除了我之外，大家都应该放缓人工智能的发展步伐 / Everyone should slow down AI development except for me",
+          "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "title_en": "Everyone should slow down AI development except for me",
+          "title_original": "Everyone should slow down AI development except for me",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T00:30:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "xeiaso.net"
+      ],
+      "items": [
+        {
+          "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
+          "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "title_en": null,
+          "title_original": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+          "source": "xeiaso.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T02:05:04.827000Z"
+        },
+        {
+          "id": "218b58b5c323bc49d26551cfd4e640d78aaf8ccb",
+          "title": "除了我之外，大家都应该放缓人工智能的发展步伐 / Everyone should slow down AI development except for me",
+          "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "title_en": "Everyone should slow down AI development except for me",
+          "title_original": "Everyone should slow down AI development except for me",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T00:30:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5355,
+      "importance": 0.5355,
+      "importance_score": 0.5355,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9427,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T00:30:44Z",
+      "latest_at": "2026-09-13T02:05:04.827000Z",
+      "primary_item": {
+        "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
+        "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
+        "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
+        "title_en": null,
+        "title_original": "除了我之外，大家都应该放缓人工智能的发展步伐",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+        "source": "xeiaso.net",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-13T06:11:04.652239Z"
+      }
+    },
+    {
+      "story_id": "story_4484533bd9b1",
+      "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "primary_url": "https://withspecific.com/benchmarks/real-swe",
+      "source": "withspecific.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
+          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "title_en": null,
+          "title_original": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://withspecific.com/benchmarks/real-swe",
+          "source": "withspecific.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T01:18:53.561000Z"
+        },
+        {
+          "id": "f27d0b416be8433b2751712b014d0cb9eca66ad8",
+          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+          "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "title_en": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+          "title_original": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://withspecific.com/benchmarks/real-swe",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T20:25:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "withspecific.com"
+      ],
+      "items": [
+        {
+          "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
+          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "title_en": null,
+          "title_original": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://withspecific.com/benchmarks/real-swe",
+          "source": "withspecific.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T01:18:53.561000Z"
+        },
+        {
+          "id": "f27d0b416be8433b2751712b014d0cb9eca66ad8",
+          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+          "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "title_en": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+          "title_original": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://withspecific.com/benchmarks/real-swe",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T20:25:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9323,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T20:25:48Z",
+      "latest_at": "2026-09-13T01:18:53.561000Z",
+      "primary_item": {
+        "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
+        "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+        "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+        "title_en": null,
+        "title_original": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://withspecific.com/benchmarks/real-swe",
+        "source": "withspecific.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-13T06:11:04.652239Z"
       }
     },
     {
@@ -901,15 +978,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5445,
-      "importance": 0.5445,
-      "importance_score": 0.5445,
+      "score": 0.5316,
+      "importance": 0.5316,
+      "importance_score": 0.5316,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9926,
+        "recency": 0.9213,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -934,7 +1011,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:11:11.558244Z"
+        "scored_at": "2026-09-13T06:11:04.652239Z"
       }
     },
     {
@@ -1011,15 +1088,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.526,
-      "importance": 0.526,
-      "importance_score": 0.526,
+      "score": 0.5145,
+      "importance": 0.5145,
+      "importance_score": 0.5145,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8901,
+        "recency": 0.8262,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1044,7 +1121,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:11:11.558244Z"
+        "scored_at": "2026-09-13T06:11:04.652239Z"
       }
     },
     {
@@ -1070,7 +1147,7 @@
           "published_at": "2026-09-12T16:37:21.932000Z"
         },
         {
-          "id": "b38f7ecb2413d96c0852ce698ff2298257602b73",
+          "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
           "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
           "title_zh": "英伟达是人工智能领域的“中央银行”",
           "title_en": "Nvidia is the central bank of AI",
@@ -1078,15 +1155,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-12T15:08:27Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "www.economist.com"
       ],
       "items": [
@@ -1105,7 +1182,7 @@
           "published_at": "2026-09-12T16:37:21.932000Z"
         },
         {
-          "id": "b38f7ecb2413d96c0852ce698ff2298257602b73",
+          "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
           "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
           "title_zh": "英伟达是人工智能领域的“中央银行”",
           "title_en": "Nvidia is the central bank of AI",
@@ -1113,23 +1190,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-12T15:08:27Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5253,
-      "importance": 0.5253,
-      "importance_score": 0.5253,
+      "score": 0.5138,
+      "importance": 0.5138,
+      "importance_score": 0.5138,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8859,
+        "recency": 0.8223,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1154,7 +1231,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:11:11.558244Z"
+        "scored_at": "2026-09-13T06:11:04.652239Z"
       }
     }
   ]
