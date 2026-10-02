@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-10-02T02:15:51.367425Z",
+  "generated_at": "2026-10-02T08:36:54.079741Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_7d80f29039e4",
+      "title": "AutoSynthData：为企业代理生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "primary_url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f965b0fded7b0c67cd412c42d0d656eb2a5c29bd",
+          "title": "AutoSynthData：为企业代理生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents",
+          "title_zh": "AutoSynthData：为企业代理生成训练数据",
+          "title_en": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "title_original": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T04:01:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "f965b0fded7b0c67cd412c42d0d656eb2a5c29bd",
+          "title": "AutoSynthData：为企业代理生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents",
+          "title_zh": "AutoSynthData：为企业代理生成训练数据",
+          "title_en": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "title_original": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T04:01:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8485,
+      "importance": 0.8485,
+      "importance_score": 0.8485,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9359,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T04:01:31Z",
+      "latest_at": "2026-10-02T04:01:31Z",
+      "primary_item": {
+        "id": "f965b0fded7b0c67cd412c42d0d656eb2a5c29bd",
+        "title": "AutoSynthData：为企业代理生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents",
+        "title_zh": "AutoSynthData：为企业代理生成训练数据",
+        "title_en": "AutoSynthData: Generating Training Data for Enterprise Agents",
+        "title_original": "AutoSynthData: Generating Training Data for Enterprise Agents",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-02T08:37:44.172687Z"
+      }
+    },
     {
       "story_id": "story_a8a59d3ec43f",
       "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8345,
-      "importance": 0.8345,
-      "importance_score": 0.8345,
+      "score": 0.8203,
+      "importance": 0.8203,
+      "importance_score": 0.8203,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9029,
+        "recency": 0.8238,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,90 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:16:39.834914Z"
-      }
-    },
-    {
-      "story_id": "story_a97a1140e735",
-      "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "url": "https://huggingface.co/blog/allenai/olmocore3",
-      "primary_url": "https://huggingface.co/blog/allenai/olmocore3",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
-          "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
-          "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/olmocore3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T15:01:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
-          "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
-          "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/olmocore3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T15:01:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8502,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T15:01:43Z",
-      "latest_at": "2026-10-01T15:01:43Z",
-      "primary_item": {
-        "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
-        "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-        "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
-        "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-        "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/olmocore3",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:16:39.834914Z"
+        "scored_at": "2026-10-02T08:37:44.172687Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8748,
+        "recency": 0.7981,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:16:39.834914Z"
+        "scored_at": "2026-10-02T08:37:44.172687Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8344,
-      "importance": 0.8344,
-      "importance_score": 0.8344,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9024,
+        "recency": 0.8233,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:16:39.834914Z"
+        "scored_at": "2026-10-02T08:37:44.172687Z"
+      }
+    },
+    {
+      "story_id": "story_a97a1140e735",
+      "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "primary_url": "https://huggingface.co/blog/allenai/olmocore3",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+          "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
+          "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/olmocore3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T15:01:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+          "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
+          "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/olmocore3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T15:01:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8196,
+      "importance": 0.8196,
+      "importance_score": 0.8196,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7757,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T15:01:43Z",
+      "latest_at": "2026-10-01T15:01:43Z",
+      "primary_item": {
+        "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+        "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
+        "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/allenai/olmocore3",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-02T08:37:44.172687Z"
       }
     },
     {
@@ -380,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8272,
-      "importance": 0.8272,
-      "importance_score": 0.8272,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8622,
+        "recency": 0.7867,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,30 +498,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:16:39.834914Z"
+        "scored_at": "2026-10-02T08:37:44.172687Z"
       }
     },
     {
-      "story_id": "story_c29f7f8dd49f",
-      "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-      "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+      "story_id": "story_ba641315d711",
+      "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+      "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9244507ff15319af7063dcc4f2aff734550bf8af",
-          "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "title_zh": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
-          "title_en": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "title_original": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。",
+          "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
+          "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+          "title_zh": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
+          "title_en": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+          "title_original": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+          "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+          "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
           "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-02T00:44:40Z"
+          "published_at": "2026-10-02T07:23:13Z"
         }
       ],
       "source_count": 1,
@@ -447,31 +530,31 @@
       ],
       "items": [
         {
-          "id": "9244507ff15319af7063dcc4f2aff734550bf8af",
-          "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "title_zh": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
-          "title_en": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "title_original": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。",
+          "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
+          "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+          "title_zh": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
+          "title_en": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+          "title_original": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+          "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+          "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
           "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-02T00:44:40Z"
+          "published_at": "2026-10-02T07:23:13Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.8,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9783,
+        "recency": 0.9824,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -479,17 +562,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-02T00:44:40Z",
-      "latest_at": "2026-10-02T00:44:40Z",
+      "earliest_at": "2026-10-02T07:23:13Z",
+      "latest_at": "2026-10-02T07:23:13Z",
       "primary_item": {
-        "id": "9244507ff15319af7063dcc4f2aff734550bf8af",
-        "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-        "title_zh": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
-        "title_en": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-        "title_original": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-        "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。",
+        "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
+        "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+        "title_zh": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
+        "title_en": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+        "title_original": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+        "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+        "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       },
@@ -497,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:16:39.834914Z"
+        "scored_at": "2026-10-02T08:37:44.172687Z"
       }
     },
     {
@@ -545,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7811,
-      "importance": 0.7811,
-      "importance_score": 0.7811,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8892,
+        "recency": 0.8113,
         "story_heat": 0.0
       },
       "category": "official",
@@ -579,7 +662,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:16:39.834914Z"
+        "scored_at": "2026-10-02T08:37:44.172687Z"
       }
     },
     {
@@ -627,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7771,
-      "importance": 0.7771,
-      "importance_score": 0.7771,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9693,
+        "recency": 0.8844,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -661,7 +744,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:16:39.834914Z"
+        "scored_at": "2026-10-02T08:37:44.172687Z"
       }
     },
     {
@@ -709,15 +792,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8283,
-      "importance": 0.8283,
-      "importance_score": 0.8283,
+      "score": 0.8146,
+      "importance": 0.8146,
+      "importance_score": 0.8146,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8685,
+        "recency": 0.7924,
         "story_heat": 0.0
       },
       "category": "official",
@@ -744,7 +827,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:16:39.834914Z"
+        "scored_at": "2026-10-02T08:37:44.172687Z"
       }
     },
     {
@@ -792,15 +875,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9718,
+        "recency": 0.8867,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -826,7 +909,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:16:39.834914Z"
+        "scored_at": "2026-10-02T08:37:44.172687Z"
+      }
+    },
+    {
+      "story_id": "story_c29f7f8dd49f",
+      "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+      "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9244507ff15319af7063dcc4f2aff734550bf8af",
+          "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+          "title_zh": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
+          "title_en": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+          "title_original": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+          "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T00:44:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "9244507ff15319af7063dcc4f2aff734550bf8af",
+          "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+          "title_zh": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
+          "title_en": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+          "title_original": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+          "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T00:44:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7723,
+      "importance": 0.7723,
+      "importance_score": 0.7723,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8926,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T00:44:40Z",
+      "latest_at": "2026-10-02T00:44:40Z",
+      "primary_item": {
+        "id": "9244507ff15319af7063dcc4f2aff734550bf8af",
+        "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+        "title_zh": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
+        "title_en": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+        "title_original": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+        "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-02T08:37:44.172687Z"
       }
     },
     {
@@ -874,21 +1039,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9218,
+        "recency": 0.841,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-01T20:37:38Z",
       "latest_at": "2026-10-01T20:37:38Z",
@@ -908,7 +1072,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:16:39.834914Z"
+        "scored_at": "2026-10-02T08:37:44.172687Z"
       }
     },
     {
@@ -956,21 +1120,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9642,
+        "recency": 0.8797,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-01T23:44:13Z",
       "latest_at": "2026-10-01T23:44:13Z",
@@ -990,89 +1153,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:16:39.834914Z"
-      }
-    },
-    {
-      "story_id": "story_2b2f0bf563c1",
-      "title": "Suno 推出 Speech beta：语音与背景音乐一体生成 / Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
-      "url": "https://suno.com/blog/introducing-speech-beta",
-      "primary_url": "https://suno.com/blog/introducing-speech-beta",
-      "source": "Suno：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
-          "title": "Suno 推出 Speech beta：语音与背景音乐一体生成 / Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
-          "title_zh": "Suno 推出 Speech beta：语音与背景音乐一体生成",
-          "title_en": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
-          "title_original": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
-          "summary": "Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型。用户输入文字并描述想要的声音和音乐风格即可创作，beta 已向所有用户开放，官方提示仍存在口音漂移、停顿过重等问题并将持续改进。",
-          "recommend_reason_zh": null,
-          "url": "https://suno.com/blog/introducing-speech-beta",
-          "source": "Suno：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T20:35:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Suno：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
-          "title": "Suno 推出 Speech beta：语音与背景音乐一体生成 / Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
-          "title_zh": "Suno 推出 Speech beta：语音与背景音乐一体生成",
-          "title_en": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
-          "title_original": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
-          "summary": "Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型。用户输入文字并描述想要的声音和音乐风格即可创作，beta 已向所有用户开放，官方提示仍存在口音漂移、停顿过重等问题并将持续改进。",
-          "recommend_reason_zh": null,
-          "url": "https://suno.com/blog/introducing-speech-beta",
-          "source": "Suno：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T20:35:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9212,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T20:35:00Z",
-      "latest_at": "2026-10-01T20:35:00Z",
-      "primary_item": {
-        "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
-        "title": "Suno 推出 Speech beta：语音与背景音乐一体生成 / Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
-        "title_zh": "Suno 推出 Speech beta：语音与背景音乐一体生成",
-        "title_en": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
-        "title_original": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
-        "summary": "Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型。用户输入文字并描述想要的声音和音乐风格即可创作，beta 已向所有用户开放，官方提示仍存在口音漂移、停顿过重等问题并将持续改进。",
-        "recommend_reason_zh": null,
-        "url": "https://suno.com/blog/introducing-speech-beta",
-        "source": "Suno：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:16:39.834914Z"
+        "scored_at": "2026-10-02T08:37:44.172687Z"
       }
     },
     {
@@ -1120,15 +1201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7364,
+      "importance": 0.7364,
+      "importance_score": 0.7364,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.815,
+        "recency": 0.7436,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1153,7 +1234,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:16:39.834914Z"
+        "scored_at": "2026-10-02T08:37:44.172687Z"
+      }
+    },
+    {
+      "story_id": "story_2b2f0bf563c1",
+      "title": "Suno 推出 Speech beta：语音与背景音乐一体生成 / Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
+      "url": "https://suno.com/blog/introducing-speech-beta",
+      "primary_url": "https://suno.com/blog/introducing-speech-beta",
+      "source": "Suno：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
+          "title": "Suno 推出 Speech beta：语音与背景音乐一体生成 / Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
+          "title_zh": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+          "title_en": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
+          "title_original": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
+          "summary": "Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型。用户输入文字并描述想要的声音和音乐风格即可创作，beta 已向所有用户开放，官方提示仍存在口音漂移、停顿过重等问题并将持续改进。",
+          "recommend_reason_zh": null,
+          "url": "https://suno.com/blog/introducing-speech-beta",
+          "source": "Suno：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T20:35:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Suno：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
+          "title": "Suno 推出 Speech beta：语音与背景音乐一体生成 / Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
+          "title_zh": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+          "title_en": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
+          "title_original": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
+          "summary": "Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型。用户输入文字并描述想要的声音和音乐风格即可创作，beta 已向所有用户开放，官方提示仍存在口音漂移、停顿过重等问题并将持续改进。",
+          "recommend_reason_zh": null,
+          "url": "https://suno.com/blog/introducing-speech-beta",
+          "source": "Suno：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T20:35:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8405,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-01T20:35:00Z",
+      "latest_at": "2026-10-01T20:35:00Z",
+      "primary_item": {
+        "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
+        "title": "Suno 推出 Speech beta：语音与背景音乐一体生成 / Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
+        "title_zh": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+        "title_en": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
+        "title_original": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
+        "summary": "Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型。用户输入文字并描述想要的声音和音乐风格即可创作，beta 已向所有用户开放，官方提示仍存在口音漂移、停顿过重等问题并将持续改进。",
+        "recommend_reason_zh": null,
+        "url": "https://suno.com/blog/introducing-speech-beta",
+        "source": "Suno：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-02T08:37:44.172687Z"
       }
     },
     {
@@ -1201,15 +1363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.931,
+        "recency": 0.8495,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1234,7 +1396,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:16:39.834914Z"
+        "scored_at": "2026-10-02T08:37:44.172687Z"
       }
     },
     {
@@ -1282,15 +1444,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7417,
-      "importance": 0.7417,
-      "importance_score": 0.7417,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8729,
+        "recency": 0.7964,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1315,7 +1477,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:16:39.834914Z"
+        "scored_at": "2026-10-02T08:37:44.172687Z"
       }
     },
     {
@@ -1363,15 +1525,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8283,
-      "importance": 0.8283,
-      "importance_score": 0.8283,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.913,
+        "recency": 0.833,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1398,7 +1560,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:16:39.834914Z"
+        "scored_at": "2026-10-02T08:37:44.172687Z"
       }
     },
     {
@@ -1446,15 +1608,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
+      "score": 0.7223,
+      "importance": 0.7223,
+      "importance_score": 0.7223,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8751,
+        "recency": 0.7984,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1479,199 +1641,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:16:39.834914Z"
-      }
-    },
-    {
-      "story_id": "story_e317244b0162",
-      "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群 / Modal Clusters are generally available",
-      "url": "https://modal.com/blog/modal-clusters-generally-available",
-      "primary_url": "https://modal.com/blog/modal-clusters-generally-available",
-      "source": "Modal 官方工程博客（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "10475e511695c99db79c08d74b401b4da02fb238",
-          "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群 / Modal Clusters are generally available",
-          "title_zh": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
-          "title_en": "Modal Clusters are generally available",
-          "title_original": "Modal Clusters are generally available",
-          "summary": "Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。",
-          "recommend_reason_zh": null,
-          "url": "https://modal.com/blog/modal-clusters-generally-available",
-          "source": "Modal 官方工程博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Modal 官方工程博客（RSS）"
-      ],
-      "items": [
-        {
-          "id": "10475e511695c99db79c08d74b401b4da02fb238",
-          "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群 / Modal Clusters are generally available",
-          "title_zh": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
-          "title_en": "Modal Clusters are generally available",
-          "title_original": "Modal Clusters are generally available",
-          "summary": "Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。",
-          "recommend_reason_zh": null,
-          "url": "https://modal.com/blog/modal-clusters-generally-available",
-          "source": "Modal 官方工程博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7345,
-      "importance": 0.7345,
-      "importance_score": 0.7345,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8993,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T18:54:41.832115Z",
-      "latest_at": "2026-10-01T18:54:41.832115Z",
-      "primary_item": {
-        "id": "10475e511695c99db79c08d74b401b4da02fb238",
-        "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群 / Modal Clusters are generally available",
-        "title_zh": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
-        "title_en": "Modal Clusters are generally available",
-        "title_original": "Modal Clusters are generally available",
-        "summary": "Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。",
-        "recommend_reason_zh": null,
-        "url": "https://modal.com/blog/modal-clusters-generally-available",
-        "source": "Modal 官方工程博客（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:16:39.834914Z"
-      }
-    },
-    {
-      "story_id": "story_b3f4baa4cfb3",
-      "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
-      "url": "https://x.com/thsottiaux/status/2105519215092584786",
-      "primary_url": "https://x.com/thsottiaux/status/2105519215092584786",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
-          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
-          "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
-          "title_en": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
-          "title_original": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
-          "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2105519215092584786",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T04:44:34Z"
-        },
-        {
-          "id": "04c59cc70107ceefff1024d98b4bea4f628f81d7",
-          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
-          "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
-          "title_en": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
-          "title_original": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2105519215092584786",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-01T04:44:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Thibault Sottiaux",
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
-          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
-          "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
-          "title_en": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
-          "title_original": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
-          "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2105519215092584786",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T04:44:34Z"
-        },
-        {
-          "id": "04c59cc70107ceefff1024d98b4bea4f628f81d7",
-          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
-          "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
-          "title_en": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
-          "title_original": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2105519215092584786",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-01T04:44:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7329,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T04:44:34Z",
-      "latest_at": "2026-10-01T04:44:34Z",
-      "primary_item": {
-        "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
-        "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
-        "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
-        "title_en": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
-        "title_original": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
-        "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/thsottiaux/status/2105519215092584786",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:16:39.834914Z"
+        "scored_at": "2026-10-02T08:37:44.172687Z"
       }
     }
   ]
