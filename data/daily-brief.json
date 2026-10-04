@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T15:22:43.973900Z",
+  "generated_at": "2026-10-04T19:37:44.753809Z",
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 7,
   "items": [
     {
       "story_id": "story_1be63ddb3fed",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.822,
-      "importance": 0.822,
-      "importance_score": 0.822,
+      "score": 0.8135,
+      "importance": 0.8135,
+      "importance_score": 0.8135,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7888,
+        "recency": 0.7418,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T15:30:58.552451Z"
+        "scored_at": "2026-10-04T19:47:29.924938Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7766,
+        "recency": 0.7304,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -164,88 +164,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T15:30:58.552451Z"
-      }
-    },
-    {
-      "story_id": "story_52f3cf9a90e0",
-      "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 / Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
-      "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
-      "primary_url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7654202328494479b00a63601dedf32af4a164cb",
-          "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 / Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
-          "title_zh": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
-          "title_en": "Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
-          "title_original": "Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
-          "summary": "LMSYS 团队发布 Vicuna-13B，通过约 70K ShareGPT 用户共享对话微调 LLaMA，训练成本约 $300，代码、权重和在线 demo 以非商业许可公开。GPT-4 作为评审的初步评估显示其达到 ChatGPT/Bard 90% 以上质量，在 45% 问题上不逊于 ChatGPT；团队同时提出基于 GPT-4 的自动评测框架，并说明其尚非严谨方法。",
-          "recommend_reason_zh": null,
-          "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "7654202328494479b00a63601dedf32af4a164cb",
-          "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 / Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
-          "title_zh": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
-          "title_en": "Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
-          "title_original": "Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
-          "summary": "LMSYS 团队发布 Vicuna-13B，通过约 70K ShareGPT 用户共享对话微调 LLaMA，训练成本约 $300，代码、权重和在线 demo 以非商业许可公开。GPT-4 作为评审的初步评估显示其达到 ChatGPT/Bard 90% 以上质量，在 45% 问题上不逊于 ChatGPT；团队同时提出基于 GPT-4 的自动评测框架，并说明其尚非严谨方法。",
-          "recommend_reason_zh": null,
-          "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7268,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-03T17:17:04.223340Z",
-      "latest_at": "2026-10-03T17:17:04.223340Z",
-      "primary_item": {
-        "id": "7654202328494479b00a63601dedf32af4a164cb",
-        "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 / Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
-        "title_zh": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
-        "title_en": "Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
-        "title_original": "Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
-        "summary": "LMSYS 团队发布 Vicuna-13B，通过约 70K ShareGPT 用户共享对话微调 LLaMA，训练成本约 $300，代码、权重和在线 demo 以非商业许可公开。GPT-4 作为评审的初步评估显示其达到 ChatGPT/Bard 90% 以上质量，在 45% 问题上不逊于 ChatGPT；团队同时提出基于 GPT-4 的自动评测框架，并说明其尚非严谨方法。",
-        "recommend_reason_zh": null,
-        "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-04T15:30:58.552451Z"
+        "scored_at": "2026-10-04T19:47:29.924938Z"
       }
     },
     {
@@ -351,15 +270,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5646,
-      "importance": 0.5646,
-      "importance_score": 0.5646,
+      "score": 0.5543,
+      "importance": 0.5543,
+      "importance_score": 0.5543,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9656,
+        "recency": 0.9081,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -384,285 +303,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T15:30:58.552451Z"
-      }
-    },
-    {
-      "story_id": "story_62666fdd86a6",
-      "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-      "primary_url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-      "source": "fortune.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "06f280d3a3d0ed5d8e8167d0587b4474792660ae",
-          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
-          "title_zh": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
-          "title_en": null,
-          "title_original": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-          "source": "fortune.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T09:46:05.311000Z"
-        },
-        {
-          "id": "24b8aa8c0897da384ed00bb0969528ba0abc8b55",
-          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "title_zh": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
-          "title_en": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "title_original": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T17:44:29Z"
-        },
-        {
-          "id": "49c7d33077fcebced13fae6cfa16face2db9e9b4",
-          "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "title_zh": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧”",
-          "title_en": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "title_original": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49946228",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T17:44:29Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "fortune.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "06f280d3a3d0ed5d8e8167d0587b4474792660ae",
-          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
-          "title_zh": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
-          "title_en": null,
-          "title_original": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-          "source": "fortune.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T09:46:05.311000Z"
-        },
-        {
-          "id": "24b8aa8c0897da384ed00bb0969528ba0abc8b55",
-          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "title_zh": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
-          "title_en": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "title_original": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T17:44:29Z"
-        },
-        {
-          "id": "49c7d33077fcebced13fae6cfa16face2db9e9b4",
-          "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "title_zh": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧”",
-          "title_en": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "title_original": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49946228",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T17:44:29Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5568,
-      "importance": 0.5568,
-      "importance_score": 0.5568,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9222,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T17:44:29Z",
-      "latest_at": "2026-10-04T09:46:05.311000Z",
-      "primary_item": {
-        "id": "06f280d3a3d0ed5d8e8167d0587b4474792660ae",
-        "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
-        "title_zh": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
-        "title_en": null,
-        "title_original": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-        "source": "fortune.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-04T15:30:58.552451Z"
-      }
-    },
-    {
-      "story_id": "story_79411f0d75c6",
-      "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
-      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-      "primary_url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-      "source": "www.neowin.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "71d962531003070bc0b40a780ef1e5181b7ab33a",
-          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
-          "title_zh": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
-          "title_en": null,
-          "title_original": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-          "source": "www.neowin.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T09:46:05.315000Z"
-        },
-        {
-          "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
-          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-          "title_zh": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
-          "title_en": "Pop!_OS bans AI-generated code from much of its codebase",
-          "title_original": "Pop!_OS bans AI-generated code from much of its codebase",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T17:57:03Z"
-        },
-        {
-          "id": "a9e7db9e2cedf54adec39982995ed421f86a43cb",
-          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-          "title_zh": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码",
-          "title_en": "Pop!_OS bans AI-generated code from much of its codebase",
-          "title_original": "Pop!_OS bans AI-generated code from much of its codebase",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49946321",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T17:57:03Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.neowin.net"
-      ],
-      "items": [
-        {
-          "id": "71d962531003070bc0b40a780ef1e5181b7ab33a",
-          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
-          "title_zh": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
-          "title_en": null,
-          "title_original": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-          "source": "www.neowin.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T09:46:05.315000Z"
-        },
-        {
-          "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
-          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-          "title_zh": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
-          "title_en": "Pop!_OS bans AI-generated code from much of its codebase",
-          "title_original": "Pop!_OS bans AI-generated code from much of its codebase",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T17:57:03Z"
-        },
-        {
-          "id": "a9e7db9e2cedf54adec39982995ed421f86a43cb",
-          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-          "title_zh": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码",
-          "title_en": "Pop!_OS bans AI-generated code from much of its codebase",
-          "title_original": "Pop!_OS bans AI-generated code from much of its codebase",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49946321",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T17:57:03Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5568,
-      "importance": 0.5568,
-      "importance_score": 0.5568,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9222,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T17:57:03Z",
-      "latest_at": "2026-10-04T09:46:05.315000Z",
-      "primary_item": {
-        "id": "71d962531003070bc0b40a780ef1e5181b7ab33a",
-        "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
-        "title_zh": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
-        "title_en": null,
-        "title_original": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-        "source": "www.neowin.net",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-04T15:30:58.552451Z"
+        "scored_at": "2026-10-04T19:47:29.924938Z"
       }
     },
     {
@@ -768,15 +409,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5286,
+      "importance": 0.5286,
+      "importance_score": 0.5286,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8142,
+        "recency": 0.7658,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -801,146 +442,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T15:30:58.552451Z"
-      }
-    },
-    {
-      "story_id": "story_c7ba5f8749ed",
-      "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-      "primary_url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-      "source": "claude.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0c957a85bf822cec39d103d7ccabfb9776cd15ce",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-          "title_zh": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-          "title_en": null,
-          "title_original": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "claude.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T22:31:58.644000Z"
-        },
-        {
-          "id": "a6ebe19ce64fac6dad1acfb7519ab11a6823e313",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "title_zh": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-          "title_en": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "title_original": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T18:29:30Z"
-        },
-        {
-          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "title_zh": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-          "title_en": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "title_original": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49946567",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T18:29:30Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "claude.dev",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0c957a85bf822cec39d103d7ccabfb9776cd15ce",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-          "title_zh": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-          "title_en": null,
-          "title_original": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "claude.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T22:31:58.644000Z"
-        },
-        {
-          "id": "a6ebe19ce64fac6dad1acfb7519ab11a6823e313",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "title_zh": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-          "title_en": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "title_original": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T18:29:30Z"
-        },
-        {
-          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "title_zh": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-          "title_en": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "title_original": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49946567",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T18:29:30Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5319,
-      "importance": 0.5319,
-      "importance_score": 0.5319,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7841,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T18:29:30Z",
-      "latest_at": "2026-10-03T22:31:58.644000Z",
-      "primary_item": {
-        "id": "0c957a85bf822cec39d103d7ccabfb9776cd15ce",
-        "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-        "title_zh": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-        "title_en": null,
-        "title_original": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-        "source": "claude.dev",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-04T15:30:58.552451Z"
+        "scored_at": "2026-10-04T19:47:29.924938Z"
       }
     },
     {
@@ -1017,15 +519,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
+      "score": 0.5211,
+      "importance": 0.5211,
+      "importance_score": 0.5211,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9175,
+        "recency": 0.8629,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1050,7 +552,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T15:30:58.552451Z"
+        "scored_at": "2026-10-04T19:47:29.924938Z"
       }
     },
     {
@@ -1058,11 +560,11 @@
       "title": "在机器人监狱“折磨”LLM引发了人工智能领域最愚蠢的争论 / \"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
       "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet",
       "primary_url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "e315293ac1b31f4528df5aeaf94d4d713c1ded2a",
+          "id": "9d25cc0a3cd7ea9ecf1a08ea5cd08c497e8843dc",
           "title": "在机器人监狱“折磨”LLM引发了人工智能领域最愚蠢的争论 / \"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
           "title_zh": "在机器人监狱“折磨”LLM引发了人工智能领域最愚蠢的争论",
           "title_en": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
@@ -1070,9 +572,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-04T08:02:33Z"
         },
         {
@@ -1092,12 +594,12 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "e315293ac1b31f4528df5aeaf94d4d713c1ded2a",
+          "id": "9d25cc0a3cd7ea9ecf1a08ea5cd08c497e8843dc",
           "title": "在机器人监狱“折磨”LLM引发了人工智能领域最愚蠢的争论 / \"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
           "title_zh": "在机器人监狱“折磨”LLM引发了人工智能领域最愚蠢的争论",
           "title_en": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
@@ -1105,9 +607,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-04T08:02:33Z"
         },
         {
@@ -1127,15 +629,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5277,
-      "importance": 0.5277,
-      "importance_score": 0.5277,
+      "score": 0.5181,
+      "importance": 0.5181,
+      "importance_score": 0.5181,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8995,
+        "recency": 0.8459,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1145,7 +647,7 @@
       "earliest_at": "2026-10-04T08:02:33Z",
       "latest_at": "2026-10-04T08:02:33Z",
       "primary_item": {
-        "id": "e315293ac1b31f4528df5aeaf94d4d713c1ded2a",
+        "id": "9d25cc0a3cd7ea9ecf1a08ea5cd08c497e8843dc",
         "title": "在机器人监狱“折磨”LLM引发了人工智能领域最愚蠢的争论 / \"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
         "title_zh": "在机器人监狱“折磨”LLM引发了人工智能领域最愚蠢的争论",
         "title_en": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
@@ -1153,19 +655,19 @@
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T15:30:58.552451Z"
+        "scored_at": "2026-10-04T19:47:29.924938Z"
       }
     },
     {
       "story_id": "story_a55f7b341908",
-      "title": "What's the Future for Pure Math Research in the Age of AI?",
+      "title": "What's the future for pure math research in the age of AI?",
       "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
       "primary_url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
       "source": "Hacker News (黑客新闻)",
@@ -1173,10 +675,10 @@
       "sources": [
         {
           "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
-          "title": "What's the Future for Pure Math Research in the Age of AI?",
+          "title": "What's the future for pure math research in the age of AI?",
           "title_zh": null,
-          "title_en": "What's the Future for Pure Math Research in the Age of AI?",
-          "title_original": "What's the Future for Pure Math Research in the Age of AI?",
+          "title_en": "What's the future for pure math research in the age of AI?",
+          "title_original": "What's the future for pure math research in the age of AI?",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
@@ -1187,10 +689,10 @@
         },
         {
           "id": "e0107a07192b52e623f73e779a90b98fe272f119",
-          "title": "What's the Future for Pure Math Research in the Age of AI?",
+          "title": "What's the future for pure math research in the age of AI?",
           "title_zh": null,
-          "title_en": "What's the Future for Pure Math Research in the Age of AI?",
-          "title_original": "What's the Future for Pure Math Research in the Age of AI?",
+          "title_en": "What's the future for pure math research in the age of AI?",
+          "title_original": "What's the future for pure math research in the age of AI?",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=49951641",
@@ -1208,10 +710,10 @@
       "items": [
         {
           "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
-          "title": "What's the Future for Pure Math Research in the Age of AI?",
+          "title": "What's the future for pure math research in the age of AI?",
           "title_zh": null,
-          "title_en": "What's the Future for Pure Math Research in the Age of AI?",
-          "title_original": "What's the Future for Pure Math Research in the Age of AI?",
+          "title_en": "What's the future for pure math research in the age of AI?",
+          "title_original": "What's the future for pure math research in the age of AI?",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
@@ -1222,10 +724,10 @@
         },
         {
           "id": "e0107a07192b52e623f73e779a90b98fe272f119",
-          "title": "What's the Future for Pure Math Research in the Age of AI?",
+          "title": "What's the future for pure math research in the age of AI?",
           "title_zh": null,
-          "title_en": "What's the Future for Pure Math Research in the Age of AI?",
-          "title_original": "What's the Future for Pure Math Research in the Age of AI?",
+          "title_en": "What's the future for pure math research in the age of AI?",
+          "title_original": "What's the future for pure math research in the age of AI?",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=49951641",
@@ -1237,15 +739,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5274,
-      "importance": 0.5274,
-      "importance_score": 0.5274,
+      "score": 0.5177,
+      "importance": 0.5177,
+      "importance_score": 0.5177,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8976,
+        "recency": 0.8441,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1256,10 +758,10 @@
       "latest_at": "2026-10-04T07:53:45Z",
       "primary_item": {
         "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
-        "title": "What's the Future for Pure Math Research in the Age of AI?",
+        "title": "What's the future for pure math research in the age of AI?",
         "title_zh": null,
-        "title_en": "What's the Future for Pure Math Research in the Age of AI?",
-        "title_original": "What's the Future for Pure Math Research in the Age of AI?",
+        "title_en": "What's the future for pure math research in the age of AI?",
+        "title_original": "What's the future for pure math research in the age of AI?",
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
@@ -1270,7 +772,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T15:30:58.552451Z"
+        "scored_at": "2026-10-04T19:47:29.924938Z"
       }
     }
   ]
