@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T19:24:00.460563Z",
+  "generated_at": "2026-10-14T23:14:13.462170Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8519,
-      "importance": 0.8519,
-      "importance_score": 0.8519,
+      "score": 0.8426,
+      "importance": 0.8426,
+      "importance_score": 0.8426,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.955,
+        "recency": 0.9035,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T19:25:03.534078Z"
+        "scored_at": "2026-10-14T23:29:48.948977Z"
+      }
+    },
+    {
+      "story_id": "story_5d5ac7e11bf8",
+      "title": "HydraFusion updates and new Max option",
+      "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+      "primary_url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
+          "title": "HydraFusion updates and new Max option",
+          "title_zh": null,
+          "title_en": "HydraFusion updates and new Max option",
+          "title_original": "HydraFusion updates and new Max option",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T20:01:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
+          "title": "HydraFusion updates and new Max option",
+          "title_zh": null,
+          "title_en": "HydraFusion updates and new Max option",
+          "title_original": "HydraFusion updates and new Max option",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T20:01:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8358,
+      "importance": 0.8358,
+      "importance_score": 0.8358,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9547,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T20:01:35Z",
+      "latest_at": "2026-10-14T20:01:35Z",
+      "primary_item": {
+        "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
+        "title": "HydraFusion updates and new Max option",
+        "title_zh": null,
+        "title_en": "HydraFusion updates and new Max option",
+        "title_original": "HydraFusion updates and new Max option",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-14T23:29:48.948977Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8986,
+        "recency": 0.8502,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,90 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T19:25:03.534078Z"
-      }
-    },
-    {
-      "story_id": "story_0b5e45b58095",
-      "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
-      "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "502bc892b0915388933022ba86cb435c84eda79f",
-          "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
-          "title_zh": "公共预览版中的 GitHub Actions 工作流程锁定文件",
-          "title_en": "GitHub Actions workflow lockfiles in public preview",
-          "title_original": "GitHub Actions workflow lockfiles in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T13:49:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "502bc892b0915388933022ba86cb435c84eda79f",
-          "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
-          "title_zh": "公共预览版中的 GitHub Actions 工作流程锁定文件",
-          "title_en": "GitHub Actions workflow lockfiles in public preview",
-          "title_original": "GitHub Actions workflow lockfiles in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T13:49:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8301,
-      "importance": 0.8301,
-      "importance_score": 0.8301,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9226,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-14T13:49:15Z",
-      "latest_at": "2026-10-14T13:49:15Z",
-      "primary_item": {
-        "id": "502bc892b0915388933022ba86cb435c84eda79f",
-        "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
-        "title_zh": "公共预览版中的 GitHub Actions 工作流程锁定文件",
-        "title_en": "GitHub Actions workflow lockfiles in public preview",
-        "title_original": "GitHub Actions workflow lockfiles in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-14T19:25:03.534078Z"
+        "scored_at": "2026-10-14T23:29:48.948977Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.826,
-      "importance": 0.826,
-      "importance_score": 0.826,
+      "score": 0.8187,
+      "importance": 0.8187,
+      "importance_score": 0.8187,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7557,
+        "recency": 0.7149,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T19:25:03.534078Z"
+        "scored_at": "2026-10-14T23:29:48.948977Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.804,
-      "importance": 0.804,
-      "importance_score": 0.804,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7779,
+        "recency": 0.7359,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T19:25:03.534078Z"
+        "scored_at": "2026-10-14T23:29:48.948977Z"
       }
     },
     {
@@ -463,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8986,
+        "recency": 0.8502,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +498,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T19:25:03.534078Z"
+        "scored_at": "2026-10-14T23:29:48.948977Z"
+      }
+    },
+    {
+      "story_id": "story_0b5e45b58095",
+      "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
+      "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "502bc892b0915388933022ba86cb435c84eda79f",
+          "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
+          "title_zh": "公共预览版中的 GitHub Actions 工作流程锁定文件",
+          "title_en": "GitHub Actions workflow lockfiles in public preview",
+          "title_original": "GitHub Actions workflow lockfiles in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T13:49:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "502bc892b0915388933022ba86cb435c84eda79f",
+          "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
+          "title_zh": "公共预览版中的 GitHub Actions 工作流程锁定文件",
+          "title_en": "GitHub Actions workflow lockfiles in public preview",
+          "title_original": "GitHub Actions workflow lockfiles in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T13:49:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8211,
+      "importance": 0.8211,
+      "importance_score": 0.8211,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8729,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T13:49:15Z",
+      "latest_at": "2026-10-14T13:49:15Z",
+      "primary_item": {
+        "id": "502bc892b0915388933022ba86cb435c84eda79f",
+        "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
+        "title_zh": "公共预览版中的 GitHub Actions 工作流程锁定文件",
+        "title_en": "GitHub Actions workflow lockfiles in public preview",
+        "title_original": "GitHub Actions workflow lockfiles in public preview",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-14T23:29:48.948977Z"
+      }
+    },
+    {
+      "story_id": "story_92ccdb815e7c",
+      "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "primary_url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d96b16999dd832ff650709d42b0e4b2fe23a1391",
+          "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+          "title_zh": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
+          "title_en": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+          "title_original": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+          "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T18:47:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d96b16999dd832ff650709d42b0e4b2fe23a1391",
+          "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+          "title_zh": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
+          "title_en": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+          "title_original": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+          "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T18:47:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7744,
+      "importance": 0.7744,
+      "importance_score": 0.7744,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9379,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T18:47:54Z",
+      "latest_at": "2026-10-14T18:47:54Z",
+      "primary_item": {
+        "id": "d96b16999dd832ff650709d42b0e4b2fe23a1391",
+        "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+        "title_zh": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
+        "title_en": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+        "title_original": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+        "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-14T23:29:48.948977Z"
       }
     },
     {
@@ -546,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.775,
-      "importance": 0.775,
-      "importance_score": 0.775,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7557,
+        "recency": 0.7149,
         "story_heat": 0.0
       },
       "category": "official",
@@ -580,7 +745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T19:25:03.534078Z"
+        "scored_at": "2026-10-14T23:29:48.948977Z"
       }
     },
     {
@@ -628,15 +793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.804,
-      "importance": 0.804,
-      "importance_score": 0.804,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7779,
+        "recency": 0.7359,
         "story_heat": 0.0
       },
       "category": "official",
@@ -663,90 +828,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T19:25:03.534078Z"
+        "scored_at": "2026-10-14T23:29:48.948977Z"
       }
     },
     {
-      "story_id": "story_624c9e1c6e13",
-      "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
-      "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
-      "primary_url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_d6deb20c7940",
+      "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放 / Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
+      "url": "https://x.com/GeminiApp/status/2110491358498865638",
+      "primary_url": "https://x.com/GeminiApp/status/2110491358498865638",
+      "source": "X：Gemini (@GeminiApp)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e54186c69698777285914474fa2a37da8baf9f91",
-          "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
-          "title_zh": "GitHub 应用程序的最小权限和管理改进",
-          "title_en": "GitHub App improvements for least privilege and management",
-          "title_original": "GitHub App improvements for least privilege and management",
-          "summary": null,
+          "id": "0b6e96d9e17b7a7f93cbb504f793540bb82e561d",
+          "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放 / Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
+          "title_zh": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
+          "title_en": "Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
+          "title_original": "Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
+          "summary": "Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-13T23:17:55Z"
+          "url": "https://x.com/GeminiApp/status/2110491358498865638",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T22:02:05Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：Gemini (@GeminiApp)"
       ],
       "items": [
         {
-          "id": "e54186c69698777285914474fa2a37da8baf9f91",
-          "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
-          "title_zh": "GitHub 应用程序的最小权限和管理改进",
-          "title_en": "GitHub App improvements for least privilege and management",
-          "title_original": "GitHub App improvements for least privilege and management",
-          "summary": null,
+          "id": "0b6e96d9e17b7a7f93cbb504f793540bb82e561d",
+          "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放 / Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
+          "title_zh": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
+          "title_en": "Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
+          "title_original": "Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
+          "summary": "Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-13T23:17:55Z"
+          "url": "https://x.com/GeminiApp/status/2110491358498865638",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T22:02:05Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7987,
-      "importance": 0.7987,
-      "importance_score": 0.7987,
-      "importance_label": "官方更新",
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7481,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9828,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-13T23:17:55Z",
-      "latest_at": "2026-10-13T23:17:55Z",
+      "earliest_at": "2026-10-14T22:02:05Z",
+      "latest_at": "2026-10-14T22:02:05Z",
       "primary_item": {
-        "id": "e54186c69698777285914474fa2a37da8baf9f91",
-        "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
-        "title_zh": "GitHub 应用程序的最小权限和管理改进",
-        "title_en": "GitHub App improvements for least privilege and management",
-        "title_original": "GitHub App improvements for least privilege and management",
-        "summary": null,
+        "id": "0b6e96d9e17b7a7f93cbb504f793540bb82e561d",
+        "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放 / Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
+        "title_zh": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
+        "title_en": "Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
+        "title_original": "Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
+        "summary": "Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/GeminiApp/status/2110491358498865638",
+        "source": "X：Gemini (@GeminiApp)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T19:25:03.534078Z"
+        "scored_at": "2026-10-14T23:29:48.948977Z"
       }
     },
     {
@@ -794,15 +958,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7889,
+        "recency": 0.7463,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -828,26 +992,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T19:25:03.534078Z"
+        "scored_at": "2026-10-14T23:29:48.948977Z"
       }
     },
     {
-      "story_id": "story_a6b4e45b4f15",
-      "title": "Third Moment Research 如何运行 10,000 个代理长达 36 个小时以上 / How Third Moment Research runs 10,000 agents for 36+ hours",
-      "url": "https://openai.com/index/third-moment-research",
-      "primary_url": "https://openai.com/index/third-moment-research",
+      "story_id": "story_d1615be89346",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "primary_url": "https://openai.com/index/block-ai-powered-security",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "14e1ae7e75baefecf46f87a03ea2ead230ddc485",
-          "title": "Third Moment Research 如何运行 10,000 个代理长达 36 个小时以上 / How Third Moment Research runs 10,000 agents for 36+ hours",
-          "title_zh": "Third Moment Research 如何运行 10,000 个代理长达 36 个小时以上",
-          "title_en": "How Third Moment Research runs 10,000 agents for 36+ hours",
-          "title_original": "How Third Moment Research runs 10,000 agents for 36+ hours",
+          "id": "7c321a63110d5ce8dcde3a9cee84ece42e1270f2",
+          "title": "How Block is building AI-powered security with OpenAI technology",
+          "title_zh": null,
+          "title_en": "How Block is building AI-powered security with OpenAI technology",
+          "title_original": "How Block is building AI-powered security with OpenAI technology",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/third-moment-research",
+          "url": "https://openai.com/index/block-ai-powered-security",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -860,14 +1024,14 @@
       ],
       "items": [
         {
-          "id": "14e1ae7e75baefecf46f87a03ea2ead230ddc485",
-          "title": "Third Moment Research 如何运行 10,000 个代理长达 36 个小时以上 / How Third Moment Research runs 10,000 agents for 36+ hours",
-          "title_zh": "Third Moment Research 如何运行 10,000 个代理长达 36 个小时以上",
-          "title_en": "How Third Moment Research runs 10,000 agents for 36+ hours",
-          "title_original": "How Third Moment Research runs 10,000 agents for 36+ hours",
+          "id": "7c321a63110d5ce8dcde3a9cee84ece42e1270f2",
+          "title": "How Block is building AI-powered security with OpenAI technology",
+          "title_zh": null,
+          "title_en": "How Block is building AI-powered security with OpenAI technology",
+          "title_original": "How Block is building AI-powered security with OpenAI technology",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/third-moment-research",
+          "url": "https://openai.com/index/block-ai-powered-security",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -876,15 +1040,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8225,
-      "importance": 0.8225,
-      "importance_score": 0.8225,
+      "score": 0.8144,
+      "importance": 0.8144,
+      "importance_score": 0.8144,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8361,
+        "recency": 0.791,
         "story_heat": 0.0
       },
       "category": "official",
@@ -896,14 +1060,14 @@
       "earliest_at": "2026-10-14T07:00:00Z",
       "latest_at": "2026-10-14T07:00:00Z",
       "primary_item": {
-        "id": "14e1ae7e75baefecf46f87a03ea2ead230ddc485",
-        "title": "Third Moment Research 如何运行 10,000 个代理长达 36 个小时以上 / How Third Moment Research runs 10,000 agents for 36+ hours",
-        "title_zh": "Third Moment Research 如何运行 10,000 个代理长达 36 个小时以上",
-        "title_en": "How Third Moment Research runs 10,000 agents for 36+ hours",
-        "title_original": "How Third Moment Research runs 10,000 agents for 36+ hours",
+        "id": "7c321a63110d5ce8dcde3a9cee84ece42e1270f2",
+        "title": "How Block is building AI-powered security with OpenAI technology",
+        "title_zh": null,
+        "title_en": "How Block is building AI-powered security with OpenAI technology",
+        "title_original": "How Block is building AI-powered security with OpenAI technology",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/third-moment-research",
+        "url": "https://openai.com/index/block-ai-powered-security",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -911,7 +1075,251 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T19:25:03.534078Z"
+        "scored_at": "2026-10-14T23:29:48.948977Z"
+      }
+    },
+    {
+      "story_id": "story_a7bf3db1c48a",
+      "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值 / It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
+      "url": "https://x.com/lydiahallie/status/2110484841926152622",
+      "primary_url": "https://x.com/lydiahallie/status/2110484841926152622",
+      "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0a000ac66d76a52b422de1e871659a362d9b9673",
+          "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值 / It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
+          "title_zh": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
+          "title_en": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
+          "title_original": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
+          "summary": "Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 \"idleCompaction\": false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/lydiahallie/status/2110484841926152622",
+          "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T21:36:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)"
+      ],
+      "items": [
+        {
+          "id": "0a000ac66d76a52b422de1e871659a362d9b9673",
+          "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值 / It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
+          "title_zh": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
+          "title_en": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
+          "title_original": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
+          "summary": "Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 \"idleCompaction\": false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/lydiahallie/status/2110484841926152622",
+          "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T21:36:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9767,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T21:36:11Z",
+      "latest_at": "2026-10-14T21:36:11Z",
+      "primary_item": {
+        "id": "0a000ac66d76a52b422de1e871659a362d9b9673",
+        "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值 / It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
+        "title_zh": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
+        "title_en": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
+        "title_original": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
+        "summary": "Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 \"idleCompaction\": false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/lydiahallie/status/2110484841926152622",
+        "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-14T23:29:48.948977Z"
+      }
+    },
+    {
+      "story_id": "story_5950a931f17e",
+      "title": "Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测 / Grok Voice 3.0 is now the world’s leading conversational voice model",
+      "url": "https://x.com/elonmusk/status/2110483960312799675",
+      "primary_url": "https://x.com/elonmusk/status/2110483960312799675",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b53e7cdfbe3bb806b9f0cab47f6872614794ae45",
+          "title": "Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测 / Grok Voice 3.0 is now the world’s leading conversational voice model",
+          "title_zh": "Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测",
+          "title_en": "Grok Voice 3.0 is now the world’s leading conversational voice model",
+          "title_original": "Grok Voice 3.0 is now the world’s leading conversational voice model",
+          "summary": "Musk 发文称 Grok Voice 3.0 已是全球领先的对话语音模型，并引用 Artificial Analysis 的评测：Grok Voice 3.0 以 86.9 分登顶 Speech to Speech Index，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live 的 82.6，较 Grok Voice 2.0 的 81.3 提升 5.6 分。该模型通过 Realtime API 提供，价格 $0.08 每分钟，Big Bench Audio 平均首音频延迟 0.81 秒，任务成功率 94.8% 居榜首。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/elonmusk/status/2110483960312799675",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T21:32:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "items": [
+        {
+          "id": "b53e7cdfbe3bb806b9f0cab47f6872614794ae45",
+          "title": "Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测 / Grok Voice 3.0 is now the world’s leading conversational voice model",
+          "title_zh": "Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测",
+          "title_en": "Grok Voice 3.0 is now the world’s leading conversational voice model",
+          "title_original": "Grok Voice 3.0 is now the world’s leading conversational voice model",
+          "summary": "Musk 发文称 Grok Voice 3.0 已是全球领先的对话语音模型，并引用 Artificial Analysis 的评测：Grok Voice 3.0 以 86.9 分登顶 Speech to Speech Index，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live 的 82.6，较 Grok Voice 2.0 的 81.3 提升 5.6 分。该模型通过 Realtime API 提供，价格 $0.08 每分钟，Big Bench Audio 平均首音频延迟 0.81 秒，任务成功率 94.8% 居榜首。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/elonmusk/status/2110483960312799675",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T21:32:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9759,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-14T21:32:41Z",
+      "latest_at": "2026-10-14T21:32:41Z",
+      "primary_item": {
+        "id": "b53e7cdfbe3bb806b9f0cab47f6872614794ae45",
+        "title": "Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测 / Grok Voice 3.0 is now the world’s leading conversational voice model",
+        "title_zh": "Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测",
+        "title_en": "Grok Voice 3.0 is now the world’s leading conversational voice model",
+        "title_original": "Grok Voice 3.0 is now the world’s leading conversational voice model",
+        "summary": "Musk 发文称 Grok Voice 3.0 已是全球领先的对话语音模型，并引用 Artificial Analysis 的评测：Grok Voice 3.0 以 86.9 分登顶 Speech to Speech Index，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live 的 82.6，较 Grok Voice 2.0 的 81.3 提升 5.6 分。该模型通过 Realtime API 提供，价格 $0.08 每分钟，Big Bench Audio 平均首音频延迟 0.81 秒，任务成功率 94.8% 居榜首。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/elonmusk/status/2110483960312799675",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-14T23:29:48.948977Z"
+      }
+    },
+    {
+      "story_id": "story_0a906409add4",
+      "title": "Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名 / Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
+      "url": "https://x.com/arena/status/2110465487914295770",
+      "primary_url": "https://x.com/arena/status/2110465487914295770",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f3fb51e28260fc7d6d3a83cc163b73ac050cde4c",
+          "title": "Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名 / Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
+          "title_zh": "Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名",
+          "title_en": "Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
+          "title_original": "Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
+          "summary": "Arena 发布基于超过 5000 次真实智能体会话的评测结果，Meta 的 Muse Wonder (Max) 进入 Agent Arena 第12名，净提升 +6.4%，比 Muse Spark 1.3 (Max) 高 +2.8 分并上升四位。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2110465487914295770",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T20:19:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "f3fb51e28260fc7d6d3a83cc163b73ac050cde4c",
+          "title": "Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名 / Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
+          "title_zh": "Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名",
+          "title_en": "Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
+          "title_original": "Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
+          "summary": "Arena 发布基于超过 5000 次真实智能体会话的评测结果，Meta 的 Muse Wonder (Max) 进入 Agent Arena 第12名，净提升 +6.4%，比 Muse Spark 1.3 (Max) 高 +2.8 分并上升四位。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2110465487914295770",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T20:19:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9588,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-14T20:19:17Z",
+      "latest_at": "2026-10-14T20:19:17Z",
+      "primary_item": {
+        "id": "f3fb51e28260fc7d6d3a83cc163b73ac050cde4c",
+        "title": "Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名 / Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
+        "title_zh": "Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名",
+        "title_en": "Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
+        "title_original": "Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
+        "summary": "Arena 发布基于超过 5000 次真实智能体会话的评测结果，Meta 的 Muse Wonder (Max) 进入 Agent Arena 第12名，净提升 +6.4%，比 Muse Spark 1.3 (Max) 高 +2.8 分并上升四位。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2110465487914295770",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-14T23:29:48.948977Z"
       }
     },
     {
@@ -959,15 +1367,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8758,
+        "recency": 0.8286,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -992,7 +1400,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T19:25:03.534078Z"
+        "scored_at": "2026-10-14T23:29:48.948977Z"
       }
     },
     {
@@ -1040,15 +1448,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
+      "score": 0.7351,
+      "importance": 0.7351,
+      "importance_score": 0.7351,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9721,
+        "recency": 0.9197,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1073,88 +1481,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T19:25:03.534078Z"
-      }
-    },
-    {
-      "story_id": "story_e1f4c7a875e0",
-      "title": "Character.ai 破产文件显示 AI 商业模式难以为继 / Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work",
-      "primary_url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work",
-      "source": "404 Media（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f4a3e9592ee46fe829909fca7b0eee3e9cc03d57",
-          "title": "Character.ai 破产文件显示 AI 商业模式难以为继 / Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-          "title_zh": "Character.ai 破产文件显示 AI 商业模式难以为继",
-          "title_en": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-          "title_original": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-          "summary": "Character.ai 进入破产程序，法院文件显示其商业模式难以支撑开支。公司 2024 年每月 AI 算力支出 1380 万美元、2025 年为 1000 万美元，订阅收入峰值仅每月 280 万美元，含广告的全部收入峰值 530 万美元；2026 年 1 至 8 月算力支出 5610 万美元，8 月时每月仍亏损约 800-900 万美元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T20:06:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "404 Media（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f4a3e9592ee46fe829909fca7b0eee3e9cc03d57",
-          "title": "Character.ai 破产文件显示 AI 商业模式难以为继 / Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-          "title_zh": "Character.ai 破产文件显示 AI 商业模式难以为继",
-          "title_en": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-          "title_original": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-          "summary": "Character.ai 进入破产程序，法院文件显示其商业模式难以支撑开支。公司 2024 年每月 AI 算力支出 1380 万美元、2025 年为 1000 万美元，订阅收入峰值仅每月 280 万美元，含广告的全部收入峰值 530 万美元；2026 年 1 至 8 月算力支出 5610 万美元，8 月时每月仍亏损约 800-900 万美元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T20:06:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7144,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-13T20:06:53Z",
-      "latest_at": "2026-10-13T20:06:53Z",
-      "primary_item": {
-        "id": "f4a3e9592ee46fe829909fca7b0eee3e9cc03d57",
-        "title": "Character.ai 破产文件显示 AI 商业模式难以为继 / Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-        "title_zh": "Character.ai 破产文件显示 AI 商业模式难以为继",
-        "title_en": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-        "title_original": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-        "summary": "Character.ai 进入破产程序，法院文件显示其商业模式难以支撑开支。公司 2024 年每月 AI 算力支出 1380 万美元、2025 年为 1000 万美元，订阅收入峰值仅每月 280 万美元，含广告的全部收入峰值 530 万美元；2026 年 1 至 8 月算力支出 5610 万美元，8 月时每月仍亏损约 800-900 万美元。",
-        "recommend_reason_zh": null,
-        "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work",
-        "source": "404 Media（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-14T19:25:03.534078Z"
+        "scored_at": "2026-10-14T23:29:48.948977Z"
       }
     },
     {
@@ -1202,15 +1529,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9095,
+        "recency": 0.8605,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1235,63 +1562,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T19:25:03.534078Z"
+        "scored_at": "2026-10-14T23:29:48.948977Z"
       }
     },
     {
-      "story_id": "story_46f20f54d699",
-      "title": "负责任、安全地开发 Gemini 4 Argon / Developing Gemini 4 Argon responsibly and safely",
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
-      "primary_url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
-      "source": "Google DeepMind",
+      "story_id": "story_624c9e1c6e13",
+      "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
+      "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+      "primary_url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "99cd44b34f17588252fe4a6eeec6f30c422114e5",
-          "title": "负责任、安全地开发 Gemini 4 Argon / Developing Gemini 4 Argon responsibly and safely",
-          "title_zh": "负责任、安全地开发 Gemini 4 Argon",
-          "title_en": "Developing Gemini 4 Argon responsibly and safely",
-          "title_original": "Developing Gemini 4 Argon responsibly and safely",
+          "id": "e54186c69698777285914474fa2a37da8baf9f91",
+          "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
+          "title_zh": "GitHub 应用程序的最小权限和管理改进",
+          "title_en": "GitHub App improvements for least privilege and management",
+          "title_original": "GitHub App improvements for least privilege and management",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
-          "source": "Google DeepMind",
+          "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-13T19:43:07Z"
+          "published_at": "2026-10-13T23:17:55Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google DeepMind"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "99cd44b34f17588252fe4a6eeec6f30c422114e5",
-          "title": "负责任、安全地开发 Gemini 4 Argon / Developing Gemini 4 Argon responsibly and safely",
-          "title_zh": "负责任、安全地开发 Gemini 4 Argon",
-          "title_en": "Developing Gemini 4 Argon responsibly and safely",
-          "title_original": "Developing Gemini 4 Argon responsibly and safely",
+          "id": "e54186c69698777285914474fa2a37da8baf9f91",
+          "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
+          "title_zh": "GitHub 应用程序的最小权限和管理改进",
+          "title_en": "GitHub App improvements for least privilege and management",
+          "title_original": "GitHub App improvements for least privilege and management",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
-          "source": "Google DeepMind",
+          "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-13T19:43:07Z"
+          "published_at": "2026-10-13T23:17:55Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7999,
-      "importance": 0.7999,
-      "importance_score": 0.7999,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7104,
+        "ai_relevance": 0.87,
+        "recency": 0.7077,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1300,349 +1627,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-13T19:43:07Z",
-      "latest_at": "2026-10-13T19:43:07Z",
+      "earliest_at": "2026-10-13T23:17:55Z",
+      "latest_at": "2026-10-13T23:17:55Z",
       "primary_item": {
-        "id": "99cd44b34f17588252fe4a6eeec6f30c422114e5",
-        "title": "负责任、安全地开发 Gemini 4 Argon / Developing Gemini 4 Argon responsibly and safely",
-        "title_zh": "负责任、安全地开发 Gemini 4 Argon",
-        "title_en": "Developing Gemini 4 Argon responsibly and safely",
-        "title_original": "Developing Gemini 4 Argon responsibly and safely",
+        "id": "e54186c69698777285914474fa2a37da8baf9f91",
+        "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
+        "title_zh": "GitHub 应用程序的最小权限和管理改进",
+        "title_en": "GitHub App improvements for least privilege and management",
+        "title_original": "GitHub App improvements for least privilege and management",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
-        "source": "Google DeepMind",
+        "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-14T19:25:03.534078Z"
-      }
-    },
-    {
-      "story_id": "story_37d5124eb4e9",
-      "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c75dc136f0bb0fe677fb53b0615fdf939a5acb66",
-          "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
-          "title_zh": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
-          "title_en": null,
-          "title_original": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
-          "summary": "Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。作者实测认为其知识类专业能力强，Vals Index综合第一（68.9）且单次成本仅15.68美元，但CUA-bench仅4.83%排倒数第二；前端效果不及GPT-6 Astra，额度消耗快，中文写作味道重，整体体验糟糕，不建议订阅Ultra。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T22:56:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "c75dc136f0bb0fe677fb53b0615fdf939a5acb66",
-          "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
-          "title_zh": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
-          "title_en": null,
-          "title_original": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
-          "summary": "Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。作者实测认为其知识类专业能力强，Vals Index综合第一（68.9）且单次成本仅15.68美元，但CUA-bench仅4.83%排倒数第二；前端效果不及GPT-6 Astra，额度消耗快，中文写作味道重，整体体验糟糕，不建议订阅Ultra。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T22:56:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7443,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-13T22:56:51Z",
-      "latest_at": "2026-10-13T22:56:51Z",
-      "primary_item": {
-        "id": "c75dc136f0bb0fe677fb53b0615fdf939a5acb66",
-        "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
-        "title_zh": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
-        "title_en": null,
-        "title_original": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
-        "summary": "Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。作者实测认为其知识类专业能力强，Vals Index综合第一（68.9）且单次成本仅15.68美元，但CUA-bench仅4.83%排倒数第二；前端效果不及GPT-6 Astra，额度消耗快，中文写作味道重，整体体验糟糕，不建议订阅Ultra。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-14T19:25:03.534078Z"
-      }
-    },
-    {
-      "story_id": "story_c910ad326bd2",
-      "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-      "url": "https://x.com/Khazix0918/status/2110174495420064055",
-      "primary_url": "https://x.com/Khazix0918/status/2110174495420064055",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "776ceebc5b516ca479378270a5ea0dc3c32eda5e",
-          "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-          "title_zh": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-          "title_en": null,
-          "title_original": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-          "summary": "Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Khazix0918/status/2110174495420064055",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T01:02:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：卡兹克 (@Khazix0918)"
-      ],
-      "items": [
-        {
-          "id": "776ceebc5b516ca479378270a5ea0dc3c32eda5e",
-          "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-          "title_zh": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-          "title_en": null,
-          "title_original": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-          "summary": "Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Khazix0918/status/2110174495420064055",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T01:02:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7377,
-      "importance": 0.7377,
-      "importance_score": 0.7377,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7672,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T01:02:59Z",
-      "latest_at": "2026-10-14T01:02:59Z",
-      "primary_item": {
-        "id": "776ceebc5b516ca479378270a5ea0dc3c32eda5e",
-        "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-        "title_zh": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-        "title_en": null,
-        "title_original": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-        "summary": "Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Khazix0918/status/2110174495420064055",
-        "source": "X：卡兹克 (@Khazix0918)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-14T19:25:03.534078Z"
-      }
-    },
-    {
-      "story_id": "story_7dd1db50cda0",
-      "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍 / Researchers improve weather forecasts looking two to six weeks out",
-      "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-      "primary_url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-      "source": "MIT News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "58cd426374bf0da5060b40565d4dc4286c619c0d",
-          "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍 / Researchers improve weather forecasts looking two to six weeks out",
-          "title_zh": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
-          "title_en": "Researchers improve weather forecasts looking two to six weeks out",
-          "title_original": "Researchers improve weather forecasts looking two to six weeks out",
-          "summary": "MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。",
-          "recommend_reason_zh": null,
-          "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-          "source": "MIT News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MIT News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "58cd426374bf0da5060b40565d4dc4286c619c0d",
-          "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍 / Researchers improve weather forecasts looking two to six weeks out",
-          "title_zh": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
-          "title_en": "Researchers improve weather forecasts looking two to six weeks out",
-          "title_original": "Researchers improve weather forecasts looking two to six weeks out",
-          "summary": "MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。",
-          "recommend_reason_zh": null,
-          "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-          "source": "MIT News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9384,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T15:00:00Z",
-      "latest_at": "2026-10-14T15:00:00Z",
-      "primary_item": {
-        "id": "58cd426374bf0da5060b40565d4dc4286c619c0d",
-        "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍 / Researchers improve weather forecasts looking two to six weeks out",
-        "title_zh": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
-        "title_en": "Researchers improve weather forecasts looking two to six weeks out",
-        "title_original": "Researchers improve weather forecasts looking two to six weeks out",
-        "summary": "MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。",
-        "recommend_reason_zh": null,
-        "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-        "source": "MIT News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-14T19:25:03.534078Z"
-      }
-    },
-    {
-      "story_id": "story_a0101e7bbc61",
-      "title": "LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口 / Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
-      "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
-      "primary_url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
-      "source": "LangChain：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fe5963bba30276f89590c4bbcda15e6a64cd0511",
-          "title": "LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口 / Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
-          "title_zh": "LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口",
-          "title_en": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
-          "title_original": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
-          "summary": "LangChain 发布博客，介绍其开源 Agent 框架 Deep Agents 如何用 middleware 做上下文工程，应对长任务中的 context rot。",
-          "recommend_reason_zh": null,
-          "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
-          "source": "LangChain：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LangChain：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "fe5963bba30276f89590c4bbcda15e6a64cd0511",
-          "title": "LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口 / Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
-          "title_zh": "LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口",
-          "title_en": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
-          "title_original": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
-          "summary": "LangChain 发布博客，介绍其开源 Agent 框架 Deep Agents 如何用 middleware 做上下文工程，应对长任务中的 context rot。",
-          "recommend_reason_zh": null,
-          "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
-          "source": "LangChain：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7345,
-      "importance": 0.7345,
-      "importance_score": 0.7345,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9659,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T17:00:00Z",
-      "latest_at": "2026-10-14T17:00:00Z",
-      "primary_item": {
-        "id": "fe5963bba30276f89590c4bbcda15e6a64cd0511",
-        "title": "LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口 / Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
-        "title_zh": "LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口",
-        "title_en": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
-        "title_original": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
-        "summary": "LangChain 发布博客，介绍其开源 Agent 框架 Deep Agents 如何用 middleware 做上下文工程，应对长任务中的 context rot。",
-        "recommend_reason_zh": null,
-        "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
-        "source": "LangChain：Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-14T19:25:03.534078Z"
+        "scored_at": "2026-10-14T23:29:48.948977Z"
       }
     }
   ]
