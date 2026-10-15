@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T07:26:38.076957Z",
+  "generated_at": "2026-10-15T13:26:07.401900Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8245,
-      "importance": 0.8245,
-      "importance_score": 0.8245,
+      "score": 0.8125,
+      "importance": 0.8125,
+      "importance_score": 0.8125,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8025,
+        "recency": 0.736,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,12 +83,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T07:43:14.363454Z"
+        "scored_at": "2026-10-15T13:49:51.506614Z"
       }
     },
     {
       "story_id": "story_5d5ac7e11bf8",
-      "title": "HydraFusion updates and new Max option",
+      "title": "HydraFusion 更新和新的 Max 选项 / HydraFusion updates and new Max option",
       "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
       "primary_url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
       "source": "GitHub Changelog",
@@ -96,8 +96,8 @@
       "sources": [
         {
           "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
-          "title": "HydraFusion updates and new Max option",
-          "title_zh": null,
+          "title": "HydraFusion 更新和新的 Max 选项 / HydraFusion updates and new Max option",
+          "title_zh": "HydraFusion 更新和新的 Max 选项",
           "title_en": "HydraFusion updates and new Max option",
           "title_original": "HydraFusion updates and new Max option",
           "summary": null,
@@ -116,8 +116,8 @@
       "items": [
         {
           "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
-          "title": "HydraFusion updates and new Max option",
-          "title_zh": null,
+          "title": "HydraFusion 更新和新的 Max 选项 / HydraFusion updates and new Max option",
+          "title_zh": "HydraFusion 更新和新的 Max 选项",
           "title_en": "HydraFusion updates and new Max option",
           "title_original": "HydraFusion updates and new Max option",
           "summary": null,
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8166,
-      "importance": 0.8166,
-      "importance_score": 0.8166,
+      "score": 0.804,
+      "importance": 0.804,
+      "importance_score": 0.804,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.848,
+        "recency": 0.7777,
         "story_heat": 0.0
       },
       "category": "official",
@@ -152,8 +152,8 @@
       "latest_at": "2026-10-14T20:01:35Z",
       "primary_item": {
         "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
-        "title": "HydraFusion updates and new Max option",
-        "title_zh": null,
+        "title": "HydraFusion 更新和新的 Max 选项 / HydraFusion updates and new Max option",
+        "title_zh": "HydraFusion 更新和新的 Max 选项",
         "title_en": "HydraFusion updates and new Max option",
         "title_original": "HydraFusion updates and new Max option",
         "summary": null,
@@ -166,90 +166,253 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T07:43:14.363454Z"
+        "scored_at": "2026-10-15T13:49:51.506614Z"
       }
     },
     {
-      "story_id": "story_d966792613ef",
-      "title": "Amp 让 AI 代理能够通过 OpenAI 模型超越代码进行工作 / Amp puts AI agents to work beyond code with OpenAI models",
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "primary_url": "https://openai.com/index/amp-beyond-coding",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_b52f86ee936a",
+      "title": "Anthropic Q3营收达168亿美元但增速放缓，11月IPO前估值预期或下调 / Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
+      "url": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo",
+      "primary_url": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "7c01cc0608404ef4a3f3839da159b7083e48f4c9",
-          "title": "Amp 让 AI 代理能够通过 OpenAI 模型超越代码进行工作 / Amp puts AI agents to work beyond code with OpenAI models",
-          "title_zh": "Amp 让 AI 代理能够通过 OpenAI 模型超越代码进行工作",
-          "title_en": "Amp puts AI agents to work beyond code with OpenAI models",
-          "title_original": "Amp puts AI agents to work beyond code with OpenAI models",
-          "summary": null,
+          "id": "fce14e350b00cb5853ad09e9ea68028670e1e879",
+          "title": "Anthropic Q3营收达168亿美元但增速放缓，11月IPO前估值预期或下调 / Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
+          "title_zh": "Anthropic Q3营收达168亿美元但增速放缓，11月IPO前估值预期或下调",
+          "title_en": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
+          "title_original": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
+          "summary": "Anthropic在面向潜在投资者的会议上公布Q3营收168亿美元，环比增长约45%，但明显低于Q2超140%的增速。据The Information和Financial Times报道，公司年内调整后营业利润率为11%，且现金流为正，每1美元算力支出产生1.70美元收入。部分投资者对其营收数字失望，预计IPO估值可能降至1.5万亿美元以下，低于此前讨论的2万亿美元。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/amp-beyond-coding",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T12:00:00Z"
+          "url": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T09:50:43Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "7c01cc0608404ef4a3f3839da159b7083e48f4c9",
-          "title": "Amp 让 AI 代理能够通过 OpenAI 模型超越代码进行工作 / Amp puts AI agents to work beyond code with OpenAI models",
-          "title_zh": "Amp 让 AI 代理能够通过 OpenAI 模型超越代码进行工作",
-          "title_en": "Amp puts AI agents to work beyond code with OpenAI models",
-          "title_original": "Amp puts AI agents to work beyond code with OpenAI models",
-          "summary": null,
+          "id": "fce14e350b00cb5853ad09e9ea68028670e1e879",
+          "title": "Anthropic Q3营收达168亿美元但增速放缓，11月IPO前估值预期或下调 / Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
+          "title_zh": "Anthropic Q3营收达168亿美元但增速放缓，11月IPO前估值预期或下调",
+          "title_en": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
+          "title_original": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
+          "summary": "Anthropic在面向潜在投资者的会议上公布Q3营收168亿美元，环比增长约45%，但明显低于Q2超140%的增速。据The Information和Financial Times报道，公司年内调整后营业利润率为11%，且现金流为正，每1美元算力支出产生1.70美元收入。部分投资者对其营收数字失望，预计IPO估值可能降至1.5万亿美元以下，低于此前讨论的2万亿美元。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/amp-beyond-coding",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T12:00:00Z"
+          "url": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T09:50:43Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
-      "importance_label": "官方更新",
+      "score": 0.7855,
+      "importance": 0.7855,
+      "importance_score": 0.7855,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7552,
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9495,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-14T12:00:00Z",
-      "latest_at": "2026-10-14T12:00:00Z",
+      "earliest_at": "2026-10-15T09:50:43Z",
+      "latest_at": "2026-10-15T09:50:43Z",
       "primary_item": {
-        "id": "7c01cc0608404ef4a3f3839da159b7083e48f4c9",
-        "title": "Amp 让 AI 代理能够通过 OpenAI 模型超越代码进行工作 / Amp puts AI agents to work beyond code with OpenAI models",
-        "title_zh": "Amp 让 AI 代理能够通过 OpenAI 模型超越代码进行工作",
-        "title_en": "Amp puts AI agents to work beyond code with OpenAI models",
-        "title_original": "Amp puts AI agents to work beyond code with OpenAI models",
-        "summary": null,
+        "id": "fce14e350b00cb5853ad09e9ea68028670e1e879",
+        "title": "Anthropic Q3营收达168亿美元但增速放缓，11月IPO前估值预期或下调 / Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
+        "title_zh": "Anthropic Q3营收达168亿美元但增速放缓，11月IPO前估值预期或下调",
+        "title_en": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
+        "title_original": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
+        "summary": "Anthropic在面向潜在投资者的会议上公布Q3营收168亿美元，环比增长约45%，但明显低于Q2超140%的增速。据The Information和Financial Times报道，公司年内调整后营业利润率为11%，且现金流为正，每1美元算力支出产生1.70美元收入。部分投资者对其营收数字失望，预计IPO估值可能降至1.5万亿美元以下，低于此前讨论的2万亿美元。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/amp-beyond-coding",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T07:43:14.363454Z"
+        "scored_at": "2026-10-15T13:49:51.506614Z"
+      }
+    },
+    {
+      "story_id": "story_555671785c26",
+      "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持 / Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "primary_url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "eb65cb4b924ec64c238300f8c3aa0258fa9880f6",
+          "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持 / Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+          "title_zh": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持",
+          "title_en": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+          "title_original": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+          "summary": "The Verge 记者与黑客 Sammy Azdoufal 实测发现，Energize Lab 的 Eiliko 机器人玩具将用户对话、用户画像、儿童照片和音频存放在无防护的服务器上，可访问约 68000 台设备、1300 万条对话，其中超 31000 份儿童档案来自美国。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T11:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "eb65cb4b924ec64c238300f8c3aa0258fa9880f6",
+          "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持 / Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+          "title_zh": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持",
+          "title_en": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+          "title_original": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+          "summary": "The Verge 记者与黑客 Sammy Azdoufal 实测发现，Energize Lab 的 Eiliko 机器人玩具将用户对话、用户画像、儿童照片和音频存放在无防护的服务器上，可访问约 68000 台设备、1300 万条对话，其中超 31000 份儿童档案来自美国。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9654,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T11:00:00Z",
+      "latest_at": "2026-10-15T11:00:00Z",
+      "primary_item": {
+        "id": "eb65cb4b924ec64c238300f8c3aa0258fa9880f6",
+        "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持 / Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+        "title_zh": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持",
+        "title_en": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+        "title_original": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+        "summary": "The Verge 记者与黑客 Sammy Azdoufal 实测发现，Energize Lab 的 Eiliko 机器人玩具将用户对话、用户画像、儿童照片和音频存放在无防护的服务器上，可访问约 68000 台设备、1300 万条对话，其中超 31000 份儿童档案来自美国。",
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T13:49:51.506614Z"
+      }
+    },
+    {
+      "story_id": "story_f85fd99ece20",
+      "title": "阶跃星辰开放 Step 5 Preview 权重 / Step 5 Preview is now open weights.",
+      "url": "https://x.com/StepFun_ai/status/2110717330657616092",
+      "primary_url": "https://x.com/StepFun_ai/status/2110717330657616092",
+      "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b573ef78a9aa14b300af88729fa526e4aab27586",
+          "title": "阶跃星辰开放 Step 5 Preview 权重 / Step 5 Preview is now open weights.",
+          "title_zh": "阶跃星辰开放 Step 5 Preview 权重",
+          "title_en": "Step 5 Preview is now open weights.",
+          "title_original": "Step 5 Preview is now open weights.",
+          "summary": "阶跃星辰（StepFun）宣布 Step 5 Preview 开放权重，BF16 和 FP8 权重已上线 Hugging Face 和 ModelScope，并附技术博客。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/StepFun_ai/status/2110717330657616092",
+          "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T13:00:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阶跃星辰 StepFun (@StepFun_ai)"
+      ],
+      "items": [
+        {
+          "id": "b573ef78a9aa14b300af88729fa526e4aab27586",
+          "title": "阶跃星辰开放 Step 5 Preview 权重 / Step 5 Preview is now open weights.",
+          "title_zh": "阶跃星辰开放 Step 5 Preview 权重",
+          "title_en": "Step 5 Preview is now open weights.",
+          "title_original": "Step 5 Preview is now open weights.",
+          "summary": "阶跃星辰（StepFun）宣布 Step 5 Preview 开放权重，BF16 和 FP8 权重已上线 Hugging Face 和 ModelScope，并附技术博客。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/StepFun_ai/status/2110717330657616092",
+          "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T13:00:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7815,
+      "importance": 0.7815,
+      "importance_score": 0.7815,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9937,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T13:00:01Z",
+      "latest_at": "2026-10-15T13:00:01Z",
+      "primary_item": {
+        "id": "b573ef78a9aa14b300af88729fa526e4aab27586",
+        "title": "阶跃星辰开放 Step 5 Preview 权重 / Step 5 Preview is now open weights.",
+        "title_zh": "阶跃星辰开放 Step 5 Preview 权重",
+        "title_en": "Step 5 Preview is now open weights.",
+        "title_original": "Step 5 Preview is now open weights.",
+        "summary": "阶跃星辰（StepFun）宣布 Step 5 Preview 开放权重，BF16 和 FP8 权重已上线 Hugging Face 和 ModelScope，并附技术博客。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/StepFun_ai/status/2110717330657616092",
+        "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T13:49:51.506614Z"
       }
     },
     {
@@ -297,15 +460,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7865,
-      "importance": 0.7865,
-      "importance_score": 0.7865,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9384,
+        "recency": 0.8607,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -331,90 +494,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T07:43:14.363454Z"
+        "scored_at": "2026-10-15T13:49:51.506614Z"
       }
     },
     {
-      "story_id": "story_64acddaea2df",
-      "title": "SentinelOne 将恶意软件分析时间从几周缩短到几小时 / SentinelOne cuts malware analysis from weeks to hours",
-      "url": "https://openai.com/index/sentinelone",
-      "primary_url": "https://openai.com/index/sentinelone",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_ac990f807e7a",
+      "title": "8 州联手起诉 OpenAI：ChatGPT\"假朋友\"伤害儿童，家长被指受骗",
+      "url": "https://www.aibase.com/news/31669",
+      "primary_url": "https://www.aibase.com/news/31669",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "c07c8ce33bca0eadd61d41f07c28ad64a7a8a95d",
-          "title": "SentinelOne 将恶意软件分析时间从几周缩短到几小时 / SentinelOne cuts malware analysis from weeks to hours",
-          "title_zh": "SentinelOne 将恶意软件分析时间从几周缩短到几小时",
-          "title_en": "SentinelOne cuts malware analysis from weeks to hours",
-          "title_original": "SentinelOne cuts malware analysis from weeks to hours",
+          "id": "4c5a9ffccad850fe71a76ec63bb46d73e1cfffe0",
+          "title": "8 州联手起诉 OpenAI：ChatGPT\"假朋友\"伤害儿童，家长被指受骗",
+          "title_zh": "8 州联手起诉 OpenAI：ChatGPT\"假朋友\"伤害儿童，家长被指受骗",
+          "title_en": null,
+          "title_original": "8 州联手起诉 OpenAI：ChatGPT\"假朋友\"伤害儿童，家长被指受骗",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/sentinelone",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T12:00:00Z"
+          "url": "https://www.aibase.com/news/31669",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T13:26:07.401900Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "c07c8ce33bca0eadd61d41f07c28ad64a7a8a95d",
-          "title": "SentinelOne 将恶意软件分析时间从几周缩短到几小时 / SentinelOne cuts malware analysis from weeks to hours",
-          "title_zh": "SentinelOne 将恶意软件分析时间从几周缩短到几小时",
-          "title_en": "SentinelOne cuts malware analysis from weeks to hours",
-          "title_original": "SentinelOne cuts malware analysis from weeks to hours",
+          "id": "4c5a9ffccad850fe71a76ec63bb46d73e1cfffe0",
+          "title": "8 州联手起诉 OpenAI：ChatGPT\"假朋友\"伤害儿童，家长被指受骗",
+          "title_zh": "8 州联手起诉 OpenAI：ChatGPT\"假朋友\"伤害儿童，家长被指受骗",
+          "title_en": null,
+          "title_original": "8 州联手起诉 OpenAI：ChatGPT\"假朋友\"伤害儿童，家长被指受骗",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/sentinelone",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T12:00:00Z"
+          "url": "https://www.aibase.com/news/31669",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T13:26:07.401900Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7552,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-14T12:00:00Z",
-      "latest_at": "2026-10-14T12:00:00Z",
+      "earliest_at": "2026-10-15T13:26:07.401900Z",
+      "latest_at": "2026-10-15T13:26:07.401900Z",
       "primary_item": {
-        "id": "c07c8ce33bca0eadd61d41f07c28ad64a7a8a95d",
-        "title": "SentinelOne 将恶意软件分析时间从几周缩短到几小时 / SentinelOne cuts malware analysis from weeks to hours",
-        "title_zh": "SentinelOne 将恶意软件分析时间从几周缩短到几小时",
-        "title_en": "SentinelOne cuts malware analysis from weeks to hours",
-        "title_original": "SentinelOne cuts malware analysis from weeks to hours",
+        "id": "4c5a9ffccad850fe71a76ec63bb46d73e1cfffe0",
+        "title": "8 州联手起诉 OpenAI：ChatGPT\"假朋友\"伤害儿童，家长被指受骗",
+        "title_zh": "8 州联手起诉 OpenAI：ChatGPT\"假朋友\"伤害儿童，家长被指受骗",
+        "title_en": null,
+        "title_original": "8 州联手起诉 OpenAI：ChatGPT\"假朋友\"伤害儿童，家长被指受骗",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/sentinelone",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/31669",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T07:43:14.363454Z"
+        "scored_at": "2026-10-15T13:49:51.506614Z"
       }
     },
     {
@@ -462,15 +624,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8036,
-      "importance": 0.8036,
-      "importance_score": 0.8036,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7753,
+        "recency": 0.7111,
         "story_heat": 0.0
       },
       "category": "official",
@@ -497,7 +659,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T07:43:14.363454Z"
+        "scored_at": "2026-10-15T13:49:51.506614Z"
       }
     },
     {
@@ -545,15 +707,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7723,
-      "importance": 0.7723,
-      "importance_score": 0.7723,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9094,
+        "recency": 0.8341,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -579,7 +741,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T07:43:14.363454Z"
+        "scored_at": "2026-10-15T13:49:51.506614Z"
       }
     },
     {
@@ -627,15 +789,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7689,
-      "importance": 0.7689,
-      "importance_score": 0.7689,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9571,
+        "recency": 0.8777,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -661,89 +823,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T07:43:14.363454Z"
-      }
-    },
-    {
-      "story_id": "story_b6b58de94179",
-      "title": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
-      "url": "https://www.aibase.com/news/31657",
-      "primary_url": "https://www.aibase.com/news/31657",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "42d2d04796dbf568cea2d25369435c2d81ceef11",
-          "title": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
-          "title_zh": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
-          "title_en": null,
-          "title_original": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31657",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-15T07:26:38.076957Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "42d2d04796dbf568cea2d25369435c2d81ceef11",
-          "title": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
-          "title_zh": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
-          "title_en": null,
-          "title_original": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31657",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-15T07:26:38.076957Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T07:26:38.076957Z",
-      "latest_at": "2026-10-15T07:26:38.076957Z",
-      "primary_item": {
-        "id": "42d2d04796dbf568cea2d25369435c2d81ceef11",
-        "title": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
-        "title_zh": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
-        "title_en": null,
-        "title_original": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31657",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T07:43:14.363454Z"
+        "scored_at": "2026-10-15T13:49:51.506614Z"
       }
     },
     {
@@ -791,15 +871,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7664,
-      "importance": 0.7664,
-      "importance_score": 0.7664,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8936,
+        "recency": 0.8195,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -825,7 +905,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T07:43:14.363454Z"
+        "scored_at": "2026-10-15T13:49:51.506614Z"
       }
     },
     {
@@ -873,15 +953,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9037,
+        "recency": 0.8288,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -907,63 +987,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T07:43:14.363454Z"
+        "scored_at": "2026-10-15T13:49:51.506614Z"
       }
     },
     {
-      "story_id": "story_92ccdb815e7c",
-      "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-      "primary_url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_b76ea088bec9",
+      "title": "OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用",
+      "url": "https://www.aibase.com/news/31670",
+      "primary_url": "https://www.aibase.com/news/31670",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "d96b16999dd832ff650709d42b0e4b2fe23a1391",
-          "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-          "title_zh": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
-          "title_en": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-          "title_original": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-          "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
+          "id": "b1ff07a3d23cc524192ce2c6189c33106bbfb459",
+          "title": "OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用",
+          "title_zh": "OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用",
+          "title_en": null,
+          "title_original": "OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T18:47:54Z"
+          "url": "https://www.aibase.com/news/31670",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T13:26:07.401900Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Verge：AI（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "d96b16999dd832ff650709d42b0e4b2fe23a1391",
-          "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-          "title_zh": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
-          "title_en": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-          "title_original": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-          "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
+          "id": "b1ff07a3d23cc524192ce2c6189c33106bbfb459",
+          "title": "OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用",
+          "title_zh": "OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用",
+          "title_en": null,
+          "title_original": "OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T18:47:54Z"
+          "url": "https://www.aibase.com/news/31670",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T13:26:07.401900Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8331,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -971,106 +1051,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-14T18:47:54Z",
-      "latest_at": "2026-10-14T18:47:54Z",
+      "earliest_at": "2026-10-15T13:26:07.401900Z",
+      "latest_at": "2026-10-15T13:26:07.401900Z",
       "primary_item": {
-        "id": "d96b16999dd832ff650709d42b0e4b2fe23a1391",
-        "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-        "title_zh": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
-        "title_en": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-        "title_original": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-        "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T07:43:14.363454Z"
-      }
-    },
-    {
-      "story_id": "story_7cd27b11301a",
-      "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "361ed907aaf0e1395bf908f40afc0cbb2a33d7d9",
-          "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
-          "title_zh": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
-          "title_en": null,
-          "title_original": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
-          "summary": "10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T04:53:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：面壁智能（MiniCPM）"
-      ],
-      "items": [
-        {
-          "id": "361ed907aaf0e1395bf908f40afc0cbb2a33d7d9",
-          "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
-          "title_zh": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
-          "title_en": null,
-          "title_original": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
-          "summary": "10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T04:53:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9639,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-15T04:53:56Z",
-      "latest_at": "2026-10-15T04:53:56Z",
-      "primary_item": {
-        "id": "361ed907aaf0e1395bf908f40afc0cbb2a33d7d9",
-        "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
-        "title_zh": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+        "id": "b1ff07a3d23cc524192ce2c6189c33106bbfb459",
+        "title": "OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用",
+        "title_zh": "OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用",
         "title_en": null,
-        "title_original": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
-        "summary": "10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。",
+        "title_original": "OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
-        "source": "公众号：面壁智能（MiniCPM）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/31670",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T07:43:14.363454Z"
+        "scored_at": "2026-10-15T13:49:51.506614Z"
       }
     },
     {
@@ -1118,15 +1117,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.873,
+        "recency": 0.8006,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1151,7 +1150,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T07:43:14.363454Z"
+        "scored_at": "2026-10-15T13:49:51.506614Z"
+      }
+    },
+    {
+      "story_id": "story_7cd27b11301a",
+      "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
+      "source": "公众号：面壁智能（MiniCPM）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "361ed907aaf0e1395bf908f40afc0cbb2a33d7d9",
+          "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+          "title_zh": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+          "title_en": null,
+          "title_original": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+          "summary": "10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T04:53:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：面壁智能（MiniCPM）"
+      ],
+      "items": [
+        {
+          "id": "361ed907aaf0e1395bf908f40afc0cbb2a33d7d9",
+          "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+          "title_zh": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+          "title_en": null,
+          "title_original": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+          "summary": "10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T04:53:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.884,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-15T04:53:56Z",
+      "latest_at": "2026-10-15T04:53:56Z",
+      "primary_item": {
+        "id": "361ed907aaf0e1395bf908f40afc0cbb2a33d7d9",
+        "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+        "title_zh": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+        "title_en": null,
+        "title_original": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+        "summary": "10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
+        "source": "公众号：面壁智能（MiniCPM）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T13:49:51.506614Z"
       }
     },
     {
@@ -1199,15 +1279,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
+      "score": 0.7299,
+      "importance": 0.7299,
+      "importance_score": 0.7299,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8981,
+        "recency": 0.8236,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1232,7 +1312,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T07:43:14.363454Z"
+        "scored_at": "2026-10-15T13:49:51.506614Z"
       }
     },
     {
@@ -1280,15 +1360,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9134,
+        "recency": 0.8377,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1313,89 +1393,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T07:43:14.363454Z"
-      }
-    },
-    {
-      "story_id": "story_1501249e9ce1",
-      "title": "Anthropic 正式确认 Claude 订阅额度全面打通第三方应用",
-      "url": "https://www.aibase.com/news/31665",
-      "primary_url": "https://www.aibase.com/news/31665",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "55d1d4d35e58588fcb29e7df9cdd36a96d59d990",
-          "title": "Anthropic 正式确认 Claude 订阅额度全面打通第三方应用",
-          "title_zh": "Anthropic 正式确认 Claude 订阅额度全面打通第三方应用",
-          "title_en": null,
-          "title_original": "Anthropic 正式确认 Claude 订阅额度全面打通第三方应用",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31665",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-15T07:26:38.076957Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "55d1d4d35e58588fcb29e7df9cdd36a96d59d990",
-          "title": "Anthropic 正式确认 Claude 订阅额度全面打通第三方应用",
-          "title_zh": "Anthropic 正式确认 Claude 订阅额度全面打通第三方应用",
-          "title_en": null,
-          "title_original": "Anthropic 正式确认 Claude 订阅额度全面打通第三方应用",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31665",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-15T07:26:38.076957Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T07:26:38.076957Z",
-      "latest_at": "2026-10-15T07:26:38.076957Z",
-      "primary_item": {
-        "id": "55d1d4d35e58588fcb29e7df9cdd36a96d59d990",
-        "title": "Anthropic 正式确认 Claude 订阅额度全面打通第三方应用",
-        "title_zh": "Anthropic 正式确认 Claude 订阅额度全面打通第三方应用",
-        "title_en": null,
-        "title_original": "Anthropic 正式确认 Claude 订阅额度全面打通第三方应用",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31665",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T07:43:14.363454Z"
+        "scored_at": "2026-10-15T13:49:51.506614Z"
       }
     },
     {
@@ -1443,15 +1441,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7348,
-      "importance": 0.7348,
-      "importance_score": 0.7348,
+      "score": 0.7218,
+      "importance": 0.7218,
+      "importance_score": 0.7218,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8675,
+        "recency": 0.7956,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1476,7 +1474,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T07:43:14.363454Z"
+        "scored_at": "2026-10-15T13:49:51.506614Z"
       }
     },
     {
@@ -1524,21 +1522,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.888,
+        "recency": 0.8144,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-14T23:13:18.290000Z",
       "latest_at": "2026-10-14T23:13:18.290000Z",
@@ -1558,88 +1555,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T07:43:14.363454Z"
+        "scored_at": "2026-10-15T13:49:51.506614Z"
       }
     },
     {
-      "story_id": "story_5950a931f17e",
-      "title": "Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测 / Grok Voice 3.0 is now the world’s leading conversational voice model",
-      "url": "https://x.com/elonmusk/status/2110483960312799675",
-      "primary_url": "https://x.com/elonmusk/status/2110483960312799675",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "story_id": "story_92ccdb815e7c",
+      "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "primary_url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "source": "The Verge：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b53e7cdfbe3bb806b9f0cab47f6872614794ae45",
-          "title": "Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测 / Grok Voice 3.0 is now the world’s leading conversational voice model",
-          "title_zh": "Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测",
-          "title_en": "Grok Voice 3.0 is now the world’s leading conversational voice model",
-          "title_original": "Grok Voice 3.0 is now the world’s leading conversational voice model",
-          "summary": "Musk 发文称 Grok Voice 3.0 已是全球领先的对话语音模型，并引用 Artificial Analysis 的评测：Grok Voice 3.0 以 86.9 分登顶 Speech to Speech Index，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live 的 82.6，较 Grok Voice 2.0 的 81.3 提升 5.6 分。该模型通过 Realtime API 提供，价格 $0.08 每分钟，Big Bench Audio 平均首音频延迟 0.81 秒，任务成功率 94.8% 居榜首。",
+          "id": "d96b16999dd832ff650709d42b0e4b2fe23a1391",
+          "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+          "title_zh": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
+          "title_en": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+          "title_original": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+          "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/elonmusk/status/2110483960312799675",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+          "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-14T21:32:41Z"
+          "published_at": "2026-10-14T18:47:54Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
+        "The Verge：AI（RSS）"
       ],
       "items": [
         {
-          "id": "b53e7cdfbe3bb806b9f0cab47f6872614794ae45",
-          "title": "Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测 / Grok Voice 3.0 is now the world’s leading conversational voice model",
-          "title_zh": "Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测",
-          "title_en": "Grok Voice 3.0 is now the world’s leading conversational voice model",
-          "title_original": "Grok Voice 3.0 is now the world’s leading conversational voice model",
-          "summary": "Musk 发文称 Grok Voice 3.0 已是全球领先的对话语音模型，并引用 Artificial Analysis 的评测：Grok Voice 3.0 以 86.9 分登顶 Speech to Speech Index，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live 的 82.6，较 Grok Voice 2.0 的 81.3 提升 5.6 分。该模型通过 Realtime API 提供，价格 $0.08 每分钟，Big Bench Audio 平均首音频延迟 0.81 秒，任务成功率 94.8% 居榜首。",
+          "id": "d96b16999dd832ff650709d42b0e4b2fe23a1391",
+          "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+          "title_zh": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
+          "title_en": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+          "title_original": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+          "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/elonmusk/status/2110483960312799675",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+          "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-14T21:32:41Z"
+          "published_at": "2026-10-14T18:47:54Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7286,
-      "importance": 0.7286,
-      "importance_score": 0.7286,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.67,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8668,
+        "recency": 0.764,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-14T21:32:41Z",
-      "latest_at": "2026-10-14T21:32:41Z",
+      "earliest_at": "2026-10-14T18:47:54Z",
+      "latest_at": "2026-10-14T18:47:54Z",
       "primary_item": {
-        "id": "b53e7cdfbe3bb806b9f0cab47f6872614794ae45",
-        "title": "Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测 / Grok Voice 3.0 is now the world’s leading conversational voice model",
-        "title_zh": "Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测",
-        "title_en": "Grok Voice 3.0 is now the world’s leading conversational voice model",
-        "title_original": "Grok Voice 3.0 is now the world’s leading conversational voice model",
-        "summary": "Musk 发文称 Grok Voice 3.0 已是全球领先的对话语音模型，并引用 Artificial Analysis 的评测：Grok Voice 3.0 以 86.9 分登顶 Speech to Speech Index，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live 的 82.6，较 Grok Voice 2.0 的 81.3 提升 5.6 分。该模型通过 Realtime API 提供，价格 $0.08 每分钟，Big Bench Audio 平均首音频延迟 0.81 秒，任务成功率 94.8% 居榜首。",
+        "id": "d96b16999dd832ff650709d42b0e4b2fe23a1391",
+        "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+        "title_zh": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
+        "title_en": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+        "title_original": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+        "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/elonmusk/status/2110483960312799675",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+        "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T07:43:14.363454Z"
+        "scored_at": "2026-10-15T13:49:51.506614Z"
       }
     }
   ]
