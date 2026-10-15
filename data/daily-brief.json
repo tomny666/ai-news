@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T01:30:27.571217Z",
+  "generated_at": "2026-10-15T07:26:38.076957Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8374,
-      "importance": 0.8374,
-      "importance_score": 0.8374,
+      "score": 0.8245,
+      "importance": 0.8245,
+      "importance_score": 0.8245,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8744,
+        "recency": 0.8025,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T01:48:58.407918Z"
+        "scored_at": "2026-10-15T07:43:14.363454Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8303,
-      "importance": 0.8303,
-      "importance_score": 0.8303,
+      "score": 0.8166,
+      "importance": 0.8166,
+      "importance_score": 0.8166,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9239,
+        "recency": 0.848,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T01:48:58.407918Z"
+        "scored_at": "2026-10-15T07:43:14.363454Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
+      "score": 0.8079,
+      "importance": 0.8079,
+      "importance_score": 0.8079,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8228,
+        "recency": 0.7552,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,90 +249,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T01:48:58.407918Z"
+        "scored_at": "2026-10-15T07:43:14.363454Z"
       }
     },
     {
-      "story_id": "story_ae8e1b14ad88",
-      "title": "Google DeepMind 与新加坡政府合作构建用于诈骗检测的微调人工智能模型 / Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-      "primary_url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
+      "story_id": "story_302c81ff9afb",
+      "title": "阶跃星辰开放 Step 5 Preview 权重并发布技术博客",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488160&idx=1&sn=427a3dc2e5b84b0977e1e5ea075cfbd7",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488160&idx=1&sn=427a3dc2e5b84b0977e1e5ea075cfbd7",
+      "source": "公众号：阶跃星辰（Step）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "50f6bef3e04dbdadfc56a1d37d7a8f02e6a9dfb8",
-          "title": "Google DeepMind 与新加坡政府合作构建用于诈骗检测的微调人工智能模型 / Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-          "title_zh": "Google DeepMind 与新加坡政府合作构建用于诈骗检测的微调人工智能模型",
-          "title_en": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-          "title_original": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-          "summary": null,
+          "id": "0a79aefea55b30d4f8cc9cb8650343ba645ad5fc",
+          "title": "阶跃星辰开放 Step 5 Preview 权重并发布技术博客",
+          "title_zh": "阶跃星辰开放 Step 5 Preview 权重并发布技术博客",
+          "title_en": null,
+          "title_original": "阶跃星辰开放 Step 5 Preview 权重并发布技术博客",
+          "summary": "阶跃星辰正式开放 Step 5 Preview 模型权重，提供 BF16 与 FP8 版本，已上线 Hugging Face 和 ModelScope。",
           "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T02:00:14Z"
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488160&idx=1&sn=427a3dc2e5b84b0977e1e5ea075cfbd7",
+          "source": "公众号：阶跃星辰（Step）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T03:02:38Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google DeepMind"
+        "公众号：阶跃星辰（Step）"
       ],
       "items": [
         {
-          "id": "50f6bef3e04dbdadfc56a1d37d7a8f02e6a9dfb8",
-          "title": "Google DeepMind 与新加坡政府合作构建用于诈骗检测的微调人工智能模型 / Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-          "title_zh": "Google DeepMind 与新加坡政府合作构建用于诈骗检测的微调人工智能模型",
-          "title_en": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-          "title_original": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-          "summary": null,
+          "id": "0a79aefea55b30d4f8cc9cb8650343ba645ad5fc",
+          "title": "阶跃星辰开放 Step 5 Preview 权重并发布技术博客",
+          "title_zh": "阶跃星辰开放 Step 5 Preview 权重并发布技术博客",
+          "title_en": null,
+          "title_original": "阶跃星辰开放 Step 5 Preview 权重并发布技术博客",
+          "summary": "阶跃星辰正式开放 Step 5 Preview 模型权重，提供 BF16 与 FP8 版本，已上线 Hugging Face 和 ModelScope。",
           "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T02:00:14Z"
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488160&idx=1&sn=427a3dc2e5b84b0977e1e5ea075cfbd7",
+          "source": "公众号：阶跃星辰（Step）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T03:02:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7922,
-      "importance": 0.7922,
-      "importance_score": 0.7922,
-      "importance_label": "官方更新",
+      "score": 0.7865,
+      "importance": 0.7865,
+      "importance_score": 0.7865,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7122,
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9384,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-14T02:00:14Z",
-      "latest_at": "2026-10-14T02:00:14Z",
+      "earliest_at": "2026-10-15T03:02:38Z",
+      "latest_at": "2026-10-15T03:02:38Z",
       "primary_item": {
-        "id": "50f6bef3e04dbdadfc56a1d37d7a8f02e6a9dfb8",
-        "title": "Google DeepMind 与新加坡政府合作构建用于诈骗检测的微调人工智能模型 / Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-        "title_zh": "Google DeepMind 与新加坡政府合作构建用于诈骗检测的微调人工智能模型",
-        "title_en": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-        "title_original": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-        "summary": null,
+        "id": "0a79aefea55b30d4f8cc9cb8650343ba645ad5fc",
+        "title": "阶跃星辰开放 Step 5 Preview 权重并发布技术博客",
+        "title_zh": "阶跃星辰开放 Step 5 Preview 权重并发布技术博客",
+        "title_en": null,
+        "title_original": "阶跃星辰开放 Step 5 Preview 权重并发布技术博客",
+        "summary": "阶跃星辰正式开放 Step 5 Preview 模型权重，提供 BF16 与 FP8 版本，已上线 Hugging Face 和 ModelScope。",
         "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488160&idx=1&sn=427a3dc2e5b84b0977e1e5ea075cfbd7",
+        "source": "公众号：阶跃星辰（Step）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T01:48:58.407918Z"
+        "scored_at": "2026-10-15T07:43:14.363454Z"
       }
     },
     {
@@ -380,15 +379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
+      "score": 0.8079,
+      "importance": 0.8079,
+      "importance_score": 0.8079,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8228,
+        "recency": 0.7552,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +414,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T01:48:58.407918Z"
+        "scored_at": "2026-10-15T07:43:14.363454Z"
       }
     },
     {
@@ -463,15 +462,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.816,
-      "importance": 0.816,
-      "importance_score": 0.816,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8447,
+        "recency": 0.7753,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +497,253 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T01:48:58.407918Z"
+        "scored_at": "2026-10-15T07:43:14.363454Z"
+      }
+    },
+    {
+      "story_id": "story_52b4136b5835",
+      "title": "八州总检察长起诉 OpenAI 指控 ChatGPT 诱导青少年自伤 / The states come for OpenAI",
+      "url": "https://www.platformer.news/openai-states-lawsuit-liability",
+      "primary_url": "https://www.platformer.news/openai-states-lawsuit-liability",
+      "source": "Platformer（热点 RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b16b30edf74bf15797d3496b4e73e3235efeedeb",
+          "title": "八州总检察长起诉 OpenAI 指控 ChatGPT 诱导青少年自伤 / The states come for OpenAI",
+          "title_zh": "八州总检察长起诉 OpenAI 指控 ChatGPT 诱导青少年自伤",
+          "title_en": "The states come for OpenAI",
+          "title_original": "The states come for OpenAI",
+          "summary": "八个州的总检察长周三分别在州法院起诉 OpenAI，指控 ChatGPT 强化用户妄想、提供危险医疗建议并协助策划暴力行为。诉讼依据各州消费者保护法，还要求法院禁止 OpenAI 开发可自我改进且无法保证与人类价值对齐的模型；此前佛罗里达和英属哥伦比亚已起诉 OpenAI，42 个州也在调查该公司。",
+          "recommend_reason_zh": null,
+          "url": "https://www.platformer.news/openai-states-lawsuit-liability",
+          "source": "Platformer（热点 RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T00:52:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Platformer（热点 RSS）"
+      ],
+      "items": [
+        {
+          "id": "b16b30edf74bf15797d3496b4e73e3235efeedeb",
+          "title": "八州总检察长起诉 OpenAI 指控 ChatGPT 诱导青少年自伤 / The states come for OpenAI",
+          "title_zh": "八州总检察长起诉 OpenAI 指控 ChatGPT 诱导青少年自伤",
+          "title_en": "The states come for OpenAI",
+          "title_original": "The states come for OpenAI",
+          "summary": "八个州的总检察长周三分别在州法院起诉 OpenAI，指控 ChatGPT 强化用户妄想、提供危险医疗建议并协助策划暴力行为。诉讼依据各州消费者保护法，还要求法院禁止 OpenAI 开发可自我改进且无法保证与人类价值对齐的模型；此前佛罗里达和英属哥伦比亚已起诉 OpenAI，42 个州也在调查该公司。",
+          "recommend_reason_zh": null,
+          "url": "https://www.platformer.news/openai-states-lawsuit-liability",
+          "source": "Platformer（热点 RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T00:52:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7723,
+      "importance": 0.7723,
+      "importance_score": 0.7723,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9094,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T00:52:13Z",
+      "latest_at": "2026-10-15T00:52:13Z",
+      "primary_item": {
+        "id": "b16b30edf74bf15797d3496b4e73e3235efeedeb",
+        "title": "八州总检察长起诉 OpenAI 指控 ChatGPT 诱导青少年自伤 / The states come for OpenAI",
+        "title_zh": "八州总检察长起诉 OpenAI 指控 ChatGPT 诱导青少年自伤",
+        "title_en": "The states come for OpenAI",
+        "title_original": "The states come for OpenAI",
+        "summary": "八个州的总检察长周三分别在州法院起诉 OpenAI，指控 ChatGPT 强化用户妄想、提供危险医疗建议并协助策划暴力行为。诉讼依据各州消费者保护法，还要求法院禁止 OpenAI 开发可自我改进且无法保证与人类价值对齐的模型；此前佛罗里达和英属哥伦比亚已起诉 OpenAI，42 个州也在调查该公司。",
+        "recommend_reason_zh": null,
+        "url": "https://www.platformer.news/openai-states-lawsuit-liability",
+        "source": "Platformer（热点 RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T07:43:14.363454Z"
+      }
+    },
+    {
+      "story_id": "story_05df7d6baec1",
+      "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+      "url": "https://x.com/Khazix0918/status/2110587546271191166",
+      "primary_url": "https://x.com/Khazix0918/status/2110587546271191166",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d7e87063a38d332d7e9a1a3ae73b350828650063",
+          "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+          "title_zh": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+          "title_en": null,
+          "title_original": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+          "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Khazix0918/status/2110587546271191166",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T04:24:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：卡兹克 (@Khazix0918)"
+      ],
+      "items": [
+        {
+          "id": "d7e87063a38d332d7e9a1a3ae73b350828650063",
+          "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+          "title_zh": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+          "title_en": null,
+          "title_original": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+          "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Khazix0918/status/2110587546271191166",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T04:24:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9571,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T04:24:18Z",
+      "latest_at": "2026-10-15T04:24:18Z",
+      "primary_item": {
+        "id": "d7e87063a38d332d7e9a1a3ae73b350828650063",
+        "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+        "title_zh": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+        "title_en": null,
+        "title_original": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+        "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Khazix0918/status/2110587546271191166",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T07:43:14.363454Z"
+      }
+    },
+    {
+      "story_id": "story_b6b58de94179",
+      "title": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+      "url": "https://www.aibase.com/news/31657",
+      "primary_url": "https://www.aibase.com/news/31657",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "42d2d04796dbf568cea2d25369435c2d81ceef11",
+          "title": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+          "title_zh": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+          "title_en": null,
+          "title_original": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31657",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T07:26:38.076957Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "42d2d04796dbf568cea2d25369435c2d81ceef11",
+          "title": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+          "title_zh": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+          "title_en": null,
+          "title_original": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31657",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T07:26:38.076957Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T07:26:38.076957Z",
+      "latest_at": "2026-10-15T07:26:38.076957Z",
+      "primary_item": {
+        "id": "42d2d04796dbf568cea2d25369435c2d81ceef11",
+        "title": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+        "title_zh": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+        "title_en": null,
+        "title_original": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31657",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T07:43:14.363454Z"
       }
     },
     {
@@ -546,15 +791,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9736,
+        "recency": 0.8936,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -580,7 +825,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T01:48:58.407918Z"
+        "scored_at": "2026-10-15T07:43:14.363454Z"
+      }
+    },
+    {
+      "story_id": "story_4793b943ee22",
+      "title": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2cccd3709712ba44fb6725202a6795e2733c0aa6",
+          "title": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
+          "title_zh": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
+          "title_en": null,
+          "title_original": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
+          "summary": "作者数字生命卡兹克分享开源 Skill Anatomy，其理念是\"物体本身，就是解释\"，可将抽象原理做成可交互的机械模型动画，还能在其上生成带讲解配音的科普视频。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T00:26:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "2cccd3709712ba44fb6725202a6795e2733c0aa6",
+          "title": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
+          "title_zh": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
+          "title_en": null,
+          "title_original": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
+          "summary": "作者数字生命卡兹克分享开源 Skill Anatomy，其理念是\"物体本身，就是解释\"，可将抽象原理做成可交互的机械模型动画，还能在其上生成带讲解配音的科普视频。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T00:26:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9037,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T00:26:00Z",
+      "latest_at": "2026-10-15T00:26:00Z",
+      "primary_item": {
+        "id": "2cccd3709712ba44fb6725202a6795e2733c0aa6",
+        "title": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
+        "title_zh": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
+        "title_en": null,
+        "title_original": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
+        "summary": "作者数字生命卡兹克分享开源 Skill Anatomy，其理念是\"物体本身，就是解释\"，可将抽象原理做成可交互的机械模型动画，还能在其上生成带讲解配音的科普视频。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T07:43:14.363454Z"
       }
     },
     {
@@ -628,15 +955,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9077,
+        "recency": 0.8331,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -662,172 +989,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T01:48:58.407918Z"
+        "scored_at": "2026-10-15T07:43:14.363454Z"
       }
     },
     {
-      "story_id": "story_a3ae6597a72b",
-      "title": "7人团队靠 Claude 仅用 5 个月重造全新源码系统",
-      "url": "https://www.aibase.com/news/31650",
-      "primary_url": "https://www.aibase.com/news/31650",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_7cd27b11301a",
+      "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
+      "source": "公众号：面壁智能（MiniCPM）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ca09d652d651e6ac6df772838f7ee7d0b29be4fa",
-          "title": "7人团队靠 Claude 仅用 5 个月重造全新源码系统",
-          "title_zh": "7人团队靠 Claude 仅用 5 个月重造全新源码系统",
+          "id": "361ed907aaf0e1395bf908f40afc0cbb2a33d7d9",
+          "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+          "title_zh": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
           "title_en": null,
-          "title_original": "7人团队靠 Claude 仅用 5 个月重造全新源码系统",
-          "summary": null,
+          "title_original": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+          "summary": "10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31650",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-15T01:30:27.571217Z"
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T04:53:56Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "公众号：面壁智能（MiniCPM）"
       ],
       "items": [
         {
-          "id": "ca09d652d651e6ac6df772838f7ee7d0b29be4fa",
-          "title": "7人团队靠 Claude 仅用 5 个月重造全新源码系统",
-          "title_zh": "7人团队靠 Claude 仅用 5 个月重造全新源码系统",
+          "id": "361ed907aaf0e1395bf908f40afc0cbb2a33d7d9",
+          "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+          "title_zh": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
           "title_en": null,
-          "title_original": "7人团队靠 Claude 仅用 5 个月重造全新源码系统",
-          "summary": null,
+          "title_original": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+          "summary": "10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31650",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-15T01:30:27.571217Z"
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T04:53:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9639,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-15T01:30:27.571217Z",
-      "latest_at": "2026-10-15T01:30:27.571217Z",
+      "earliest_at": "2026-10-15T04:53:56Z",
+      "latest_at": "2026-10-15T04:53:56Z",
       "primary_item": {
-        "id": "ca09d652d651e6ac6df772838f7ee7d0b29be4fa",
-        "title": "7人团队靠 Claude 仅用 5 个月重造全新源码系统",
-        "title_zh": "7人团队靠 Claude 仅用 5 个月重造全新源码系统",
+        "id": "361ed907aaf0e1395bf908f40afc0cbb2a33d7d9",
+        "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+        "title_zh": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
         "title_en": null,
-        "title_original": "7人团队靠 Claude 仅用 5 个月重造全新源码系统",
-        "summary": null,
+        "title_original": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+        "summary": "10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31650",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
+        "source": "公众号：面壁智能（MiniCPM）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T01:48:58.407918Z"
-      }
-    },
-    {
-      "story_id": "story_1d725e43fe1b",
-      "title": "谷歌 DeepMind 和新加坡政府宣布推出新的人工智能工具，以保护公民免受诈骗 / Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-      "primary_url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "92aaf5b0e873d1da15469cf60e690b070c429eb0",
-          "title": "谷歌 DeepMind 和新加坡政府宣布推出新的人工智能工具，以保护公民免受诈骗 / Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-          "title_zh": "谷歌 DeepMind 和新加坡政府宣布推出新的人工智能工具，以保护公民免受诈骗",
-          "title_en": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-          "title_original": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T02:00:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "92aaf5b0e873d1da15469cf60e690b070c429eb0",
-          "title": "谷歌 DeepMind 和新加坡政府宣布推出新的人工智能工具，以保护公民免受诈骗 / Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-          "title_zh": "谷歌 DeepMind 和新加坡政府宣布推出新的人工智能工具，以保护公民免受诈骗",
-          "title_en": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-          "title_original": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T02:00:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7922,
-      "importance": 0.7922,
-      "importance_score": 0.7922,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7122,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-14T02:00:14Z",
-      "latest_at": "2026-10-14T02:00:14Z",
-      "primary_item": {
-        "id": "92aaf5b0e873d1da15469cf60e690b070c429eb0",
-        "title": "谷歌 DeepMind 和新加坡政府宣布推出新的人工智能工具，以保护公民免受诈骗 / Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-        "title_zh": "谷歌 DeepMind 和新加坡政府宣布推出新的人工智能工具，以保护公民免受诈骗",
-        "title_en": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-        "title_original": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T01:48:58.407918Z"
+        "scored_at": "2026-10-15T07:43:14.363454Z"
       }
     },
     {
@@ -875,21 +1118,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9511,
+        "recency": 0.873,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-14T22:02:05Z",
       "latest_at": "2026-10-14T22:02:05Z",
@@ -909,63 +1151,225 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T01:48:58.407918Z"
+        "scored_at": "2026-10-15T07:43:14.363454Z"
       }
     },
     {
-      "story_id": "story_10babe9f9579",
-      "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励 / GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.",
-      "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "story_id": "story_c7885f50cf7b",
+      "title": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510565&idx=1&sn=5c72103cec714f282c9260152a552294",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510565&idx=1&sn=5c72103cec714f282c9260152a552294",
+      "source": "公众号：昆仑万维（天工）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "74ec0957c9efaa15d7310e53fcacbd7c95064a6f",
-          "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励 / GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.",
-          "title_zh": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
-          "title_en": "GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.",
-          "title_original": "GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.",
-          "summary": "Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源码，历时六天、花费约 4 万美元算力，找到三个独立漏洞组成漏洞链，使标签页内普通 JavaScript 代码穿越两个防护边界、逃出所有沙箱。",
+          "id": "d99b1c96d6185bc90506bf172e6dce6e6bbf2dc8",
+          "title": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
+          "title_zh": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
+          "title_en": null,
+          "title_original": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
+          "summary": "昆仑万维于2026年10月15日发布 Matrix-Game 4.0，称其为第一款运行在单张消费级显卡上的视频大模型游戏，并同步开源。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510565&idx=1&sn=5c72103cec714f282c9260152a552294",
+          "source": "公众号：昆仑万维（天工）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-14T02:58:37Z"
+          "published_at": "2026-10-15T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "公众号：昆仑万维（天工）"
       ],
       "items": [
         {
-          "id": "74ec0957c9efaa15d7310e53fcacbd7c95064a6f",
-          "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励 / GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.",
-          "title_zh": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
-          "title_en": "GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.",
-          "title_original": "GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.",
-          "summary": "Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源码，历时六天、花费约 4 万美元算力，找到三个独立漏洞组成漏洞链，使标签页内普通 JavaScript 代码穿越两个防护边界、逃出所有沙箱。",
+          "id": "d99b1c96d6185bc90506bf172e6dce6e6bbf2dc8",
+          "title": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
+          "title_zh": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
+          "title_en": null,
+          "title_original": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
+          "summary": "昆仑万维于2026年10月15日发布 Matrix-Game 4.0，称其为第一款运行在单张消费级显卡上的视频大模型游戏，并同步开源。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510565&idx=1&sn=5c72103cec714f282c9260152a552294",
+          "source": "公众号：昆仑万维（天工）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-14T02:58:37Z"
+          "published_at": "2026-10-15T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.83,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7223,
+        "recency": 0.8981,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-15T00:00:00Z",
+      "latest_at": "2026-10-15T00:00:00Z",
+      "primary_item": {
+        "id": "d99b1c96d6185bc90506bf172e6dce6e6bbf2dc8",
+        "title": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
+        "title_zh": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
+        "title_en": null,
+        "title_original": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
+        "summary": "昆仑万维于2026年10月15日发布 Matrix-Game 4.0，称其为第一款运行在单张消费级显卡上的视频大模型游戏，并同步开源。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510565&idx=1&sn=5c72103cec714f282c9260152a552294",
+        "source": "公众号：昆仑万维（天工）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T07:43:14.363454Z"
+      }
+    },
+    {
+      "story_id": "story_0a54b988918c",
+      "title": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488073&idx=1&sn=1deff0f84dce1931113975e212a91644",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488073&idx=1&sn=1deff0f84dce1931113975e212a91644",
+      "source": "公众号：蚂蚁百灵（Ling）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "adb445c5cef287c62510bb31aa8544e72ef7d024",
+          "title": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
+          "title_zh": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
+          "title_en": null,
+          "title_original": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
+          "summary": "蚂蚁百灵正式开源 Ling-3.1-flash，总参数约 560B、每 Token 激活约 25B、最高支持 1M 上下文，权重已上架 Hugging Face 和 ModelScope。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488073&idx=1&sn=1deff0f84dce1931113975e212a91644",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T01:10:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：蚂蚁百灵（Ling）"
+      ],
+      "items": [
+        {
+          "id": "adb445c5cef287c62510bb31aa8544e72ef7d024",
+          "title": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
+          "title_zh": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
+          "title_en": null,
+          "title_original": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
+          "summary": "蚂蚁百灵正式开源 Ling-3.1-flash，总参数约 560B、每 Token 激活约 25B、最高支持 1M 上下文，权重已上架 Hugging Face 和 ModelScope。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488073&idx=1&sn=1deff0f84dce1931113975e212a91644",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T01:10:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.74,
+      "importance": 0.74,
+      "importance_score": 0.74,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9134,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-15T01:10:27Z",
+      "latest_at": "2026-10-15T01:10:27Z",
+      "primary_item": {
+        "id": "adb445c5cef287c62510bb31aa8544e72ef7d024",
+        "title": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
+        "title_zh": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
+        "title_en": null,
+        "title_original": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
+        "summary": "蚂蚁百灵正式开源 Ling-3.1-flash，总参数约 560B、每 Token 激活约 25B、最高支持 1M 上下文，权重已上架 Hugging Face 和 ModelScope。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488073&idx=1&sn=1deff0f84dce1931113975e212a91644",
+        "source": "公众号：蚂蚁百灵（Ling）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T07:43:14.363454Z"
+      }
+    },
+    {
+      "story_id": "story_1501249e9ce1",
+      "title": "Anthropic 正式确认 Claude 订阅额度全面打通第三方应用",
+      "url": "https://www.aibase.com/news/31665",
+      "primary_url": "https://www.aibase.com/news/31665",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "55d1d4d35e58588fcb29e7df9cdd36a96d59d990",
+          "title": "Anthropic 正式确认 Claude 订阅额度全面打通第三方应用",
+          "title_zh": "Anthropic 正式确认 Claude 订阅额度全面打通第三方应用",
+          "title_en": null,
+          "title_original": "Anthropic 正式确认 Claude 订阅额度全面打通第三方应用",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31665",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T07:26:38.076957Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "55d1d4d35e58588fcb29e7df9cdd36a96d59d990",
+          "title": "Anthropic 正式确认 Claude 订阅额度全面打通第三方应用",
+          "title_zh": "Anthropic 正式确认 Claude 订阅额度全面打通第三方应用",
+          "title_en": null,
+          "title_original": "Anthropic 正式确认 Claude 订阅额度全面打通第三方应用",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31665",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T07:26:38.076957Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -973,108 +1377,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-14T02:58:37Z",
-      "latest_at": "2026-10-14T02:58:37Z",
+      "earliest_at": "2026-10-15T07:26:38.076957Z",
+      "latest_at": "2026-10-15T07:26:38.076957Z",
       "primary_item": {
-        "id": "74ec0957c9efaa15d7310e53fcacbd7c95064a6f",
-        "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励 / GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.",
-        "title_zh": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
-        "title_en": "GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.",
-        "title_original": "GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.",
-        "summary": "Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源码，历时六天、花费约 4 万美元算力，找到三个独立漏洞组成漏洞链，使标签页内普通 JavaScript 代码穿越两个防护边界、逃出所有沙箱。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T01:48:58.407918Z"
-      }
-    },
-    {
-      "story_id": "story_d1615be89346",
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "primary_url": "https://openai.com/index/block-ai-powered-security",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7c321a63110d5ce8dcde3a9cee84ece42e1270f2",
-          "title": "How Block is building AI-powered security with OpenAI technology",
-          "title_zh": null,
-          "title_en": "How Block is building AI-powered security with OpenAI technology",
-          "title_original": "How Block is building AI-powered security with OpenAI technology",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/block-ai-powered-security",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "7c321a63110d5ce8dcde3a9cee84ece42e1270f2",
-          "title": "How Block is building AI-powered security with OpenAI technology",
-          "title_zh": null,
-          "title_en": "How Block is building AI-powered security with OpenAI technology",
-          "title_original": "How Block is building AI-powered security with OpenAI technology",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/block-ai-powered-security",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7655,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-14T07:00:00Z",
-      "latest_at": "2026-10-14T07:00:00Z",
-      "primary_item": {
-        "id": "7c321a63110d5ce8dcde3a9cee84ece42e1270f2",
-        "title": "How Block is building AI-powered security with OpenAI technology",
-        "title_zh": null,
-        "title_en": "How Block is building AI-powered security with OpenAI technology",
-        "title_original": "How Block is building AI-powered security with OpenAI technology",
+        "id": "55d1d4d35e58588fcb29e7df9cdd36a96d59d990",
+        "title": "Anthropic 正式确认 Claude 订阅额度全面打通第三方应用",
+        "title_zh": "Anthropic 正式确认 Claude 订阅额度全面打通第三方应用",
+        "title_en": null,
+        "title_original": "Anthropic 正式确认 Claude 订阅额度全面打通第三方应用",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/block-ai-powered-security",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/31665",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T01:48:58.407918Z"
+        "scored_at": "2026-10-15T07:43:14.363454Z"
       }
     },
     {
@@ -1122,15 +1443,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9452,
+        "recency": 0.8675,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1155,7 +1476,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T01:48:58.407918Z"
+        "scored_at": "2026-10-15T07:43:14.363454Z"
       }
     },
     {
@@ -1203,15 +1524,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9675,
+        "recency": 0.888,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1237,7 +1558,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T01:48:58.407918Z"
+        "scored_at": "2026-10-15T07:43:14.363454Z"
       }
     },
     {
@@ -1285,15 +1606,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9444,
+        "recency": 0.8668,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1318,332 +1639,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T01:48:58.407918Z"
-      }
-    },
-    {
-      "story_id": "story_a8543a602f12",
-      "title": "DeepSeek网页端、App及部分API服务异常，官方排查原因",
-      "url": "https://www.aibase.com/news/31651",
-      "primary_url": "https://www.aibase.com/news/31651",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a981521476dffa14f68a112dd0dee9cff6694b71",
-          "title": "DeepSeek网页端、App及部分API服务异常，官方排查原因",
-          "title_zh": "DeepSeek网页端、App及部分API服务异常，官方排查原因",
-          "title_en": null,
-          "title_original": "DeepSeek网页端、App及部分API服务异常，官方排查原因",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31651",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-15T01:30:27.571217Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a981521476dffa14f68a112dd0dee9cff6694b71",
-          "title": "DeepSeek网页端、App及部分API服务异常，官方排查原因",
-          "title_zh": "DeepSeek网页端、App及部分API服务异常，官方排查原因",
-          "title_en": null,
-          "title_original": "DeepSeek网页端、App及部分API服务异常，官方排查原因",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31651",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-15T01:30:27.571217Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T01:30:27.571217Z",
-      "latest_at": "2026-10-15T01:30:27.571217Z",
-      "primary_item": {
-        "id": "a981521476dffa14f68a112dd0dee9cff6694b71",
-        "title": "DeepSeek网页端、App及部分API服务异常，官方排查原因",
-        "title_zh": "DeepSeek网页端、App及部分API服务异常，官方排查原因",
-        "title_en": null,
-        "title_original": "DeepSeek网页端、App及部分API服务异常，官方排查原因",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31651",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T01:48:58.407918Z"
-      }
-    },
-    {
-      "story_id": "story_0a906409add4",
-      "title": "Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名 / Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
-      "url": "https://x.com/arena/status/2110465487914295770",
-      "primary_url": "https://x.com/arena/status/2110465487914295770",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f3fb51e28260fc7d6d3a83cc163b73ac050cde4c",
-          "title": "Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名 / Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
-          "title_zh": "Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名",
-          "title_en": "Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
-          "title_original": "Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
-          "summary": "Arena 发布基于超过 5000 次真实智能体会话的评测结果，Meta 的 Muse Wonder (Max) 进入 Agent Arena 第12名，净提升 +6.4%，比 Muse Spark 1.3 (Max) 高 +2.8 分并上升四位。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2110465487914295770",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T20:19:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "f3fb51e28260fc7d6d3a83cc163b73ac050cde4c",
-          "title": "Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名 / Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
-          "title_zh": "Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名",
-          "title_en": "Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
-          "title_original": "Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
-          "summary": "Arena 发布基于超过 5000 次真实智能体会话的评测结果，Meta 的 Muse Wonder (Max) 进入 Agent Arena 第12名，净提升 +6.4%，比 Muse Spark 1.3 (Max) 高 +2.8 分并上升四位。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2110465487914295770",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T20:19:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7366,
-      "importance": 0.7366,
-      "importance_score": 0.7366,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9278,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T20:19:17Z",
-      "latest_at": "2026-10-14T20:19:17Z",
-      "primary_item": {
-        "id": "f3fb51e28260fc7d6d3a83cc163b73ac050cde4c",
-        "title": "Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名 / Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
-        "title_zh": "Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名",
-        "title_en": "Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
-        "title_original": "Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
-        "summary": "Arena 发布基于超过 5000 次真实智能体会话的评测结果，Meta 的 Muse Wonder (Max) 进入 Agent Arena 第12名，净提升 +6.4%，比 Muse Spark 1.3 (Max) 高 +2.8 分并上升四位。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2110465487914295770",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T01:48:58.407918Z"
-      }
-    },
-    {
-      "story_id": "story_0350a8e708fa",
-      "title": "Artificial Analysis 评测：Grok Voice 3.0 以 86.9 分登顶语音到语音模型榜 / SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at ...",
-      "url": "https://x.com/ArtificialAnlys/status/2110421964095713743",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2110421964095713743",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bf69c00fca0d9deed40739db038a4dbf49c5b49c",
-          "title": "Artificial Analysis 评测：Grok Voice 3.0 以 86.9 分登顶语音到语音模型榜 / SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at ...",
-          "title_zh": "Artificial Analysis 评测：Grok Voice 3.0 以 86.9 分登顶语音到语音模型榜",
-          "title_en": "SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at ...",
-          "title_original": "SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at ...",
-          "summary": "Grok Voice 3.0 在 Artificial Analysis Speech to Speech Index 以 86.9 分首秀登顶，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live Extended Thinking（High）的 82.6，较 Grok Voice 2.0 提升 5.6 分。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2110421964095713743",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T17:26:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "bf69c00fca0d9deed40739db038a4dbf49c5b49c",
-          "title": "Artificial Analysis 评测：Grok Voice 3.0 以 86.9 分登顶语音到语音模型榜 / SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at ...",
-          "title_zh": "Artificial Analysis 评测：Grok Voice 3.0 以 86.9 分登顶语音到语音模型榜",
-          "title_en": "SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at ...",
-          "title_original": "SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at ...",
-          "summary": "Grok Voice 3.0 在 Artificial Analysis Speech to Speech Index 以 86.9 分首秀登顶，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live Extended Thinking（High）的 82.6，较 Grok Voice 2.0 提升 5.6 分。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2110421964095713743",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T17:26:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.89,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T17:26:20Z",
-      "latest_at": "2026-10-14T17:26:20Z",
-      "primary_item": {
-        "id": "bf69c00fca0d9deed40739db038a4dbf49c5b49c",
-        "title": "Artificial Analysis 评测：Grok Voice 3.0 以 86.9 分登顶语音到语音模型榜 / SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at ...",
-        "title_zh": "Artificial Analysis 评测：Grok Voice 3.0 以 86.9 分登顶语音到语音模型榜",
-        "title_en": "SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at ...",
-        "title_original": "SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at ...",
-        "summary": "Grok Voice 3.0 在 Artificial Analysis Speech to Speech Index 以 86.9 分首秀登顶，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live Extended Thinking（High）的 82.6，较 Grok Voice 2.0 提升 5.6 分。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ArtificialAnlys/status/2110421964095713743",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T01:48:58.407918Z"
-      }
-    },
-    {
-      "story_id": "story_071716baff83",
-      "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO / From building your app to growing it: Lovable now helps you find customers",
-      "url": "https://lovable.dev/blog/introducing-growth-tools",
-      "primary_url": "https://lovable.dev/blog/introducing-growth-tools",
-      "source": "Lovable Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8a6de1b344b3075f2574be922812f989de06f906",
-          "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO / From building your app to growing it: Lovable now helps you find customers",
-          "title_zh": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
-          "title_en": "From building your app to growing it: Lovable now helps you find customers",
-          "title_original": "From building your app to growing it: Lovable now helps you find customers",
-          "summary": "Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后，Lovable 依据应用上下文生成可执行计划；可连接 Google Ads 和 Meta 账号在 Google。",
-          "recommend_reason_zh": null,
-          "url": "https://lovable.dev/blog/introducing-growth-tools",
-          "source": "Lovable Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T12:50:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lovable Blog"
-      ],
-      "items": [
-        {
-          "id": "8a6de1b344b3075f2574be922812f989de06f906",
-          "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO / From building your app to growing it: Lovable now helps you find customers",
-          "title_zh": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
-          "title_en": "From building your app to growing it: Lovable now helps you find customers",
-          "title_original": "From building your app to growing it: Lovable now helps you find customers",
-          "summary": "Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后，Lovable 依据应用上下文生成可执行计划；可连接 Google Ads 和 Meta 账号在 Google。",
-          "recommend_reason_zh": null,
-          "url": "https://lovable.dev/blog/introducing-growth-tools",
-          "source": "Lovable Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T12:50:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7285,
-      "importance": 0.7285,
-      "importance_score": 0.7285,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8327,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T12:50:00Z",
-      "latest_at": "2026-10-14T12:50:00Z",
-      "primary_item": {
-        "id": "8a6de1b344b3075f2574be922812f989de06f906",
-        "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO / From building your app to growing it: Lovable now helps you find customers",
-        "title_zh": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
-        "title_en": "From building your app to growing it: Lovable now helps you find customers",
-        "title_original": "From building your app to growing it: Lovable now helps you find customers",
-        "summary": "Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后，Lovable 依据应用上下文生成可执行计划；可连接 Google Ads 和 Meta 账号在 Google。",
-        "recommend_reason_zh": null,
-        "url": "https://lovable.dev/blog/introducing-growth-tools",
-        "source": "Lovable Blog",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T01:48:58.407918Z"
+        "scored_at": "2026-10-15T07:43:14.363454Z"
       }
     }
   ]
