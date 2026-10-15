@@ -1,29 +1,195 @@
 {
-  "generated_at": "2026-10-15T13:26:07.401900Z",
+  "generated_at": "2026-10-15T18:18:10.772418Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_d89175ca1e0e",
-      "title": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "primary_url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "story_id": "story_d3e63bdf95a3",
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "primary_url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "acdde6aba6525f9d00a39deac8f0d8c9aaac39c0",
+          "title": "Teaching students to think and learn through questions",
+          "title_zh": null,
+          "title_en": "Teaching students to think and learn through questions",
+          "title_original": "Teaching students to think and learn through questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "acdde6aba6525f9d00a39deac8f0d8c9aaac39c0",
+          "title": "Teaching students to think and learn through questions",
+          "title_zh": null,
+          "title_en": "Teaching students to think and learn through questions",
+          "title_original": "Teaching students to think and learn through questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8387,
+      "importance": 0.8387,
+      "importance_score": 0.8387,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9263,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T13:00:00Z",
+      "latest_at": "2026-10-15T13:00:00Z",
+      "primary_item": {
+        "id": "acdde6aba6525f9d00a39deac8f0d8c9aaac39c0",
+        "title": "Teaching students to think and learn through questions",
+        "title_zh": null,
+        "title_en": "Teaching students to think and learn through questions",
+        "title_original": "Teaching students to think and learn through questions",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T18:53:19.316237Z"
+      }
+    },
+    {
+      "story_id": "story_036b3bff1937",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+      "primary_url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0ed9013b81a41d17bc7bbad7777463b754dc5203",
+          "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "title_zh": null,
+          "title_en": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "title_original": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T16:08:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "0ed9013b81a41d17bc7bbad7777463b754dc5203",
+          "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "title_zh": null,
+          "title_en": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "title_original": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T16:08:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8384,
+      "importance": 0.8384,
+      "importance_score": 0.8384,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9692,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T16:08:03Z",
+      "latest_at": "2026-10-15T16:08:03Z",
+      "primary_item": {
+        "id": "0ed9013b81a41d17bc7bbad7777463b754dc5203",
+        "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+        "title_zh": null,
+        "title_en": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+        "title_original": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T18:53:19.316237Z"
+      }
+    },
+    {
+      "story_id": "story_7e42f375ca95",
+      "title": "Apertus 1.5 Release Notes",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "primary_url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e85644cf37333074c63cccbb8992b5db3091a0b7",
-          "title": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-          "title_zh": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分",
-          "title_en": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-          "title_original": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "id": "ae31ab0271323bac40f86be731bfaebf1e04c992",
+          "title": "Apertus 1.5 Release Notes",
+          "title_zh": null,
+          "title_en": "Apertus 1.5 Release Notes",
+          "title_original": "Apertus 1.5 Release Notes",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+          "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-14T16:12:42Z"
+          "published_at": "2026-10-15T09:08:45Z"
         }
       ],
       "source_count": 1,
@@ -32,31 +198,31 @@
       ],
       "items": [
         {
-          "id": "e85644cf37333074c63cccbb8992b5db3091a0b7",
-          "title": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-          "title_zh": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分",
-          "title_en": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-          "title_original": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "id": "ae31ab0271323bac40f86be731bfaebf1e04c992",
+          "title": "Apertus 1.5 Release Notes",
+          "title_zh": null,
+          "title_en": "Apertus 1.5 Release Notes",
+          "title_original": "Apertus 1.5 Release Notes",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+          "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-14T16:12:42Z"
+          "published_at": "2026-10-15T09:08:45Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.8125,
-      "importance_score": 0.8125,
+      "score": 0.8377,
+      "importance": 0.8377,
+      "importance_score": 0.8377,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.736,
+        "recency": 0.8761,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,17 +231,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-14T16:12:42Z",
-      "latest_at": "2026-10-14T16:12:42Z",
+      "earliest_at": "2026-10-15T09:08:45Z",
+      "latest_at": "2026-10-15T09:08:45Z",
       "primary_item": {
-        "id": "e85644cf37333074c63cccbb8992b5db3091a0b7",
-        "title": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-        "title_zh": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分",
-        "title_en": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-        "title_original": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+        "id": "ae31ab0271323bac40f86be731bfaebf1e04c992",
+        "title": "Apertus 1.5 Release Notes",
+        "title_zh": null,
+        "title_en": "Apertus 1.5 Release Notes",
+        "title_original": "Apertus 1.5 Release Notes",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+        "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -83,30 +249,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:49:51.506614Z"
+        "scored_at": "2026-10-15T18:53:19.316237Z"
       }
     },
     {
-      "story_id": "story_5d5ac7e11bf8",
-      "title": "HydraFusion 更新和新的 Max 选项 / HydraFusion updates and new Max option",
-      "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
-      "primary_url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+      "story_id": "story_31e130baa525",
+      "title": "AI Scan for pull requests generally available",
+      "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
-          "title": "HydraFusion 更新和新的 Max 选项 / HydraFusion updates and new Max option",
-          "title_zh": "HydraFusion 更新和新的 Max 选项",
-          "title_en": "HydraFusion updates and new Max option",
-          "title_original": "HydraFusion updates and new Max option",
+          "id": "89e0621c600f80074c4cfa2a987bdd0d38a32002",
+          "title": "AI Scan for pull requests generally available",
+          "title_zh": null,
+          "title_en": "AI Scan for pull requests generally available",
+          "title_original": "AI Scan for pull requests generally available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+          "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-14T20:01:35Z"
+          "published_at": "2026-10-15T15:04:51Z"
         }
       ],
       "source_count": 1,
@@ -115,31 +281,31 @@
       ],
       "items": [
         {
-          "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
-          "title": "HydraFusion 更新和新的 Max 选项 / HydraFusion updates and new Max option",
-          "title_zh": "HydraFusion 更新和新的 Max 选项",
-          "title_en": "HydraFusion updates and new Max option",
-          "title_original": "HydraFusion updates and new Max option",
+          "id": "89e0621c600f80074c4cfa2a987bdd0d38a32002",
+          "title": "AI Scan for pull requests generally available",
+          "title_zh": null,
+          "title_en": "AI Scan for pull requests generally available",
+          "title_original": "AI Scan for pull requests generally available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+          "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-14T20:01:35Z"
+          "published_at": "2026-10-15T15:04:51Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.804,
-      "importance": 0.804,
-      "importance_score": 0.804,
+      "score": 0.8358,
+      "importance": 0.8358,
+      "importance_score": 0.8358,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7777,
+        "recency": 0.9545,
         "story_heat": 0.0
       },
       "category": "official",
@@ -148,17 +314,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-14T20:01:35Z",
-      "latest_at": "2026-10-14T20:01:35Z",
+      "earliest_at": "2026-10-15T15:04:51Z",
+      "latest_at": "2026-10-15T15:04:51Z",
       "primary_item": {
-        "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
-        "title": "HydraFusion 更新和新的 Max 选项 / HydraFusion updates and new Max option",
-        "title_zh": "HydraFusion 更新和新的 Max 选项",
-        "title_en": "HydraFusion updates and new Max option",
-        "title_original": "HydraFusion updates and new Max option",
+        "id": "89e0621c600f80074c4cfa2a987bdd0d38a32002",
+        "title": "AI Scan for pull requests generally available",
+        "title_zh": null,
+        "title_en": "AI Scan for pull requests generally available",
+        "title_original": "AI Scan for pull requests generally available",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+        "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -166,7 +332,531 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:49:51.506614Z"
+        "scored_at": "2026-10-15T18:53:19.316237Z"
+      }
+    },
+    {
+      "story_id": "story_98d21dd2774c",
+      "title": "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入 / For Those Who Create. KLING 4.0 Is Now Fully Available. 🎬",
+      "url": "https://x.com/Kling_ai/status/2110747537187709424",
+      "primary_url": "https://x.com/Kling_ai/status/2110747537187709424",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9cb7d0e57527bdef47db610bc269dec282ddd195",
+          "title": "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入 / For Those Who Create. KLING 4.0 Is Now Fully Available. 🎬",
+          "title_zh": "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入",
+          "title_en": "For Those Who Create. KLING 4.0 Is Now Fully Available. 🎬",
+          "title_original": "For Those Who Create. KLING 4.0 Is Now Fully Available. 🎬",
+          "summary": "可灵（Kling AI）宣布 Kling 4.0 正式全量开放，用户可通过 kling.ai 全新创作界面使用，并新增 MCP 和 CLI 接入以融入视频创作工作流。即将推出 4K 和 1080p 的 10-bit HDR 视频输出，以及面向企业客户和开发者的 API 访问。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Kling_ai/status/2110747537187709424",
+          "source": "X：可灵 Kling AI (@Kling_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T15:00:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：可灵 Kling AI (@Kling_ai)"
+      ],
+      "items": [
+        {
+          "id": "9cb7d0e57527bdef47db610bc269dec282ddd195",
+          "title": "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入 / For Those Who Create. KLING 4.0 Is Now Fully Available. 🎬",
+          "title_zh": "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入",
+          "title_en": "For Those Who Create. KLING 4.0 Is Now Fully Available. 🎬",
+          "title_original": "For Those Who Create. KLING 4.0 Is Now Fully Available. 🎬",
+          "summary": "可灵（Kling AI）宣布 Kling 4.0 正式全量开放，用户可通过 kling.ai 全新创作界面使用，并新增 MCP 和 CLI 接入以融入视频创作工作流。即将推出 4K 和 1080p 的 10-bit HDR 视频输出，以及面向企业客户和开发者的 API 访问。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Kling_ai/status/2110747537187709424",
+          "source": "X：可灵 Kling AI (@Kling_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T15:00:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9534,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T15:00:03Z",
+      "latest_at": "2026-10-15T15:00:03Z",
+      "primary_item": {
+        "id": "9cb7d0e57527bdef47db610bc269dec282ddd195",
+        "title": "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入 / For Those Who Create. KLING 4.0 Is Now Fully Available. 🎬",
+        "title_zh": "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入",
+        "title_en": "For Those Who Create. KLING 4.0 Is Now Fully Available. 🎬",
+        "title_original": "For Those Who Create. KLING 4.0 Is Now Fully Available. 🎬",
+        "summary": "可灵（Kling AI）宣布 Kling 4.0 正式全量开放，用户可通过 kling.ai 全新创作界面使用，并新增 MCP 和 CLI 接入以融入视频创作工作流。即将推出 4K 和 1080p 的 10-bit HDR 视频输出，以及面向企业客户和开发者的 API 访问。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Kling_ai/status/2110747537187709424",
+        "source": "X：可灵 Kling AI (@Kling_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T18:53:19.316237Z"
+      }
+    },
+    {
+      "story_id": "story_e310e363f789",
+      "title": "Agentic autofix for code scanning alerts general availability",
+      "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
+      "primary_url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "02bbb4ed9649b8f31626edda12a0233b8b8b57a6",
+          "title": "Agentic autofix for code scanning alerts general availability",
+          "title_zh": null,
+          "title_en": "Agentic autofix for code scanning alerts general availability",
+          "title_original": "Agentic autofix for code scanning alerts general availability",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T13:49:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "02bbb4ed9649b8f31626edda12a0233b8b8b57a6",
+          "title": "Agentic autofix for code scanning alerts general availability",
+          "title_zh": null,
+          "title_en": "Agentic autofix for code scanning alerts general availability",
+          "title_original": "Agentic autofix for code scanning alerts general availability",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T13:49:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9373,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T13:49:20Z",
+      "latest_at": "2026-10-15T13:49:20Z",
+      "primary_item": {
+        "id": "02bbb4ed9649b8f31626edda12a0233b8b8b57a6",
+        "title": "Agentic autofix for code scanning alerts general availability",
+        "title_zh": null,
+        "title_en": "Agentic autofix for code scanning alerts general availability",
+        "title_original": "Agentic autofix for code scanning alerts general availability",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T18:53:19.316237Z"
+      }
+    },
+    {
+      "story_id": "story_fee8943ac5f8",
+      "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter / Muse Spark Open from @AIatMeta is now available on OpenRouter!",
+      "url": "https://x.com/OpenRouter/status/2110793354154008685",
+      "primary_url": "https://x.com/OpenRouter/status/2110793354154008685",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7dd2806d4c202639c47ed3420c35f7e75ce674d9",
+          "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter / Muse Spark Open from @AIatMeta is now available on OpenRouter!",
+          "title_zh": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
+          "title_en": "Muse Spark Open from @AIatMeta is now available on OpenRouter!",
+          "title_original": "Muse Spark Open from @AIatMeta is now available on OpenRouter!",
+          "summary": "Meta 发布开放权重模型 Muse Spark Open，现已可在 OpenRouter 使用，定位为面向编码与智能体工作的美国最强开放权重模型。模型总参数 816B、激活 42B，支持 1M token 上下文窗口，原生多模态，OpenRouter 定价为输入 $1.25/M、输出 $4.25/M，正文提到支持图像、视频、音频和 PDF 输入。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2110793354154008685",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T18:02:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "7dd2806d4c202639c47ed3420c35f7e75ce674d9",
+          "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter / Muse Spark Open from @AIatMeta is now available on OpenRouter!",
+          "title_zh": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
+          "title_en": "Muse Spark Open from @AIatMeta is now available on OpenRouter!",
+          "title_original": "Muse Spark Open from @AIatMeta is now available on OpenRouter!",
+          "summary": "Meta 发布开放权重模型 Muse Spark Open，现已可在 OpenRouter 使用，定位为面向编码与智能体工作的美国最强开放权重模型。模型总参数 816B、激活 42B，支持 1M token 上下文窗口，原生多模态，OpenRouter 定价为输入 $1.25/M、输出 $4.25/M，正文提到支持图像、视频、音频和 PDF 输入。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2110793354154008685",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T18:02:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7969,
+      "importance": 0.7969,
+      "importance_score": 0.7969,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9961,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T18:02:06Z",
+      "latest_at": "2026-10-15T18:02:06Z",
+      "primary_item": {
+        "id": "7dd2806d4c202639c47ed3420c35f7e75ce674d9",
+        "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter / Muse Spark Open from @AIatMeta is now available on OpenRouter!",
+        "title_zh": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
+        "title_en": "Muse Spark Open from @AIatMeta is now available on OpenRouter!",
+        "title_original": "Muse Spark Open from @AIatMeta is now available on OpenRouter!",
+        "summary": "Meta 发布开放权重模型 Muse Spark Open，现已可在 OpenRouter 使用，定位为面向编码与智能体工作的美国最强开放权重模型。模型总参数 816B、激活 42B，支持 1M token 上下文窗口，原生多模态，OpenRouter 定价为输入 $1.25/M、输出 $4.25/M，正文提到支持图像、视频、音频和 PDF 输入。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenRouter/status/2110793354154008685",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T18:53:19.316237Z"
+      }
+    },
+    {
+      "story_id": "story_0adb412c8d15",
+      "title": "Black Forest Labs FLUX.3 Image Klein 登陆 Diffusers，支持边界框布局控制 / Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
+      "primary_url": "https://huggingface.co/blog/flux-3",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "98ef1db4349830e80f798ba1e660cb9ccbd7af64",
+          "title": "Black Forest Labs FLUX.3 Image Klein 登陆 Diffusers，支持边界框布局控制 / Welcome FLUX.3 Image Klein in Diffusers",
+          "title_zh": "Black Forest Labs FLUX.3 Image Klein 登陆 Diffusers，支持边界框布局控制",
+          "title_en": "Welcome FLUX.3 Image Klein in Diffusers",
+          "title_original": "Welcome FLUX.3 Image Klein in Diffusers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/flux-3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "98ef1db4349830e80f798ba1e660cb9ccbd7af64",
+          "title": "Black Forest Labs FLUX.3 Image Klein 登陆 Diffusers，支持边界框布局控制 / Welcome FLUX.3 Image Klein in Diffusers",
+          "title_zh": "Black Forest Labs FLUX.3 Image Klein 登陆 Diffusers，支持边界框布局控制",
+          "title_en": "Welcome FLUX.3 Image Klein in Diffusers",
+          "title_original": "Welcome FLUX.3 Image Klein in Diffusers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/flux-3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7677,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T00:00:00Z",
+      "latest_at": "2026-10-15T00:00:00Z",
+      "primary_item": {
+        "id": "98ef1db4349830e80f798ba1e660cb9ccbd7af64",
+        "title": "Black Forest Labs FLUX.3 Image Klein 登陆 Diffusers，支持边界框布局控制 / Welcome FLUX.3 Image Klein in Diffusers",
+        "title_zh": "Black Forest Labs FLUX.3 Image Klein 登陆 Diffusers，支持边界框布局控制",
+        "title_en": "Welcome FLUX.3 Image Klein in Diffusers",
+        "title_original": "Welcome FLUX.3 Image Klein in Diffusers",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/flux-3",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T18:53:19.316237Z"
+      }
+    },
+    {
+      "story_id": "story_ada30acee72f",
+      "title": "Meta 开源 Muse Spark Open：816B 参数多模态模型可在两台 Mac Studio 上运行 / Muse Spark Open",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "primary_url": "https://research.meta.ai/blog/muse-spark-open",
+      "source": "Meta AI：Research Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "023daf2f39af40c0047d2537f3297378b9f85380",
+          "title": "Meta 开源 Muse Spark Open：816B 参数多模态模型可在两台 Mac Studio 上运行 / Muse Spark Open",
+          "title_zh": "Meta 开源 Muse Spark Open：816B 参数多模态模型可在两台 Mac Studio 上运行",
+          "title_en": "Muse Spark Open",
+          "title_original": "Muse Spark Open",
+          "summary": "Meta 今日发布开源权重模型 Muse Spark Open，称其为目前最强的美国开源权重模型，总参数 816B（激活 42B），支持 1M-token 上下文窗口，主打编码与智能体任务。",
+          "recommend_reason_zh": null,
+          "url": "https://research.meta.ai/blog/muse-spark-open",
+          "source": "Meta AI：Research Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T00:00:00Z"
+        },
+        {
+          "id": "6ab1a1aff322e7df733c9869fbf43460aa14dd4a",
+          "title": "Meta 开源 Muse Spark Open：816B 参数多模态模型可在两台 Mac Studio 上运行 / Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
+          "title_zh": "Meta 开源 Muse Spark Open：816B 参数多模态模型可在两台 Mac Studio 上运行",
+          "title_en": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
+          "title_original": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://research.meta.ai/blog/muse-spark-open",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-15T16:58:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Meta AI：Research Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "023daf2f39af40c0047d2537f3297378b9f85380",
+          "title": "Meta 开源 Muse Spark Open：816B 参数多模态模型可在两台 Mac Studio 上运行 / Muse Spark Open",
+          "title_zh": "Meta 开源 Muse Spark Open：816B 参数多模态模型可在两台 Mac Studio 上运行",
+          "title_en": "Muse Spark Open",
+          "title_original": "Muse Spark Open",
+          "summary": "Meta 今日发布开源权重模型 Muse Spark Open，称其为目前最强的美国开源权重模型，总参数 816B（激活 42B），支持 1M-token 上下文窗口，主打编码与智能体任务。",
+          "recommend_reason_zh": null,
+          "url": "https://research.meta.ai/blog/muse-spark-open",
+          "source": "Meta AI：Research Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T00:00:00Z"
+        },
+        {
+          "id": "6ab1a1aff322e7df733c9869fbf43460aa14dd4a",
+          "title": "Meta 开源 Muse Spark Open：816B 参数多模态模型可在两台 Mac Studio 上运行 / Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
+          "title_zh": "Meta 开源 Muse Spark Open：816B 参数多模态模型可在两台 Mac Studio 上运行",
+          "title_en": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
+          "title_original": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://research.meta.ai/blog/muse-spark-open",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-15T16:58:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7677,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T00:00:00Z",
+      "latest_at": "2026-10-15T16:58:30Z",
+      "primary_item": {
+        "id": "023daf2f39af40c0047d2537f3297378b9f85380",
+        "title": "Meta 开源 Muse Spark Open：816B 参数多模态模型可在两台 Mac Studio 上运行 / Muse Spark Open",
+        "title_zh": "Meta 开源 Muse Spark Open：816B 参数多模态模型可在两台 Mac Studio 上运行",
+        "title_en": "Muse Spark Open",
+        "title_original": "Muse Spark Open",
+        "summary": "Meta 今日发布开源权重模型 Muse Spark Open，称其为目前最强的美国开源权重模型，总参数 816B（激活 42B），支持 1M-token 上下文窗口，主打编码与智能体任务。",
+        "recommend_reason_zh": null,
+        "url": "https://research.meta.ai/blog/muse-spark-open",
+        "source": "Meta AI：Research Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T18:53:19.316237Z"
+      }
+    },
+    {
+      "story_id": "story_b99d97516c95",
+      "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B） / FLUX 3 Image Klein",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "primary_url": "https://bfl.ai/blog/flux-3-image-klein",
+      "source": "Black Forest Labs：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a9dc3b7c7e3561d7b895c077178529073614b29c",
+          "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B） / FLUX 3 Image Klein",
+          "title_zh": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）",
+          "title_en": "FLUX 3 Image Klein",
+          "title_original": "FLUX 3 Image Klein",
+          "summary": "Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein，支持文生图、图像编辑和最多 10 张参考图的多参考生成，采用 FLUX Kommunity License。",
+          "recommend_reason_zh": null,
+          "url": "https://bfl.ai/blog/flux-3-image-klein",
+          "source": "Black Forest Labs：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Black Forest Labs：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "a9dc3b7c7e3561d7b895c077178529073614b29c",
+          "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B） / FLUX 3 Image Klein",
+          "title_zh": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）",
+          "title_en": "FLUX 3 Image Klein",
+          "title_original": "FLUX 3 Image Klein",
+          "summary": "Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein，支持文生图、图像编辑和最多 10 张参考图的多参考生成，采用 FLUX Kommunity License。",
+          "recommend_reason_zh": null,
+          "url": "https://bfl.ai/blog/flux-3-image-klein",
+          "source": "Black Forest Labs：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9534,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T15:00:00Z",
+      "latest_at": "2026-10-15T15:00:00Z",
+      "primary_item": {
+        "id": "a9dc3b7c7e3561d7b895c077178529073614b29c",
+        "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B） / FLUX 3 Image Klein",
+        "title_zh": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）",
+        "title_en": "FLUX 3 Image Klein",
+        "title_original": "FLUX 3 Image Klein",
+        "summary": "Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein，支持文生图、图像编辑和最多 10 张参考图的多参考生成，采用 FLUX Kommunity License。",
+        "recommend_reason_zh": null,
+        "url": "https://bfl.ai/blog/flux-3-image-klein",
+        "source": "Black Forest Labs：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T18:53:19.316237Z"
       }
     },
     {
@@ -214,15 +904,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7855,
-      "importance": 0.7855,
-      "importance_score": 0.7855,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9495,
+        "recency": 0.885,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -248,7 +938,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:49:51.506614Z"
+        "scored_at": "2026-10-15T18:53:19.316237Z"
       }
     },
     {
@@ -296,15 +986,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7854,
-      "importance": 0.7854,
-      "importance_score": 0.7854,
+      "score": 0.7736,
+      "importance": 0.7736,
+      "importance_score": 0.7736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9654,
+        "recency": 0.8999,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -330,7 +1020,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:49:51.506614Z"
+        "scored_at": "2026-10-15T18:53:19.316237Z"
+      }
+    },
+    {
+      "story_id": "story_6145f106e319",
+      "title": "Email notifications for repository push events have been retired",
+      "url": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
+      "primary_url": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e25d261c0fd37cb42f14a5e29eaaaf1483957c74",
+          "title": "Email notifications for repository push events have been retired",
+          "title_zh": null,
+          "title_en": "Email notifications for repository push events have been retired",
+          "title_original": "Email notifications for repository push events have been retired",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T13:42:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e25d261c0fd37cb42f14a5e29eaaaf1483957c74",
+          "title": "Email notifications for repository push events have been retired",
+          "title_zh": null,
+          "title_en": "Email notifications for repository push events have been retired",
+          "title_original": "Email notifications for repository push events have been retired",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T13:42:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9358,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T13:42:19Z",
+      "latest_at": "2026-10-15T13:42:19Z",
+      "primary_item": {
+        "id": "e25d261c0fd37cb42f14a5e29eaaaf1483957c74",
+        "title": "Email notifications for repository push events have been retired",
+        "title_zh": null,
+        "title_en": "Email notifications for repository push events have been retired",
+        "title_original": "Email notifications for repository push events have been retired",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T18:53:19.316237Z"
       }
     },
     {
@@ -378,15 +1151,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
+      "score": 0.7693,
+      "importance": 0.7693,
+      "importance_score": 0.7693,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9937,
+        "recency": 0.9263,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -412,7 +1185,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:49:51.506614Z"
+        "scored_at": "2026-10-15T18:53:19.316237Z"
       }
     },
     {
@@ -460,15 +1233,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8607,
+        "recency": 0.8022,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -494,7 +1267,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:49:51.506614Z"
+        "scored_at": "2026-10-15T18:53:19.316237Z"
+      }
+    },
+    {
+      "story_id": "story_c422d5920185",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "primary_url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a616cf65ec9a5c4458ff5602e119011ee4b6a8fd",
+          "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+          "title_zh": null,
+          "title_en": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+          "title_original": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/meta-muse-spark-open",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "a616cf65ec9a5c4458ff5602e119011ee4b6a8fd",
+          "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+          "title_zh": null,
+          "title_en": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+          "title_original": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/meta-muse-spark-open",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7677,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T00:00:00Z",
+      "latest_at": "2026-10-15T00:00:00Z",
+      "primary_item": {
+        "id": "a616cf65ec9a5c4458ff5602e119011ee4b6a8fd",
+        "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+        "title_zh": null,
+        "title_en": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+        "title_original": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/meta-muse-spark-open",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T18:53:19.316237Z"
       }
     },
     {
@@ -542,15 +1398,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9321,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -576,90 +1432,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:49:51.506614Z"
+        "scored_at": "2026-10-15T18:53:19.316237Z"
       }
     },
     {
-      "story_id": "story_0b5e45b58095",
-      "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
-      "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_d2069aaf5e88",
+      "title": "NVIDIA 发布开源 Nemotron 3.5 Super VL 及 Bolt 两款端侧模型 / Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+      "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl",
+      "primary_url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl",
+      "source": "NVIDIA Blog（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "502bc892b0915388933022ba86cb435c84eda79f",
-          "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
-          "title_zh": "公共预览版中的 GitHub Actions 工作流程锁定文件",
-          "title_en": "GitHub Actions workflow lockfiles in public preview",
-          "title_original": "GitHub Actions workflow lockfiles in public preview",
-          "summary": null,
+          "id": "7b58ec7254555682b07e59d9bca12fbdabeeace4",
+          "title": "NVIDIA 发布开源 Nemotron 3.5 Super VL 及 Bolt 两款端侧模型 / Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+          "title_zh": "NVIDIA 发布开源 Nemotron 3.5 Super VL 及 Bolt 两款端侧模型",
+          "title_en": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+          "title_original": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+          "summary": "NVIDIA 发布开源 1200 亿参数的 Nemotron 3.5 Super VL 多模态模型，称在其类别中任务完成最快、比同类次优快 5x，并推出两款端侧模型 Bolt 74B-A9B 24GB 与 Bolt E4B 4GB，后者 10 月 23 日上线。模型采用 2-bit 原生量化可在 RTX/DGX Spark 上本地运行，权重、数据集和训练配方开放，已有数十家机构基于自有数据后训练。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T13:49:15Z"
+          "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T15:00:24Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "NVIDIA Blog（RSS）"
       ],
       "items": [
         {
-          "id": "502bc892b0915388933022ba86cb435c84eda79f",
-          "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
-          "title_zh": "公共预览版中的 GitHub Actions 工作流程锁定文件",
-          "title_en": "GitHub Actions workflow lockfiles in public preview",
-          "title_original": "GitHub Actions workflow lockfiles in public preview",
-          "summary": null,
+          "id": "7b58ec7254555682b07e59d9bca12fbdabeeace4",
+          "title": "NVIDIA 发布开源 Nemotron 3.5 Super VL 及 Bolt 两款端侧模型 / Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+          "title_zh": "NVIDIA 发布开源 Nemotron 3.5 Super VL 及 Bolt 两款端侧模型",
+          "title_en": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+          "title_original": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+          "summary": "NVIDIA 发布开源 1200 亿参数的 Nemotron 3.5 Super VL 多模态模型，称在其类别中任务完成最快、比同类次优快 5x，并推出两款端侧模型 Bolt 74B-A9B 24GB 与 Bolt E4B 4GB，后者 10 月 23 日上线。模型采用 2-bit 原生量化可在 RTX/DGX Spark 上本地运行，权重、数据集和训练配方开放，已有数十家机构基于自有数据后训练。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T13:49:15Z"
+          "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T15:00:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.792,
-      "importance": 0.792,
-      "importance_score": 0.792,
-      "importance_label": "官方更新",
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7111,
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9535,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-14T13:49:15Z",
-      "latest_at": "2026-10-14T13:49:15Z",
+      "earliest_at": "2026-10-15T15:00:24Z",
+      "latest_at": "2026-10-15T15:00:24Z",
       "primary_item": {
-        "id": "502bc892b0915388933022ba86cb435c84eda79f",
-        "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
-        "title_zh": "公共预览版中的 GitHub Actions 工作流程锁定文件",
-        "title_en": "GitHub Actions workflow lockfiles in public preview",
-        "title_original": "GitHub Actions workflow lockfiles in public preview",
-        "summary": null,
+        "id": "7b58ec7254555682b07e59d9bca12fbdabeeace4",
+        "title": "NVIDIA 发布开源 Nemotron 3.5 Super VL 及 Bolt 两款端侧模型 / Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+        "title_zh": "NVIDIA 发布开源 Nemotron 3.5 Super VL 及 Bolt 两款端侧模型",
+        "title_en": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+        "title_original": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+        "summary": "NVIDIA 发布开源 1200 亿参数的 Nemotron 3.5 Super VL 多模态模型，称在其类别中任务完成最快、比同类次优快 5x，并推出两款端侧模型 Bolt 74B-A9B 24GB 与 Bolt E4B 4GB，后者 10 月 23 日上线。模型采用 2-bit 原生量化可在 RTX/DGX Spark 上本地运行，权重、数据集和训练配方开放，已有数十家机构基于自有数据后训练。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl",
+        "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:49:51.506614Z"
+        "scored_at": "2026-10-15T18:53:19.316237Z"
+      }
+    },
+    {
+      "story_id": "story_29a72e6356cc",
+      "title": "Perplexity 开源驱动 Perplexity Computer 的沙箱平台 SPACE / While sandboxes are a commodity, serving millions of them under production-grade traffic requires a lot of detail to scale agents for bus...",
+      "url": "https://x.com/AravSrinivas/status/2110785848958759165",
+      "primary_url": "https://x.com/AravSrinivas/status/2110785848958759165",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9ef1604b9fbf595e5145952ecd47099118e07267",
+          "title": "Perplexity 开源驱动 Perplexity Computer 的沙箱平台 SPACE / While sandboxes are a commodity, serving millions of them under production-grade traffic requires a lot of detail to scale agents for bus...",
+          "title_zh": "Perplexity 开源驱动 Perplexity Computer 的沙箱平台 SPACE",
+          "title_en": "While sandboxes are a commodity, serving millions of them under production-grade traffic requires a lot of detail to scale agents for bus...",
+          "title_original": "While sandboxes are a commodity, serving millions of them under production-grade traffic requires a lot of detail to scale agents for bus...",
+          "summary": "Perplexity CEO Aravind Srinivas 宣布开源沙箱平台 SPACE，该平台为 Perplexity Computer 的全部沙箱能力提供支撑，仓库地址为 https://github.com/perplexityai/space。他表示沙箱虽是 commodity，但在生产级流量下服务数百万沙箱、为企业和消费者扩展 Agent 需要大量细节，开源旨在支持生态。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AravSrinivas/status/2110785848958759165",
+          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T17:32:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
+      ],
+      "items": [
+        {
+          "id": "9ef1604b9fbf595e5145952ecd47099118e07267",
+          "title": "Perplexity 开源驱动 Perplexity Computer 的沙箱平台 SPACE / While sandboxes are a commodity, serving millions of them under production-grade traffic requires a lot of detail to scale agents for bus...",
+          "title_zh": "Perplexity 开源驱动 Perplexity Computer 的沙箱平台 SPACE",
+          "title_en": "While sandboxes are a commodity, serving millions of them under production-grade traffic requires a lot of detail to scale agents for bus...",
+          "title_original": "While sandboxes are a commodity, serving millions of them under production-grade traffic requires a lot of detail to scale agents for bus...",
+          "summary": "Perplexity CEO Aravind Srinivas 宣布开源沙箱平台 SPACE，该平台为 Perplexity Computer 的全部沙箱能力提供支撑，仓库地址为 https://github.com/perplexityai/space。他表示沙箱虽是 commodity，但在生产级流量下服务数百万沙箱、为企业和消费者扩展 Agent 需要大量细节，开源旨在支持生态。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AravSrinivas/status/2110785848958759165",
+          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T17:32:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.989,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T17:32:17Z",
+      "latest_at": "2026-10-15T17:32:17Z",
+      "primary_item": {
+        "id": "9ef1604b9fbf595e5145952ecd47099118e07267",
+        "title": "Perplexity 开源驱动 Perplexity Computer 的沙箱平台 SPACE / While sandboxes are a commodity, serving millions of them under production-grade traffic requires a lot of detail to scale agents for bus...",
+        "title_zh": "Perplexity 开源驱动 Perplexity Computer 的沙箱平台 SPACE",
+        "title_en": "While sandboxes are a commodity, serving millions of them under production-grade traffic requires a lot of detail to scale agents for bus...",
+        "title_original": "While sandboxes are a commodity, serving millions of them under production-grade traffic requires a lot of detail to scale agents for bus...",
+        "summary": "Perplexity CEO Aravind Srinivas 宣布开源沙箱平台 SPACE，该平台为 Perplexity Computer 的全部沙箱能力提供支撑，仓库地址为 https://github.com/perplexityai/space。他表示沙箱虽是 commodity，但在生产级流量下服务数百万沙箱、为企业和消费者扩展 Agent 需要大量细节，开源旨在支持生态。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/AravSrinivas/status/2110785848958759165",
+        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T18:53:19.316237Z"
       }
     },
     {
@@ -707,21 +1644,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8341,
+        "recency": 0.7774,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-15T00:52:13Z",
       "latest_at": "2026-10-15T00:52:13Z",
@@ -741,902 +1677,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:49:51.506614Z"
-      }
-    },
-    {
-      "story_id": "story_05df7d6baec1",
-      "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
-      "url": "https://x.com/Khazix0918/status/2110587546271191166",
-      "primary_url": "https://x.com/Khazix0918/status/2110587546271191166",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d7e87063a38d332d7e9a1a3ae73b350828650063",
-          "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
-          "title_zh": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
-          "title_en": null,
-          "title_original": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
-          "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Khazix0918/status/2110587546271191166",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T04:24:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：卡兹克 (@Khazix0918)"
-      ],
-      "items": [
-        {
-          "id": "d7e87063a38d332d7e9a1a3ae73b350828650063",
-          "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
-          "title_zh": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
-          "title_en": null,
-          "title_original": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
-          "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Khazix0918/status/2110587546271191166",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T04:24:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8777,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T04:24:18Z",
-      "latest_at": "2026-10-15T04:24:18Z",
-      "primary_item": {
-        "id": "d7e87063a38d332d7e9a1a3ae73b350828650063",
-        "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
-        "title_zh": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
-        "title_en": null,
-        "title_original": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
-        "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Khazix0918/status/2110587546271191166",
-        "source": "X：卡兹克 (@Khazix0918)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:49:51.506614Z"
-      }
-    },
-    {
-      "story_id": "story_5e16cebce9e0",
-      "title": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
-      "url": "https://www.ithome.com/1/013/160.htm",
-      "primary_url": "https://www.ithome.com/1/013/160.htm",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a68c4f6535c01f2f2fc69115b1f6baa9dbba7911",
-          "title": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
-          "title_zh": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
-          "title_en": null,
-          "title_original": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
-          "summary": "当地时间 14 日，美国 8 个州的总检察长分别在州法院起诉 OpenAI，指控 ChatGPT 指导包括青少年在内的用户伤害自己或他人，并刻意迎合用户以获取信任。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/013/160.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T23:39:08.393000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家·人工智能"
-      ],
-      "items": [
-        {
-          "id": "a68c4f6535c01f2f2fc69115b1f6baa9dbba7911",
-          "title": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
-          "title_zh": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
-          "title_en": null,
-          "title_original": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
-          "summary": "当地时间 14 日，美国 8 个州的总检察长分别在州法院起诉 OpenAI，指控 ChatGPT 指导包括青少年在内的用户伤害自己或他人，并刻意迎合用户以获取信任。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/013/160.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T23:39:08.393000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8195,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-14T23:39:08.393000Z",
-      "latest_at": "2026-10-14T23:39:08.393000Z",
-      "primary_item": {
-        "id": "a68c4f6535c01f2f2fc69115b1f6baa9dbba7911",
-        "title": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
-        "title_zh": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
-        "title_en": null,
-        "title_original": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
-        "summary": "当地时间 14 日，美国 8 个州的总检察长分别在州法院起诉 OpenAI，指控 ChatGPT 指导包括青少年在内的用户伤害自己或他人，并刻意迎合用户以获取信任。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/013/160.htm",
-        "source": "IT之家·人工智能",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:49:51.506614Z"
-      }
-    },
-    {
-      "story_id": "story_4793b943ee22",
-      "title": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2cccd3709712ba44fb6725202a6795e2733c0aa6",
-          "title": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
-          "title_zh": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
-          "title_en": null,
-          "title_original": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
-          "summary": "作者数字生命卡兹克分享开源 Skill Anatomy，其理念是\"物体本身，就是解释\"，可将抽象原理做成可交互的机械模型动画，还能在其上生成带讲解配音的科普视频。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T00:26:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "2cccd3709712ba44fb6725202a6795e2733c0aa6",
-          "title": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
-          "title_zh": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
-          "title_en": null,
-          "title_original": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
-          "summary": "作者数字生命卡兹克分享开源 Skill Anatomy，其理念是\"物体本身，就是解释\"，可将抽象原理做成可交互的机械模型动画，还能在其上生成带讲解配音的科普视频。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T00:26:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8288,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T00:26:00Z",
-      "latest_at": "2026-10-15T00:26:00Z",
-      "primary_item": {
-        "id": "2cccd3709712ba44fb6725202a6795e2733c0aa6",
-        "title": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
-        "title_zh": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
-        "title_en": null,
-        "title_original": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
-        "summary": "作者数字生命卡兹克分享开源 Skill Anatomy，其理念是\"物体本身，就是解释\"，可将抽象原理做成可交互的机械模型动画，还能在其上生成带讲解配音的科普视频。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:49:51.506614Z"
-      }
-    },
-    {
-      "story_id": "story_b76ea088bec9",
-      "title": "OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用",
-      "url": "https://www.aibase.com/news/31670",
-      "primary_url": "https://www.aibase.com/news/31670",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b1ff07a3d23cc524192ce2c6189c33106bbfb459",
-          "title": "OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用",
-          "title_zh": "OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用",
-          "title_en": null,
-          "title_original": "OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31670",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-15T13:26:07.401900Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b1ff07a3d23cc524192ce2c6189c33106bbfb459",
-          "title": "OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用",
-          "title_zh": "OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用",
-          "title_en": null,
-          "title_original": "OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31670",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-15T13:26:07.401900Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T13:26:07.401900Z",
-      "latest_at": "2026-10-15T13:26:07.401900Z",
-      "primary_item": {
-        "id": "b1ff07a3d23cc524192ce2c6189c33106bbfb459",
-        "title": "OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用",
-        "title_zh": "OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用",
-        "title_en": null,
-        "title_original": "OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31670",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:49:51.506614Z"
-      }
-    },
-    {
-      "story_id": "story_d6deb20c7940",
-      "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放 / Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
-      "url": "https://x.com/GeminiApp/status/2110491358498865638",
-      "primary_url": "https://x.com/GeminiApp/status/2110491358498865638",
-      "source": "X：Gemini (@GeminiApp)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0b6e96d9e17b7a7f93cbb504f793540bb82e561d",
-          "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放 / Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
-          "title_zh": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
-          "title_en": "Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
-          "title_original": "Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
-          "summary": "Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GeminiApp/status/2110491358498865638",
-          "source": "X：Gemini (@GeminiApp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T22:02:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Gemini (@GeminiApp)"
-      ],
-      "items": [
-        {
-          "id": "0b6e96d9e17b7a7f93cbb504f793540bb82e561d",
-          "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放 / Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
-          "title_zh": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
-          "title_en": "Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
-          "title_original": "Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
-          "summary": "Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GeminiApp/status/2110491358498865638",
-          "source": "X：Gemini (@GeminiApp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T22:02:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8006,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T22:02:05Z",
-      "latest_at": "2026-10-14T22:02:05Z",
-      "primary_item": {
-        "id": "0b6e96d9e17b7a7f93cbb504f793540bb82e561d",
-        "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放 / Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
-        "title_zh": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
-        "title_en": "Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
-        "title_original": "Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
-        "summary": "Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/GeminiApp/status/2110491358498865638",
-        "source": "X：Gemini (@GeminiApp)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:49:51.506614Z"
-      }
-    },
-    {
-      "story_id": "story_7cd27b11301a",
-      "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "361ed907aaf0e1395bf908f40afc0cbb2a33d7d9",
-          "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
-          "title_zh": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
-          "title_en": null,
-          "title_original": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
-          "summary": "10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T04:53:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：面壁智能（MiniCPM）"
-      ],
-      "items": [
-        {
-          "id": "361ed907aaf0e1395bf908f40afc0cbb2a33d7d9",
-          "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
-          "title_zh": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
-          "title_en": null,
-          "title_original": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
-          "summary": "10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T04:53:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.884,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-15T04:53:56Z",
-      "latest_at": "2026-10-15T04:53:56Z",
-      "primary_item": {
-        "id": "361ed907aaf0e1395bf908f40afc0cbb2a33d7d9",
-        "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
-        "title_zh": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
-        "title_en": null,
-        "title_original": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
-        "summary": "10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
-        "source": "公众号：面壁智能（MiniCPM）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:49:51.506614Z"
-      }
-    },
-    {
-      "story_id": "story_c7885f50cf7b",
-      "title": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510565&idx=1&sn=5c72103cec714f282c9260152a552294",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510565&idx=1&sn=5c72103cec714f282c9260152a552294",
-      "source": "公众号：昆仑万维（天工）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d99b1c96d6185bc90506bf172e6dce6e6bbf2dc8",
-          "title": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
-          "title_zh": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
-          "title_en": null,
-          "title_original": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
-          "summary": "昆仑万维于2026年10月15日发布 Matrix-Game 4.0，称其为第一款运行在单张消费级显卡上的视频大模型游戏，并同步开源。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510565&idx=1&sn=5c72103cec714f282c9260152a552294",
-          "source": "公众号：昆仑万维（天工）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：昆仑万维（天工）"
-      ],
-      "items": [
-        {
-          "id": "d99b1c96d6185bc90506bf172e6dce6e6bbf2dc8",
-          "title": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
-          "title_zh": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
-          "title_en": null,
-          "title_original": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
-          "summary": "昆仑万维于2026年10月15日发布 Matrix-Game 4.0，称其为第一款运行在单张消费级显卡上的视频大模型游戏，并同步开源。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510565&idx=1&sn=5c72103cec714f282c9260152a552294",
-          "source": "公众号：昆仑万维（天工）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7299,
-      "importance": 0.7299,
-      "importance_score": 0.7299,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8236,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-15T00:00:00Z",
-      "latest_at": "2026-10-15T00:00:00Z",
-      "primary_item": {
-        "id": "d99b1c96d6185bc90506bf172e6dce6e6bbf2dc8",
-        "title": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
-        "title_zh": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
-        "title_en": null,
-        "title_original": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
-        "summary": "昆仑万维于2026年10月15日发布 Matrix-Game 4.0，称其为第一款运行在单张消费级显卡上的视频大模型游戏，并同步开源。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510565&idx=1&sn=5c72103cec714f282c9260152a552294",
-        "source": "公众号：昆仑万维（天工）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:49:51.506614Z"
-      }
-    },
-    {
-      "story_id": "story_0a54b988918c",
-      "title": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488073&idx=1&sn=1deff0f84dce1931113975e212a91644",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488073&idx=1&sn=1deff0f84dce1931113975e212a91644",
-      "source": "公众号：蚂蚁百灵（Ling）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "adb445c5cef287c62510bb31aa8544e72ef7d024",
-          "title": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
-          "title_zh": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
-          "title_en": null,
-          "title_original": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
-          "summary": "蚂蚁百灵正式开源 Ling-3.1-flash，总参数约 560B、每 Token 激活约 25B、最高支持 1M 上下文，权重已上架 Hugging Face 和 ModelScope。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488073&idx=1&sn=1deff0f84dce1931113975e212a91644",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T01:10:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：蚂蚁百灵（Ling）"
-      ],
-      "items": [
-        {
-          "id": "adb445c5cef287c62510bb31aa8544e72ef7d024",
-          "title": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
-          "title_zh": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
-          "title_en": null,
-          "title_original": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
-          "summary": "蚂蚁百灵正式开源 Ling-3.1-flash，总参数约 560B、每 Token 激活约 25B、最高支持 1M 上下文，权重已上架 Hugging Face 和 ModelScope。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488073&idx=1&sn=1deff0f84dce1931113975e212a91644",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T01:10:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8377,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-15T01:10:27Z",
-      "latest_at": "2026-10-15T01:10:27Z",
-      "primary_item": {
-        "id": "adb445c5cef287c62510bb31aa8544e72ef7d024",
-        "title": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
-        "title_zh": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
-        "title_en": null,
-        "title_original": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
-        "summary": "蚂蚁百灵正式开源 Ling-3.1-flash，总参数约 560B、每 Token 激活约 25B、最高支持 1M 上下文，权重已上架 Hugging Face 和 ModelScope。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488073&idx=1&sn=1deff0f84dce1931113975e212a91644",
-        "source": "公众号：蚂蚁百灵（Ling）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:49:51.506614Z"
-      }
-    },
-    {
-      "story_id": "story_a7bf3db1c48a",
-      "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值 / It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
-      "url": "https://x.com/lydiahallie/status/2110484841926152622",
-      "primary_url": "https://x.com/lydiahallie/status/2110484841926152622",
-      "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0a000ac66d76a52b422de1e871659a362d9b9673",
-          "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值 / It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
-          "title_zh": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
-          "title_en": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
-          "title_original": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
-          "summary": "Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 \"idleCompaction\": false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/lydiahallie/status/2110484841926152622",
-          "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T21:36:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)"
-      ],
-      "items": [
-        {
-          "id": "0a000ac66d76a52b422de1e871659a362d9b9673",
-          "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值 / It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
-          "title_zh": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
-          "title_en": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
-          "title_original": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
-          "summary": "Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 \"idleCompaction\": false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/lydiahallie/status/2110484841926152622",
-          "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T21:36:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7956,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T21:36:11Z",
-      "latest_at": "2026-10-14T21:36:11Z",
-      "primary_item": {
-        "id": "0a000ac66d76a52b422de1e871659a362d9b9673",
-        "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值 / It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
-        "title_zh": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
-        "title_en": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
-        "title_original": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
-        "summary": "Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 \"idleCompaction\": false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/lydiahallie/status/2110484841926152622",
-        "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:49:51.506614Z"
-      }
-    },
-    {
-      "story_id": "story_5ff9beed0eee",
-      "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-      "url": "https://www.ithome.com/1/013/154.htm",
-      "primary_url": "https://www.ithome.com/1/013/154.htm",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5b3fed0e8c4862aa41ec3ae1ecc7f614f7b1e8bf",
-          "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-          "title_zh": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-          "title_en": null,
-          "title_original": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-          "summary": "欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/013/154.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T23:13:18.290000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家·人工智能"
-      ],
-      "items": [
-        {
-          "id": "5b3fed0e8c4862aa41ec3ae1ecc7f614f7b1e8bf",
-          "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-          "title_zh": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-          "title_en": null,
-          "title_original": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-          "summary": "欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/013/154.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T23:13:18.290000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7492,
-      "importance": 0.7492,
-      "importance_score": 0.7492,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8144,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T23:13:18.290000Z",
-      "latest_at": "2026-10-14T23:13:18.290000Z",
-      "primary_item": {
-        "id": "5b3fed0e8c4862aa41ec3ae1ecc7f614f7b1e8bf",
-        "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-        "title_zh": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-        "title_en": null,
-        "title_original": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-        "summary": "欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/013/154.htm",
-        "source": "IT之家·人工智能",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:49:51.506614Z"
-      }
-    },
-    {
-      "story_id": "story_92ccdb815e7c",
-      "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-      "primary_url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d96b16999dd832ff650709d42b0e4b2fe23a1391",
-          "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-          "title_zh": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
-          "title_en": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-          "title_original": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-          "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T18:47:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d96b16999dd832ff650709d42b0e4b2fe23a1391",
-          "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-          "title_zh": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
-          "title_en": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-          "title_original": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-          "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T18:47:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7431,
-      "importance": 0.7431,
-      "importance_score": 0.7431,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.764,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T18:47:54Z",
-      "latest_at": "2026-10-14T18:47:54Z",
-      "primary_item": {
-        "id": "d96b16999dd832ff650709d42b0e4b2fe23a1391",
-        "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-        "title_zh": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
-        "title_en": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-        "title_original": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-        "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-15T13:49:51.506614Z"
+        "scored_at": "2026-10-15T18:53:19.316237Z"
       }
     }
   ]
