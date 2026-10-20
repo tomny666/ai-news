@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-20T11:36:30.905012Z",
+  "generated_at": "2026-10-20T17:03:54.973526Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_f47486927056",
-      "title": "MPS in PyTorch 2.15",
-      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-      "primary_url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "story_id": "story_ec36170ca571",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "primary_url": "https://huggingface.co/blog/allenai/fairstress",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "391c3f558f43c5e14a1abc38a1d94b02108bb561",
-          "title": "MPS in PyTorch 2.15",
+          "id": "767fafd5fec07d80e0cf120dd4c9adf5e270f093",
+          "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
           "title_zh": null,
-          "title_en": "MPS in PyTorch 2.15",
-          "title_original": "MPS in PyTorch 2.15",
+          "title_en": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+          "title_original": "FairStress: A deeper evaluation of fairness in LLM decision-making",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+          "url": "https://huggingface.co/blog/allenai/fairstress",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-20T00:00:00Z"
+          "published_at": "2026-10-20T16:09:19Z"
         }
       ],
       "source_count": 1,
@@ -32,31 +32,31 @@
       ],
       "items": [
         {
-          "id": "391c3f558f43c5e14a1abc38a1d94b02108bb561",
-          "title": "MPS in PyTorch 2.15",
+          "id": "767fafd5fec07d80e0cf120dd4c9adf5e270f093",
+          "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
           "title_zh": null,
-          "title_en": "MPS in PyTorch 2.15",
-          "title_original": "MPS in PyTorch 2.15",
+          "title_en": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+          "title_original": "FairStress: A deeper evaluation of fairness in LLM decision-making",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+          "url": "https://huggingface.co/blog/allenai/fairstress",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-20T00:00:00Z"
+          "published_at": "2026-10-20T16:09:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8322,
-      "importance": 0.8322,
-      "importance_score": 0.8322,
+      "score": 0.8677,
+      "importance": 0.8677,
+      "importance_score": 0.8677,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8457,
+        "ai_relevance": 1.0,
+        "recency": 0.9869,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,17 +65,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-20T00:00:00Z",
-      "latest_at": "2026-10-20T00:00:00Z",
+      "earliest_at": "2026-10-20T16:09:19Z",
+      "latest_at": "2026-10-20T16:09:19Z",
       "primary_item": {
-        "id": "391c3f558f43c5e14a1abc38a1d94b02108bb561",
-        "title": "MPS in PyTorch 2.15",
+        "id": "767fafd5fec07d80e0cf120dd4c9adf5e270f093",
+        "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
         "title_zh": null,
-        "title_en": "MPS in PyTorch 2.15",
-        "title_original": "MPS in PyTorch 2.15",
+        "title_en": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+        "title_original": "FairStress: A deeper evaluation of fairness in LLM decision-making",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+        "url": "https://huggingface.co/blog/allenai/fairstress",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -83,143 +83,113 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T11:37:29.428058Z"
+        "scored_at": "2026-10-20T17:26:29.690313Z"
       }
     },
     {
-      "story_id": "story_cf7ab9adb16b",
-      "title": "OpenAI 发布 MultiLangBench 与 COBOL 迁移评测，GPT-6 系列大幅提升低资源编程语言能力 / Advancing coding in low‑resource programming languages",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "primary_url": "https://openai.com/index/low-resource-programming-languages",
-      "source": "OpenAI News",
+      "story_id": "story_a92dafcadd98",
+      "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "46221a356faca9b4325a3b93af85149bf1519363",
-          "title": "OpenAI 发布 MultiLangBench 与 COBOL 迁移评测，GPT-6 系列大幅提升低资源编程语言能力 / Advancing coding in low‑resource programming languages",
-          "title_zh": "OpenAI 发布 MultiLangBench 与 COBOL 迁移评测，GPT-6 系列大幅提升低资源编程语言能力",
-          "title_en": "Advancing coding in low‑resource programming languages",
-          "title_original": "Advancing coding in low‑resource programming languages",
+          "id": "a853390a238086bd6dc181789ce392e70ecb5e1b",
+          "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+          "title_zh": null,
+          "title_en": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+          "title_original": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/low-resource-programming-languages",
-          "source": "OpenAI News",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-19T12:00:00Z"
-        },
-        {
-          "id": "3e338e479004a0be87b2a59c9b74c33894660eb4",
-          "title": "OpenAI 发布 MultiLangBench 与 COBOL 迁移评测，GPT-6 系列大幅提升低资源编程语言能力 / Advancing Coding in Low-Resource Programming Languages",
-          "title_zh": "OpenAI 发布 MultiLangBench 与 COBOL 迁移评测，GPT-6 系列大幅提升低资源编程语言能力",
-          "title_en": "Advancing Coding in Low-Resource Programming Languages",
-          "title_original": "Advancing Coding in Low-Resource Programming Languages",
-          "summary": "OpenAI 宣布其最新模型在 COBOL、Fortran、Visual Basic 等低资源编程语言上的构建与迁移能力显著提升，并开源评测套件。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/low-resource-programming-languages",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T12:00:00Z"
+          "published_at": "2026-10-20T16:05:03Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "46221a356faca9b4325a3b93af85149bf1519363",
-          "title": "OpenAI 发布 MultiLangBench 与 COBOL 迁移评测，GPT-6 系列大幅提升低资源编程语言能力 / Advancing coding in low‑resource programming languages",
-          "title_zh": "OpenAI 发布 MultiLangBench 与 COBOL 迁移评测，GPT-6 系列大幅提升低资源编程语言能力",
-          "title_en": "Advancing coding in low‑resource programming languages",
-          "title_original": "Advancing coding in low‑resource programming languages",
+          "id": "a853390a238086bd6dc181789ce392e70ecb5e1b",
+          "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+          "title_zh": null,
+          "title_en": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+          "title_original": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/low-resource-programming-languages",
-          "source": "OpenAI News",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-19T12:00:00Z"
-        },
-        {
-          "id": "3e338e479004a0be87b2a59c9b74c33894660eb4",
-          "title": "OpenAI 发布 MultiLangBench 与 COBOL 迁移评测，GPT-6 系列大幅提升低资源编程语言能力 / Advancing Coding in Low-Resource Programming Languages",
-          "title_zh": "OpenAI 发布 MultiLangBench 与 COBOL 迁移评测，GPT-6 系列大幅提升低资源编程语言能力",
-          "title_en": "Advancing Coding in Low-Resource Programming Languages",
-          "title_original": "Advancing Coding in Low-Resource Programming Languages",
-          "summary": "OpenAI 宣布其最新模型在 COBOL、Fortran、Visual Basic 等低资源编程语言上的构建与迁移能力显著提升，并开源评测套件。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/low-resource-programming-languages",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T12:00:00Z"
+          "published_at": "2026-10-20T16:05:03Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.825,
-      "importance": 0.825,
-      "importance_score": 0.825,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8495,
+      "importance": 0.8495,
+      "importance_score": 0.8495,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7111,
-        "story_heat": 0.25
+        "recency": 0.9859,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T12:00:00Z",
-      "latest_at": "2026-10-19T12:00:00Z",
+      "earliest_at": "2026-10-20T16:05:03Z",
+      "latest_at": "2026-10-20T16:05:03Z",
       "primary_item": {
-        "id": "46221a356faca9b4325a3b93af85149bf1519363",
-        "title": "OpenAI 发布 MultiLangBench 与 COBOL 迁移评测，GPT-6 系列大幅提升低资源编程语言能力 / Advancing coding in low‑resource programming languages",
-        "title_zh": "OpenAI 发布 MultiLangBench 与 COBOL 迁移评测，GPT-6 系列大幅提升低资源编程语言能力",
-        "title_en": "Advancing coding in low‑resource programming languages",
-        "title_original": "Advancing coding in low‑resource programming languages",
+        "id": "a853390a238086bd6dc181789ce392e70ecb5e1b",
+        "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+        "title_zh": null,
+        "title_en": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+        "title_original": "How 3 Java Champions are using GitHub Copilot for increased productivity",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/low-resource-programming-languages",
-        "source": "OpenAI News",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T11:37:29.428058Z"
+        "scored_at": "2026-10-20T17:26:29.690313Z"
       }
     },
     {
-      "story_id": "story_ee1e20c5c4d0",
-      "title": "适用于企业、组织和团队的 Copilot 模型策略 API / Copilot model policy API for enterprise, orgs, and teams",
-      "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
-      "primary_url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+      "story_id": "story_b4d45cb1791e",
+      "title": "GitHub package firewall in public preview",
+      "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d7a3bbab4571fd4a441f5665333eb759a8a48671",
-          "title": "适用于企业、组织和团队的 Copilot 模型策略 API / Copilot model policy API for enterprise, orgs, and teams",
-          "title_zh": "适用于企业、组织和团队的 Copilot 模型策略 API",
-          "title_en": "Copilot model policy API for enterprise, orgs, and teams",
-          "title_original": "Copilot model policy API for enterprise, orgs, and teams",
+          "id": "cf9b2c4fb3358b75c2f32e05fa6fad8cddc7cf2a",
+          "title": "GitHub package firewall in public preview",
+          "title_zh": null,
+          "title_en": "GitHub package firewall in public preview",
+          "title_original": "GitHub package firewall in public preview",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+          "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-19T21:32:18Z"
+          "published_at": "2026-10-20T16:11:53Z"
         }
       ],
       "source_count": 1,
@@ -228,31 +198,31 @@
       ],
       "items": [
         {
-          "id": "d7a3bbab4571fd4a441f5665333eb759a8a48671",
-          "title": "适用于企业、组织和团队的 Copilot 模型策略 API / Copilot model policy API for enterprise, orgs, and teams",
-          "title_zh": "适用于企业、组织和团队的 Copilot 模型策略 API",
-          "title_en": "Copilot model policy API for enterprise, orgs, and teams",
-          "title_original": "Copilot model policy API for enterprise, orgs, and teams",
+          "id": "cf9b2c4fb3358b75c2f32e05fa6fad8cddc7cf2a",
+          "title": "GitHub package firewall in public preview",
+          "title_zh": null,
+          "title_en": "GitHub package firewall in public preview",
+          "title_original": "GitHub package firewall in public preview",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+          "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-19T21:32:18Z"
+          "published_at": "2026-10-20T16:11:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8189,
-      "importance": 0.8189,
-      "importance_score": 0.8189,
+      "score": 0.8418,
+      "importance": 0.8418,
+      "importance_score": 0.8418,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8161,
+        "ai_relevance": 0.87,
+        "recency": 0.9876,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,17 +231,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T21:32:18Z",
-      "latest_at": "2026-10-19T21:32:18Z",
+      "earliest_at": "2026-10-20T16:11:53Z",
+      "latest_at": "2026-10-20T16:11:53Z",
       "primary_item": {
-        "id": "d7a3bbab4571fd4a441f5665333eb759a8a48671",
-        "title": "适用于企业、组织和团队的 Copilot 模型策略 API / Copilot model policy API for enterprise, orgs, and teams",
-        "title_zh": "适用于企业、组织和团队的 Copilot 模型策略 API",
-        "title_en": "Copilot model policy API for enterprise, orgs, and teams",
-        "title_original": "Copilot model policy API for enterprise, orgs, and teams",
+        "id": "cf9b2c4fb3358b75c2f32e05fa6fad8cddc7cf2a",
+        "title": "GitHub package firewall in public preview",
+        "title_zh": null,
+        "title_en": "GitHub package firewall in public preview",
+        "title_original": "GitHub package firewall in public preview",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+        "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -279,7 +249,255 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T11:37:29.428058Z"
+        "scored_at": "2026-10-20T17:26:29.690313Z"
+      }
+    },
+    {
+      "story_id": "story_550f1a888b8d",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d07bee5c025f33fe52ad34183452ed32dae284c7",
+          "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+          "title_zh": null,
+          "title_en": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+          "title_original": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T15:19:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "d07bee5c025f33fe52ad34183452ed32dae284c7",
+          "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+          "title_zh": null,
+          "title_en": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+          "title_original": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T15:19:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8555,
+      "importance": 0.8555,
+      "importance_score": 0.8555,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9753,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T15:19:48Z",
+      "latest_at": "2026-10-20T15:19:48Z",
+      "primary_item": {
+        "id": "d07bee5c025f33fe52ad34183452ed32dae284c7",
+        "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+        "title_zh": null,
+        "title_en": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+        "title_original": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-20T17:26:29.690313Z"
+      }
+    },
+    {
+      "story_id": "story_d023719243dc",
+      "title": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+      "url": "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4",
+      "primary_url": "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2c3de0092c40f1f844c7d3c743016cc8f10da6c7",
+          "title": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+          "title_zh": null,
+          "title_en": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+          "title_original": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T13:52:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "2c3de0092c40f1f844c7d3c743016cc8f10da6c7",
+          "title": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+          "title_zh": null,
+          "title_en": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+          "title_original": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T13:52:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8359,
+      "importance": 0.8359,
+      "importance_score": 0.8359,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.955,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T13:52:38Z",
+      "latest_at": "2026-10-20T13:52:38Z",
+      "primary_item": {
+        "id": "2c3de0092c40f1f844c7d3c743016cc8f10da6c7",
+        "title": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+        "title_zh": null,
+        "title_en": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+        "title_original": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-20T17:26:29.690313Z"
+      }
+    },
+    {
+      "story_id": "story_4617964386d5",
+      "title": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器 / Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
+      "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons",
+      "primary_url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7cce9aa5c6722ff9c5e4448c2a1846f495719ba8",
+          "title": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器 / Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
+          "title_zh": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器",
+          "title_en": "Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
+          "title_original": "Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
+          "summary": "据 The Intercept 获取的文件，美国陆军网络司令部（ARCYBER）正在开发代号 ECHOTRIBBLE 的平台，让 AI 智能体自主在网络间移动、识别并清除威胁目标，之后自毁，且须在极少人工监督下运行。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T12:32:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7cce9aa5c6722ff9c5e4448c2a1846f495719ba8",
+          "title": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器 / Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
+          "title_zh": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器",
+          "title_en": "Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
+          "title_original": "Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
+          "summary": "据 The Intercept 获取的文件，美国陆军网络司令部（ARCYBER）正在开发代号 ECHOTRIBBLE 的平台，让 AI 智能体自主在网络间移动、识别并清除威胁目标，之后自毁，且须在极少人工监督下运行。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T12:32:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7772,
+      "importance": 0.7772,
+      "importance_score": 0.7772,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9369,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T12:32:56Z",
+      "latest_at": "2026-10-20T12:32:56Z",
+      "primary_item": {
+        "id": "7cce9aa5c6722ff9c5e4448c2a1846f495719ba8",
+        "title": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器 / Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
+        "title_zh": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器",
+        "title_en": "Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
+        "title_original": "Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
+        "summary": "据 The Intercept 获取的文件，美国陆军网络司令部（ARCYBER）正在开发代号 ECHOTRIBBLE 的平台，让 AI 智能体自主在网络间移动、识别并清除威胁目标，之后自毁，且须在极少人工监督下运行。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-20T17:26:29.690313Z"
       }
     },
     {
@@ -327,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8132,
-      "importance": 0.8132,
-      "importance_score": 0.8132,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7844,
+        "recency": 0.7249,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,90 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T11:37:29.428058Z"
-      }
-    },
-    {
-      "story_id": "story_78e3fb73f308",
-      "title": "GitHub Copilot 模型已于 2026 年 10 月 19 日弃用 / GitHub Copilot models deprecated on October 19, 2026",
-      "url": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
-      "primary_url": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cd2f4202daeb3171d498e5e04e6d92b27f4fb5ee",
-          "title": "GitHub Copilot 模型已于 2026 年 10 月 19 日弃用 / GitHub Copilot models deprecated on October 19, 2026",
-          "title_zh": "GitHub Copilot 模型已于 2026 年 10 月 19 日弃用",
-          "title_en": "GitHub Copilot models deprecated on October 19, 2026",
-          "title_original": "GitHub Copilot models deprecated on October 19, 2026",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-19T21:27:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "cd2f4202daeb3171d498e5e04e6d92b27f4fb5ee",
-          "title": "GitHub Copilot 模型已于 2026 年 10 月 19 日弃用 / GitHub Copilot models deprecated on October 19, 2026",
-          "title_zh": "GitHub Copilot 模型已于 2026 年 10 月 19 日弃用",
-          "title_en": "GitHub Copilot models deprecated on October 19, 2026",
-          "title_original": "GitHub Copilot models deprecated on October 19, 2026",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-19T21:27:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8187,
-      "importance": 0.8187,
-      "importance_score": 0.8187,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8151,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T21:27:10Z",
-      "latest_at": "2026-10-19T21:27:10Z",
-      "primary_item": {
-        "id": "cd2f4202daeb3171d498e5e04e6d92b27f4fb5ee",
-        "title": "GitHub Copilot 模型已于 2026 年 10 月 19 日弃用 / GitHub Copilot models deprecated on October 19, 2026",
-        "title_zh": "GitHub Copilot 模型已于 2026 年 10 月 19 日弃用",
-        "title_en": "GitHub Copilot models deprecated on October 19, 2026",
-        "title_original": "GitHub Copilot models deprecated on October 19, 2026",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-20T11:37:29.428058Z"
+        "scored_at": "2026-10-20T17:26:29.690313Z"
       }
     },
     {
@@ -493,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7737,
-      "importance": 0.7737,
-      "importance_score": 0.7737,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9507,
+        "recency": 0.8787,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -527,119 +662,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T11:37:29.428058Z"
+        "scored_at": "2026-10-20T17:26:29.690313Z"
       }
     },
     {
-      "story_id": "story_a1d801ce6124",
-      "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR / WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "primary_url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
+      "story_id": "story_9759ff515f71",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "primary_url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9b92d70c21c2a0694f9a91bcc134d8cf76fd0587",
-          "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR / WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-          "title_zh": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR",
-          "title_en": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-          "title_original": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-          "summary": "Redact 发现 WhatsApp 帮助中心页面向 LLM 发送用户看不到的隐藏指令，指示其支持聊天机器人不推荐数据保护监管机构，并在用户提到律师或法律行动后不引用 GDPR、LGPD 或 CCPA。",
-          "recommend_reason_zh": null,
-          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T16:00:00Z"
-        },
-        {
-          "id": "1147ca0876305e6b45ead5ae30592cf2cfd428ff",
-          "title": "WhatsApp的帮助页面隐藏了大型语言模型（LLM）的指令：不要推荐监管机构",
-          "title_zh": "WhatsApp的帮助页面隐藏了大型语言模型（LLM）的指令：不要推荐监管机构",
-          "title_en": null,
-          "title_original": "WhatsApp的帮助页面隐藏了大型语言模型（LLM）的指令：不要推荐监管机构",
+          "id": "5d327d86ed0202b158b3c8112e0d93ee778924dc",
+          "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+          "title_zh": null,
+          "title_en": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+          "title_original": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-          "source": "redact.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-20T04:21:32.552000Z"
+          "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T00:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News：AI 热帖",
-        "redact.dev"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "9b92d70c21c2a0694f9a91bcc134d8cf76fd0587",
-          "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR / WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-          "title_zh": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR",
-          "title_en": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-          "title_original": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-          "summary": "Redact 发现 WhatsApp 帮助中心页面向 LLM 发送用户看不到的隐藏指令，指示其支持聊天机器人不推荐数据保护监管机构，并在用户提到律师或法律行动后不引用 GDPR、LGPD 或 CCPA。",
-          "recommend_reason_zh": null,
-          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T16:00:00Z"
-        },
-        {
-          "id": "1147ca0876305e6b45ead5ae30592cf2cfd428ff",
-          "title": "WhatsApp的帮助页面隐藏了大型语言模型（LLM）的指令：不要推荐监管机构",
-          "title_zh": "WhatsApp的帮助页面隐藏了大型语言模型（LLM）的指令：不要推荐监管机构",
-          "title_en": null,
-          "title_original": "WhatsApp的帮助页面隐藏了大型语言模型（LLM）的指令：不要推荐监管机构",
+          "id": "5d327d86ed0202b158b3c8112e0d93ee778924dc",
+          "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+          "title_zh": null,
+          "title_en": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+          "title_original": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-          "source": "redact.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-20T04:21:32.552000Z"
+          "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T00:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7722,
-      "importance": 0.7722,
-      "importance_score": 0.7722,
-      "importance_label": "行业动态",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7534,
-        "story_heat": 0.25
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7816,
+        "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T16:00:00Z",
-      "latest_at": "2026-10-20T04:21:32.552000Z",
+      "earliest_at": "2026-10-20T00:00:00Z",
+      "latest_at": "2026-10-20T00:00:00Z",
       "primary_item": {
-        "id": "9b92d70c21c2a0694f9a91bcc134d8cf76fd0587",
-        "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR / WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-        "title_zh": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR",
-        "title_en": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-        "title_original": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-        "summary": "Redact 发现 WhatsApp 帮助中心页面向 LLM 发送用户看不到的隐藏指令，指示其支持聊天机器人不推荐数据保护监管机构，并在用户提到律师或法律行动后不引用 GDPR、LGPD 或 CCPA。",
+        "id": "5d327d86ed0202b158b3c8112e0d93ee778924dc",
+        "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+        "title_zh": null,
+        "title_en": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+        "title_original": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-        "source": "Hacker News：AI 热帖",
+        "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-20T17:26:29.690313Z"
+      }
+    },
+    {
+      "story_id": "story_5e5429c6e3a2",
+      "title": "Google 与 Meta 发布 TorchTPU：PyTorch 原生 TPU 后端 / Introducing TorchTPU",
+      "url": "https://pytorch.org/blog/introducing-torchtpu",
+      "primary_url": "https://pytorch.org/blog/introducing-torchtpu",
+      "source": "PyTorch：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "15a5fedffacaa3c59e0706f11599f75b567e32b2",
+          "title": "Google 与 Meta 发布 TorchTPU：PyTorch 原生 TPU 后端 / Introducing TorchTPU",
+          "title_zh": "Google 与 Meta 发布 TorchTPU：PyTorch 原生 TPU 后端",
+          "title_en": "Introducing TorchTPU",
+          "title_original": "Introducing TorchTPU",
+          "summary": "Google 与 Meta 发布开源项目 TorchTPU，为 Google TPU 提供原生 PyTorch 后端，模型迁移只需把 .to(\"cuda\") 改为 .to(\"tpu\")。",
+          "recommend_reason_zh": null,
+          "url": "https://pytorch.org/blog/introducing-torchtpu",
+          "source": "PyTorch：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T16:00:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "PyTorch：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "15a5fedffacaa3c59e0706f11599f75b567e32b2",
+          "title": "Google 与 Meta 发布 TorchTPU：PyTorch 原生 TPU 后端 / Introducing TorchTPU",
+          "title_zh": "Google 与 Meta 发布 TorchTPU：PyTorch 原生 TPU 后端",
+          "title_en": "Introducing TorchTPU",
+          "title_original": "Introducing TorchTPU",
+          "summary": "Google 与 Meta 发布开源项目 TorchTPU，为 Google TPU 提供原生 PyTorch 后端，模型迁移只需把 .to(\"cuda\") 改为 .to(\"tpu\")。",
+          "recommend_reason_zh": null,
+          "url": "https://pytorch.org/blog/introducing-torchtpu",
+          "source": "PyTorch：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T16:00:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7589,
+      "importance": 0.7589,
+      "importance_score": 0.7589,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9849,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T16:00:30Z",
+      "latest_at": "2026-10-20T16:00:30Z",
+      "primary_item": {
+        "id": "15a5fedffacaa3c59e0706f11599f75b567e32b2",
+        "title": "Google 与 Meta 发布 TorchTPU：PyTorch 原生 TPU 后端 / Introducing TorchTPU",
+        "title_zh": "Google 与 Meta 发布 TorchTPU：PyTorch 原生 TPU 后端",
+        "title_en": "Introducing TorchTPU",
+        "title_original": "Introducing TorchTPU",
+        "summary": "Google 与 Meta 发布开源项目 TorchTPU，为 Google TPU 提供原生 PyTorch 后端，模型迁移只需把 .to(\"cuda\") 改为 .to(\"tpu\")。",
+        "recommend_reason_zh": null,
+        "url": "https://pytorch.org/blog/introducing-torchtpu",
+        "source": "PyTorch：Blog（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T11:37:29.428058Z"
+        "scored_at": "2026-10-20T17:26:29.690313Z"
       }
     },
     {
@@ -687,15 +875,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7697,
-      "importance": 0.7697,
-      "importance_score": 0.7697,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9618,
+        "recency": 0.889,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -721,7 +909,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T11:37:29.428058Z"
+        "scored_at": "2026-10-20T17:26:29.690313Z"
       }
     },
     {
@@ -769,15 +957,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9242,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -803,7 +991,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T11:37:29.428058Z"
+        "scored_at": "2026-10-20T17:26:29.690313Z"
       }
     },
     {
@@ -851,21 +1039,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8024,
+        "recency": 0.7416,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-19T20:21:53Z",
       "latest_at": "2026-10-19T20:21:53Z",
@@ -885,7 +1072,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T11:37:29.428058Z"
+        "scored_at": "2026-10-20T17:26:29.690313Z"
+      }
+    },
+    {
+      "story_id": "story_ee1e20c5c4d0",
+      "title": "适用于企业、组织和团队的 Copilot 模型策略 API / Copilot model policy API for enterprise, orgs, and teams",
+      "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+      "primary_url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d7a3bbab4571fd4a441f5665333eb759a8a48671",
+          "title": "适用于企业、组织和团队的 Copilot 模型策略 API / Copilot model policy API for enterprise, orgs, and teams",
+          "title_zh": "适用于企业、组织和团队的 Copilot 模型策略 API",
+          "title_en": "Copilot model policy API for enterprise, orgs, and teams",
+          "title_original": "Copilot model policy API for enterprise, orgs, and teams",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T21:32:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d7a3bbab4571fd4a441f5665333eb759a8a48671",
+          "title": "适用于企业、组织和团队的 Copilot 模型策略 API / Copilot model policy API for enterprise, orgs, and teams",
+          "title_zh": "适用于企业、组织和团队的 Copilot 模型策略 API",
+          "title_en": "Copilot model policy API for enterprise, orgs, and teams",
+          "title_original": "Copilot model policy API for enterprise, orgs, and teams",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T21:32:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7543,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T21:32:18Z",
+      "latest_at": "2026-10-19T21:32:18Z",
+      "primary_item": {
+        "id": "d7a3bbab4571fd4a441f5665333eb759a8a48671",
+        "title": "适用于企业、组织和团队的 Copilot 模型策略 API / Copilot model policy API for enterprise, orgs, and teams",
+        "title_zh": "适用于企业、组织和团队的 Copilot 模型策略 API",
+        "title_en": "Copilot model policy API for enterprise, orgs, and teams",
+        "title_original": "Copilot model policy API for enterprise, orgs, and teams",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-20T17:26:29.690313Z"
+      }
+    },
+    {
+      "story_id": "story_7a89e421b5d2",
+      "title": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理 / You can now run Perplexity Computer fully local on your Mac with no cloud based inference, without WiFi too. Enjoy!",
+      "url": "https://x.com/AravSrinivas/status/2112583333825950207",
+      "primary_url": "https://x.com/AravSrinivas/status/2112583333825950207",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f7fea6388683ec6f6fde3d111f93eacfe3fbc7dd",
+          "title": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理 / You can now run Perplexity Computer fully local on your Mac with no cloud based inference, without WiFi too. Enjoy!",
+          "title_zh": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理",
+          "title_en": "You can now run Perplexity Computer fully local on your Mac with no cloud based inference, without WiFi too. Enjoy!",
+          "title_original": "You can now run Perplexity Computer fully local on your Mac with no cloud based inference, without WiFi too. Enjoy!",
+          "summary": "Perplexity CEO Aravind Srinivas 宣布，Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理，也不用 WiFi。模型和智能体都在本机运行，可操作 Mac 原生应用和本地文件，敏感数据不必发送到云端，现已在 Perplexity Mac 应用中可用。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AravSrinivas/status/2112583333825950207",
+          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T16:34:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
+      ],
+      "items": [
+        {
+          "id": "f7fea6388683ec6f6fde3d111f93eacfe3fbc7dd",
+          "title": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理 / You can now run Perplexity Computer fully local on your Mac with no cloud based inference, without WiFi too. Enjoy!",
+          "title_zh": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理",
+          "title_en": "You can now run Perplexity Computer fully local on your Mac with no cloud based inference, without WiFi too. Enjoy!",
+          "title_original": "You can now run Perplexity Computer fully local on your Mac with no cloud based inference, without WiFi too. Enjoy!",
+          "summary": "Perplexity CEO Aravind Srinivas 宣布，Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理，也不用 WiFi。模型和智能体都在本机运行，可操作 Mac 原生应用和本地文件，敏感数据不必发送到云端，现已在 Perplexity Mac 应用中可用。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AravSrinivas/status/2112583333825950207",
+          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T16:34:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.993,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-20T16:34:51Z",
+      "latest_at": "2026-10-20T16:34:51Z",
+      "primary_item": {
+        "id": "f7fea6388683ec6f6fde3d111f93eacfe3fbc7dd",
+        "title": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理 / You can now run Perplexity Computer fully local on your Mac with no cloud based inference, without WiFi too. Enjoy!",
+        "title_zh": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理",
+        "title_en": "You can now run Perplexity Computer fully local on your Mac with no cloud based inference, without WiFi too. Enjoy!",
+        "title_original": "You can now run Perplexity Computer fully local on your Mac with no cloud based inference, without WiFi too. Enjoy!",
+        "summary": "Perplexity CEO Aravind Srinivas 宣布，Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理，也不用 WiFi。模型和智能体都在本机运行，可操作 Mac 原生应用和本地文件，敏感数据不必发送到云端，现已在 Perplexity Mac 应用中可用。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/AravSrinivas/status/2112583333825950207",
+        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-20T17:26:29.690313Z"
       }
     },
     {
@@ -933,15 +1284,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.7382,
+      "importance": 0.7382,
+      "importance_score": 0.7382,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.851,
+        "recency": 0.7865,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -966,7 +1317,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T11:37:29.428058Z"
+        "scored_at": "2026-10-20T17:26:29.690313Z"
+      }
+    },
+    {
+      "story_id": "story_827d21204e5d",
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "primary_url": "https://huggingface.co/blog/hf-torchtpu",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3ce3d96d4d9e210419239d6e44aebd1142a4e5b8",
+          "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+          "title_zh": null,
+          "title_en": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+          "title_original": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/hf-torchtpu",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "3ce3d96d4d9e210419239d6e44aebd1142a4e5b8",
+          "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+          "title_zh": null,
+          "title_en": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+          "title_original": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/hf-torchtpu",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7816,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T00:00:00Z",
+      "latest_at": "2026-10-20T00:00:00Z",
+      "primary_item": {
+        "id": "3ce3d96d4d9e210419239d6e44aebd1142a4e5b8",
+        "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+        "title_zh": null,
+        "title_en": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+        "title_original": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/hf-torchtpu",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-20T17:26:29.690313Z"
       }
     },
     {
@@ -1014,15 +1448,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.7298,
+      "importance": 0.7298,
+      "importance_score": 0.7298,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9272,
+        "recency": 0.8569,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1047,7 +1481,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T11:37:29.428058Z"
+        "scored_at": "2026-10-20T17:26:29.690313Z"
       }
     },
     {
@@ -1095,15 +1529,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9242,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1129,88 +1563,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T11:37:29.428058Z"
-      }
-    },
-    {
-      "story_id": "story_0e04939a4dfa",
-      "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5a71b72738c60b7a3aa4baa369b0188a2a9b0d31",
-          "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents",
-          "title_zh": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
-          "title_en": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-          "title_original": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-          "summary": "AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T13:58:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5a71b72738c60b7a3aa4baa369b0188a2a9b0d31",
-          "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents",
-          "title_zh": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
-          "title_en": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-          "title_original": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-          "summary": "AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T13:58:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7317,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-19T13:58:41Z",
-      "latest_at": "2026-10-19T13:58:41Z",
-      "primary_item": {
-        "id": "5a71b72738c60b7a3aa4baa369b0188a2a9b0d31",
-        "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents",
-        "title_zh": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
-        "title_en": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-        "title_original": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-        "summary": "AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-20T11:37:29.428058Z"
+        "scored_at": "2026-10-20T17:26:29.690313Z"
       }
     },
     {
@@ -1258,15 +1611,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7338,
-      "importance": 0.7338,
-      "importance_score": 0.7338,
+      "score": 0.7232,
+      "importance": 0.7232,
+      "importance_score": 0.7232,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.779,
+        "recency": 0.72,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1291,415 +1644,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-20T11:37:29.428058Z"
-      }
-    },
-    {
-      "story_id": "story_06693270d023",
-      "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品 / The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-      "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
-      "primary_url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dcdd0d6a2a993f4fa84a054f54e8908fe45aefc5",
-          "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品 / The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-          "title_zh": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
-          "title_en": "The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-          "title_original": "The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-          "summary": "美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。",
-          "recommend_reason_zh": null,
-          "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T15:05:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News：AI 热帖"
-      ],
-      "items": [
-        {
-          "id": "dcdd0d6a2a993f4fa84a054f54e8908fe45aefc5",
-          "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品 / The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-          "title_zh": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
-          "title_en": "The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-          "title_original": "The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-          "summary": "美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。",
-          "recommend_reason_zh": null,
-          "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T15:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7435,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T15:05:00Z",
-      "latest_at": "2026-10-19T15:05:00Z",
-      "primary_item": {
-        "id": "dcdd0d6a2a993f4fa84a054f54e8908fe45aefc5",
-        "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品 / The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-        "title_zh": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
-        "title_en": "The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-        "title_original": "The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-        "summary": "美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。",
-        "recommend_reason_zh": null,
-        "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-20T11:37:29.428058Z"
-      }
-    },
-    {
-      "story_id": "story_29621b763313",
-      "title": "Waymo 宣布进军西班牙，2027 年在马德里大区迎接首批乘客 / ¡Llegamos a Madrid! Waymo is coming to Spain",
-      "url": "https://waymo.com/blog/2026/10/waymo-in-madrid-region",
-      "primary_url": "https://waymo.com/blog/2026/10/waymo-in-madrid-region",
-      "source": "Waymo：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "860c38d9d46fd686c5322ef54e4135f69bfaef3d",
-          "title": "Waymo 宣布进军西班牙，2027 年在马德里大区迎接首批乘客 / ¡Llegamos a Madrid! Waymo is coming to Spain",
-          "title_zh": "Waymo 宣布进军西班牙，2027 年在马德里大区迎接首批乘客",
-          "title_en": "¡Llegamos a Madrid! Waymo is coming to Spain",
-          "title_original": "¡Llegamos a Madrid! Waymo is coming to Spain",
-          "summary": "Waymo 宣布为在西班牙马德里大区推出全自动驾驶出行服务奠定基础，目标 2027 年迎来首批乘客。未来数日其电动 Jaguar I-PACE 车辆将现身当地街头，先以人工驾驶开始，再由当地受训的自动驾驶专家进行技术验证。Waymo 称已累计完成逾 2000 万次行程、400 万公里全自动驾驶里程，在其运营城市中涉及重伤或更严重事故的比例比人类司机低 95%。",
-          "recommend_reason_zh": null,
-          "url": "https://waymo.com/blog/2026/10/waymo-in-madrid-region",
-          "source": "Waymo：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-20T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Waymo：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "860c38d9d46fd686c5322ef54e4135f69bfaef3d",
-          "title": "Waymo 宣布进军西班牙，2027 年在马德里大区迎接首批乘客 / ¡Llegamos a Madrid! Waymo is coming to Spain",
-          "title_zh": "Waymo 宣布进军西班牙，2027 年在马德里大区迎接首批乘客",
-          "title_en": "¡Llegamos a Madrid! Waymo is coming to Spain",
-          "title_original": "¡Llegamos a Madrid! Waymo is coming to Spain",
-          "summary": "Waymo 宣布为在西班牙马德里大区推出全自动驾驶出行服务奠定基础，目标 2027 年迎来首批乘客。未来数日其电动 Jaguar I-PACE 车辆将现身当地街头，先以人工驾驶开始，再由当地受训的自动驾驶专家进行技术验证。Waymo 称已累计完成逾 2000 万次行程、400 万公里全自动驾驶里程，在其运营城市中涉及重伤或更严重事故的比例比人类司机低 95%。",
-          "recommend_reason_zh": null,
-          "url": "https://waymo.com/blog/2026/10/waymo-in-madrid-region",
-          "source": "Waymo：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-20T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.72,
-      "importance": 0.72,
-      "importance_score": 0.72,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9356,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-20T07:00:00Z",
-      "latest_at": "2026-10-20T07:00:00Z",
-      "primary_item": {
-        "id": "860c38d9d46fd686c5322ef54e4135f69bfaef3d",
-        "title": "Waymo 宣布进军西班牙，2027 年在马德里大区迎接首批乘客 / ¡Llegamos a Madrid! Waymo is coming to Spain",
-        "title_zh": "Waymo 宣布进军西班牙，2027 年在马德里大区迎接首批乘客",
-        "title_en": "¡Llegamos a Madrid! Waymo is coming to Spain",
-        "title_original": "¡Llegamos a Madrid! Waymo is coming to Spain",
-        "summary": "Waymo 宣布为在西班牙马德里大区推出全自动驾驶出行服务奠定基础，目标 2027 年迎来首批乘客。未来数日其电动 Jaguar I-PACE 车辆将现身当地街头，先以人工驾驶开始，再由当地受训的自动驾驶专家进行技术验证。Waymo 称已累计完成逾 2000 万次行程、400 万公里全自动驾驶里程，在其运营城市中涉及重伤或更严重事故的比例比人类司机低 95%。",
-        "recommend_reason_zh": null,
-        "url": "https://waymo.com/blog/2026/10/waymo-in-madrid-region",
-        "source": "Waymo：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-20T11:37:29.428058Z"
-      }
-    },
-    {
-      "story_id": "story_d4c2b72e8c74",
-      "title": "AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
-      "url": "https://www.aibase.com/news/31757",
-      "primary_url": "https://www.aibase.com/news/31757",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "66d00aeb616f3d45fe8f83d7be519c122995b445",
-          "title": "AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
-          "title_zh": "AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
-          "title_en": null,
-          "title_original": "AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31757",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-20T11:36:30.905012Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "66d00aeb616f3d45fe8f83d7be519c122995b445",
-          "title": "AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
-          "title_zh": "AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
-          "title_en": null,
-          "title_original": "AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31757",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-20T11:36:30.905012Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-20T11:36:30.905012Z",
-      "latest_at": "2026-10-20T11:36:30.905012Z",
-      "primary_item": {
-        "id": "66d00aeb616f3d45fe8f83d7be519c122995b445",
-        "title": "AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
-        "title_zh": "AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
-        "title_en": null,
-        "title_original": "AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31757",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-20T11:37:29.428058Z"
-      }
-    },
-    {
-      "story_id": "story_4344acbfe0e3",
-      "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼 / Disney found a way to buy Character.AI without buying its lawsuits",
-      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8ac36900fb5c55e23d0382fa49821eef5c6fac4e",
-          "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼 / Disney found a way to buy Character.AI without buying its lawsuits",
-          "title_zh": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼",
-          "title_en": "Disney found a way to buy Character.AI without buying its lawsuits",
-          "title_original": "Disney found a way to buy Character.AI without buying its lawsuits",
-          "summary": "若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T14:45:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8ac36900fb5c55e23d0382fa49821eef5c6fac4e",
-          "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼 / Disney found a way to buy Character.AI without buying its lawsuits",
-          "title_zh": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼",
-          "title_en": "Disney found a way to buy Character.AI without buying its lawsuits",
-          "title_original": "Disney found a way to buy Character.AI without buying its lawsuits",
-          "summary": "若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T14:45:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7401,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-19T14:45:43Z",
-      "latest_at": "2026-10-19T14:45:43Z",
-      "primary_item": {
-        "id": "8ac36900fb5c55e23d0382fa49821eef5c6fac4e",
-        "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼 / Disney found a way to buy Character.AI without buying its lawsuits",
-        "title_zh": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼",
-        "title_en": "Disney found a way to buy Character.AI without buying its lawsuits",
-        "title_original": "Disney found a way to buy Character.AI without buying its lawsuits",
-        "summary": "若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。",
-        "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-20T11:37:29.428058Z"
-      }
-    },
-    {
-      "story_id": "story_94b5785a17cf",
-      "title": "DeepSeek 再掀开源浪潮：内部推理框架 DeepInfer 全面公开，剑指\"大模型普惠\"",
-      "url": "https://www.aibase.com/news/31759",
-      "primary_url": "https://www.aibase.com/news/31759",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c067a16e30162422084d48703b6cec4836a77b93",
-          "title": "DeepSeek 再掀开源浪潮：内部推理框架 DeepInfer 全面公开，剑指\"大模型普惠\"",
-          "title_zh": "DeepSeek 再掀开源浪潮：内部推理框架 DeepInfer 全面公开，剑指\"大模型普惠\"",
-          "title_en": null,
-          "title_original": "DeepSeek 再掀开源浪潮：内部推理框架 DeepInfer 全面公开，剑指\"大模型普惠\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31759",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-20T11:36:30.905012Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c067a16e30162422084d48703b6cec4836a77b93",
-          "title": "DeepSeek 再掀开源浪潮：内部推理框架 DeepInfer 全面公开，剑指\"大模型普惠\"",
-          "title_zh": "DeepSeek 再掀开源浪潮：内部推理框架 DeepInfer 全面公开，剑指\"大模型普惠\"",
-          "title_en": null,
-          "title_original": "DeepSeek 再掀开源浪潮：内部推理框架 DeepInfer 全面公开，剑指\"大模型普惠\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31759",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-20T11:36:30.905012Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-20T11:36:30.905012Z",
-      "latest_at": "2026-10-20T11:36:30.905012Z",
-      "primary_item": {
-        "id": "c067a16e30162422084d48703b6cec4836a77b93",
-        "title": "DeepSeek 再掀开源浪潮：内部推理框架 DeepInfer 全面公开，剑指\"大模型普惠\"",
-        "title_zh": "DeepSeek 再掀开源浪潮：内部推理框架 DeepInfer 全面公开，剑指\"大模型普惠\"",
-        "title_en": null,
-        "title_original": "DeepSeek 再掀开源浪潮：内部推理框架 DeepInfer 全面公开，剑指\"大模型普惠\"",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31759",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-20T11:37:29.428058Z"
+        "scored_at": "2026-10-20T17:26:29.690313Z"
       }
     }
   ]
