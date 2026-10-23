@@ -1,112 +1,29 @@
 {
-  "generated_at": "2026-10-22T22:21:52.153743Z",
+  "generated_at": "2026-10-23T01:31:18.410166Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_ea79a79632a0",
-      "title": "Global default for Copilot features generally available",
-      "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-          "title": "Global default for Copilot features generally available",
-          "title_zh": null,
-          "title_en": "Global default for Copilot features generally available",
-          "title_original": "Global default for Copilot features generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T20:44:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-          "title": "Global default for Copilot features generally available",
-          "title_zh": null,
-          "title_en": "Global default for Copilot features generally available",
-          "title_original": "Global default for Copilot features generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T20:44:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8478,
-      "importance": 0.8478,
-      "importance_score": 0.8478,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9768,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T20:44:28Z",
-      "latest_at": "2026-10-22T20:44:28Z",
-      "primary_item": {
-        "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-        "title": "Global default for Copilot features generally available",
-        "title_zh": null,
-        "title_en": "Global default for Copilot features generally available",
-        "title_original": "Global default for Copilot features generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-22T22:46:57.183270Z"
-      }
-    },
-    {
-      "story_id": "story_b096e4b4df6f",
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "primary_url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "story_id": "story_cabd6fe41d82",
+      "title": "将数据库评分转化为强化学习奖励：使用 ThinkingBox 进行训练后智能体 / Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "primary_url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7a0a11be8277fe6cc1525ac93f63930b4220fa4a",
-          "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-          "title_zh": null,
-          "title_en": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-          "title_original": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+          "id": "07204776abfe7c72a874d53eb6d5212bde479474",
+          "title": "将数据库评分转化为强化学习奖励：使用 ThinkingBox 进行训练后智能体 / Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+          "title_zh": "将数据库评分转化为强化学习奖励：使用 ThinkingBox 进行训练后智能体",
+          "title_en": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+          "title_original": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T16:11:31Z"
+          "published_at": "2026-10-22T22:24:34Z"
         }
       ],
       "source_count": 1,
@@ -115,31 +32,31 @@
       ],
       "items": [
         {
-          "id": "7a0a11be8277fe6cc1525ac93f63930b4220fa4a",
-          "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-          "title_zh": null,
-          "title_en": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-          "title_original": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+          "id": "07204776abfe7c72a874d53eb6d5212bde479474",
+          "title": "将数据库评分转化为强化学习奖励：使用 ThinkingBox 进行训练后智能体 / Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+          "title_zh": "将数据库评分转化为强化学习奖励：使用 ThinkingBox 进行训练后智能体",
+          "title_en": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+          "title_original": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T16:11:31Z"
+          "published_at": "2026-10-22T22:24:34Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8446,
-      "importance": 0.8446,
-      "importance_score": 0.8446,
+      "score": 0.8521,
+      "importance": 0.8521,
+      "importance_score": 0.8521,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9147,
+        "recency": 0.9561,
         "story_heat": 0.0
       },
       "category": "official",
@@ -148,17 +65,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T16:11:31Z",
-      "latest_at": "2026-10-22T16:11:31Z",
+      "earliest_at": "2026-10-22T22:24:34Z",
+      "latest_at": "2026-10-22T22:24:34Z",
       "primary_item": {
-        "id": "7a0a11be8277fe6cc1525ac93f63930b4220fa4a",
-        "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-        "title_zh": null,
-        "title_en": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-        "title_original": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+        "id": "07204776abfe7c72a874d53eb6d5212bde479474",
+        "title": "将数据库评分转化为强化学习奖励：使用 ThinkingBox 进行训练后智能体 / Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+        "title_zh": "将数据库评分转化为强化学习奖励：使用 ThinkingBox 进行训练后智能体",
+        "title_en": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+        "title_original": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+        "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -166,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T22:46:57.183270Z"
+        "scored_at": "2026-10-23T01:32:06.738372Z"
+      }
+    },
+    {
+      "story_id": "story_fde7fea26706",
+      "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
+      "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+      "primary_url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
+          "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
+          "title_zh": "Visual Studio 中的 GitHub Copilot — 9 月更新",
+          "title_en": "GitHub Copilot in Visual Studio — September update",
+          "title_original": "GitHub Copilot in Visual Studio — September update",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T00:17:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
+          "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
+          "title_zh": "Visual Studio 中的 GitHub Copilot — 9 月更新",
+          "title_en": "GitHub Copilot in Visual Studio — September update",
+          "title_original": "GitHub Copilot in Visual Studio — September update",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T00:17:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8488,
+      "importance": 0.8488,
+      "importance_score": 0.8488,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9825,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T00:17:51Z",
+      "latest_at": "2026-10-23T00:17:51Z",
+      "primary_item": {
+        "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
+        "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
+        "title_zh": "Visual Studio 中的 GitHub Copilot — 9 月更新",
+        "title_en": "GitHub Copilot in Visual Studio — September update",
+        "title_original": "GitHub Copilot in Visual Studio — September update",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T01:32:06.738372Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8435,
-      "importance": 0.8435,
-      "importance_score": 0.8435,
+      "score": 0.8358,
+      "importance": 0.8358,
+      "importance_score": 0.8358,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9526,
+        "recency": 0.9101,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T22:46:57.183270Z"
+        "scored_at": "2026-10-23T01:32:06.738372Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8927,
+        "recency": 0.8529,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,30 +332,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T22:46:57.183270Z"
+        "scored_at": "2026-10-23T01:32:06.738372Z"
       }
     },
     {
-      "story_id": "story_2bb3b3856ddd",
-      "title": "Industry comparisons in the Copilot impact dashboard",
-      "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-      "primary_url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+      "story_id": "story_99e301a8a71e",
+      "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
+      "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+      "primary_url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
-          "title": "Industry comparisons in the Copilot impact dashboard",
-          "title_zh": null,
-          "title_en": "Industry comparisons in the Copilot impact dashboard",
-          "title_original": "Industry comparisons in the Copilot impact dashboard",
+          "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
+          "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
+          "title_zh": "使用指标 API 中的自定义技能、代理和 MCP 服务器",
+          "title_en": "Custom skills, agents, and MCP servers in usage metrics API",
+          "title_original": "Custom skills, agents, and MCP servers in usage metrics API",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+          "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T16:28:24Z"
+          "published_at": "2026-10-22T22:19:17Z"
         }
       ],
       "source_count": 1,
@@ -364,18 +364,101 @@
       ],
       "items": [
         {
-          "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
-          "title": "Industry comparisons in the Copilot impact dashboard",
-          "title_zh": null,
-          "title_en": "Industry comparisons in the Copilot impact dashboard",
-          "title_original": "Industry comparisons in the Copilot impact dashboard",
+          "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
+          "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
+          "title_zh": "使用指标 API 中的自定义技能、代理和 MCP 服务器",
+          "title_en": "Custom skills, agents, and MCP servers in usage metrics API",
+          "title_original": "Custom skills, agents, and MCP servers in usage metrics API",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+          "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T16:28:24Z"
+          "published_at": "2026-10-22T22:19:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8439,
+      "importance": 0.8439,
+      "importance_score": 0.8439,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9548,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T22:19:17Z",
+      "latest_at": "2026-10-22T22:19:17Z",
+      "primary_item": {
+        "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
+        "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
+        "title_zh": "使用指标 API 中的自定义技能、代理和 MCP 服务器",
+        "title_en": "Custom skills, agents, and MCP servers in usage metrics API",
+        "title_original": "Custom skills, agents, and MCP servers in usage metrics API",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T01:32:06.738372Z"
+      }
+    },
+    {
+      "story_id": "story_b096e4b4df6f",
+      "title": "OlmoEarth v1.3：整个地球最先进的嵌入 / OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "primary_url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7a0a11be8277fe6cc1525ac93f63930b4220fa4a",
+          "title": "OlmoEarth v1.3：整个地球最先进的嵌入 / OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+          "title_zh": "OlmoEarth v1.3：整个地球最先进的嵌入",
+          "title_en": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+          "title_original": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T16:11:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "7a0a11be8277fe6cc1525ac93f63930b4220fa4a",
+          "title": "OlmoEarth v1.3：整个地球最先进的嵌入 / OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+          "title_zh": "OlmoEarth v1.3：整个地球最先进的嵌入",
+          "title_en": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+          "title_original": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T16:11:31Z"
         }
       ],
       "item_count": 1,
@@ -387,91 +470,8 @@
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9184,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T16:28:24Z",
-      "latest_at": "2026-10-22T16:28:24Z",
-      "primary_item": {
-        "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
-        "title": "Industry comparisons in the Copilot impact dashboard",
-        "title_zh": null,
-        "title_en": "Industry comparisons in the Copilot impact dashboard",
-        "title_original": "Industry comparisons in the Copilot impact dashboard",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-22T22:46:57.183270Z"
-      }
-    },
-    {
-      "story_id": "story_30ae19eb5cdf",
-      "title": "使用 IBM Granite 时间序列模型进行集合预测 / Ensemble forecasting with IBM Granite time-series models",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "primary_url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7cb33189552d9e5b25bb3a8bd053cde189fc030f",
-          "title": "使用 IBM Granite 时间序列模型进行集合预测 / Ensemble forecasting with IBM Granite time-series models",
-          "title_zh": "使用 IBM Granite 时间序列模型进行集合预测",
-          "title_en": "Ensemble forecasting with IBM Granite time-series models",
-          "title_original": "Ensemble forecasting with IBM Granite time-series models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T07:51:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "7cb33189552d9e5b25bb3a8bd053cde189fc030f",
-          "title": "使用 IBM Granite 时间序列模型进行集合预测 / Ensemble forecasting with IBM Granite time-series models",
-          "title_zh": "使用 IBM Granite 时间序列模型进行集合预测",
-          "title_en": "Ensemble forecasting with IBM Granite time-series models",
-          "title_original": "Ensemble forecasting with IBM Granite time-series models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T07:51:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.826,
-      "importance": 0.826,
-      "importance_score": 0.826,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.811,
+        "recency": 0.874,
         "story_heat": 0.0
       },
       "category": "official",
@@ -480,17 +480,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T07:51:31Z",
-      "latest_at": "2026-10-22T07:51:31Z",
+      "earliest_at": "2026-10-22T16:11:31Z",
+      "latest_at": "2026-10-22T16:11:31Z",
       "primary_item": {
-        "id": "7cb33189552d9e5b25bb3a8bd053cde189fc030f",
-        "title": "使用 IBM Granite 时间序列模型进行集合预测 / Ensemble forecasting with IBM Granite time-series models",
-        "title_zh": "使用 IBM Granite 时间序列模型进行集合预测",
-        "title_en": "Ensemble forecasting with IBM Granite time-series models",
-        "title_original": "Ensemble forecasting with IBM Granite time-series models",
+        "id": "7a0a11be8277fe6cc1525ac93f63930b4220fa4a",
+        "title": "OlmoEarth v1.3：整个地球最先进的嵌入 / OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+        "title_zh": "OlmoEarth v1.3：整个地球最先进的嵌入",
+        "title_en": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+        "title_original": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+        "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -498,7 +498,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T22:46:57.183270Z"
+        "scored_at": "2026-10-23T01:32:06.738372Z"
+      }
+    },
+    {
+      "story_id": "story_ea79a79632a0",
+      "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
+      "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
+          "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
+          "title_zh": "Copilot 功能的全局默认设置已全面可用",
+          "title_en": "Global default for Copilot features generally available",
+          "title_original": "Global default for Copilot features generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T20:44:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
+          "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
+          "title_zh": "Copilot 功能的全局默认设置已全面可用",
+          "title_en": "Global default for Copilot features generally available",
+          "title_original": "Global default for Copilot features generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T20:44:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9333,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T20:44:28Z",
+      "latest_at": "2026-10-22T20:44:28Z",
+      "primary_item": {
+        "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
+        "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
+        "title_zh": "Copilot 功能的全局默认设置已全面可用",
+        "title_en": "Global default for Copilot features generally available",
+        "title_original": "Global default for Copilot features generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T01:32:06.738372Z"
       }
     },
     {
@@ -546,15 +629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7895,
+        "recency": 0.7543,
         "story_heat": 0.0
       },
       "category": "official",
@@ -581,7 +664,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T22:46:57.183270Z"
+        "scored_at": "2026-10-23T01:32:06.738372Z"
       }
     },
     {
@@ -629,15 +712,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7819,
-      "importance": 0.7819,
-      "importance_score": 0.7819,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9629,
+        "recency": 0.92,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -663,7 +746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T22:46:57.183270Z"
+        "scored_at": "2026-10-23T01:32:06.738372Z"
       }
     },
     {
@@ -711,15 +794,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7806,
-      "importance": 0.7806,
-      "importance_score": 0.7806,
+      "score": 0.7731,
+      "importance": 0.7731,
+      "importance_score": 0.7731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9391,
+        "recency": 0.8973,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -745,7 +828,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T22:46:57.183270Z"
+        "scored_at": "2026-10-23T01:32:06.738372Z"
       }
     },
     {
@@ -793,15 +876,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7786,
-      "importance": 0.7786,
-      "importance_score": 0.7786,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9109,
+        "recency": 0.8703,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -827,7 +910,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T22:46:57.183270Z"
+        "scored_at": "2026-10-23T01:32:06.738372Z"
       }
     },
     {
@@ -875,15 +958,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8913,
+        "recency": 0.8515,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -909,146 +992,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T22:46:57.183270Z"
+        "scored_at": "2026-10-23T01:32:06.738372Z"
       }
     },
     {
-      "story_id": "story_6c65f6b7b543",
-      "title": "Meta API endpoints updated for Actions blob storage",
-      "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
-      "primary_url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_adde96b2c7b9",
+      "title": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
+      "url": "https://www.aibase.com/news/31816",
+      "primary_url": "https://www.aibase.com/news/31816",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "0e4fb600be972c4f22258715998d6f1ca534faf3",
-          "title": "Meta API endpoints updated for Actions blob storage",
-          "title_zh": null,
-          "title_en": "Meta API endpoints updated for Actions blob storage",
-          "title_original": "Meta API endpoints updated for Actions blob storage",
+          "id": "1581f20f22bc9070eac5ed2dd87c3e007fe4fdee",
+          "title": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
+          "title_zh": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
+          "title_en": null,
+          "title_original": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T18:14:16Z"
+          "url": "https://www.aibase.com/news/31816",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T01:31:18.410166Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "0e4fb600be972c4f22258715998d6f1ca534faf3",
-          "title": "Meta API endpoints updated for Actions blob storage",
-          "title_zh": null,
-          "title_en": "Meta API endpoints updated for Actions blob storage",
-          "title_original": "Meta API endpoints updated for Actions blob storage",
+          "id": "1581f20f22bc9070eac5ed2dd87c3e007fe4fdee",
+          "title": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
+          "title_zh": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
+          "title_en": null,
+          "title_original": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T18:14:16Z"
+          "url": "https://www.aibase.com/news/31816",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T01:31:18.410166Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9421,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T18:14:16Z",
-      "latest_at": "2026-10-22T18:14:16Z",
-      "primary_item": {
-        "id": "0e4fb600be972c4f22258715998d6f1ca534faf3",
-        "title": "Meta API endpoints updated for Actions blob storage",
-        "title_zh": null,
-        "title_en": "Meta API endpoints updated for Actions blob storage",
-        "title_original": "Meta API endpoints updated for Actions blob storage",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-22T22:46:57.183270Z"
-      }
-    },
-    {
-      "story_id": "story_583019dc6666",
-      "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "57b779c46686bc1954136c094928ec6605314308",
-          "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-          "title_zh": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-          "title_en": null,
-          "title_original": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-          "summary": "作者复盘 PHP 两个 CVSS 满分起步的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，合称 PHP2Shell）从提前泄密、演示视频流出、多国政府网站预防性下线，到21日晚10点补丁上线的全过程，并指出这两个漏洞是 GPT-5.6 Sol 辅助发现的，OpenAI 还发布了检测 skill。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T00:06:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "57b779c46686bc1954136c094928ec6605314308",
-          "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-          "title_zh": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-          "title_en": null,
-          "title_original": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-          "summary": "作者复盘 PHP 两个 CVSS 满分起步的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，合称 PHP2Shell）从提前泄密、演示视频流出、多国政府网站预防性下线，到21日晚10点补丁上线的全过程，并指出这两个漏洞是 GPT-5.6 Sol 辅助发现的，OpenAI 还发布了检测 skill。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T00:06:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7251,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1056,25 +1056,107 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T00:06:00Z",
-      "latest_at": "2026-10-22T00:06:00Z",
+      "earliest_at": "2026-10-23T01:31:18.410166Z",
+      "latest_at": "2026-10-23T01:31:18.410166Z",
       "primary_item": {
-        "id": "57b779c46686bc1954136c094928ec6605314308",
-        "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-        "title_zh": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+        "id": "1581f20f22bc9070eac5ed2dd87c3e007fe4fdee",
+        "title": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
+        "title_zh": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
         "title_en": null,
-        "title_original": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-        "summary": "作者复盘 PHP 两个 CVSS 满分起步的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，合称 PHP2Shell）从提前泄密、演示视频流出、多国政府网站预防性下线，到21日晚10点补丁上线的全过程，并指出这两个漏洞是 GPT-5.6 Sol 辅助发现的，OpenAI 还发布了检测 skill。",
+        "title_original": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
-        "source": "公众号：数字生命卡兹克",
+        "url": "https://www.aibase.com/news/31816",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T01:32:06.738372Z"
+      }
+    },
+    {
+      "story_id": "story_9a1340c7e8eb",
+      "title": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489204&idx=1&sn=bc21e172929a366edfe02c720bef9208",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489204&idx=1&sn=bc21e172929a366edfe02c720bef9208",
+      "source": "公众号：MiniMax（稀宇科技）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "66ffafe4a42cf6d9e865c7d8bd42a4941d3054c7",
+          "title": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
+          "title_zh": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
+          "title_en": null,
+          "title_original": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
+          "summary": "MiniMax 开源 M3.1 Flash 模型权重，总参数 428B，激活参数 23B，上线 72 小时内真实用户处理 Token 超过 100 万亿。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489204&idx=1&sn=bc21e172929a366edfe02c720bef9208",
+          "source": "公众号：MiniMax（稀宇科技）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T00:56:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：MiniMax（稀宇科技）"
+      ],
+      "items": [
+        {
+          "id": "66ffafe4a42cf6d9e865c7d8bd42a4941d3054c7",
+          "title": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
+          "title_zh": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
+          "title_en": null,
+          "title_original": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
+          "summary": "MiniMax 开源 M3.1 Flash 模型权重，总参数 428B，激活参数 23B，上线 72 小时内真实用户处理 Token 超过 100 万亿。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489204&idx=1&sn=bc21e172929a366edfe02c720bef9208",
+          "source": "公众号：MiniMax（稀宇科技）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T00:56:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9915,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T00:56:00Z",
+      "latest_at": "2026-10-23T00:56:00Z",
+      "primary_item": {
+        "id": "66ffafe4a42cf6d9e865c7d8bd42a4941d3054c7",
+        "title": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
+        "title_zh": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
+        "title_en": null,
+        "title_original": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
+        "summary": "MiniMax 开源 M3.1 Flash 模型权重，总参数 428B，激活参数 23B，上线 72 小时内真实用户处理 Token 超过 100 万亿。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489204&idx=1&sn=bc21e172929a366edfe02c720bef9208",
+        "source": "公众号：MiniMax（稀宇科技）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T22:46:57.183270Z"
+        "scored_at": "2026-10-23T01:32:06.738372Z"
       }
     },
     {
@@ -1122,15 +1204,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9061,
+        "recency": 0.8657,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1156,7 +1238,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T22:46:57.183270Z"
+        "scored_at": "2026-10-23T01:32:06.738372Z"
+      }
+    },
+    {
+      "story_id": "story_30ae19eb5cdf",
+      "title": "使用 IBM Granite 时间序列模型进行集合预测 / Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "primary_url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7cb33189552d9e5b25bb3a8bd053cde189fc030f",
+          "title": "使用 IBM Granite 时间序列模型进行集合预测 / Ensemble forecasting with IBM Granite time-series models",
+          "title_zh": "使用 IBM Granite 时间序列模型进行集合预测",
+          "title_en": "Ensemble forecasting with IBM Granite time-series models",
+          "title_original": "Ensemble forecasting with IBM Granite time-series models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T07:51:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "7cb33189552d9e5b25bb3a8bd053cde189fc030f",
+          "title": "使用 IBM Granite 时间序列模型进行集合预测 / Ensemble forecasting with IBM Granite time-series models",
+          "title_zh": "使用 IBM Granite 时间序列模型进行集合预测",
+          "title_en": "Ensemble forecasting with IBM Granite time-series models",
+          "title_original": "Ensemble forecasting with IBM Granite time-series models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T07:51:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7749,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T07:51:31Z",
+      "latest_at": "2026-10-22T07:51:31Z",
+      "primary_item": {
+        "id": "7cb33189552d9e5b25bb3a8bd053cde189fc030f",
+        "title": "使用 IBM Granite 时间序列模型进行集合预测 / Ensemble forecasting with IBM Granite time-series models",
+        "title_zh": "使用 IBM Granite 时间序列模型进行集合预测",
+        "title_en": "Ensemble forecasting with IBM Granite time-series models",
+        "title_original": "Ensemble forecasting with IBM Granite time-series models",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T01:32:06.738372Z"
       }
     },
     {
@@ -1204,15 +1369,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9045,
+        "recency": 0.8642,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1238,7 +1403,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T22:46:57.183270Z"
+        "scored_at": "2026-10-23T01:32:06.738372Z"
       }
     },
     {
@@ -1286,15 +1451,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7958,
+        "recency": 0.7603,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1320,89 +1485,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T22:46:57.183270Z"
-      }
-    },
-    {
-      "story_id": "story_141a9a8b3646",
-      "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-      "url": "https://x.com/claudeai/status/2113360845409583307",
-      "primary_url": "https://x.com/claudeai/status/2113360845409583307",
-      "source": "X：Claude (@claudeai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
-          "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-          "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
-          "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-          "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-          "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/claudeai/status/2113360845409583307",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T20:04:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude (@claudeai)"
-      ],
-      "items": [
-        {
-          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
-          "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-          "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
-          "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-          "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-          "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/claudeai/status/2113360845409583307",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T20:04:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7617,
-      "importance": 0.7617,
-      "importance_score": 0.7617,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9675,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T20:04:24Z",
-      "latest_at": "2026-10-22T20:04:24Z",
-      "primary_item": {
-        "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
-        "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-        "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
-        "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-        "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-        "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/claudeai/status/2113360845409583307",
-        "source": "X：Claude (@claudeai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-22T22:46:57.183270Z"
+        "scored_at": "2026-10-23T01:32:06.738372Z"
       }
     },
     {
@@ -1450,15 +1533,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7807,
+        "recency": 0.7459,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1484,63 +1567,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T22:46:57.183270Z"
+        "scored_at": "2026-10-23T01:32:06.738372Z"
       }
     },
     {
-      "story_id": "story_bb01db78f5d1",
-      "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-      "url": "https://x.com/Khazix0918/status/2113096414469464281",
-      "primary_url": "https://x.com/Khazix0918/status/2113096414469464281",
-      "source": "X：卡兹克 (@Khazix0918)",
+      "story_id": "story_141a9a8b3646",
+      "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+      "url": "https://x.com/claudeai/status/2113360845409583307",
+      "primary_url": "https://x.com/claudeai/status/2113360845409583307",
+      "source": "X：Claude (@claudeai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "77dca85da5ab0317f5f6d65646d497d9120aa07e",
-          "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-          "title_zh": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-          "title_en": null,
-          "title_original": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-          "summary": "作者复盘 PHP2Shell 事件：两个 CVSS 满分定为 9.2 分的 PHP 远程代码执行漏洞（CVE-2026-109618 和 CVE-2026-109619）在补丁发布前泄露，攻击演示视频外流，多国政府网站预防性下线，OpenAI 认领漏洞由 GPT-5.6 Sol 辅助发现。",
+          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
+          "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
+          "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/Khazix0918/status/2113096414469464281",
-          "source": "X：卡兹克 (@Khazix0918)",
+          "url": "https://x.com/claudeai/status/2113360845409583307",
+          "source": "X：Claude (@claudeai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T02:33:39Z"
+          "published_at": "2026-10-22T20:04:24Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：卡兹克 (@Khazix0918)"
+        "X：Claude (@claudeai)"
       ],
       "items": [
         {
-          "id": "77dca85da5ab0317f5f6d65646d497d9120aa07e",
-          "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-          "title_zh": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-          "title_en": null,
-          "title_original": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-          "summary": "作者复盘 PHP2Shell 事件：两个 CVSS 满分定为 9.2 分的 PHP 远程代码执行漏洞（CVE-2026-109618 和 CVE-2026-109619）在补丁发布前泄露，攻击演示视频外流，多国政府网站预防性下线，OpenAI 认领漏洞由 GPT-5.6 Sol 辅助发现。",
+          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
+          "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
+          "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/Khazix0918/status/2113096414469464281",
-          "source": "X：卡兹克 (@Khazix0918)",
+          "url": "https://x.com/claudeai/status/2113360845409583307",
+          "source": "X：Claude (@claudeai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T02:33:39Z"
+          "published_at": "2026-10-22T20:04:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.83,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7513,
+        "recency": 0.9243,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1548,107 +1631,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T02:33:39Z",
-      "latest_at": "2026-10-22T02:33:39Z",
+      "earliest_at": "2026-10-22T20:04:24Z",
+      "latest_at": "2026-10-22T20:04:24Z",
       "primary_item": {
-        "id": "77dca85da5ab0317f5f6d65646d497d9120aa07e",
-        "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-        "title_zh": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-        "title_en": null,
-        "title_original": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-        "summary": "作者复盘 PHP2Shell 事件：两个 CVSS 满分定为 9.2 分的 PHP 远程代码执行漏洞（CVE-2026-109618 和 CVE-2026-109619）在补丁发布前泄露，攻击演示视频外流，多国政府网站预防性下线，OpenAI 认领漏洞由 GPT-5.6 Sol 辅助发现。",
+        "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
+        "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+        "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
+        "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+        "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+        "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/Khazix0918/status/2113096414469464281",
-        "source": "X：卡兹克 (@Khazix0918)",
+        "url": "https://x.com/claudeai/status/2113360845409583307",
+        "source": "X：Claude (@claudeai)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T22:46:57.183270Z"
-      }
-    },
-    {
-      "story_id": "story_8a92601bcea1",
-      "title": "Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体 / Replit Monitoring Agent: Your very own software engineering team",
-      "url": "https://replit.com/blog/replit-monitoring-agent",
-      "primary_url": "https://replit.com/blog/replit-monitoring-agent",
-      "source": "Replit：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ec95e5781192219475880e9c85439bc4a917e0f4",
-          "title": "Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体 / Replit Monitoring Agent: Your very own software engineering team",
-          "title_zh": "Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体",
-          "title_en": "Replit Monitoring Agent: Your very own software engineering team",
-          "title_original": "Replit Monitoring Agent: Your very own software engineering team",
-          "summary": "Replit 发布 Monitoring Agent，为应用提供相当于自主值班工程师的监控智能体。它可以读取生产日志和指标调查错误、变慢和部署失败，在启用 autofix 后验证修复并邮件汇报，启用 auto-publish 后可自动部署修复。该能力建立在早前上线的 App Monitoring 之上，用户可在应用的 Publishing 设置中开启。",
-          "recommend_reason_zh": null,
-          "url": "https://replit.com/blog/replit-monitoring-agent",
-          "source": "Replit：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T20:24:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Replit：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ec95e5781192219475880e9c85439bc4a917e0f4",
-          "title": "Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体 / Replit Monitoring Agent: Your very own software engineering team",
-          "title_zh": "Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体",
-          "title_en": "Replit Monitoring Agent: Your very own software engineering team",
-          "title_original": "Replit Monitoring Agent: Your very own software engineering team",
-          "summary": "Replit 发布 Monitoring Agent，为应用提供相当于自主值班工程师的监控智能体。它可以读取生产日志和指标调查错误、变慢和部署失败，在启用 autofix 后验证修复并邮件汇报，启用 auto-publish 后可自动部署修复。该能力建立在早前上线的 App Monitoring 之上，用户可在应用的 Publishing 设置中开启。",
-          "recommend_reason_zh": null,
-          "url": "https://replit.com/blog/replit-monitoring-agent",
-          "source": "Replit：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T20:24:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9721,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T20:24:13Z",
-      "latest_at": "2026-10-22T20:24:13Z",
-      "primary_item": {
-        "id": "ec95e5781192219475880e9c85439bc4a917e0f4",
-        "title": "Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体 / Replit Monitoring Agent: Your very own software engineering team",
-        "title_zh": "Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体",
-        "title_en": "Replit Monitoring Agent: Your very own software engineering team",
-        "title_original": "Replit Monitoring Agent: Your very own software engineering team",
-        "summary": "Replit 发布 Monitoring Agent，为应用提供相当于自主值班工程师的监控智能体。它可以读取生产日志和指标调查错误、变慢和部署失败，在启用 autofix 后验证修复并邮件汇报，启用 auto-publish 后可自动部署修复。该能力建立在早前上线的 App Monitoring 之上，用户可在应用的 Publishing 设置中开启。",
-        "recommend_reason_zh": null,
-        "url": "https://replit.com/blog/replit-monitoring-agent",
-        "source": "Replit：Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-22T22:46:57.183270Z"
+        "scored_at": "2026-10-23T01:32:06.738372Z"
       }
     }
   ]
