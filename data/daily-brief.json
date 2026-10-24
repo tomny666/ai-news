@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T05:53:57.291325Z",
+  "generated_at": "2026-10-24T10:59:57.584761Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 18,
   "items": [
     {
       "story_id": "story_9e26901013de",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8213,
+        "recency": 0.763,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,120 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T05:54:56.863759Z"
-      }
-    },
-    {
-      "story_id": "story_f1fd04d99c59",
-      "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "primary_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c454633931fc080d83f73a727cbc6af5769ae497",
-          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
-          "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
-          "title_en": "Securing our frontier model training environment",
-          "title_original": "Securing our frontier model training environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T10:00:00Z"
-        },
-        {
-          "id": "d5c2cd61e45e633201d8be8b98e5f1350d15c717",
-          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / OpenAI: Securing our frontier model training environment",
-          "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
-          "title_en": "OpenAI: Securing our frontier model training environment",
-          "title_original": "OpenAI: Securing our frontier model training environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-23T19:50:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c454633931fc080d83f73a727cbc6af5769ae497",
-          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
-          "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
-          "title_en": "Securing our frontier model training environment",
-          "title_original": "Securing our frontier model training environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T10:00:00Z"
-        },
-        {
-          "id": "d5c2cd61e45e633201d8be8b98e5f1350d15c717",
-          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / OpenAI: Securing our frontier model training environment",
-          "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
-          "title_en": "OpenAI: Securing our frontier model training environment",
-          "title_original": "OpenAI: Securing our frontier model training environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-23T19:50:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7502,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T10:00:00Z",
-      "latest_at": "2026-10-23T19:50:56Z",
-      "primary_item": {
-        "id": "c454633931fc080d83f73a727cbc6af5769ae497",
-        "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
-        "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
-        "title_en": "Securing our frontier model training environment",
-        "title_original": "Securing our frontier model training environment",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T05:54:56.863759Z"
+        "scored_at": "2026-10-24T11:07:29.229732Z"
       }
     },
     {
@@ -244,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
+      "score": 0.8201,
+      "importance": 0.8201,
+      "importance_score": 0.8201,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8858,
+        "recency": 0.8229,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T05:54:56.863759Z"
+        "scored_at": "2026-10-24T11:07:29.229732Z"
       }
     },
     {
@@ -327,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.83,
+        "recency": 0.7711,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T05:54:56.863759Z"
+        "scored_at": "2026-10-24T11:07:29.229732Z"
       }
     },
     {
@@ -410,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8286,
-      "importance": 0.8286,
-      "importance_score": 0.8286,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9144,
+        "recency": 0.8495,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T05:54:56.863759Z"
+        "scored_at": "2026-10-24T11:07:29.229732Z"
       }
     },
     {
@@ -493,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7894,
-      "importance": 0.7894,
-      "importance_score": 0.7894,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9042,
+        "recency": 0.84,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -527,7 +414,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T05:54:56.863759Z"
+        "scored_at": "2026-10-24T11:07:29.229732Z"
       }
     },
     {
@@ -575,15 +462,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7761,
-      "importance": 0.7761,
-      "importance_score": 0.7761,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9472,
+        "recency": 0.88,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -609,7 +496,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T05:54:56.863759Z"
+        "scored_at": "2026-10-24T11:07:29.229732Z"
       }
     },
     {
@@ -657,15 +544,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8181,
+        "recency": 0.7601,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -691,7 +578,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T05:54:56.863759Z"
+        "scored_at": "2026-10-24T11:07:29.229732Z"
       }
     },
     {
@@ -739,15 +626,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8067,
+      "importance": 0.8067,
+      "importance_score": 0.8067,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8536,
+        "recency": 0.793,
         "story_heat": 0.0
       },
       "category": "official",
@@ -774,7 +661,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T05:54:56.863759Z"
+        "scored_at": "2026-10-24T11:07:29.229732Z"
       }
     },
     {
@@ -822,21 +709,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
+      "score": 0.7445,
+      "importance": 0.7445,
+      "importance_score": 0.7445,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8485,
+        "recency": 0.7883,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-23T18:31:22Z",
       "latest_at": "2026-10-23T18:31:22Z",
@@ -856,7 +742,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T05:54:56.863759Z"
+        "scored_at": "2026-10-24T11:07:29.229732Z"
       }
     },
     {
@@ -904,21 +790,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.854,
+        "recency": 0.7934,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-23T18:58:15Z",
       "latest_at": "2026-10-23T18:58:15Z",
@@ -938,7 +823,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T05:54:56.863759Z"
+        "scored_at": "2026-10-24T11:07:29.229732Z"
       }
     },
     {
@@ -986,21 +871,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7399,
+      "importance": 0.7399,
+      "importance_score": 0.7399,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.839,
+        "recency": 0.7795,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-23T17:44:44Z",
       "latest_at": "2026-10-23T17:44:44Z",
@@ -1020,412 +904,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T05:54:56.863759Z"
-      }
-    },
-    {
-      "story_id": "story_c9d7dab87dc5",
-      "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元 / OpenAI lowers valuation target, raises up to $30 billion",
-      "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
-      "primary_url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "633f7016df6d90dd895ba1dfd4b6b1a890fb1869",
-          "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元 / OpenAI lowers valuation target, raises up to $30 billion",
-          "title_zh": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元",
-          "title_en": "OpenAI lowers valuation target, raises up to $30 billion",
-          "title_original": "OpenAI lowers valuation target, raises up to $30 billion",
-          "summary": "OpenAI 接近完成至多 300 亿美元的新一轮融资，但将估值目标从最初的 1.4 万亿美元下调至 1.25 万亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T09:49:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "633f7016df6d90dd895ba1dfd4b6b1a890fb1869",
-          "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元 / OpenAI lowers valuation target, raises up to $30 billion",
-          "title_zh": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元",
-          "title_en": "OpenAI lowers valuation target, raises up to $30 billion",
-          "title_original": "OpenAI lowers valuation target, raises up to $30 billion",
-          "summary": "OpenAI 接近完成至多 300 亿美元的新一轮融资，但将估值目标从最初的 1.4 万亿美元下调至 1.25 万亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T09:49:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7484,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T09:49:38Z",
-      "latest_at": "2026-10-23T09:49:38Z",
-      "primary_item": {
-        "id": "633f7016df6d90dd895ba1dfd4b6b1a890fb1869",
-        "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元 / OpenAI lowers valuation target, raises up to $30 billion",
-        "title_zh": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元",
-        "title_en": "OpenAI lowers valuation target, raises up to $30 billion",
-        "title_original": "OpenAI lowers valuation target, raises up to $30 billion",
-        "summary": "OpenAI 接近完成至多 300 亿美元的新一轮融资，但将估值目标从最初的 1.4 万亿美元下调至 1.25 万亿美元。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T05:54:56.863759Z"
-      }
-    },
-    {
-      "story_id": "story_787af4a9c384",
-      "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
-      "url": "https://www.ithome.com/1/017/113.htm",
-      "primary_url": "https://www.ithome.com/1/017/113.htm",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "14e26448ab1ee6c4b24452fc703e43c6beb6fb42",
-          "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
-          "title_zh": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
-          "title_en": null,
-          "title_original": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
-          "summary": "国务院办公厅 10 月 23 日印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，提出增强 AI 创造就业机会、赋能传统岗位的正面效应，有效减缓 AI 应用的就业替代影响。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/017/113.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T09:17:16.350000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家·人工智能"
-      ],
-      "items": [
-        {
-          "id": "14e26448ab1ee6c4b24452fc703e43c6beb6fb42",
-          "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
-          "title_zh": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
-          "title_en": null,
-          "title_original": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
-          "summary": "国务院办公厅 10 月 23 日印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，提出增强 AI 创造就业机会、赋能传统岗位的正面效应，有效减缓 AI 应用的就业替代影响。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/017/113.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T09:17:16.350000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7426,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T09:17:16.350000Z",
-      "latest_at": "2026-10-23T09:17:16.350000Z",
-      "primary_item": {
-        "id": "14e26448ab1ee6c4b24452fc703e43c6beb6fb42",
-        "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
-        "title_zh": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
-        "title_en": null,
-        "title_original": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
-        "summary": "国务院办公厅 10 月 23 日印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，提出增强 AI 创造就业机会、赋能传统岗位的正面效应，有效减缓 AI 应用的就业替代影响。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/017/113.htm",
-        "source": "IT之家·人工智能",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T05:54:56.863759Z"
-      }
-    },
-    {
-      "story_id": "story_797f8648bce2",
-      "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问 / Kling 4.0 is now publicly available on fal, with API access open to all customers.",
-      "url": "https://x.com/fal/status/2113646807997620396",
-      "primary_url": "https://x.com/fal/status/2113646807997620396",
-      "source": "X：fal (@fal)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "609513e2208e8c438d625d4ee2414d57e9ef1bbd",
-          "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问 / Kling 4.0 is now publicly available on fal, with API access open to all customers.",
-          "title_zh": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
-          "title_en": "Kling 4.0 is now publicly available on fal, with API access open to all customers.",
-          "title_original": "Kling 4.0 is now publicly available on fal, with API access open to all customers.",
-          "summary": "fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/fal/status/2113646807997620396",
-          "source": "X：fal (@fal)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T15:00:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：fal (@fal)"
-      ],
-      "items": [
-        {
-          "id": "609513e2208e8c438d625d4ee2414d57e9ef1bbd",
-          "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问 / Kling 4.0 is now publicly available on fal, with API access open to all customers.",
-          "title_zh": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
-          "title_en": "Kling 4.0 is now publicly available on fal, with API access open to all customers.",
-          "title_original": "Kling 4.0 is now publicly available on fal, with API access open to all customers.",
-          "summary": "fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/fal/status/2113646807997620396",
-          "source": "X：fal (@fal)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T15:00:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8066,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T15:00:43Z",
-      "latest_at": "2026-10-23T15:00:43Z",
-      "primary_item": {
-        "id": "609513e2208e8c438d625d4ee2414d57e9ef1bbd",
-        "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问 / Kling 4.0 is now publicly available on fal, with API access open to all customers.",
-        "title_zh": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
-        "title_en": "Kling 4.0 is now publicly available on fal, with API access open to all customers.",
-        "title_original": "Kling 4.0 is now publicly available on fal, with API access open to all customers.",
-        "summary": "fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/fal/status/2113646807997620396",
-        "source": "X：fal (@fal)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T05:54:56.863759Z"
-      }
-    },
-    {
-      "story_id": "story_967a5437469b",
-      "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
-      "url": "https://www.aibase.com/news/31840",
-      "primary_url": "https://www.aibase.com/news/31840",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d5582a0754fb83f46fc3681774d0e10d25b1cc9f",
-          "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
-          "title_zh": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
-          "title_en": null,
-          "title_original": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31840",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T13:26:38.830585Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d5582a0754fb83f46fc3681774d0e10d25b1cc9f",
-          "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
-          "title_zh": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
-          "title_en": null,
-          "title_original": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31840",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T13:26:38.830585Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7295,
-      "importance": 0.7295,
-      "importance_score": 0.7295,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7885,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T13:26:38.830585Z",
-      "latest_at": "2026-10-23T13:26:38.830585Z",
-      "primary_item": {
-        "id": "d5582a0754fb83f46fc3681774d0e10d25b1cc9f",
-        "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
-        "title_zh": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
-        "title_en": null,
-        "title_original": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31840",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T05:54:56.863759Z"
-      }
-    },
-    {
-      "story_id": "story_ffd9a592cd0f",
-      "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员 / WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
-      "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "81db8060d36870e13c889c0bc355e2f558aa4c14",
-          "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员 / WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
-          "title_zh": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
-          "title_en": "WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
-          "title_original": "WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
-          "summary": "据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T06:04:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "81db8060d36870e13c889c0bc355e2f558aa4c14",
-          "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员 / WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
-          "title_zh": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
-          "title_en": "WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
-          "title_original": "WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
-          "summary": "据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T06:04:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7272,
-      "importance": 0.7272,
-      "importance_score": 0.7272,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.709,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T06:04:55Z",
-      "latest_at": "2026-10-23T06:04:55Z",
-      "primary_item": {
-        "id": "81db8060d36870e13c889c0bc355e2f558aa4c14",
-        "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员 / WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
-        "title_zh": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
-        "title_en": "WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
-        "title_original": "WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.",
-        "summary": "据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T05:54:56.863759Z"
+        "scored_at": "2026-10-24T11:07:29.229732Z"
       }
     },
     {
@@ -1473,15 +952,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
+      "score": 0.8034,
+      "importance": 0.8034,
+      "importance_score": 0.8034,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8336,
+        "recency": 0.7745,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1508,88 +987,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T05:54:56.863759Z"
-      }
-    },
-    {
-      "story_id": "story_f38bd72f5972",
-      "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
-      "url": "https://www.aibase.com/news/31841",
-      "primary_url": "https://www.aibase.com/news/31841",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fd6476d96a06874d4974c0ffdd72bf939b22245f",
-          "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
-          "title_zh": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
-          "title_en": null,
-          "title_original": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31841",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T13:26:38.830585Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fd6476d96a06874d4974c0ffdd72bf939b22245f",
-          "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
-          "title_zh": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
-          "title_en": null,
-          "title_original": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31841",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T13:26:38.830585Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7295,
-      "importance": 0.7295,
-      "importance_score": 0.7295,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7885,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T13:26:38.830585Z",
-      "latest_at": "2026-10-23T13:26:38.830585Z",
-      "primary_item": {
-        "id": "fd6476d96a06874d4974c0ffdd72bf939b22245f",
-        "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
-        "title_zh": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
-        "title_en": null,
-        "title_original": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31841",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T05:54:56.863759Z"
+        "scored_at": "2026-10-24T11:07:29.229732Z"
       }
     },
     {
@@ -1637,15 +1035,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
+      "score": 0.799,
+      "importance": 0.799,
+      "importance_score": 0.799,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8071,
+        "recency": 0.7498,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1672,7 +1070,673 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T05:54:56.863759Z"
+        "scored_at": "2026-10-24T11:07:29.229732Z"
+      }
+    },
+    {
+      "story_id": "story_f0a38c05d3f1",
+      "title": "保障我们的前沿模型训练环境安全",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "primary_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "source": "openai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1918442280c89123af768e8d5ef1c994a2bace17",
+          "title": "保障我们的前沿模型训练环境安全",
+          "title_zh": "保障我们的前沿模型训练环境安全",
+          "title_en": null,
+          "title_original": "保障我们的前沿模型训练环境安全",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T06:38:45.839000Z"
+        },
+        {
+          "id": "d5c2cd61e45e633201d8be8b98e5f1350d15c717",
+          "title": "保障我们的前沿模型训练环境安全 / OpenAI: Securing our frontier model training environment",
+          "title_zh": "保障我们的前沿模型训练环境安全",
+          "title_en": "OpenAI: Securing our frontier model training environment",
+          "title_original": "OpenAI: Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-23T19:50:56Z"
+        },
+        {
+          "id": "a7086ee562b0800075d22b8de9de8b3f54d559ac",
+          "title": "OpenAI：保护我们的前沿模型训练环境 / OpenAI: Securing our frontier model training environment",
+          "title_zh": "OpenAI：保护我们的前沿模型训练环境",
+          "title_en": "OpenAI: Securing our frontier model training environment",
+          "title_original": "OpenAI: Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50214416",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-23T19:50:56Z"
+        },
+        {
+          "id": "e2d6fec9e4f7ace18483a2bc779d841a37e634a6",
+          "title": "保障我们的前沿模型训练环境安全 / Securing our frontier model training environment",
+          "title_zh": "保障我们的前沿模型训练环境安全",
+          "title_en": "Securing our frontier model training environment",
+          "title_original": "Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-23T19:50:56Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "1918442280c89123af768e8d5ef1c994a2bace17",
+          "title": "保障我们的前沿模型训练环境安全",
+          "title_zh": "保障我们的前沿模型训练环境安全",
+          "title_en": null,
+          "title_original": "保障我们的前沿模型训练环境安全",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T06:38:45.839000Z"
+        },
+        {
+          "id": "d5c2cd61e45e633201d8be8b98e5f1350d15c717",
+          "title": "保障我们的前沿模型训练环境安全 / OpenAI: Securing our frontier model training environment",
+          "title_zh": "保障我们的前沿模型训练环境安全",
+          "title_en": "OpenAI: Securing our frontier model training environment",
+          "title_original": "OpenAI: Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-23T19:50:56Z"
+        },
+        {
+          "id": "a7086ee562b0800075d22b8de9de8b3f54d559ac",
+          "title": "OpenAI：保护我们的前沿模型训练环境 / OpenAI: Securing our frontier model training environment",
+          "title_zh": "OpenAI：保护我们的前沿模型训练环境",
+          "title_en": "OpenAI: Securing our frontier model training environment",
+          "title_original": "OpenAI: Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50214416",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-23T19:50:56Z"
+        },
+        {
+          "id": "e2d6fec9e4f7ace18483a2bc779d841a37e634a6",
+          "title": "保障我们的前沿模型训练环境安全 / Securing our frontier model training environment",
+          "title_zh": "保障我们的前沿模型训练环境安全",
+          "title_en": "Securing our frontier model training environment",
+          "title_original": "Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-23T19:50:56Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5848,
+      "importance": 0.5848,
+      "importance_score": 0.5848,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9391,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-23T19:50:56Z",
+      "latest_at": "2026-10-24T06:38:45.839000Z",
+      "primary_item": {
+        "id": "1918442280c89123af768e8d5ef1c994a2bace17",
+        "title": "保障我们的前沿模型训练环境安全",
+        "title_zh": "保障我们的前沿模型训练环境安全",
+        "title_en": null,
+        "title_original": "保障我们的前沿模型训练环境安全",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+        "source": "openai.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T11:07:29.229732Z"
+      }
+    },
+    {
+      "story_id": "story_205702091b68",
+      "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
+      "primary_url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
+      "source": "www.reddit.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c039a0b0ba53aed22d56935934bcaafa1324b549",
+          "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "title_en": null,
+          "title_original": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
+          "source": "www.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T09:16:58.436000Z"
+        },
+        {
+          "id": "94f1232fdc4bed71d0aa6eae2623e3ab10caf67a",
+          "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "title_en": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_original": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T05:49:57Z"
+        },
+        {
+          "id": "e3150acf3a2312757b06a1d7125139699407ae03",
+          "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_zh": null,
+          "title_en": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_original": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50218633",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T05:49:57Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.reddit.com"
+      ],
+      "items": [
+        {
+          "id": "c039a0b0ba53aed22d56935934bcaafa1324b549",
+          "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "title_en": null,
+          "title_original": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
+          "source": "www.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T09:16:58.436000Z"
+        },
+        {
+          "id": "94f1232fdc4bed71d0aa6eae2623e3ab10caf67a",
+          "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "title_en": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_original": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T05:49:57Z"
+        },
+        {
+          "id": "e3150acf3a2312757b06a1d7125139699407ae03",
+          "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_zh": null,
+          "title_en": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_original": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50218633",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T05:49:57Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5664,
+      "importance": 0.5664,
+      "importance_score": 0.5664,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9755,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T05:49:57Z",
+      "latest_at": "2026-10-24T09:16:58.436000Z",
+      "primary_item": {
+        "id": "c039a0b0ba53aed22d56935934bcaafa1324b549",
+        "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+        "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+        "title_en": null,
+        "title_original": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
+        "source": "www.reddit.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T11:07:29.229732Z"
+      }
+    },
+    {
+      "story_id": "story_1296c7a1eab2",
+      "title": "瑞典政府机构将禁止使用ChatGPT和Claude",
+      "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+      "primary_url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+      "source": "www.sverigesradio.se",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d74fbe9602aea0735d68772e5a7c588c22b7e3a8",
+          "title": "瑞典政府机构将禁止使用ChatGPT和Claude",
+          "title_zh": "瑞典政府机构将禁止使用ChatGPT和Claude",
+          "title_en": null,
+          "title_original": "瑞典政府机构将禁止使用ChatGPT和Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+          "source": "www.sverigesradio.se",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-23T16:26:53.619000Z"
+        },
+        {
+          "id": "471563dfcbef9c233c6252223a2b02448c265c24",
+          "title": "瑞典政府机构将禁止使用ChatGPT和Claude / Swedish government offices to ban ChatGPT and Claude",
+          "title_zh": "瑞典政府机构将禁止使用ChatGPT和Claude",
+          "title_en": "Swedish government offices to ban ChatGPT and Claude",
+          "title_original": "Swedish government offices to ban ChatGPT and Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-23T11:39:54Z"
+        },
+        {
+          "id": "4c5bc64a0e19b1708f978ef891c330c918162766",
+          "title": "瑞典政府办公室将禁止 ChatGPT 和 Claude / Swedish government offices to ban ChatGPT and Claude",
+          "title_zh": "瑞典政府办公室将禁止 ChatGPT 和 Claude",
+          "title_en": "Swedish government offices to ban ChatGPT and Claude",
+          "title_original": "Swedish government offices to ban ChatGPT and Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50207405",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-23T11:39:54Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.sverigesradio.se"
+      ],
+      "items": [
+        {
+          "id": "d74fbe9602aea0735d68772e5a7c588c22b7e3a8",
+          "title": "瑞典政府机构将禁止使用ChatGPT和Claude",
+          "title_zh": "瑞典政府机构将禁止使用ChatGPT和Claude",
+          "title_en": null,
+          "title_original": "瑞典政府机构将禁止使用ChatGPT和Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+          "source": "www.sverigesradio.se",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-23T16:26:53.619000Z"
+        },
+        {
+          "id": "471563dfcbef9c233c6252223a2b02448c265c24",
+          "title": "瑞典政府机构将禁止使用ChatGPT和Claude / Swedish government offices to ban ChatGPT and Claude",
+          "title_zh": "瑞典政府机构将禁止使用ChatGPT和Claude",
+          "title_en": "Swedish government offices to ban ChatGPT and Claude",
+          "title_original": "Swedish government offices to ban ChatGPT and Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-23T11:39:54Z"
+        },
+        {
+          "id": "4c5bc64a0e19b1708f978ef891c330c918162766",
+          "title": "瑞典政府办公室将禁止 ChatGPT 和 Claude / Swedish government offices to ban ChatGPT and Claude",
+          "title_zh": "瑞典政府办公室将禁止 ChatGPT 和 Claude",
+          "title_en": "Swedish government offices to ban ChatGPT and Claude",
+          "title_original": "Swedish government offices to ban ChatGPT and Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50207405",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-23T11:39:54Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5285,
+      "importance": 0.5285,
+      "importance_score": 0.5285,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.765,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-23T11:39:54Z",
+      "latest_at": "2026-10-23T16:26:53.619000Z",
+      "primary_item": {
+        "id": "d74fbe9602aea0735d68772e5a7c588c22b7e3a8",
+        "title": "瑞典政府机构将禁止使用ChatGPT和Claude",
+        "title_zh": "瑞典政府机构将禁止使用ChatGPT和Claude",
+        "title_en": null,
+        "title_original": "瑞典政府机构将禁止使用ChatGPT和Claude",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+        "source": "www.sverigesradio.se",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T11:07:29.229732Z"
+      }
+    },
+    {
+      "story_id": "story_c03b3b12c722",
+      "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+      "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+      "primary_url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+      "source": "artificialanalysis.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ae2464b34debfe01ff148708520a7ba7f1a1f6a5",
+          "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+          "title_zh": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+          "title_en": null,
+          "title_original": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+          "source": "artificialanalysis.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-23T20:38:45.451000Z"
+        },
+        {
+          "id": "b22604f6224ace5bd5554cf5dee86e8a15e4a127",
+          "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上 / Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+          "title_zh": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+          "title_en": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+          "title_original": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-23T18:24:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "artificialanalysis.ai"
+      ],
+      "items": [
+        {
+          "id": "ae2464b34debfe01ff148708520a7ba7f1a1f6a5",
+          "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+          "title_zh": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+          "title_en": null,
+          "title_original": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+          "source": "artificialanalysis.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-23T20:38:45.451000Z"
+        },
+        {
+          "id": "b22604f6224ace5bd5554cf5dee86e8a15e4a127",
+          "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上 / Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+          "title_zh": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+          "title_en": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+          "title_original": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-23T18:24:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5121,
+      "importance": 0.5121,
+      "importance_score": 0.5121,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8128,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-23T18:24:54Z",
+      "latest_at": "2026-10-23T20:38:45.451000Z",
+      "primary_item": {
+        "id": "ae2464b34debfe01ff148708520a7ba7f1a1f6a5",
+        "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+        "title_zh": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+        "title_en": null,
+        "title_original": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+        "source": "artificialanalysis.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T11:07:29.229732Z"
+      }
+    },
+    {
+      "story_id": "story_359ed4f7a305",
+      "title": "Kimi K3.1 Pro",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "primary_url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "9a31542e1ec0080580e6beef5ad4c6b83ff9dd9c",
+          "title": "Kimi K3.1 Pro",
+          "title_zh": null,
+          "title_en": "Kimi K3.1 Pro",
+          "title_original": "Kimi K3.1 Pro",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-23T17:10:27Z"
+        },
+        {
+          "id": "9484b94a2c35f42151d0748ac6eb544adb15f69b",
+          "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+          "title_zh": null,
+          "title_en": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+          "title_original": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-23T16:59:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "9a31542e1ec0080580e6beef5ad4c6b83ff9dd9c",
+          "title": "Kimi K3.1 Pro",
+          "title_zh": null,
+          "title_en": "Kimi K3.1 Pro",
+          "title_original": "Kimi K3.1 Pro",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-23T17:10:27Z"
+        },
+        {
+          "id": "9484b94a2c35f42151d0748ac6eb544adb15f69b",
+          "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+          "title_zh": null,
+          "title_en": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+          "title_original": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-23T16:59:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5049,
+      "importance": 0.5049,
+      "importance_score": 0.5049,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7731,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-23T16:59:08Z",
+      "latest_at": "2026-10-23T17:10:27Z",
+      "primary_item": {
+        "id": "9a31542e1ec0080580e6beef5ad4c6b83ff9dd9c",
+        "title": "Kimi K3.1 Pro",
+        "title_zh": null,
+        "title_en": "Kimi K3.1 Pro",
+        "title_original": "Kimi K3.1 Pro",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T11:07:29.229732Z"
       }
     }
   ]
