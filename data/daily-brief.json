@@ -1,90 +1,8 @@
 {
-  "generated_at": "2026-10-25T06:08:48.864985Z",
+  "generated_at": "2026-10-25T11:29:13.455638Z",
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 6,
   "items": [
-    {
-      "story_id": "story_57b57c29f36c",
-      "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-      "primary_url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b89f63b4fd497217f8aab5d9f7dd940f3bf706d2",
-          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "title_zh": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-          "title_en": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "title_original": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T11:12:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b89f63b4fd497217f8aab5d9f7dd940f3bf706d2",
-          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "title_zh": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-          "title_en": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "title_original": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T11:12:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7607,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-24T11:12:36Z",
-      "latest_at": "2026-10-24T11:12:36Z",
-      "primary_item": {
-        "id": "b89f63b4fd497217f8aab5d9f7dd940f3bf706d2",
-        "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-        "title_zh": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-        "title_en": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-        "title_original": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-        "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T06:09:53.497306Z"
-      }
-    },
     {
       "story_id": "story_fbda2c665b46",
       "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视 / Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
@@ -130,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7356,
+      "importance": 0.7356,
+      "importance_score": 0.7356,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7979,
+        "recency": 0.7387,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -163,7 +81,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T06:09:53.497306Z"
+        "scored_at": "2026-10-25T11:30:02.323316Z"
+      }
+    },
+    {
+      "story_id": "story_461047623b07",
+      "title": "Cerebras 部署了万亿参数的人工智能模型",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "primary_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "source": "www.cerebras.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e1d77e1ce605edf952f344c063f9a4e8bb5b4e68",
+          "title": "Cerebras 部署了万亿参数的人工智能模型",
+          "title_zh": "Cerebras 部署了万亿参数的人工智能模型",
+          "title_en": null,
+          "title_original": "Cerebras 部署了万亿参数的人工智能模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "www.cerebras.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T07:05:49.244000Z"
+        },
+        {
+          "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
+          "title": "Cerebras 部署了万亿参数的人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "title_zh": "Cerebras 部署了万亿参数的人工智能模型",
+          "title_en": "Cerebras Deploys Trillion-Parameter AI Models",
+          "title_original": "Cerebras Deploys Trillion-Parameter AI Models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T01:33:49Z"
+        },
+        {
+          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
+          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "title_zh": "Cerebras 部署万亿参数人工智能模型",
+          "title_en": "Cerebras Deploys Trillion-Parameter AI Models",
+          "title_original": "Cerebras Deploys Trillion-Parameter AI Models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50227356",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T01:33:49Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.cerebras.ai"
+      ],
+      "items": [
+        {
+          "id": "e1d77e1ce605edf952f344c063f9a4e8bb5b4e68",
+          "title": "Cerebras 部署了万亿参数的人工智能模型",
+          "title_zh": "Cerebras 部署了万亿参数的人工智能模型",
+          "title_en": null,
+          "title_original": "Cerebras 部署了万亿参数的人工智能模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "www.cerebras.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T07:05:49.244000Z"
+        },
+        {
+          "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
+          "title": "Cerebras 部署了万亿参数的人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "title_zh": "Cerebras 部署了万亿参数的人工智能模型",
+          "title_en": "Cerebras Deploys Trillion-Parameter AI Models",
+          "title_original": "Cerebras Deploys Trillion-Parameter AI Models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T01:33:49Z"
+        },
+        {
+          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
+          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "title_zh": "Cerebras 部署万亿参数人工智能模型",
+          "title_en": "Cerebras Deploys Trillion-Parameter AI Models",
+          "title_original": "Cerebras Deploys Trillion-Parameter AI Models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50227356",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T01:33:49Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5597,
+      "importance": 0.5597,
+      "importance_score": 0.5597,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9386,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T01:33:49Z",
+      "latest_at": "2026-10-25T07:05:49.244000Z",
+      "primary_item": {
+        "id": "e1d77e1ce605edf952f344c063f9a4e8bb5b4e68",
+        "title": "Cerebras 部署了万亿参数的人工智能模型",
+        "title_zh": "Cerebras 部署了万亿参数的人工智能模型",
+        "title_en": null,
+        "title_original": "Cerebras 部署了万亿参数的人工智能模型",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+        "source": "www.cerebras.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-25T11:30:02.323316Z"
       }
     },
     {
@@ -269,15 +326,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5581,
-      "importance": 0.5581,
-      "importance_score": 0.5581,
+      "score": 0.5457,
+      "importance": 0.5457,
+      "importance_score": 0.5457,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9295,
+        "recency": 0.8605,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -302,7 +359,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T06:09:53.497306Z"
+        "scored_at": "2026-10-25T11:30:02.323316Z"
       }
     },
     {
@@ -328,7 +385,7 @@
           "published_at": "2026-10-25T01:04:53.332000Z"
         },
         {
-          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+          "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
           "title": "科技行业以外尚未出现人工智能带来回报的迹象 / No signs of AI payoff outside the tech sector",
           "title_zh": "科技行业以外尚未出现人工智能带来回报的迹象",
           "title_en": "No signs of AI payoff outside the tech sector",
@@ -336,9 +393,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-24T19:47:19Z"
         },
         {
@@ -358,7 +415,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.apollo.com"
       ],
@@ -378,7 +435,7 @@
           "published_at": "2026-10-25T01:04:53.332000Z"
         },
         {
-          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+          "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
           "title": "科技行业以外尚未出现人工智能带来回报的迹象 / No signs of AI payoff outside the tech sector",
           "title_zh": "科技行业以外尚未出现人工智能带来回报的迹象",
           "title_en": "No signs of AI payoff outside the tech sector",
@@ -386,9 +443,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-24T19:47:19Z"
         },
         {
@@ -408,15 +465,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5581,
-      "importance": 0.5581,
-      "importance_score": 0.5581,
+      "score": 0.5457,
+      "importance": 0.5457,
+      "importance_score": 0.5457,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9295,
+        "recency": 0.8605,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -441,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T06:09:53.497306Z"
+        "scored_at": "2026-10-25T11:30:02.323316Z"
       }
     },
     {
@@ -547,15 +604,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5581,
-      "importance": 0.5581,
-      "importance_score": 0.5581,
+      "score": 0.5457,
+      "importance": 0.5457,
+      "importance_score": 0.5457,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9295,
+        "recency": 0.8606,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -580,117 +637,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T06:09:53.497306Z"
-      }
-    },
-    {
-      "story_id": "story_461047623b07",
-      "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "primary_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
-          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-          "title_zh": "Cerebras 部署万亿参数人工智能模型",
-          "title_en": "Cerebras Deploys Trillion-Parameter AI Models",
-          "title_original": "Cerebras Deploys Trillion-Parameter AI Models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T01:33:49Z"
-        },
-        {
-          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
-          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-          "title_zh": "Cerebras 部署万亿参数人工智能模型",
-          "title_en": "Cerebras Deploys Trillion-Parameter AI Models",
-          "title_original": "Cerebras Deploys Trillion-Parameter AI Models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50227356",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T01:33:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
-          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-          "title_zh": "Cerebras 部署万亿参数人工智能模型",
-          "title_en": "Cerebras Deploys Trillion-Parameter AI Models",
-          "title_original": "Cerebras Deploys Trillion-Parameter AI Models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T01:33:49Z"
-        },
-        {
-          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
-          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-          "title_zh": "Cerebras 部署万亿参数人工智能模型",
-          "title_en": "Cerebras Deploys Trillion-Parameter AI Models",
-          "title_original": "Cerebras Deploys Trillion-Parameter AI Models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50227356",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T01:33:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5343,
-      "importance": 0.5343,
-      "importance_score": 0.5343,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.936,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-25T01:33:49Z",
-      "latest_at": "2026-10-25T01:33:49Z",
-      "primary_item": {
-        "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
-        "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-        "title_zh": "Cerebras 部署万亿参数人工智能模型",
-        "title_en": "Cerebras Deploys Trillion-Parameter AI Models",
-        "title_original": "Cerebras Deploys Trillion-Parameter AI Models",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T06:09:53.497306Z"
+        "scored_at": "2026-10-25T11:30:02.323316Z"
       }
     },
     {
@@ -767,15 +714,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5117,
-      "importance": 0.5117,
-      "importance_score": 0.5117,
+      "score": 0.5008,
+      "importance": 0.5008,
+      "importance_score": 0.5008,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8104,
+        "recency": 0.7502,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -800,227 +747,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T06:09:53.497306Z"
-      }
-    },
-    {
-      "story_id": "story_7f015f6d31aa",
-      "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-      "primary_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T11:18:54Z"
-        },
-        {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50220204",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T11:18:54Z"
-        },
-        {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50220204",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5029,
-      "importance": 0.5029,
-      "importance_score": 0.5029,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7619,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T11:18:54Z",
-      "latest_at": "2026-10-24T11:18:54Z",
-      "primary_item": {
-        "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
-        "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-        "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T06:09:53.497306Z"
-      }
-    },
-    {
-      "story_id": "story_48b1a6c85b6c",
-      "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-      "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-      "primary_url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "16dbb0c896d4fbc8b2f934e1c86108125f83d3ff",
-          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
-          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T10:51:35Z"
-        },
-        {
-          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
-          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
-          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50220042",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T10:51:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "16dbb0c896d4fbc8b2f934e1c86108125f83d3ff",
-          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
-          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T10:51:35Z"
-        },
-        {
-          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
-          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
-          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50220042",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T10:51:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.502,
-      "importance": 0.502,
-      "importance_score": 0.502,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7569,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T10:51:35Z",
-      "latest_at": "2026-10-24T10:51:35Z",
-      "primary_item": {
-        "id": "16dbb0c896d4fbc8b2f934e1c86108125f83d3ff",
-        "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-        "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
-        "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-        "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T06:09:53.497306Z"
+        "scored_at": "2026-10-25T11:30:02.323316Z"
       }
     }
   ]
