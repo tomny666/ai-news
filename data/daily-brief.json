@@ -1,111 +1,81 @@
 {
-  "generated_at": "2026-10-26T19:19:18.055493Z",
+  "generated_at": "2026-10-26T23:53:11.399493Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_49bc9e3f47de",
-      "title": "Introducing GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "primary_url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "story_id": "story_6a3f26655d84",
+      "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "primary_url": "https://openai.com/index/greptile-code-review-codex-astra",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3f8e39fe57c3c3ce37f6fc37fb1bb7d911a004d0",
-          "title": "Introducing GPT-6.1 Terra",
-          "title_zh": null,
-          "title_en": "Introducing GPT-6.1 Terra",
-          "title_original": "Introducing GPT-6.1 Terra",
+          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
+          "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-26T00:00:00Z"
-        },
-        {
-          "id": "07f434629f65d9ab5f255af50945bbe711f0dbf6",
-          "title": "GPT-6.1 Terra",
-          "title_zh": null,
-          "title_en": "GPT-6.1 Terra",
-          "title_original": "GPT-6.1 Terra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-26T18:01:17Z"
+          "published_at": "2026-10-26T22:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
         "OpenAI News"
       ],
       "items": [
         {
-          "id": "3f8e39fe57c3c3ce37f6fc37fb1bb7d911a004d0",
-          "title": "Introducing GPT-6.1 Terra",
-          "title_zh": null,
-          "title_en": "Introducing GPT-6.1 Terra",
-          "title_original": "Introducing GPT-6.1 Terra",
+          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
+          "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-26T00:00:00Z"
-        },
-        {
-          "id": "07f434629f65d9ab5f255af50945bbe711f0dbf6",
-          "title": "GPT-6.1 Terra",
-          "title_zh": null,
-          "title_en": "GPT-6.1 Terra",
-          "title_original": "GPT-6.1 Terra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-26T18:01:17Z"
+          "published_at": "2026-10-26T22:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8412,
-      "importance": 0.8412,
-      "importance_score": 0.8412,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8552,
+      "importance": 0.8552,
+      "importance_score": 0.8552,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7565,
-        "story_heat": 0.25
+        "recency": 0.9731,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-26T00:00:00Z",
-      "latest_at": "2026-10-26T18:01:17Z",
+      "earliest_at": "2026-10-26T22:00:00Z",
+      "latest_at": "2026-10-26T22:00:00Z",
       "primary_item": {
-        "id": "3f8e39fe57c3c3ce37f6fc37fb1bb7d911a004d0",
-        "title": "Introducing GPT-6.1 Terra",
-        "title_zh": null,
-        "title_en": "Introducing GPT-6.1 Terra",
-        "title_original": "Introducing GPT-6.1 Terra",
+        "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+        "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
+        "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+        "url": "https://openai.com/index/greptile-code-review-codex-astra",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -113,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T19:20:10.313489Z"
+        "scored_at": "2026-10-26T23:54:09.862305Z"
+      }
+    },
+    {
+      "story_id": "story_f8d229a3f617",
+      "title": "GPT-6.1 Terra in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ec98a1aa498e34d0d481169601e61e73ccd23256",
+          "title": "GPT-6.1 Terra in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "GPT-6.1 Terra in GitHub Copilot",
+          "title_original": "GPT-6.1 Terra in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T19:15:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ec98a1aa498e34d0d481169601e61e73ccd23256",
+          "title": "GPT-6.1 Terra in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "GPT-6.1 Terra in GitHub Copilot",
+          "title_original": "GPT-6.1 Terra in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T19:15:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8484,
+      "importance": 0.8484,
+      "importance_score": 0.8484,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9354,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T19:15:53Z",
+      "latest_at": "2026-10-26T19:15:53Z",
+      "primary_item": {
+        "id": "ec98a1aa498e34d0d481169601e61e73ccd23256",
+        "title": "GPT-6.1 Terra in GitHub Copilot",
+        "title_zh": null,
+        "title_en": "GPT-6.1 Terra in GitHub Copilot",
+        "title_original": "GPT-6.1 Terra in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-26T23:54:09.862305Z"
       }
     },
     {
@@ -161,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8356,
-      "importance": 0.8356,
-      "importance_score": 0.8356,
+      "score": 0.8246,
+      "importance": 0.8246,
+      "importance_score": 0.8246,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9532,
+        "recency": 0.8924,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +249,120 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T19:20:10.313489Z"
+        "scored_at": "2026-10-26T23:54:09.862305Z"
+      }
+    },
+    {
+      "story_id": "story_7cb634884910",
+      "title": "OpenAI 宣布模型产出三项数学成果并与学界协作发布 / Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "primary_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9fd3d29cb684263f9621d0aa57d73f61025acfea",
+          "title": "OpenAI 宣布模型产出三项数学成果并与学界协作发布 / Working with academic communities to build scientific understanding",
+          "title_zh": "OpenAI 宣布模型产出三项数学成果并与学界协作发布",
+          "title_en": "Working with academic communities to build scientific understanding",
+          "title_original": "Working with academic communities to build scientific understanding",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T14:30:00Z"
+        },
+        {
+          "id": "21e172326b25075b988fe82d6a37240ed38b2451",
+          "title": "与学术界合作，增进对科学的理解",
+          "title_zh": "与学术界合作，增进对科学的理解",
+          "title_en": null,
+          "title_original": "与学术界合作，增进对科学的理解",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-26T22:44:27.036000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "9fd3d29cb684263f9621d0aa57d73f61025acfea",
+          "title": "OpenAI 宣布模型产出三项数学成果并与学界协作发布 / Working with academic communities to build scientific understanding",
+          "title_zh": "OpenAI 宣布模型产出三项数学成果并与学界协作发布",
+          "title_en": "Working with academic communities to build scientific understanding",
+          "title_original": "Working with academic communities to build scientific understanding",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T14:30:00Z"
+        },
+        {
+          "id": "21e172326b25075b988fe82d6a37240ed38b2451",
+          "title": "与学术界合作，增进对科学的理解",
+          "title_zh": "与学术界合作，增进对科学的理解",
+          "title_en": null,
+          "title_original": "与学术界合作，增进对科学的理解",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-26T22:44:27.036000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8542,
+      "importance": 0.8542,
+      "importance_score": 0.8542,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8732,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T14:30:00Z",
+      "latest_at": "2026-10-26T22:44:27.036000Z",
+      "primary_item": {
+        "id": "9fd3d29cb684263f9621d0aa57d73f61025acfea",
+        "title": "OpenAI 宣布模型产出三项数学成果并与学界协作发布 / Working with academic communities to build scientific understanding",
+        "title_zh": "OpenAI 宣布模型产出三项数学成果并与学界协作发布",
+        "title_en": "Working with academic communities to build scientific understanding",
+        "title_original": "Working with academic communities to build scientific understanding",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-26T23:54:09.862305Z"
       }
     },
     {
@@ -244,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8262,
-      "importance": 0.8262,
-      "importance_score": 0.8262,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7565,
+        "recency": 0.7083,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,90 +445,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T19:20:10.313489Z"
-      }
-    },
-    {
-      "story_id": "story_4660eaf23fef",
-      "title": "ChatGPT 不断扩大的工作领域 / ChatGPT’s expanding world of work",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "primary_url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2581cdd6919419121f3d538268f66dd68177284a",
-          "title": "ChatGPT 不断扩大的工作领域 / ChatGPT’s expanding world of work",
-          "title_zh": "ChatGPT 不断扩大的工作领域",
-          "title_en": "ChatGPT’s expanding world of work",
-          "title_original": "ChatGPT’s expanding world of work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2581cdd6919419121f3d538268f66dd68177284a",
-          "title": "ChatGPT 不断扩大的工作领域 / ChatGPT’s expanding world of work",
-          "title_zh": "ChatGPT 不断扩大的工作领域",
-          "title_en": "ChatGPT’s expanding world of work",
-          "title_original": "ChatGPT’s expanding world of work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8373,
-      "importance": 0.8373,
-      "importance_score": 0.8373,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8741,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T10:00:00Z",
-      "latest_at": "2026-10-26T10:00:00Z",
-      "primary_item": {
-        "id": "2581cdd6919419121f3d538268f66dd68177284a",
-        "title": "ChatGPT 不断扩大的工作领域 / ChatGPT’s expanding world of work",
-        "title_zh": "ChatGPT 不断扩大的工作领域",
-        "title_en": "ChatGPT’s expanding world of work",
-        "title_original": "ChatGPT’s expanding world of work",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-26T19:20:10.313489Z"
+        "scored_at": "2026-10-26T23:54:09.862305Z"
       }
     },
     {
@@ -410,15 +493,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8049,
-      "importance": 0.8049,
-      "importance_score": 0.8049,
+      "score": 0.7935,
+      "importance": 0.7935,
+      "importance_score": 0.7935,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9907,
+        "recency": 0.9275,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -444,30 +527,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T19:20:10.313489Z"
+        "scored_at": "2026-10-26T23:54:09.862305Z"
       }
     },
     {
-      "story_id": "story_cdfcd9ca2b60",
-      "title": "Anthropic S-1 文件中的五个不寻常细节 / Five weird details from Anthropic’s IPO filing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "story_id": "story_aa3314f188bf",
+      "title": "OpenAI 宣布数学、计算机科学与物理三项重大发现，并与外部专家合作验证 / OpenAI announces three big science discoveries and a new way to work with academics",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
       "source": "The Verge：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d011588dc04920135b4b1c569b7b4314605525e8",
-          "title": "Anthropic S-1 文件中的五个不寻常细节 / Five weird details from Anthropic’s IPO filing",
-          "title_zh": "Anthropic S-1 文件中的五个不寻常细节",
-          "title_en": "Five weird details from Anthropic’s IPO filing",
-          "title_original": "Five weird details from Anthropic’s IPO filing",
-          "summary": "The Verge 梳理 Anthropic 向 SEC 提交的 300 多页 S-1 上市文件，列出五个细节。",
+          "id": "d26b286b60911a17ff9b7485aa3a3ad54e75eeb8",
+          "title": "OpenAI 宣布数学、计算机科学与物理三项重大发现，并与外部专家合作验证 / OpenAI announces three big science discoveries and a new way to work with academics",
+          "title_zh": "OpenAI 宣布数学、计算机科学与物理三项重大发现，并与外部专家合作验证",
+          "title_en": "OpenAI announces three big science discoveries and a new way to work with academics",
+          "title_original": "OpenAI announces three big science discoveries and a new way to work with academics",
+          "summary": "OpenAI 宣布三项涉及数学、计算机科学和物理的重大发现，包括证明局部光滑猜想、反驳指数时间假说（ETH），以及涉及 QCD 的量子场论存在性证明。",
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
           "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-26T17:10:23Z"
+          "published_at": "2026-10-26T23:34:58Z"
         }
       ],
       "source_count": 1,
@@ -476,31 +559,31 @@
       ],
       "items": [
         {
-          "id": "d011588dc04920135b4b1c569b7b4314605525e8",
-          "title": "Anthropic S-1 文件中的五个不寻常细节 / Five weird details from Anthropic’s IPO filing",
-          "title_zh": "Anthropic S-1 文件中的五个不寻常细节",
-          "title_en": "Five weird details from Anthropic’s IPO filing",
-          "title_original": "Five weird details from Anthropic’s IPO filing",
-          "summary": "The Verge 梳理 Anthropic 向 SEC 提交的 300 多页 S-1 上市文件，列出五个细节。",
+          "id": "d26b286b60911a17ff9b7485aa3a3ad54e75eeb8",
+          "title": "OpenAI 宣布数学、计算机科学与物理三项重大发现，并与外部专家合作验证 / OpenAI announces three big science discoveries and a new way to work with academics",
+          "title_zh": "OpenAI 宣布数学、计算机科学与物理三项重大发现，并与外部专家合作验证",
+          "title_en": "OpenAI announces three big science discoveries and a new way to work with academics",
+          "title_original": "OpenAI announces three big science discoveries and a new way to work with academics",
+          "summary": "OpenAI 宣布三项涉及数学、计算机科学和物理的重大发现，包括证明局部光滑猜想、反驳指数时间假说（ETH），以及涉及 QCD 的量子场论存在性证明。",
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
           "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-26T17:10:23Z"
+          "published_at": "2026-10-26T23:34:58Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7951,
-      "importance": 0.7951,
-      "importance_score": 0.7951,
+      "score": 0.7908,
+      "importance": 0.7908,
+      "importance_score": 0.7908,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.83,
+        "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9694,
+        "recency": 0.9956,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -508,17 +591,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-26T17:10:23Z",
-      "latest_at": "2026-10-26T17:10:23Z",
+      "earliest_at": "2026-10-26T23:34:58Z",
+      "latest_at": "2026-10-26T23:34:58Z",
       "primary_item": {
-        "id": "d011588dc04920135b4b1c569b7b4314605525e8",
-        "title": "Anthropic S-1 文件中的五个不寻常细节 / Five weird details from Anthropic’s IPO filing",
-        "title_zh": "Anthropic S-1 文件中的五个不寻常细节",
-        "title_en": "Five weird details from Anthropic’s IPO filing",
-        "title_original": "Five weird details from Anthropic’s IPO filing",
-        "summary": "The Verge 梳理 Anthropic 向 SEC 提交的 300 多页 S-1 上市文件，列出五个细节。",
+        "id": "d26b286b60911a17ff9b7485aa3a3ad54e75eeb8",
+        "title": "OpenAI 宣布数学、计算机科学与物理三项重大发现，并与外部专家合作验证 / OpenAI announces three big science discoveries and a new way to work with academics",
+        "title_zh": "OpenAI 宣布数学、计算机科学与物理三项重大发现，并与外部专家合作验证",
+        "title_en": "OpenAI announces three big science discoveries and a new way to work with academics",
+        "title_original": "OpenAI announces three big science discoveries and a new way to work with academics",
+        "summary": "OpenAI 宣布三项涉及数学、计算机科学和物理的重大发现，包括证明局部光滑猜想、反驳指数时间假说（ETH），以及涉及 QCD 的量子场论存在性证明。",
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
       },
@@ -526,7 +609,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T19:20:10.313489Z"
+        "scored_at": "2026-10-26T23:54:09.862305Z"
+      }
+    },
+    {
+      "story_id": "story_e388b73835cf",
+      "title": "GPT-6.1 Sol 帮助 CodeRabbit 加强复杂代码库的安全性 / GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "primary_url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f23c4db1553b14f78aeb3bd0b2aa65d4546fec8d",
+          "title": "GPT-6.1 Sol 帮助 CodeRabbit 加强复杂代码库的安全性 / GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+          "title_zh": "GPT-6.1 Sol 帮助 CodeRabbit 加强复杂代码库的安全性",
+          "title_en": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+          "title_original": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T13:45:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "f23c4db1553b14f78aeb3bd0b2aa65d4546fec8d",
+          "title": "GPT-6.1 Sol 帮助 CodeRabbit 加强复杂代码库的安全性 / GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+          "title_zh": "GPT-6.1 Sol 帮助 CodeRabbit 加强复杂代码库的安全性",
+          "title_en": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+          "title_original": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T13:45:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8355,
+      "importance": 0.8355,
+      "importance_score": 0.8355,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8638,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T13:45:00Z",
+      "latest_at": "2026-10-26T13:45:00Z",
+      "primary_item": {
+        "id": "f23c4db1553b14f78aeb3bd0b2aa65d4546fec8d",
+        "title": "GPT-6.1 Sol 帮助 CodeRabbit 加强复杂代码库的安全性 / GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+        "title_zh": "GPT-6.1 Sol 帮助 CodeRabbit 加强复杂代码库的安全性",
+        "title_en": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+        "title_original": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-26T23:54:09.862305Z"
+      }
+    },
+    {
+      "story_id": "story_68d9f7344407",
+      "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力 / Day 22/ Terra is back!",
+      "url": "https://x.com/thsottiaux/status/2114800277677092936",
+      "primary_url": "https://x.com/thsottiaux/status/2114800277677092936",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
+          "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力 / Day 22/ Terra is back!",
+          "title_zh": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
+          "title_en": "Day 22/ Terra is back!",
+          "title_original": "Day 22/ Terra is back!",
+          "summary": "作者宣布 GPT-6.1 Terra 回归，称这是其首个在写作、个性和细致理解请求上显著更好的模型。该模型擅长电脑操作，可理解屏幕内容并跨应用执行操作，在 API 和订阅中提供的用量是 6.1 Sol 的 2 倍，价格更低。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2114800277677092936",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T19:24:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
+          "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力 / Day 22/ Terra is back!",
+          "title_zh": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
+          "title_en": "Day 22/ Terra is back!",
+          "title_original": "Day 22/ Terra is back!",
+          "summary": "作者宣布 GPT-6.1 Terra 回归，称这是其首个在写作、个性和细致理解请求上显著更好的模型。该模型擅长电脑操作，可理解屏幕内容并跨应用执行操作，在 API 和订阅中提供的用量是 6.1 Sol 的 2 倍，价格更低。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2114800277677092936",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T19:24:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9373,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T19:24:11Z",
+      "latest_at": "2026-10-26T19:24:11Z",
+      "primary_item": {
+        "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
+        "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力 / Day 22/ Terra is back!",
+        "title_zh": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
+        "title_en": "Day 22/ Terra is back!",
+        "title_original": "Day 22/ Terra is back!",
+        "summary": "作者宣布 GPT-6.1 Terra 回归，称这是其首个在写作、个性和细致理解请求上显著更好的模型。该模型擅长电脑操作，可理解屏幕内容并跨应用执行操作，在 API 和订阅中提供的用量是 6.1 Sol 的 2 倍，价格更低。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/thsottiaux/status/2114800277677092936",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-26T23:54:09.862305Z"
       }
     },
     {
@@ -574,15 +822,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8064,
+        "recency": 0.7549,
         "story_heat": 0.0
       },
       "category": "official",
@@ -608,7 +856,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T19:20:10.313489Z"
+        "scored_at": "2026-10-26T23:54:09.862305Z"
+      }
+    },
+    {
+      "story_id": "story_b7cd9e29b365",
+      "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人 / computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+      "url": "https://x.com/gdb/status/2114814747254432243",
+      "primary_url": "https://x.com/gdb/status/2114814747254432243",
+      "source": "X：Greg Brockman (@gdb)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人 / computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+          "title_zh": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+          "title_en": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+          "title_original": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+          "summary": "Greg Brockman 表示 GPT-6.1 Terra 的电脑操作能力已跨过一个质变门槛，用起来比他不借助 AI 时更快。其引用的 OpenAI 介绍称 GPT-6.1 Terra 能理解屏幕内容、跨应用执行操作、自然书写，以更低价格提供快速且强大的 computer use，适合承担整个工作日的更多任务。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/gdb/status/2114814747254432243",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T20:21:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Greg Brockman (@gdb)"
+      ],
+      "items": [
+        {
+          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人 / computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+          "title_zh": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+          "title_en": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+          "title_original": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+          "summary": "Greg Brockman 表示 GPT-6.1 Terra 的电脑操作能力已跨过一个质变门槛，用起来比他不借助 AI 时更快。其引用的 OpenAI 介绍称 GPT-6.1 Terra 能理解屏幕内容、跨应用执行操作、自然书写，以更低价格提供快速且强大的 computer use，适合承担整个工作日的更多任务。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/gdb/status/2114814747254432243",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T20:21:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9504,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T20:21:41Z",
+      "latest_at": "2026-10-26T20:21:41Z",
+      "primary_item": {
+        "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+        "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人 / computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+        "title_zh": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+        "title_en": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+        "title_original": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+        "summary": "Greg Brockman 表示 GPT-6.1 Terra 的电脑操作能力已跨过一个质变门槛，用起来比他不借助 AI 时更快。其引用的 OpenAI 介绍称 GPT-6.1 Terra 能理解屏幕内容、跨应用执行操作、自然书写，以更低价格提供快速且强大的 computer use，适合承担整个工作日的更多任务。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/gdb/status/2114814747254432243",
+        "source": "X：Greg Brockman (@gdb)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-26T23:54:09.862305Z"
       }
     },
     {
@@ -656,15 +986,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7658,
-      "importance": 0.7658,
-      "importance_score": 0.7658,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9065,
+        "recency": 0.8487,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -690,7 +1020,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T19:20:10.313489Z"
+        "scored_at": "2026-10-26T23:54:09.862305Z"
       }
     },
     {
@@ -738,15 +1068,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7656,
-      "importance": 0.7656,
-      "importance_score": 0.7656,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9054,
+        "recency": 0.8476,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -772,7 +1102,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T19:20:10.313489Z"
+        "scored_at": "2026-10-26T23:54:09.862305Z"
       }
     },
     {
@@ -820,15 +1150,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9215,
+        "recency": 0.8627,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -854,90 +1184,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T19:20:10.313489Z"
+        "scored_at": "2026-10-26T23:54:09.862305Z"
       }
     },
     {
-      "story_id": "story_b9ba650b2e36",
-      "title": "Fanatics 和 OpenAI 如何简化粉丝体验 / How Fanatics and OpenAI streamline the fan experience",
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "primary_url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_701e54b2e2ab",
+      "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output / GPT-6.1 Terra from @OpenAI is live on OpenRouter!",
+      "url": "https://x.com/OpenRouter/status/2114791584755839168",
+      "primary_url": "https://x.com/OpenRouter/status/2114791584755839168",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "10fe4ba0c00a8afd7e2fb777779a811558c4b5b5",
-          "title": "Fanatics 和 OpenAI 如何简化粉丝体验 / How Fanatics and OpenAI streamline the fan experience",
-          "title_zh": "Fanatics 和 OpenAI 如何简化粉丝体验",
-          "title_en": "How Fanatics and OpenAI streamline the fan experience",
-          "title_original": "How Fanatics and OpenAI streamline the fan experience",
-          "summary": null,
+          "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
+          "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output / GPT-6.1 Terra from @OpenAI is live on OpenRouter!",
+          "title_zh": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
+          "title_en": "GPT-6.1 Terra from @OpenAI is live on OpenRouter!",
+          "title_original": "GPT-6.1 Terra from @OpenAI is live on OpenRouter!",
+          "summary": "OpenRouter 宣布 OpenAI 的 GPT-6.1 Terra 上线。该模型在 Agents' Last Exam 上与 GPT-6 Astra 得分相当，每 token 价格约为其十分之一，平均完成任务速度比 Astra 和 GPT-6.1 Sol 快 3 倍以上。定价 $1/M input、$5/M output，上下文 1.05M，链接 https://openrouter.ai/openai/gpt-6.1-terra 。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T07:00:00Z"
+          "url": "https://x.com/OpenRouter/status/2114791584755839168",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T18:49:39Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "X：OpenRouter (@OpenRouter)"
       ],
       "items": [
         {
-          "id": "10fe4ba0c00a8afd7e2fb777779a811558c4b5b5",
-          "title": "Fanatics 和 OpenAI 如何简化粉丝体验 / How Fanatics and OpenAI streamline the fan experience",
-          "title_zh": "Fanatics 和 OpenAI 如何简化粉丝体验",
-          "title_en": "How Fanatics and OpenAI streamline the fan experience",
-          "title_original": "How Fanatics and OpenAI streamline the fan experience",
-          "summary": null,
+          "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
+          "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output / GPT-6.1 Terra from @OpenAI is live on OpenRouter!",
+          "title_zh": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
+          "title_en": "GPT-6.1 Terra from @OpenAI is live on OpenRouter!",
+          "title_original": "GPT-6.1 Terra from @OpenAI is live on OpenRouter!",
+          "summary": "OpenRouter 宣布 OpenAI 的 GPT-6.1 Terra 上线。该模型在 Agents' Last Exam 上与 GPT-6 Astra 得分相当，每 token 价格约为其十分之一，平均完成任务速度比 Astra 和 GPT-6.1 Sol 快 3 倍以上。定价 $1/M input、$5/M output，上下文 1.05M，链接 https://openrouter.ai/openai/gpt-6.1-terra 。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T07:00:00Z"
+          "url": "https://x.com/OpenRouter/status/2114791584755839168",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T18:49:39Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8227,
-      "importance": 0.8227,
-      "importance_score": 0.8227,
-      "importance_label": "官方更新",
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.837,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9295,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-26T07:00:00Z",
-      "latest_at": "2026-10-26T07:00:00Z",
+      "earliest_at": "2026-10-26T18:49:39Z",
+      "latest_at": "2026-10-26T18:49:39Z",
       "primary_item": {
-        "id": "10fe4ba0c00a8afd7e2fb777779a811558c4b5b5",
-        "title": "Fanatics 和 OpenAI 如何简化粉丝体验 / How Fanatics and OpenAI streamline the fan experience",
-        "title_zh": "Fanatics 和 OpenAI 如何简化粉丝体验",
-        "title_en": "How Fanatics and OpenAI streamline the fan experience",
-        "title_original": "How Fanatics and OpenAI streamline the fan experience",
-        "summary": null,
+        "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
+        "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output / GPT-6.1 Terra from @OpenAI is live on OpenRouter!",
+        "title_zh": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
+        "title_en": "GPT-6.1 Terra from @OpenAI is live on OpenRouter!",
+        "title_original": "GPT-6.1 Terra from @OpenAI is live on OpenRouter!",
+        "summary": "OpenRouter 宣布 OpenAI 的 GPT-6.1 Terra 上线。该模型在 Agents' Last Exam 上与 GPT-6 Astra 得分相当，每 token 价格约为其十分之一，平均完成任务速度比 Astra 和 GPT-6.1 Sol 快 3 倍以上。定价 $1/M input、$5/M output，上下文 1.05M，链接 https://openrouter.ai/openai/gpt-6.1-terra 。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/OpenRouter/status/2114791584755839168",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T19:20:10.313489Z"
+        "scored_at": "2026-10-26T23:54:09.862305Z"
+      }
+    },
+    {
+      "story_id": "story_cdfcd9ca2b60",
+      "title": "Anthropic S-1 文件中的五个不寻常细节 / Five weird details from Anthropic’s IPO filing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d011588dc04920135b4b1c569b7b4314605525e8",
+          "title": "Anthropic S-1 文件中的五个不寻常细节 / Five weird details from Anthropic’s IPO filing",
+          "title_zh": "Anthropic S-1 文件中的五个不寻常细节",
+          "title_en": "Five weird details from Anthropic’s IPO filing",
+          "title_original": "Five weird details from Anthropic’s IPO filing",
+          "summary": "The Verge 梳理 Anthropic 向 SEC 提交的 300 多页 S-1 上市文件，列出五个细节。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T17:10:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d011588dc04920135b4b1c569b7b4314605525e8",
+          "title": "Anthropic S-1 文件中的五个不寻常细节 / Five weird details from Anthropic’s IPO filing",
+          "title_zh": "Anthropic S-1 文件中的五个不寻常细节",
+          "title_en": "Five weird details from Anthropic’s IPO filing",
+          "title_original": "Five weird details from Anthropic’s IPO filing",
+          "summary": "The Verge 梳理 Anthropic 向 SEC 提交的 300 多页 S-1 上市文件，列出五个细节。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T17:10:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.784,
+      "importance": 0.784,
+      "importance_score": 0.784,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9076,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T17:10:23Z",
+      "latest_at": "2026-10-26T17:10:23Z",
+      "primary_item": {
+        "id": "d011588dc04920135b4b1c569b7b4314605525e8",
+        "title": "Anthropic S-1 文件中的五个不寻常细节 / Five weird details from Anthropic’s IPO filing",
+        "title_zh": "Anthropic S-1 文件中的五个不寻常细节",
+        "title_en": "Five weird details from Anthropic’s IPO filing",
+        "title_original": "Five weird details from Anthropic’s IPO filing",
+        "summary": "The Verge 梳理 Anthropic 向 SEC 提交的 300 多页 S-1 上市文件，列出五个细节。",
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-26T23:54:09.862305Z"
       }
     },
     {
@@ -985,15 +1396,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.983,
+        "recency": 0.9203,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1019,7 +1430,120 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T19:20:10.313489Z"
+        "scored_at": "2026-10-26T23:54:09.862305Z"
+      }
+    },
+    {
+      "story_id": "story_49bc9e3f47de",
+      "title": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本 / Introducing GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "primary_url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3f8e39fe57c3c3ce37f6fc37fb1bb7d911a004d0",
+          "title": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本 / Introducing GPT-6.1 Terra",
+          "title_zh": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本",
+          "title_en": "Introducing GPT-6.1 Terra",
+          "title_original": "Introducing GPT-6.1 Terra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T00:00:00Z"
+        },
+        {
+          "id": "802b19dc2990203e71caeba3c2b52bdc4096c913",
+          "title": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本 / GPT-6.1 Terra",
+          "title_zh": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本",
+          "title_en": "GPT-6.1 Terra",
+          "title_original": "GPT-6.1 Terra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-26T22:44:26.502000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "3f8e39fe57c3c3ce37f6fc37fb1bb7d911a004d0",
+          "title": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本 / Introducing GPT-6.1 Terra",
+          "title_zh": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本",
+          "title_en": "Introducing GPT-6.1 Terra",
+          "title_original": "Introducing GPT-6.1 Terra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T00:00:00Z"
+        },
+        {
+          "id": "802b19dc2990203e71caeba3c2b52bdc4096c913",
+          "title": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本 / GPT-6.1 Terra",
+          "title_zh": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本",
+          "title_en": "GPT-6.1 Terra",
+          "title_original": "GPT-6.1 Terra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-26T22:44:26.502000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8325,
+      "importance": 0.8325,
+      "importance_score": 0.8325,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7083,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T00:00:00Z",
+      "latest_at": "2026-10-26T22:44:26.502000Z",
+      "primary_item": {
+        "id": "3f8e39fe57c3c3ce37f6fc37fb1bb7d911a004d0",
+        "title": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本 / Introducing GPT-6.1 Terra",
+        "title_zh": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本",
+        "title_en": "Introducing GPT-6.1 Terra",
+        "title_original": "Introducing GPT-6.1 Terra",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-26T23:54:09.862305Z"
       }
     },
     {
@@ -1067,21 +1591,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9141,
+        "recency": 0.8558,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-26T13:06:14.663275Z",
       "latest_at": "2026-10-26T13:06:14.663275Z",
@@ -1101,7 +1624,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T19:20:10.313489Z"
+        "scored_at": "2026-10-26T23:54:09.862305Z"
       }
     },
     {
@@ -1149,21 +1672,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9362,
+        "recency": 0.8765,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-26T14:45:21Z",
       "latest_at": "2026-10-26T14:45:21Z",
@@ -1183,497 +1705,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-26T19:20:10.313489Z"
-      }
-    },
-    {
-      "story_id": "story_8bc0e7316494",
-      "title": "Krea 推出面向 Adobe Premiere 的插件 / introducing Krea for Adobe Premiere.",
-      "url": "https://x.com/krea_ai/status/2114741513867395527",
-      "primary_url": "https://x.com/krea_ai/status/2114741513867395527",
-      "source": "X：Krea AI (@krea_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "48bc8cb1be87c483fcca0c44702500731d28b1c6",
-          "title": "Krea 推出面向 Adobe Premiere 的插件 / introducing Krea for Adobe Premiere.",
-          "title_zh": "Krea 推出面向 Adobe Premiere 的插件",
-          "title_en": "introducing Krea for Adobe Premiere.",
-          "title_original": "introducing Krea for Adobe Premiere.",
-          "summary": "Krea 发布 Krea for Adobe Premiere，用户无需离开时间线即可完成故事板、生成视频和添加音效，现已开放试用。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/krea_ai/status/2114741513867395527",
-          "source": "X：Krea AI (@krea_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T15:30:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Krea AI (@krea_ai)"
-      ],
-      "items": [
-        {
-          "id": "48bc8cb1be87c483fcca0c44702500731d28b1c6",
-          "title": "Krea 推出面向 Adobe Premiere 的插件 / introducing Krea for Adobe Premiere.",
-          "title_zh": "Krea 推出面向 Adobe Premiere 的插件",
-          "title_en": "introducing Krea for Adobe Premiere.",
-          "title_original": "introducing Krea for Adobe Premiere.",
-          "summary": "Krea 发布 Krea for Adobe Premiere，用户无需离开时间线即可完成故事板、生成视频和添加音效，现已开放试用。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/krea_ai/status/2114741513867395527",
-          "source": "X：Krea AI (@krea_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T15:30:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9465,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-26T15:30:41Z",
-      "latest_at": "2026-10-26T15:30:41Z",
-      "primary_item": {
-        "id": "48bc8cb1be87c483fcca0c44702500731d28b1c6",
-        "title": "Krea 推出面向 Adobe Premiere 的插件 / introducing Krea for Adobe Premiere.",
-        "title_zh": "Krea 推出面向 Adobe Premiere 的插件",
-        "title_en": "introducing Krea for Adobe Premiere.",
-        "title_original": "introducing Krea for Adobe Premiere.",
-        "summary": "Krea 发布 Krea for Adobe Premiere，用户无需离开时间线即可完成故事板、生成视频和添加音效，现已开放试用。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/krea_ai/status/2114741513867395527",
-        "source": "X：Krea AI (@krea_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-26T19:20:10.313489Z"
-      }
-    },
-    {
-      "story_id": "story_c3c8258df45d",
-      "title": "Ultrafast 如何将 OpenAI 的事件调查时间从几小时缩短至几分钟 / How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "url": "https://openai.com/index/openai-cut-incident-investigation",
-      "primary_url": "https://openai.com/index/openai-cut-incident-investigation",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f0026484ab4067bdefa4299658c55d80cafad056",
-          "title": "Ultrafast 如何将 OpenAI 的事件调查时间从几小时缩短至几分钟 / How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-          "title_zh": "Ultrafast 如何将 OpenAI 的事件调查时间从几小时缩短至几分钟",
-          "title_en": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-          "title_original": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-cut-incident-investigation",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f0026484ab4067bdefa4299658c55d80cafad056",
-          "title": "Ultrafast 如何将 OpenAI 的事件调查时间从几小时缩短至几分钟 / How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-          "title_zh": "Ultrafast 如何将 OpenAI 的事件调查时间从几小时缩短至几分钟",
-          "title_en": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-          "title_original": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-cut-incident-investigation",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8227,
-      "importance": 0.8227,
-      "importance_score": 0.8227,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.837,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T07:00:00Z",
-      "latest_at": "2026-10-26T07:00:00Z",
-      "primary_item": {
-        "id": "f0026484ab4067bdefa4299658c55d80cafad056",
-        "title": "Ultrafast 如何将 OpenAI 的事件调查时间从几小时缩短至几分钟 / How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-        "title_zh": "Ultrafast 如何将 OpenAI 的事件调查时间从几小时缩短至几分钟",
-        "title_en": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-        "title_original": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/openai-cut-incident-investigation",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-26T19:20:10.313489Z"
-      }
-    },
-    {
-      "story_id": "story_672839c1cfa8",
-      "title": "何夕2077 AI 深度信号周报 2026 W43：把关权易主与千亿算力",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-25-ai-deep-signals-weekly-2026-w43",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-25-ai-deep-signals-weekly-2026-w43",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "e8148be904c4ea21c742a8e792e71a9faa348f5b",
-          "title": "何夕2077 AI 深度信号周报 2026 W43：把关权易主与千亿算力",
-          "title_zh": "何夕2077 AI 深度信号周报 2026 W43：把关权易主与千亿算力",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 2026 W43：把关权易主与千亿算力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-25-ai-deep-signals-weekly-2026-w43",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-10-26T03:08:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "e8148be904c4ea21c742a8e792e71a9faa348f5b",
-          "title": "何夕2077 AI 深度信号周报 2026 W43：把关权易主与千亿算力",
-          "title_zh": "何夕2077 AI 深度信号周报 2026 W43：把关权易主与千亿算力",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 2026 W43：把关权易主与千亿算力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-25-ai-deep-signals-weekly-2026-w43",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-10-26T03:08:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7917,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-26T03:08:44Z",
-      "latest_at": "2026-10-26T03:08:44Z",
-      "primary_item": {
-        "id": "e8148be904c4ea21c742a8e792e71a9faa348f5b",
-        "title": "何夕2077 AI 深度信号周报 2026 W43：把关权易主与千亿算力",
-        "title_zh": "何夕2077 AI 深度信号周报 2026 W43：把关权易主与千亿算力",
-        "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 2026 W43：把关权易主与千亿算力",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-25-ai-deep-signals-weekly-2026-w43",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-26T19:20:10.313489Z"
-      }
-    },
-    {
-      "story_id": "story_4020cfbd7c66",
-      "title": "Epoch AI 用内部工作任务评测前沿模型：Claude Fable 5.1 与 GPT-6 Astra 平均只得 65% / We tried to automate Epoch",
-      "url": "https://epochai.substack.com/p/can-ai-automate-epoch",
-      "primary_url": "https://epochai.substack.com/p/can-ai-automate-epoch",
-      "source": "Epoch AI：Gradient Updates（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d1295d206ae4b6266a8d96d1d3b77ef3e72f20b7",
-          "title": "Epoch AI 用内部工作任务评测前沿模型：Claude Fable 5.1 与 GPT-6 Astra 平均只得 65% / We tried to automate Epoch",
-          "title_zh": "Epoch AI 用内部工作任务评测前沿模型：Claude Fable 5.1 与 GPT-6 Astra 平均只得 65%",
-          "title_en": "We tried to automate Epoch",
-          "title_original": "We tried to automate Epoch",
-          "summary": "Epoch AI 发布 Epoch Automation Reports，把机构内部的图表设计、研究规划等真实任务按人类员工评估标准测试 AI，领先的 Claude Fable 5.1 和 GPT-6 Astra 平均得分 65%，未达到 100% 的可自动化门槛。",
-          "recommend_reason_zh": null,
-          "url": "https://epochai.substack.com/p/can-ai-automate-epoch",
-          "source": "Epoch AI：Gradient Updates（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T16:33:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Epoch AI：Gradient Updates（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d1295d206ae4b6266a8d96d1d3b77ef3e72f20b7",
-          "title": "Epoch AI 用内部工作任务评测前沿模型：Claude Fable 5.1 与 GPT-6 Astra 平均只得 65% / We tried to automate Epoch",
-          "title_zh": "Epoch AI 用内部工作任务评测前沿模型：Claude Fable 5.1 与 GPT-6 Astra 平均只得 65%",
-          "title_en": "We tried to automate Epoch",
-          "title_original": "We tried to automate Epoch",
-          "summary": "Epoch AI 发布 Epoch Automation Reports，把机构内部的图表设计、研究规划等真实任务按人类员工评估标准测试 AI，领先的 Claude Fable 5.1 和 GPT-6 Astra 平均得分 65%，未达到 100% 的可自动化门槛。",
-          "recommend_reason_zh": null,
-          "url": "https://epochai.substack.com/p/can-ai-automate-epoch",
-          "source": "Epoch AI：Gradient Updates（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T16:33:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7276,
-      "importance": 0.7276,
-      "importance_score": 0.7276,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9609,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-26T16:33:24Z",
-      "latest_at": "2026-10-26T16:33:24Z",
-      "primary_item": {
-        "id": "d1295d206ae4b6266a8d96d1d3b77ef3e72f20b7",
-        "title": "Epoch AI 用内部工作任务评测前沿模型：Claude Fable 5.1 与 GPT-6 Astra 平均只得 65% / We tried to automate Epoch",
-        "title_zh": "Epoch AI 用内部工作任务评测前沿模型：Claude Fable 5.1 与 GPT-6 Astra 平均只得 65%",
-        "title_en": "We tried to automate Epoch",
-        "title_original": "We tried to automate Epoch",
-        "summary": "Epoch AI 发布 Epoch Automation Reports，把机构内部的图表设计、研究规划等真实任务按人类员工评估标准测试 AI，领先的 Claude Fable 5.1 和 GPT-6 Astra 平均得分 65%，未达到 100% 的可自动化门槛。",
-        "recommend_reason_zh": null,
-        "url": "https://epochai.substack.com/p/can-ai-automate-epoch",
-        "source": "Epoch AI：Gradient Updates（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-26T19:20:10.313489Z"
-      }
-    },
-    {
-      "story_id": "story_4eb5ab6469f8",
-      "title": "Reddit 开源社区 r/opensource 封杀 AI 项目，开发者另起炉灶",
-      "url": "https://www.aibase.com/news/31866",
-      "primary_url": "https://www.aibase.com/news/31866",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7f40a5bf10a903e4454d4d8ef58cd97c2cb3e112",
-          "title": "Reddit 开源社区 r/opensource 封杀 AI 项目，开发者另起炉灶",
-          "title_zh": "Reddit 开源社区 r/opensource 封杀 AI 项目，开发者另起炉灶",
-          "title_en": null,
-          "title_original": "Reddit 开源社区 r/opensource 封杀 AI 项目，开发者另起炉灶",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31866",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-26T13:06:14.663275Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7f40a5bf10a903e4454d4d8ef58cd97c2cb3e112",
-          "title": "Reddit 开源社区 r/opensource 封杀 AI 项目，开发者另起炉灶",
-          "title_zh": "Reddit 开源社区 r/opensource 封杀 AI 项目，开发者另起炉灶",
-          "title_en": null,
-          "title_original": "Reddit 开源社区 r/opensource 封杀 AI 项目，开发者另起炉灶",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31866",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-26T13:06:14.663275Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9141,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T13:06:14.663275Z",
-      "latest_at": "2026-10-26T13:06:14.663275Z",
-      "primary_item": {
-        "id": "7f40a5bf10a903e4454d4d8ef58cd97c2cb3e112",
-        "title": "Reddit 开源社区 r/opensource 封杀 AI 项目，开发者另起炉灶",
-        "title_zh": "Reddit 开源社区 r/opensource 封杀 AI 项目，开发者另起炉灶",
-        "title_en": null,
-        "title_original": "Reddit 开源社区 r/opensource 封杀 AI 项目，开发者另起炉灶",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31866",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-26T19:20:10.313489Z"
-      }
-    },
-    {
-      "story_id": "story_9249f94c8283",
-      "title": "三星电子宣布依托AI将新型半导体材料研发周期由5年缩短至2年",
-      "url": "https://www.aibase.com/news/31867",
-      "primary_url": "https://www.aibase.com/news/31867",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "70fd319da609127c991001981a9463d5ebfd0356",
-          "title": "三星电子宣布依托AI将新型半导体材料研发周期由5年缩短至2年",
-          "title_zh": "三星电子宣布依托AI将新型半导体材料研发周期由5年缩短至2年",
-          "title_en": null,
-          "title_original": "三星电子宣布依托AI将新型半导体材料研发周期由5年缩短至2年",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31867",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-26T13:06:14.663275Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "70fd319da609127c991001981a9463d5ebfd0356",
-          "title": "三星电子宣布依托AI将新型半导体材料研发周期由5年缩短至2年",
-          "title_zh": "三星电子宣布依托AI将新型半导体材料研发周期由5年缩短至2年",
-          "title_en": null,
-          "title_original": "三星电子宣布依托AI将新型半导体材料研发周期由5年缩短至2年",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31867",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-26T13:06:14.663275Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9141,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T13:06:14.663275Z",
-      "latest_at": "2026-10-26T13:06:14.663275Z",
-      "primary_item": {
-        "id": "70fd319da609127c991001981a9463d5ebfd0356",
-        "title": "三星电子宣布依托AI将新型半导体材料研发周期由5年缩短至2年",
-        "title_zh": "三星电子宣布依托AI将新型半导体材料研发周期由5年缩短至2年",
-        "title_en": null,
-        "title_original": "三星电子宣布依托AI将新型半导体材料研发周期由5年缩短至2年",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31867",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-26T19:20:10.313489Z"
+        "scored_at": "2026-10-26T23:54:09.862305Z"
       }
     }
   ]
