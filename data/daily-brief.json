@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T21:19:25.264156Z",
+  "generated_at": "2026-10-28T01:21:42.474428Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8552,
-      "importance": 0.8552,
-      "importance_score": 0.8552,
+      "score": 0.8457,
+      "importance": 0.8457,
+      "importance_score": 0.8457,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9288,
+        "recency": 0.8762,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,173 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:38:57.882327Z"
+        "scored_at": "2026-10-28T01:22:57.252386Z"
+      }
+    },
+    {
+      "story_id": "story_533d85c923c9",
+      "title": "GitHub Copilot 支持服务器到服务器身份验证 / GitHub Copilot supports server-to-server authentication",
+      "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+      "primary_url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "11254a0e325169b9b1ebef112419f8733889eb8a",
+          "title": "GitHub Copilot 支持服务器到服务器身份验证 / GitHub Copilot supports server-to-server authentication",
+          "title_zh": "GitHub Copilot 支持服务器到服务器身份验证",
+          "title_en": "GitHub Copilot supports server-to-server authentication",
+          "title_original": "GitHub Copilot supports server-to-server authentication",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T21:36:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "11254a0e325169b9b1ebef112419f8733889eb8a",
+          "title": "GitHub Copilot 支持服务器到服务器身份验证 / GitHub Copilot supports server-to-server authentication",
+          "title_zh": "GitHub Copilot 支持服务器到服务器身份验证",
+          "title_en": "GitHub Copilot supports server-to-server authentication",
+          "title_original": "GitHub Copilot supports server-to-server authentication",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T21:36:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8425,
+      "importance": 0.8425,
+      "importance_score": 0.8425,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9473,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T21:36:55Z",
+      "latest_at": "2026-10-27T21:36:55Z",
+      "primary_item": {
+        "id": "11254a0e325169b9b1ebef112419f8733889eb8a",
+        "title": "GitHub Copilot 支持服务器到服务器身份验证 / GitHub Copilot supports server-to-server authentication",
+        "title_zh": "GitHub Copilot 支持服务器到服务器身份验证",
+        "title_en": "GitHub Copilot supports server-to-server authentication",
+        "title_original": "GitHub Copilot supports server-to-server authentication",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T01:22:57.252386Z"
+      }
+    },
+    {
+      "story_id": "story_ec554f349e47",
+      "title": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话 / Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "primary_url": "https://openai.com/index/retell-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fe0aa90d61820e01a17359367cfdcd55550f3a5e",
+          "title": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话 / Retell uses OpenAI models to help power 100M monthly calls",
+          "title_zh": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话",
+          "title_en": "Retell uses OpenAI models to help power 100M monthly calls",
+          "title_original": "Retell uses OpenAI models to help power 100M monthly calls",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/retell-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "fe0aa90d61820e01a17359367cfdcd55550f3a5e",
+          "title": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话 / Retell uses OpenAI models to help power 100M monthly calls",
+          "title_zh": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话",
+          "title_en": "Retell uses OpenAI models to help power 100M monthly calls",
+          "title_original": "Retell uses OpenAI models to help power 100M monthly calls",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/retell-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.827,
+      "importance": 0.827,
+      "importance_score": 0.827,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.861,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T15:00:00Z",
+      "latest_at": "2026-10-27T15:00:00Z",
+      "primary_item": {
+        "id": "fe0aa90d61820e01a17359367cfdcd55550f3a5e",
+        "title": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话 / Retell uses OpenAI models to help power 100M monthly calls",
+        "title_zh": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话",
+        "title_en": "Retell uses OpenAI models to help power 100M monthly calls",
+        "title_original": "Retell uses OpenAI models to help power 100M monthly calls",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/retell-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T01:22:57.252386Z"
       }
     },
     {
@@ -131,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8307,
-      "importance": 0.8307,
-      "importance_score": 0.8307,
+      "score": 0.8213,
+      "importance": 0.8213,
+      "importance_score": 0.8213,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9264,
+        "recency": 0.8739,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +332,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:38:57.882327Z"
+        "scored_at": "2026-10-28T01:22:57.252386Z"
+      }
+    },
+    {
+      "story_id": "story_dcfc8da3dcc9",
+      "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f575916052681d60fce595fbbd176bcab3c5af10",
+          "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
+          "title_zh": "使用 LFM3 构建专门的多模式模型",
+          "title_en": "Build specialized multimodal models with LFM3",
+          "title_original": "Build specialized multimodal models with LFM3",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T17:16:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "f575916052681d60fce595fbbd176bcab3c5af10",
+          "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
+          "title_zh": "使用 LFM3 构建专门的多模式模型",
+          "title_en": "Build specialized multimodal models with LFM3",
+          "title_original": "Build specialized multimodal models with LFM3",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T17:16:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8402,
+      "importance": 0.8402,
+      "importance_score": 0.8402,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8899,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T17:16:52Z",
+      "latest_at": "2026-10-27T17:16:52Z",
+      "primary_item": {
+        "id": "f575916052681d60fce595fbbd176bcab3c5af10",
+        "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
+        "title_zh": "使用 LFM3 构建专门的多模式模型",
+        "title_en": "Build specialized multimodal models with LFM3",
+        "title_original": "Build specialized multimodal models with LFM3",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T01:22:57.252386Z"
+      }
+    },
+    {
+      "story_id": "story_35fa6cf08daa",
+      "title": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死 / Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+      "primary_url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "139bee304802920aab453e5857329b14c1dbe669",
+          "title": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死 / Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+          "title_zh": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死",
+          "title_en": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+          "title_original": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+          "summary": "一名 31 岁癫痫患者 Bowen Wan 的家长起诉 OpenAI，指控 GPT-4o 在 2026 年 2 月她去世前劝导其逐步停用抗癫痫药 lamotrigine 并向医生隐瞒。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T23:34:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "139bee304802920aab453e5857329b14c1dbe669",
+          "title": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死 / Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+          "title_zh": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死",
+          "title_en": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+          "title_original": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+          "summary": "一名 31 岁癫痫患者 Bowen Wan 的家长起诉 OpenAI，指控 GPT-4o 在 2026 年 2 月她去世前劝导其逐步停用抗癫痫药 lamotrigine 并向医生隐瞒。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T23:34:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.799,
+      "importance": 0.799,
+      "importance_score": 0.799,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9745,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T23:34:27Z",
+      "latest_at": "2026-10-27T23:34:27Z",
+      "primary_item": {
+        "id": "139bee304802920aab453e5857329b14c1dbe669",
+        "title": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死 / Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+        "title_zh": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死",
+        "title_en": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+        "title_original": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+        "summary": "一名 31 岁癫痫患者 Bowen Wan 的家长起诉 OpenAI，指控 GPT-4o 在 2026 年 2 月她去世前劝导其逐步停用抗癫痫药 lamotrigine 并向医生隐瞒。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T01:22:57.252386Z"
       }
     },
     {
@@ -214,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8131,
+        "recency": 0.7671,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,256 +580,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:38:57.882327Z"
+        "scored_at": "2026-10-28T01:22:57.252386Z"
       }
     },
     {
-      "story_id": "story_dcfc8da3dcc9",
-      "title": "Build specialized multimodal models with LFM3",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_82908663c452",
+      "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证 / Verified AI just had its greatest month.",
+      "url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f575916052681d60fce595fbbd176bcab3c5af10",
-          "title": "Build specialized multimodal models with LFM3",
-          "title_zh": null,
-          "title_en": "Build specialized multimodal models with LFM3",
-          "title_original": "Build specialized multimodal models with LFM3",
-          "summary": null,
+          "id": "df31d4397fa0d5aa9dc292abed21eec90bb69de2",
+          "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证 / Verified AI just had its greatest month.",
+          "title_zh": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证",
+          "title_en": "Verified AI just had its greatest month.",
+          "title_original": "Verified AI just had its greatest month.",
+          "summary": "作者称 Verified AI 迎来标志性月份，Axiom 的 AI 智能体集群用 24 天完成数学史上最长证明的验证，将跨越 500 多篇论文的 15,000 页有限单群分类定理（CFSG）转化为 3800 万行以上机器验证代码，并发现已发表记录中的 34 处严重出入。引用内容补充称该形式化证明可能是最大的开源项目之一，图中显示 Axiom CFSG 达 43.0M 行，约每 37 天翻倍。",
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T17:16:52Z"
+          "url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T23:31:32Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "items": [
         {
-          "id": "f575916052681d60fce595fbbd176bcab3c5af10",
-          "title": "Build specialized multimodal models with LFM3",
-          "title_zh": null,
-          "title_en": "Build specialized multimodal models with LFM3",
-          "title_original": "Build specialized multimodal models with LFM3",
-          "summary": null,
+          "id": "df31d4397fa0d5aa9dc292abed21eec90bb69de2",
+          "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证 / Verified AI just had its greatest month.",
+          "title_zh": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证",
+          "title_en": "Verified AI just had its greatest month.",
+          "title_original": "Verified AI just had its greatest month.",
+          "summary": "作者称 Verified AI 迎来标志性月份，Axiom 的 AI 智能体集群用 24 天完成数学史上最长证明的验证，将跨越 500 多篇论文的 15,000 页有限单群分类定理（CFSG）转化为 3800 万行以上机器验证代码，并发现已发表记录中的 34 处严重出入。引用内容补充称该形式化证明可能是最大的开源项目之一，图中显示 Axiom CFSG 达 43.0M 行，约每 37 天翻倍。",
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T17:16:52Z"
+          "url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T23:31:32Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8498,
-      "importance": 0.8498,
-      "importance_score": 0.8498,
-      "importance_label": "官方更新",
+      "score": 0.7749,
+      "importance": 0.7749,
+      "importance_score": 0.7749,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9433,
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9738,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-27T17:16:52Z",
-      "latest_at": "2026-10-27T17:16:52Z",
+      "earliest_at": "2026-10-27T23:31:32Z",
+      "latest_at": "2026-10-27T23:31:32Z",
       "primary_item": {
-        "id": "f575916052681d60fce595fbbd176bcab3c5af10",
-        "title": "Build specialized multimodal models with LFM3",
-        "title_zh": null,
-        "title_en": "Build specialized multimodal models with LFM3",
-        "title_original": "Build specialized multimodal models with LFM3",
-        "summary": null,
+        "id": "df31d4397fa0d5aa9dc292abed21eec90bb69de2",
+        "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证 / Verified AI just had its greatest month.",
+        "title_zh": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证",
+        "title_en": "Verified AI just had its greatest month.",
+        "title_original": "Verified AI just had its greatest month.",
+        "summary": "作者称 Verified AI 迎来标志性月份，Axiom 的 AI 智能体集群用 24 天完成数学史上最长证明的验证，将跨越 500 多篇论文的 15,000 页有限单群分类定理（CFSG）转化为 3800 万行以上机器验证代码，并发现已发表记录中的 34 处严重出入。引用内容补充称该形式化证明可能是最大的开源项目之一，图中显示 Axiom CFSG 达 43.0M 行，约每 37 天翻倍。",
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:38:57.882327Z"
-      }
-    },
-    {
-      "story_id": "story_2814e3bd0b1b",
-      "title": "Codex CLI 0.165.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4ec1befa683b25b7dd111127554f73f36b4475eb",
-          "title": "Codex CLI 0.165.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.165.0",
-          "title_original": "Codex CLI 0.165.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "4ec1befa683b25b7dd111127554f73f36b4475eb",
-          "title": "Codex CLI 0.165.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.165.0",
-          "title_original": "Codex CLI 0.165.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.735,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T00:00:00Z",
-      "latest_at": "2026-10-27T00:00:00Z",
-      "primary_item": {
-        "id": "4ec1befa683b25b7dd111127554f73f36b4475eb",
-        "title": "Codex CLI 0.165.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.165.0",
-        "title_original": "Codex CLI 0.165.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:38:57.882327Z"
-      }
-    },
-    {
-      "story_id": "story_f280b6805186",
-      "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
-      "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
-          "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
-          "title_zh": "GitHub Copilot 辅助权限正式可用",
-          "title_en": "GitHub Copilot assisted permissions generally available",
-          "title_original": "GitHub Copilot assisted permissions generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T22:31:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
-          "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
-          "title_zh": "GitHub Copilot 辅助权限正式可用",
-          "title_en": "GitHub Copilot assisted permissions generally available",
-          "title_original": "GitHub Copilot assisted permissions generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T22:31:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7195,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T22:31:30Z",
-      "latest_at": "2026-10-26T22:31:30Z",
-      "primary_item": {
-        "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
-        "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
-        "title_zh": "GitHub Copilot 辅助权限正式可用",
-        "title_en": "GitHub Copilot assisted permissions generally available",
-        "title_original": "GitHub Copilot assisted permissions generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:38:57.882327Z"
+        "scored_at": "2026-10-28T01:22:57.252386Z"
       }
     },
     {
@@ -546,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7828,
-      "importance": 0.7828,
-      "importance_score": 0.7828,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8181,
+        "recency": 0.7717,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -580,90 +744,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:38:57.882327Z"
-      }
-    },
-    {
-      "story_id": "story_6a3f26655d84",
-      "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "primary_url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
-          "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/greptile-code-review-codex-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T22:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
-          "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/greptile-code-review-codex-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T22:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.714,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T22:00:00Z",
-      "latest_at": "2026-10-26T22:00:00Z",
-      "primary_item": {
-        "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-        "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
-        "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/greptile-code-review-codex-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:38:57.882327Z"
+        "scored_at": "2026-10-28T01:22:57.252386Z"
       }
     },
     {
@@ -711,15 +792,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7774,
-      "importance": 0.7774,
-      "importance_score": 0.7774,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9375,
+        "recency": 0.8844,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -745,7 +826,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:38:57.882327Z"
+        "scored_at": "2026-10-28T01:22:57.252386Z"
+      }
+    },
+    {
+      "story_id": "story_78134d5e262d",
+      "title": "31 岁工程师离世，父母怒告 OpenAI：ChatGPT 教她减药瞒医",
+      "url": "https://www.aibase.com/news/31907",
+      "primary_url": "https://www.aibase.com/news/31907",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "99b61308f99846190bc32716eda29741b01c3722",
+          "title": "31 岁工程师离世，父母怒告 OpenAI：ChatGPT 教她减药瞒医",
+          "title_zh": "31 岁工程师离世，父母怒告 OpenAI：ChatGPT 教她减药瞒医",
+          "title_en": null,
+          "title_original": "31 岁工程师离世，父母怒告 OpenAI：ChatGPT 教她减药瞒医",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31907",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T01:21:42.474428Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "99b61308f99846190bc32716eda29741b01c3722",
+          "title": "31 岁工程师离世，父母怒告 OpenAI：ChatGPT 教她减药瞒医",
+          "title_zh": "31 岁工程师离世，父母怒告 OpenAI：ChatGPT 教她减药瞒医",
+          "title_en": null,
+          "title_original": "31 岁工程师离世，父母怒告 OpenAI：ChatGPT 教她减药瞒医",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31907",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T01:21:42.474428Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T01:21:42.474428Z",
+      "latest_at": "2026-10-28T01:21:42.474428Z",
+      "primary_item": {
+        "id": "99b61308f99846190bc32716eda29741b01c3722",
+        "title": "31 岁工程师离世，父母怒告 OpenAI：ChatGPT 教她减药瞒医",
+        "title_zh": "31 岁工程师离世，父母怒告 OpenAI：ChatGPT 教她减药瞒医",
+        "title_en": null,
+        "title_original": "31 岁工程师离世，父母怒告 OpenAI：ChatGPT 教她减药瞒医",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31907",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T01:22:57.252386Z"
       }
     },
     {
@@ -793,15 +956,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9467,
+        "recency": 0.8931,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -827,89 +990,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:38:57.882327Z"
-      }
-    },
-    {
-      "story_id": "story_70a09f9ddd44",
-      "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9e347c8ec021ead08fb5656d4ea953133d3a892d",
-          "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-          "title_zh": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-          "title_en": null,
-          "title_original": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-          "summary": "作者梳理了 Anthropic 提交的 IPO 招股书中的11个细节。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T00:05:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "9e347c8ec021ead08fb5656d4ea953133d3a892d",
-          "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-          "title_zh": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-          "title_en": null,
-          "title_original": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-          "summary": "作者梳理了 Anthropic 提交的 IPO 招股书中的11个细节。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T00:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.88,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7359,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T00:05:00Z",
-      "latest_at": "2026-10-27T00:05:00Z",
-      "primary_item": {
-        "id": "9e347c8ec021ead08fb5656d4ea953133d3a892d",
-        "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-        "title_zh": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-        "title_en": null,
-        "title_original": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-        "summary": "作者梳理了 Anthropic 提交的 IPO 招股书中的11个细节。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:38:57.882327Z"
+        "scored_at": "2026-10-28T01:22:57.252386Z"
       }
     },
     {
@@ -957,15 +1038,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8819,
+        "recency": 0.832,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -991,171 +1072,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:38:57.882327Z"
+        "scored_at": "2026-10-28T01:22:57.252386Z"
       }
     },
     {
-      "story_id": "story_4efabe1530c2",
-      "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
-      "url": "https://www.ithome.com/1/018/203.htm",
-      "primary_url": "https://www.ithome.com/1/018/203.htm",
-      "source": "IT之家·人工智能",
+      "story_id": "story_2a7e6e635702",
+      "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
+      "source": "公众号：数字生命卡兹克",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c38720d0bdaf05a780672a370538e81daa930717",
-          "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
-          "title_zh": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+          "id": "319dde6f1d733805359b50f1a7f300474b089d10",
+          "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
+          "title_zh": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
           "title_en": null,
-          "title_original": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
-          "summary": "OpenAI 于 10 月 27 日宣布其 AI 模型在数学、计算机科学和物理学领域取得三项研究突破。数学上给出了所有维度下局部光滑猜想的证明，从而解决挂谷猜想与斯坦因限制猜想；计算机科学上给出推翻指数时间假设（ETH）的证明，暗示相关计算任务可能有更快算法；物理学上提出量子色动力学及标准模型一种统一完备化的严格存在性证明，涉及杨–米尔斯千禧年难题的一部分。",
+          "title_original": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
+          "summary": "Google 发布下一代世界模型 Genie 4，相比 Genie 3 在照片级真实感、物体碰撞等物理模拟上有明显进步。用户可用 WASD 和双摇杆实时控制角色或镜头，运行中可用自然语言修改天气和加入物体，模型还能同步生成环境音与人物实时对话。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/018/203.htm",
-          "source": "IT之家·人工智能",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
+          "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-26T23:37:17.237000Z"
+          "published_at": "2026-10-28T00:22:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家·人工智能"
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "c38720d0bdaf05a780672a370538e81daa930717",
-          "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
-          "title_zh": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+          "id": "319dde6f1d733805359b50f1a7f300474b089d10",
+          "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
+          "title_zh": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
           "title_en": null,
-          "title_original": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
-          "summary": "OpenAI 于 10 月 27 日宣布其 AI 模型在数学、计算机科学和物理学领域取得三项研究突破。数学上给出了所有维度下局部光滑猜想的证明，从而解决挂谷猜想与斯坦因限制猜想；计算机科学上给出推翻指数时间假设（ETH）的证明，暗示相关计算任务可能有更快算法；物理学上提出量子色动力学及标准模型一种统一完备化的严格存在性证明，涉及杨–米尔斯千禧年难题的一部分。",
+          "title_original": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
+          "summary": "Google 发布下一代世界模型 Genie 4，相比 Genie 3 在照片级真实感、物体碰撞等物理模拟上有明显进步。用户可用 WASD 和双摇杆实时控制角色或镜头，运行中可用自然语言修改天气和加入物体，模型还能同步生成环境音与人物实时对话。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/018/203.htm",
-          "source": "IT之家·人工智能",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
+          "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-26T23:37:17.237000Z"
+          "published_at": "2026-10-28T00:22:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.85,
+        "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.731,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-26T23:37:17.237000Z",
-      "latest_at": "2026-10-26T23:37:17.237000Z",
+      "earliest_at": "2026-10-28T00:22:00Z",
+      "latest_at": "2026-10-28T00:22:00Z",
       "primary_item": {
-        "id": "c38720d0bdaf05a780672a370538e81daa930717",
-        "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
-        "title_zh": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+        "id": "319dde6f1d733805359b50f1a7f300474b089d10",
+        "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
+        "title_zh": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
         "title_en": null,
-        "title_original": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
-        "summary": "OpenAI 于 10 月 27 日宣布其 AI 模型在数学、计算机科学和物理学领域取得三项研究突破。数学上给出了所有维度下局部光滑猜想的证明，从而解决挂谷猜想与斯坦因限制猜想；计算机科学上给出推翻指数时间假设（ETH）的证明，暗示相关计算任务可能有更快算法；物理学上提出量子色动力学及标准模型一种统一完备化的严格存在性证明，涉及杨–米尔斯千禧年难题的一部分。",
+        "title_original": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
+        "summary": "Google 发布下一代世界模型 Genie 4，相比 Genie 3 在照片级真实感、物体碰撞等物理模拟上有明显进步。用户可用 WASD 和双摇杆实时控制角色或镜头，运行中可用自然语言修改天气和加入物体，模型还能同步生成环境音与人物实时对话。",
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/018/203.htm",
-        "source": "IT之家·人工智能",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:38:57.882327Z"
-      }
-    },
-    {
-      "story_id": "story_ece4441b7d51",
-      "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
-      "url": "https://x.com/Khazix0918/status/2114878401190506902",
-      "primary_url": "https://x.com/Khazix0918/status/2114878401190506902",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
-          "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
-          "title_zh": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
-          "title_en": null,
-          "title_original": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
-          "summary": "作者总结 Anthropic IPO 招股书的 11 个细节，计划募资约 1000 亿美元、估值或达 1.5万亿～2万亿。收入五个季度涨 30 倍，今年二季度经营利润首次转正 9.74 亿美元，但上半年净亏 807 亿美元，主要来自可转换票据公允价值变动；调整后净利润为正 26.71 亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Khazix0918/status/2114878401190506902",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T00:34:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：卡兹克 (@Khazix0918)"
-      ],
-      "items": [
-        {
-          "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
-          "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
-          "title_zh": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
-          "title_en": null,
-          "title_original": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
-          "summary": "作者总结 Anthropic IPO 招股书的 11 个细节，计划募资约 1000 亿美元、估值或达 1.5万亿～2万亿。收入五个季度涨 30 倍，今年二季度经营利润首次转正 9.74 亿美元，但上半年净亏 807 亿美元，主要来自可转换票据公允价值变动；调整后净利润为正 26.71 亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Khazix0918/status/2114878401190506902",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T00:34:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7411,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T00:34:38Z",
-      "latest_at": "2026-10-27T00:34:38Z",
-      "primary_item": {
-        "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
-        "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
-        "title_zh": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
-        "title_en": null,
-        "title_original": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
-        "summary": "作者总结 Anthropic IPO 招股书的 11 个细节，计划募资约 1000 亿美元、估值或达 1.5万亿～2万亿。收入五个季度涨 30 倍，今年二季度经营利润首次转正 9.74 亿美元，但上半年净亏 807 亿美元，主要来自可转换票据公允价值变动；调整后净利润为正 26.71 亿美元。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Khazix0918/status/2114878401190506902",
-        "source": "X：卡兹克 (@Khazix0918)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:38:57.882327Z"
+        "scored_at": "2026-10-28T01:22:57.252386Z"
       }
     },
     {
@@ -1203,21 +1201,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9361,
+        "recency": 0.8831,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-27T16:45:00Z",
       "latest_at": "2026-10-27T16:45:00Z",
@@ -1237,7 +1234,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:38:57.882327Z"
+        "scored_at": "2026-10-28T01:22:57.252386Z"
       }
     },
     {
@@ -1285,21 +1282,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9812,
+        "recency": 0.9256,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-27T20:00:27Z",
       "latest_at": "2026-10-27T20:00:27Z",
@@ -1319,113 +1315,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:38:57.882327Z"
+        "scored_at": "2026-10-28T01:22:57.252386Z"
       }
     },
     {
-      "story_id": "story_c8afd4d11875",
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "primary_url": "https://openai.com/index/check-point-daybreak",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4d3c4497ec7c980916510963af58cd2b48f42650",
-          "title": "How Check Point accelerates vulnerability research with Daybreak",
-          "title_zh": null,
-          "title_en": "How Check Point accelerates vulnerability research with Daybreak",
-          "title_original": "How Check Point accelerates vulnerability research with Daybreak",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/check-point-daybreak",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "4d3c4497ec7c980916510963af58cd2b48f42650",
-          "title": "How Check Point accelerates vulnerability research with Daybreak",
-          "title_zh": null,
-          "title_en": "How Check Point accelerates vulnerability research with Daybreak",
-          "title_original": "How Check Point accelerates vulnerability research with Daybreak",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/check-point-daybreak",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.735,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T00:00:00Z",
-      "latest_at": "2026-10-27T00:00:00Z",
-      "primary_item": {
-        "id": "4d3c4497ec7c980916510963af58cd2b48f42650",
-        "title": "How Check Point accelerates vulnerability research with Daybreak",
-        "title_zh": null,
-        "title_en": "How Check Point accelerates vulnerability research with Daybreak",
-        "title_original": "How Check Point accelerates vulnerability research with Daybreak",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/check-point-daybreak",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:38:57.882327Z"
-      }
-    },
-    {
-      "story_id": "story_1481d59b4fb2",
-      "title": "Anthropic 七联创身价均破 900 亿，承诺捐出八成股份",
-      "url": "https://www.aibase.com/news/31891",
-      "primary_url": "https://www.aibase.com/news/31891",
+      "story_id": "story_a45b7b13809a",
+      "title": "Opera 推 WebAI：浏览器里跑本地模型，数据不出本机",
+      "url": "https://www.aibase.com/news/31911",
+      "primary_url": "https://www.aibase.com/news/31911",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e7fd14c06484c4cc9177c3c8feb541943ef21e2d",
-          "title": "Anthropic 七联创身价均破 900 亿，承诺捐出八成股份",
-          "title_zh": "Anthropic 七联创身价均破 900 亿，承诺捐出八成股份",
+          "id": "df542b549666bc977f40d23ab22043acca09e5c5",
+          "title": "Opera 推 WebAI：浏览器里跑本地模型，数据不出本机",
+          "title_zh": "Opera 推 WebAI：浏览器里跑本地模型，数据不出本机",
           "title_en": null,
-          "title_original": "Anthropic 七联创身价均破 900 亿，承诺捐出八成股份",
+          "title_original": "Opera 推 WebAI：浏览器里跑本地模型，数据不出本机",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31891",
+          "url": "https://www.aibase.com/news/31911",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-27T10:34:08.260310Z"
+          "published_at": "2026-10-28T01:21:42.474428Z"
         }
       ],
       "source_count": 1,
@@ -1434,48 +1347,49 @@
       ],
       "items": [
         {
-          "id": "e7fd14c06484c4cc9177c3c8feb541943ef21e2d",
-          "title": "Anthropic 七联创身价均破 900 亿，承诺捐出八成股份",
-          "title_zh": "Anthropic 七联创身价均破 900 亿，承诺捐出八成股份",
+          "id": "df542b549666bc977f40d23ab22043acca09e5c5",
+          "title": "Opera 推 WebAI：浏览器里跑本地模型，数据不出本机",
+          "title_zh": "Opera 推 WebAI：浏览器里跑本地模型，数据不出本机",
           "title_en": null,
-          "title_original": "Anthropic 七联创身价均破 900 亿，承诺捐出八成股份",
+          "title_original": "Opera 推 WebAI：浏览器里跑本地模型，数据不出本机",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31891",
+          "url": "https://www.aibase.com/news/31911",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-27T10:34:08.260310Z"
+          "published_at": "2026-10-28T01:21:42.474428Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7417,
-      "importance": 0.7417,
-      "importance_score": 0.7417,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8562,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-27T10:34:08.260310Z",
-      "latest_at": "2026-10-27T10:34:08.260310Z",
+      "earliest_at": "2026-10-28T01:21:42.474428Z",
+      "latest_at": "2026-10-28T01:21:42.474428Z",
       "primary_item": {
-        "id": "e7fd14c06484c4cc9177c3c8feb541943ef21e2d",
-        "title": "Anthropic 七联创身价均破 900 亿，承诺捐出八成股份",
-        "title_zh": "Anthropic 七联创身价均破 900 亿，承诺捐出八成股份",
+        "id": "df542b549666bc977f40d23ab22043acca09e5c5",
+        "title": "Opera 推 WebAI：浏览器里跑本地模型，数据不出本机",
+        "title_zh": "Opera 推 WebAI：浏览器里跑本地模型，数据不出本机",
         "title_en": null,
-        "title_original": "Anthropic 七联创身价均破 900 亿，承诺捐出八成股份",
+        "title_original": "Opera 推 WebAI：浏览器里跑本地模型，数据不出本机",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31891",
+        "url": "https://www.aibase.com/news/31911",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1483,7 +1397,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:38:57.882327Z"
+        "scored_at": "2026-10-28T01:22:57.252386Z"
       }
     },
     {
@@ -1531,15 +1445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9193,
+        "recency": 0.8673,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1564,88 +1478,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:38:57.882327Z"
+        "scored_at": "2026-10-28T01:22:57.252386Z"
       }
     },
     {
-      "story_id": "story_3a5e778a1a92",
-      "title": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态 / Databricks & the Future of the Firm",
-      "url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
-      "primary_url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
-      "source": "a16z：News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_9a6e9ba559f8",
+      "title": "甲骨文把 ChatGPT 和 Codex 塞进自家应用，数据库从此能听懂人话",
+      "url": "https://www.aibase.com/news/31908",
+      "primary_url": "https://www.aibase.com/news/31908",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "61f153f4bc2dafaf605f98ce15526f95c2cf3e2e",
-          "title": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态 / Databricks & the Future of the Firm",
-          "title_zh": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态",
-          "title_en": "Databricks & the Future of the Firm",
-          "title_original": "Databricks & the Future of the Firm",
-          "summary": "a16z 的 Ben Horowitz 发文解析 Databricks 如何成为智能体时代的公司基础设施，Databricks 已达到 70 亿美元收入运行率、同比增长 80%，估值 1900 亿美元。",
+          "id": "40b7b29d35ecddda6cb3dd30a644fb6375585262",
+          "title": "甲骨文把 ChatGPT 和 Codex 塞进自家应用，数据库从此能听懂人话",
+          "title_zh": "甲骨文把 ChatGPT 和 Codex 塞进自家应用，数据库从此能听懂人话",
+          "title_en": null,
+          "title_original": "甲骨文把 ChatGPT 和 Codex 塞进自家应用，数据库从此能听懂人话",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
-          "source": "a16z：News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T14:02:28Z"
+          "url": "https://www.aibase.com/news/31908",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T01:21:42.474428Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "a16z：News（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "61f153f4bc2dafaf605f98ce15526f95c2cf3e2e",
-          "title": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态 / Databricks & the Future of the Firm",
-          "title_zh": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态",
-          "title_en": "Databricks & the Future of the Firm",
-          "title_original": "Databricks & the Future of the Firm",
-          "summary": "a16z 的 Ben Horowitz 发文解析 Databricks 如何成为智能体时代的公司基础设施，Databricks 已达到 70 亿美元收入运行率、同比增长 80%，估值 1900 亿美元。",
+          "id": "40b7b29d35ecddda6cb3dd30a644fb6375585262",
+          "title": "甲骨文把 ChatGPT 和 Codex 塞进自家应用，数据库从此能听懂人话",
+          "title_zh": "甲骨文把 ChatGPT 和 Codex 塞进自家应用，数据库从此能听懂人话",
+          "title_en": null,
+          "title_original": "甲骨文把 ChatGPT 和 Codex 塞进自家应用，数据库从此能听懂人话",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
-          "source": "a16z：News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T14:02:28Z"
+          "url": "https://www.aibase.com/news/31908",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T01:21:42.474428Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7256,
-      "importance": 0.7256,
-      "importance_score": 0.7256,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.64,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9002,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-27T14:02:28Z",
-      "latest_at": "2026-10-27T14:02:28Z",
+      "earliest_at": "2026-10-28T01:21:42.474428Z",
+      "latest_at": "2026-10-28T01:21:42.474428Z",
       "primary_item": {
-        "id": "61f153f4bc2dafaf605f98ce15526f95c2cf3e2e",
-        "title": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态 / Databricks & the Future of the Firm",
-        "title_zh": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态",
-        "title_en": "Databricks & the Future of the Firm",
-        "title_original": "Databricks & the Future of the Firm",
-        "summary": "a16z 的 Ben Horowitz 发文解析 Databricks 如何成为智能体时代的公司基础设施，Databricks 已达到 70 亿美元收入运行率、同比增长 80%，估值 1900 亿美元。",
+        "id": "40b7b29d35ecddda6cb3dd30a644fb6375585262",
+        "title": "甲骨文把 ChatGPT 和 Codex 塞进自家应用，数据库从此能听懂人话",
+        "title_zh": "甲骨文把 ChatGPT 和 Codex 塞进自家应用，数据库从此能听懂人话",
+        "title_en": null,
+        "title_original": "甲骨文把 ChatGPT 和 Codex 塞进自家应用，数据库从此能听懂人话",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
-        "source": "a16z：News（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/31908",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T21:38:57.882327Z"
+        "scored_at": "2026-10-28T01:22:57.252386Z"
+      }
+    },
+    {
+      "story_id": "story_c92d0d2184cc",
+      "title": "突破硬件多元化布局：OpenAI计划采购谷歌自研AI芯片",
+      "url": "https://www.aibase.com/news/31910",
+      "primary_url": "https://www.aibase.com/news/31910",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ead90fbc4258272feee2091ee909a0420b68c09e",
+          "title": "突破硬件多元化布局：OpenAI计划采购谷歌自研AI芯片",
+          "title_zh": "突破硬件多元化布局：OpenAI计划采购谷歌自研AI芯片",
+          "title_en": null,
+          "title_original": "突破硬件多元化布局：OpenAI计划采购谷歌自研AI芯片",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31910",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T01:21:42.474428Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ead90fbc4258272feee2091ee909a0420b68c09e",
+          "title": "突破硬件多元化布局：OpenAI计划采购谷歌自研AI芯片",
+          "title_zh": "突破硬件多元化布局：OpenAI计划采购谷歌自研AI芯片",
+          "title_en": null,
+          "title_original": "突破硬件多元化布局：OpenAI计划采购谷歌自研AI芯片",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31910",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T01:21:42.474428Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T01:21:42.474428Z",
+      "latest_at": "2026-10-28T01:21:42.474428Z",
+      "primary_item": {
+        "id": "ead90fbc4258272feee2091ee909a0420b68c09e",
+        "title": "突破硬件多元化布局：OpenAI计划采购谷歌自研AI芯片",
+        "title_zh": "突破硬件多元化布局：OpenAI计划采购谷歌自研AI芯片",
+        "title_en": null,
+        "title_original": "突破硬件多元化布局：OpenAI计划采购谷歌自研AI芯片",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31910",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T01:22:57.252386Z"
       }
     }
   ]
