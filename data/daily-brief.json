@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T16:02:42.989424Z",
+  "generated_at": "2026-10-28T21:04:40.908601Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -24,10 +24,25 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-10-28T14:58:17Z"
+        },
+        {
+          "id": "d6c2b72c5dc25816690215347a71b705ba3fa451",
+          "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+          "title_zh": null,
+          "title_en": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+          "title_original": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-28T15:17:53Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
+        "Hacker News (黑客新闻)",
         "Hugging Face Blog"
       ],
       "items": [
@@ -44,29 +59,44 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-10-28T14:58:17Z"
+        },
+        {
+          "id": "d6c2b72c5dc25816690215347a71b705ba3fa451",
+          "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+          "title_zh": null,
+          "title_en": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+          "title_original": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-28T15:17:53Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8652,
-      "importance": 0.8652,
-      "importance_score": 0.8652,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8778,
+      "importance": 0.8778,
+      "importance_score": 0.8778,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9846,
-        "story_heat": 0.0
+        "recency": 0.9156,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-10-28T14:58:17Z",
-      "latest_at": "2026-10-28T14:58:17Z",
+      "latest_at": "2026-10-28T15:17:53Z",
       "primary_item": {
         "id": "f69a7dd028eea1e4f16b19d1d0651c431ca46b33",
         "title": "NVIDIA Nemotron 3.5 Transcribe 和 Granary v2：您可以提示和调整的智能多语言转录 / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
@@ -83,7 +113,833 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:03:39.665132Z"
+        "scored_at": "2026-10-28T21:26:21.820620Z"
+      }
+    },
+    {
+      "story_id": "story_bd644657309a",
+      "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型 / Gemini 4 Carbon: Our next frontier model",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+      "primary_url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9bdc18e8234914b118f781552daa7e8656b9dca1",
+          "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型 / Gemini 4 Carbon: Our next frontier model",
+          "title_zh": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
+          "title_en": "Gemini 4 Carbon: Our next frontier model",
+          "title_original": "Gemini 4 Carbon: Our next frontier model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T17:00:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "9bdc18e8234914b118f781552daa7e8656b9dca1",
+          "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型 / Gemini 4 Carbon: Our next frontier model",
+          "title_zh": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
+          "title_en": "Gemini 4 Carbon: Our next frontier model",
+          "title_original": "Gemini 4 Carbon: Our next frontier model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T17:00:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8417,
+      "importance": 0.8417,
+      "importance_score": 0.8417,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.943,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T17:00:58Z",
+      "latest_at": "2026-10-28T17:00:58Z",
+      "primary_item": {
+        "id": "9bdc18e8234914b118f781552daa7e8656b9dca1",
+        "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型 / Gemini 4 Carbon: Our next frontier model",
+        "title_zh": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
+        "title_en": "Gemini 4 Carbon: Our next frontier model",
+        "title_original": "Gemini 4 Carbon: Our next frontier model",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T21:26:21.820620Z"
+      }
+    },
+    {
+      "story_id": "story_a4f85859c631",
+      "title": "Route and orchestrate models with GitHub Copilot Fusion",
+      "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+      "primary_url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3c8515f5056cc65d60ea2d94ced5d06f13712973",
+          "title": "Route and orchestrate models with GitHub Copilot Fusion",
+          "title_zh": null,
+          "title_en": "Route and orchestrate models with GitHub Copilot Fusion",
+          "title_original": "Route and orchestrate models with GitHub Copilot Fusion",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "3c8515f5056cc65d60ea2d94ced5d06f13712973",
+          "title": "Route and orchestrate models with GitHub Copilot Fusion",
+          "title_zh": null,
+          "title_en": "Route and orchestrate models with GitHub Copilot Fusion",
+          "title_original": "Route and orchestrate models with GitHub Copilot Fusion",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8393,
+      "importance": 0.8393,
+      "importance_score": 0.8393,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9293,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T16:00:00Z",
+      "latest_at": "2026-10-28T16:00:00Z",
+      "primary_item": {
+        "id": "3c8515f5056cc65d60ea2d94ced5d06f13712973",
+        "title": "Route and orchestrate models with GitHub Copilot Fusion",
+        "title_zh": null,
+        "title_en": "Route and orchestrate models with GitHub Copilot Fusion",
+        "title_original": "Route and orchestrate models with GitHub Copilot Fusion",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T21:26:21.820620Z"
+      }
+    },
+    {
+      "story_id": "story_dc34b00fe1cc",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "primary_url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0fd968b40feb377d645c078f6daf22388be116cf",
+          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "title_zh": null,
+          "title_en": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "title_original": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T13:15:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "0fd968b40feb377d645c078f6daf22388be116cf",
+          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "title_zh": null,
+          "title_en": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "title_original": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T13:15:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8931,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T13:15:00Z",
+      "latest_at": "2026-10-28T13:15:00Z",
+      "primary_item": {
+        "id": "0fd968b40feb377d645c078f6daf22388be116cf",
+        "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "title_zh": null,
+        "title_en": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "title_original": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T21:26:21.820620Z"
+      }
+    },
+    {
+      "story_id": "story_e0adfc587f0f",
+      "title": "GitHub Copilot app, Universe releases",
+      "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
+      "primary_url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f8fbc5ad7b9234fe2d8855c76227e11580efad81",
+          "title": "GitHub Copilot app, Universe releases",
+          "title_zh": null,
+          "title_en": "GitHub Copilot app, Universe releases",
+          "title_original": "GitHub Copilot app, Universe releases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T15:55:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f8fbc5ad7b9234fe2d8855c76227e11580efad81",
+          "title": "GitHub Copilot app, Universe releases",
+          "title_zh": null,
+          "title_en": "GitHub Copilot app, Universe releases",
+          "title_original": "GitHub Copilot app, Universe releases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T15:55:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8391,
+      "importance": 0.8391,
+      "importance_score": 0.8391,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9282,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T15:55:00Z",
+      "latest_at": "2026-10-28T15:55:00Z",
+      "primary_item": {
+        "id": "f8fbc5ad7b9234fe2d8855c76227e11580efad81",
+        "title": "GitHub Copilot app, Universe releases",
+        "title_zh": null,
+        "title_en": "GitHub Copilot app, Universe releases",
+        "title_original": "GitHub Copilot app, Universe releases",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T21:26:21.820620Z"
+      }
+    },
+    {
+      "story_id": "story_f40d22d35a4f",
+      "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft / Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
+      "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "36fa834a55e5c7ba5b1d9e4a592f9aa72ca95680",
+          "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft / Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
+          "title_zh": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
+          "title_en": "Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
+          "title_original": "Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
+          "summary": "Anthropic 的 IPO 文件显示其现金及短期投资达 $131.7B，超过 Amazon 和 Microsoft，在美国非银行公司中仅次于 Berkshire Hathaway 和 Alphabet。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T17:11:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "36fa834a55e5c7ba5b1d9e4a592f9aa72ca95680",
+          "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft / Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
+          "title_zh": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
+          "title_en": "Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
+          "title_original": "Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
+          "summary": "Anthropic 的 IPO 文件显示其现金及短期投资达 $131.7B，超过 Amazon 和 Microsoft，在美国非银行公司中仅次于 Berkshire Hathaway 和 Alphabet。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T17:11:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7968,
+      "importance": 0.7968,
+      "importance_score": 0.7968,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9454,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T17:11:27Z",
+      "latest_at": "2026-10-28T17:11:27Z",
+      "primary_item": {
+        "id": "36fa834a55e5c7ba5b1d9e4a592f9aa72ca95680",
+        "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft / Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
+        "title_zh": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
+        "title_en": "Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
+        "title_original": "Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
+        "summary": "Anthropic 的 IPO 文件显示其现金及短期投资达 $131.7B，超过 Amazon 和 Microsoft，在美国非银行公司中仅次于 Berkshire Hathaway 和 Alphabet。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T21:26:21.820620Z"
+      }
+    },
+    {
+      "story_id": "story_84a91576d939",
+      "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "primary_url": "https://openai.com/index/the-future-of-the-firm",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "37166f867e221c666885c4ab5fa1bd8c88ce23b3",
+          "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
+          "title_zh": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
+          "title_en": "The future of the firm",
+          "title_original": "The future of the firm",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-future-of-the-firm",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "37166f867e221c666885c4ab5fa1bd8c88ce23b3",
+          "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
+          "title_zh": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
+          "title_en": "The future of the firm",
+          "title_original": "The future of the firm",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-future-of-the-firm",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8254,
+      "importance": 0.8254,
+      "importance_score": 0.8254,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8522,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T10:00:00Z",
+      "latest_at": "2026-10-28T10:00:00Z",
+      "primary_item": {
+        "id": "37166f867e221c666885c4ab5fa1bd8c88ce23b3",
+        "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
+        "title_zh": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
+        "title_en": "The future of the firm",
+        "title_original": "The future of the firm",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/the-future-of-the-firm",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T21:26:21.820620Z"
+      }
+    },
+    {
+      "story_id": "story_0c6c651de454",
+      "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性 / Exit Liquidity",
+      "url": "https://www.wheresyoured.at/exit-liquidity",
+      "primary_url": "https://www.wheresyoured.at/exit-liquidity",
+      "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e1bce0a78d751dae23274eb2ed44ab6f3d4ce402",
+          "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性 / Exit Liquidity",
+          "title_zh": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
+          "title_en": "Exit Liquidity",
+          "title_original": "Exit Liquidity",
+          "summary": "Ed Zitron 撰文批评 Anthropic 的 S-1 招股书，指其仅披露 Q2 盈利数据、省略 Q3 现金状况和付款明细，是在公司基本面变化前误导投资者。",
+          "recommend_reason_zh": null,
+          "url": "https://www.wheresyoured.at/exit-liquidity",
+          "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T17:51:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ed Zitron 长文 / Where’s Your Ed At（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e1bce0a78d751dae23274eb2ed44ab6f3d4ce402",
+          "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性 / Exit Liquidity",
+          "title_zh": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
+          "title_en": "Exit Liquidity",
+          "title_original": "Exit Liquidity",
+          "summary": "Ed Zitron 撰文批评 Anthropic 的 S-1 招股书，指其仅披露 Q2 盈利数据、省略 Q3 现金状况和付款明细，是在公司基本面变化前误导投资者。",
+          "recommend_reason_zh": null,
+          "url": "https://www.wheresyoured.at/exit-liquidity",
+          "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T17:51:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7834,
+      "importance": 0.7834,
+      "importance_score": 0.7834,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9545,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T17:51:00Z",
+      "latest_at": "2026-10-28T17:51:00Z",
+      "primary_item": {
+        "id": "e1bce0a78d751dae23274eb2ed44ab6f3d4ce402",
+        "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性 / Exit Liquidity",
+        "title_zh": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
+        "title_en": "Exit Liquidity",
+        "title_original": "Exit Liquidity",
+        "summary": "Ed Zitron 撰文批评 Anthropic 的 S-1 招股书，指其仅披露 Q2 盈利数据、省略 Q3 现金状况和付款明细，是在公司基本面变化前误导投资者。",
+        "recommend_reason_zh": null,
+        "url": "https://www.wheresyoured.at/exit-liquidity",
+        "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T21:26:21.820620Z"
+      }
+    },
+    {
+      "story_id": "story_3a2e7aa6d2f5",
+      "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103% / Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
+      "url": "https://x.com/sundarpichai/status/2115535455156642066",
+      "primary_url": "https://x.com/sundarpichai/status/2115535455156642066",
+      "source": "X：Sundar Pichai (@sundarpichai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fd53467550a751aad87fd7e5f6f51c99ecafa8ab",
+          "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103% / Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
+          "title_zh": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
+          "title_en": "Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
+          "title_original": "Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
+          "summary": "Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。Google Cloud 收入增长 103%，1P 模型 API 每分钟处理近 32B tokens（环比增 40%）；Search 查询同比增速为五年来最高，并提到 Argon、Carbon 领跑前沿及最新世界模型 Genie 4。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sundarpichai/status/2115535455156642066",
+          "source": "X：Sundar Pichai (@sundarpichai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T20:05:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sundar Pichai (@sundarpichai)"
+      ],
+      "items": [
+        {
+          "id": "fd53467550a751aad87fd7e5f6f51c99ecafa8ab",
+          "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103% / Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
+          "title_zh": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
+          "title_en": "Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
+          "title_original": "Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
+          "summary": "Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。Google Cloud 收入增长 103%，1P 模型 API 每分钟处理近 32B tokens（环比增 40%）；Search 查询同比增速为五年来最高，并提到 Argon、Carbon 领跑前沿及最新世界模型 Genie 4。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sundarpichai/status/2115535455156642066",
+          "source": "X：Sundar Pichai (@sundarpichai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T20:05:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7831,
+      "importance": 0.7831,
+      "importance_score": 0.7831,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9859,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T20:05:31Z",
+      "latest_at": "2026-10-28T20:05:31Z",
+      "primary_item": {
+        "id": "fd53467550a751aad87fd7e5f6f51c99ecafa8ab",
+        "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103% / Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
+        "title_zh": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
+        "title_en": "Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
+        "title_original": "Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
+        "summary": "Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。Google Cloud 收入增长 103%，1P 模型 API 每分钟处理近 32B tokens（环比增 40%）；Search 查询同比增速为五年来最高，并提到 Argon、Carbon 领跑前沿及最新世界模型 Genie 4。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/sundarpichai/status/2115535455156642066",
+        "source": "X：Sundar Pichai (@sundarpichai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T21:26:21.820620Z"
+      }
+    },
+    {
+      "story_id": "story_95c7481a0866",
+      "title": "GitHub Enterprise now includes access to GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e60ec0da27a658af8f30013865adc40b01dade2f",
+          "title": "GitHub Enterprise now includes access to GitHub Copilot",
+          "title_zh": null,
+          "title_en": "GitHub Enterprise now includes access to GitHub Copilot",
+          "title_original": "GitHub Enterprise now includes access to GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T15:50:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e60ec0da27a658af8f30013865adc40b01dade2f",
+          "title": "GitHub Enterprise now includes access to GitHub Copilot",
+          "title_zh": null,
+          "title_en": "GitHub Enterprise now includes access to GitHub Copilot",
+          "title_original": "GitHub Enterprise now includes access to GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T15:50:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8389,
+      "importance": 0.8389,
+      "importance_score": 0.8389,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9271,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T15:50:00Z",
+      "latest_at": "2026-10-28T15:50:00Z",
+      "primary_item": {
+        "id": "e60ec0da27a658af8f30013865adc40b01dade2f",
+        "title": "GitHub Enterprise now includes access to GitHub Copilot",
+        "title_zh": null,
+        "title_en": "GitHub Enterprise now includes access to GitHub Copilot",
+        "title_original": "GitHub Enterprise now includes access to GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T21:26:21.820620Z"
+      }
+    },
+    {
+      "story_id": "story_d13727425690",
+      "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草 / Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+      "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
+      "primary_url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
+      "source": "GitHub Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "61da53cc177498974cdf57d108b0f69954338a4b",
+          "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草 / Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+          "title_zh": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
+          "title_en": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+          "title_original": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+          "summary": "GitHub 发布 2026 年度 Octoverse 报告：过去 12 个月开发者推送代码 179 亿次，超过 2024 和 2025 年之和，合并 PR 达 13 亿次。",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T16:07:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "61da53cc177498974cdf57d108b0f69954338a4b",
+          "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草 / Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+          "title_zh": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
+          "title_en": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+          "title_original": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+          "summary": "GitHub 发布 2026 年度 Octoverse 报告：过去 12 个月开发者推送代码 179 亿次，超过 2024 和 2025 年之和，合并 PR 达 13 亿次。",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T16:07:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.931,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T16:07:40Z",
+      "latest_at": "2026-10-28T16:07:40Z",
+      "primary_item": {
+        "id": "61da53cc177498974cdf57d108b0f69954338a4b",
+        "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草 / Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+        "title_zh": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
+        "title_en": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+        "title_original": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+        "summary": "GitHub 发布 2026 年度 Octoverse 报告：过去 12 个月开发者推送代码 179 亿次，超过 2024 和 2025 年之和，合并 PR 达 13 亿次。",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
+        "source": "GitHub Blog",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T21:26:21.820620Z"
       }
     },
     {
@@ -131,15 +987,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8358,
-      "importance": 0.8358,
-      "importance_score": 0.8358,
+      "score": 0.8243,
+      "importance": 0.8243,
+      "importance_score": 0.8243,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9098,
+        "recency": 0.846,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,173 +1022,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:03:39.665132Z"
-      }
-    },
-    {
-      "story_id": "story_533d85c923c9",
-      "title": "GitHub Copilot 支持服务器到服务器身份验证 / GitHub Copilot supports server-to-server authentication",
-      "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
-      "primary_url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "11254a0e325169b9b1ebef112419f8733889eb8a",
-          "title": "GitHub Copilot 支持服务器到服务器身份验证 / GitHub Copilot supports server-to-server authentication",
-          "title_zh": "GitHub Copilot 支持服务器到服务器身份验证",
-          "title_en": "GitHub Copilot supports server-to-server authentication",
-          "title_original": "GitHub Copilot supports server-to-server authentication",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T21:36:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "11254a0e325169b9b1ebef112419f8733889eb8a",
-          "title": "GitHub Copilot 支持服务器到服务器身份验证 / GitHub Copilot supports server-to-server authentication",
-          "title_zh": "GitHub Copilot 支持服务器到服务器身份验证",
-          "title_en": "GitHub Copilot supports server-to-server authentication",
-          "title_original": "GitHub Copilot supports server-to-server authentication",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T21:36:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7663,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T21:36:55Z",
-      "latest_at": "2026-10-27T21:36:55Z",
-      "primary_item": {
-        "id": "11254a0e325169b9b1ebef112419f8733889eb8a",
-        "title": "GitHub Copilot 支持服务器到服务器身份验证 / GitHub Copilot supports server-to-server authentication",
-        "title_zh": "GitHub Copilot 支持服务器到服务器身份验证",
-        "title_en": "GitHub Copilot supports server-to-server authentication",
-        "title_original": "GitHub Copilot supports server-to-server authentication",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:03:39.665132Z"
-      }
-    },
-    {
-      "story_id": "story_74c7e03322b7",
-      "title": "我们可以信任LLM来判断一个研究想法是否新颖吗？ / Can we trust LLMs to judge whether a research idea is novel?",
-      "url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "primary_url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "063e213d0efe29b8ede82d8e72bb4feba8117d70",
-          "title": "我们可以信任LLM来判断一个研究想法是否新颖吗？ / Can we trust LLMs to judge whether a research idea is novel?",
-          "title_zh": "我们可以信任LLM来判断一个研究想法是否新颖吗？",
-          "title_en": "Can we trust LLMs to judge whether a research idea is novel?",
-          "title_original": "Can we trust LLMs to judge whether a research idea is novel?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/novelty-bench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T16:12:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "063e213d0efe29b8ede82d8e72bb4feba8117d70",
-          "title": "我们可以信任LLM来判断一个研究想法是否新颖吗？ / Can we trust LLMs to judge whether a research idea is novel?",
-          "title_zh": "我们可以信任LLM来判断一个研究想法是否新颖吗？",
-          "title_en": "Can we trust LLMs to judge whether a research idea is novel?",
-          "title_original": "Can we trust LLMs to judge whether a research idea is novel?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/novelty-bench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T16:12:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7088,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T16:12:42Z",
-      "latest_at": "2026-10-27T16:12:42Z",
-      "primary_item": {
-        "id": "063e213d0efe29b8ede82d8e72bb4feba8117d70",
-        "title": "我们可以信任LLM来判断一个研究想法是否新颖吗？ / Can we trust LLMs to judge whether a research idea is novel?",
-        "title_zh": "我们可以信任LLM来判断一个研究想法是否新颖吗？",
-        "title_en": "Can we trust LLMs to judge whether a research idea is novel?",
-        "title_original": "Can we trust LLMs to judge whether a research idea is novel?",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/novelty-bench",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:03:39.665132Z"
+        "scored_at": "2026-10-28T21:26:21.820620Z"
       }
     },
     {
@@ -380,15 +1070,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9289,
+        "recency": 0.8638,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -414,7 +1104,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:03:39.665132Z"
+        "scored_at": "2026-10-28T21:26:21.820620Z"
       }
     },
     {
@@ -462,15 +1152,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7695,
-      "importance": 0.7695,
-      "importance_score": 0.7695,
+      "score": 0.758,
+      "importance": 0.758,
+      "importance_score": 0.758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9105,
+        "recency": 0.8466,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -496,89 +1186,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:03:39.665132Z"
-      }
-    },
-    {
-      "story_id": "story_2a35071feaa9",
-      "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
-      "url": "https://www.aibase.com/news/31933",
-      "primary_url": "https://www.aibase.com/news/31933",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3bd6c21f73ab76430ad67d454e8e5e7279363485",
-          "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
-          "title_zh": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
-          "title_en": null,
-          "title_original": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31933",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T16:02:42.989424Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3bd6c21f73ab76430ad67d454e8e5e7279363485",
-          "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
-          "title_zh": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
-          "title_en": null,
-          "title_original": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31933",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T16:02:42.989424Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T16:02:42.989424Z",
-      "latest_at": "2026-10-28T16:02:42.989424Z",
-      "primary_item": {
-        "id": "3bd6c21f73ab76430ad67d454e8e5e7279363485",
-        "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
-        "title_zh": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
-        "title_en": null,
-        "title_original": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31933",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:03:39.665132Z"
+        "scored_at": "2026-10-28T21:26:21.820620Z"
       }
     },
     {
@@ -626,15 +1234,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7883,
+        "recency": 0.7331,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -660,63 +1268,145 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:03:39.665132Z"
+        "scored_at": "2026-10-28T21:26:21.820620Z"
       }
     },
     {
-      "story_id": "story_dcfc8da3dcc9",
-      "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_2a35071feaa9",
+      "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
+      "url": "https://www.aibase.com/news/31933",
+      "primary_url": "https://www.aibase.com/news/31933",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "f575916052681d60fce595fbbd176bcab3c5af10",
-          "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
-          "title_zh": "使用 LFM3 构建专门的多模式模型",
-          "title_en": "Build specialized multimodal models with LFM3",
-          "title_original": "Build specialized multimodal models with LFM3",
+          "id": "3bd6c21f73ab76430ad67d454e8e5e7279363485",
+          "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
+          "title_zh": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
+          "title_en": null,
+          "title_original": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T17:16:52Z"
+          "url": "https://www.aibase.com/news/31933",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T16:02:42.989424Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "f575916052681d60fce595fbbd176bcab3c5af10",
-          "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
-          "title_zh": "使用 LFM3 构建专门的多模式模型",
-          "title_en": "Build specialized multimodal models with LFM3",
-          "title_original": "Build specialized multimodal models with LFM3",
+          "id": "3bd6c21f73ab76430ad67d454e8e5e7279363485",
+          "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
+          "title_zh": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
+          "title_en": null,
+          "title_original": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T17:16:52Z"
+          "url": "https://www.aibase.com/news/31933",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T16:02:42.989424Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8096,
-      "importance": 0.8096,
-      "importance_score": 0.8096,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9299,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T16:02:42.989424Z",
+      "latest_at": "2026-10-28T16:02:42.989424Z",
+      "primary_item": {
+        "id": "3bd6c21f73ab76430ad67d454e8e5e7279363485",
+        "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
+        "title_zh": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
+        "title_en": null,
+        "title_original": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31933",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T21:26:21.820620Z"
+      }
+    },
+    {
+      "story_id": "story_62dac217e32f",
+      "title": "Security extension for the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "026c7449911905b0e5e4cf5547827fd121f6688c",
+          "title": "Security extension for the GitHub Copilot app",
+          "title_zh": null,
+          "title_en": "Security extension for the GitHub Copilot app",
+          "title_original": "Security extension for the GitHub Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T15:45:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "026c7449911905b0e5e4cf5547827fd121f6688c",
+          "title": "Security extension for the GitHub Copilot app",
+          "title_zh": null,
+          "title_en": "Security extension for the GitHub Copilot app",
+          "title_original": "Security extension for the GitHub Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T15:45:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8387,
+      "importance": 0.8387,
+      "importance_score": 0.8387,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7198,
+        "ai_relevance": 0.91,
+        "recency": 0.9259,
         "story_heat": 0.0
       },
       "category": "official",
@@ -725,25 +1415,187 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-27T17:16:52Z",
-      "latest_at": "2026-10-27T17:16:52Z",
+      "earliest_at": "2026-10-28T15:45:00Z",
+      "latest_at": "2026-10-28T15:45:00Z",
       "primary_item": {
-        "id": "f575916052681d60fce595fbbd176bcab3c5af10",
-        "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
-        "title_zh": "使用 LFM3 构建专门的多模式模型",
-        "title_en": "Build specialized multimodal models with LFM3",
-        "title_original": "Build specialized multimodal models with LFM3",
+        "id": "026c7449911905b0e5e4cf5547827fd121f6688c",
+        "title": "Security extension for the GitHub Copilot app",
+        "title_zh": null,
+        "title_en": "Security extension for the GitHub Copilot app",
+        "title_original": "Security extension for the GitHub Copilot app",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-        "source": "Hugging Face Blog",
+        "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:03:39.665132Z"
+        "scored_at": "2026-10-28T21:26:21.820620Z"
+      }
+    },
+    {
+      "story_id": "story_2e3fe1390b41",
+      "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code / Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
+      "url": "https://x.com/bcherny/status/2115491259381072269",
+      "primary_url": "https://x.com/bcherny/status/2115491259381072269",
+      "source": "X：Boris Cherny (@bcherny)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d2353704e32a7603145331df04f6fc2fb8260bee",
+          "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code / Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
+          "title_zh": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
+          "title_en": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
+          "title_original": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
+          "summary": "Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/bcherny/status/2115491259381072269",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T17:09:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Boris Cherny (@bcherny)"
+      ],
+      "items": [
+        {
+          "id": "d2353704e32a7603145331df04f6fc2fb8260bee",
+          "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code / Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
+          "title_zh": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
+          "title_en": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
+          "title_original": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
+          "summary": "Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/bcherny/status/2115491259381072269",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T17:09:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9451,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-28T17:09:54Z",
+      "latest_at": "2026-10-28T17:09:54Z",
+      "primary_item": {
+        "id": "d2353704e32a7603145331df04f6fc2fb8260bee",
+        "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code / Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
+        "title_zh": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
+        "title_en": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
+        "title_original": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
+        "summary": "Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/bcherny/status/2115491259381072269",
+        "source": "X：Boris Cherny (@bcherny)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T21:26:21.820620Z"
+      }
+    },
+    {
+      "story_id": "story_a284733e7d1f",
+      "title": "Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发 / Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+      "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work",
+      "primary_url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work",
+      "source": "Microsoft：Official Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "089ab133fa7d402dc7dc8b6066eaaee382aa18ff",
+          "title": "Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发 / Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+          "title_zh": "Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发",
+          "title_en": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+          "title_original": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+          "summary": "Microsoft 宣布将 GitHub 团队打造的 Copilot harness 通过 Microsoft Foundry 向开发者和企业开放，该 harness 已驱动 Copilot Code、Copilot Studio、GitHub Copilot app 和 CLI 等产品。",
+          "recommend_reason_zh": null,
+          "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work",
+          "source": "Microsoft：Official Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T16:51:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Microsoft：Official Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "089ab133fa7d402dc7dc8b6066eaaee382aa18ff",
+          "title": "Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发 / Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+          "title_zh": "Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发",
+          "title_en": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+          "title_original": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+          "summary": "Microsoft 宣布将 GitHub 团队打造的 Copilot harness 通过 Microsoft Foundry 向开发者和企业开放，该 harness 已驱动 Copilot Code、Copilot Studio、GitHub Copilot app 和 CLI 等产品。",
+          "recommend_reason_zh": null,
+          "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work",
+          "source": "Microsoft：Official Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T16:51:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.733,
+      "importance": 0.733,
+      "importance_score": 0.733,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9409,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-28T16:51:35Z",
+      "latest_at": "2026-10-28T16:51:35Z",
+      "primary_item": {
+        "id": "089ab133fa7d402dc7dc8b6066eaaee382aa18ff",
+        "title": "Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发 / Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+        "title_zh": "Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发",
+        "title_en": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+        "title_original": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+        "summary": "Microsoft 宣布将 GitHub 团队打造的 Copilot harness 通过 Microsoft Foundry 向开发者和企业开放，该 harness 已驱动 Copilot Code、Copilot Studio、GitHub Copilot app 和 CLI 等产品。",
+        "recommend_reason_zh": null,
+        "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work",
+        "source": "Microsoft：Official Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T21:26:21.820620Z"
       }
     },
     {
@@ -791,15 +1643,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7439,
-      "importance": 0.7439,
-      "importance_score": 0.7439,
+      "score": 0.7329,
+      "importance": 0.7329,
+      "importance_score": 0.7329,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8682,
+        "recency": 0.8074,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -824,820 +1676,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:03:39.665132Z"
-      }
-    },
-    {
-      "story_id": "story_82908663c452",
-      "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证 / Verified AI just had its greatest month.",
-      "url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "df31d4397fa0d5aa9dc292abed21eec90bb69de2",
-          "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证 / Verified AI just had its greatest month.",
-          "title_zh": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证",
-          "title_en": "Verified AI just had its greatest month.",
-          "title_original": "Verified AI just had its greatest month.",
-          "summary": "作者称 Verified AI 迎来标志性月份，Axiom 的 AI 智能体集群用 24 天完成数学史上最长证明的验证，将跨越 500 多篇论文的 15,000 页有限单群分类定理（CFSG）转化为 3800 万行以上机器验证代码，并发现已发表记录中的 34 处严重出入。引用内容补充称该形式化证明可能是最大的开源项目之一，图中显示 Axiom CFSG 达 43.0M 行，约每 37 天翻倍。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T23:31:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "df31d4397fa0d5aa9dc292abed21eec90bb69de2",
-          "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证 / Verified AI just had its greatest month.",
-          "title_zh": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证",
-          "title_en": "Verified AI just had its greatest month.",
-          "title_original": "Verified AI just had its greatest month.",
-          "summary": "作者称 Verified AI 迎来标志性月份，Axiom 的 AI 智能体集群用 24 天完成数学史上最长证明的验证，将跨越 500 多篇论文的 15,000 页有限单群分类定理（CFSG）转化为 3800 万行以上机器验证代码，并发现已发表记录中的 34 处严重出入。引用内容补充称该形式化证明可能是最大的开源项目之一，图中显示 Axiom CFSG 达 43.0M 行，约每 37 天翻倍。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T23:31:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7878,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T23:31:32Z",
-      "latest_at": "2026-10-27T23:31:32Z",
-      "primary_item": {
-        "id": "df31d4397fa0d5aa9dc292abed21eec90bb69de2",
-        "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证 / Verified AI just had its greatest month.",
-        "title_zh": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证",
-        "title_en": "Verified AI just had its greatest month.",
-        "title_original": "Verified AI just had its greatest month.",
-        "summary": "作者称 Verified AI 迎来标志性月份，Axiom 的 AI 智能体集群用 24 天完成数学史上最长证明的验证，将跨越 500 多篇论文的 15,000 页有限单群分类定理（CFSG）转化为 3800 万行以上机器验证代码，并发现已发表记录中的 34 处严重出入。引用内容补充称该形式化证明可能是最大的开源项目之一，图中显示 Axiom CFSG 达 43.0M 行，约每 37 天翻倍。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:03:39.665132Z"
-      }
-    },
-    {
-      "story_id": "story_96589410c307",
-      "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a60a346fe76490a3702395da6ecf4903e4c23fbb",
-          "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-          "title_zh": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-          "title_en": null,
-          "title_original": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-          "summary": "面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T11:38:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：面壁智能（MiniCPM）"
-      ],
-      "items": [
-        {
-          "id": "a60a346fe76490a3702395da6ecf4903e4c23fbb",
-          "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-          "title_zh": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-          "title_en": null,
-          "title_original": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-          "summary": "面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T11:38:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7385,
-      "importance": 0.7385,
-      "importance_score": 0.7385,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9383,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T11:38:17Z",
-      "latest_at": "2026-10-28T11:38:17Z",
-      "primary_item": {
-        "id": "a60a346fe76490a3702395da6ecf4903e4c23fbb",
-        "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-        "title_zh": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-        "title_en": null,
-        "title_original": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-        "summary": "面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
-        "source": "公众号：面壁智能（MiniCPM）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:03:39.665132Z"
-      }
-    },
-    {
-      "story_id": "story_7bef45631a41",
-      "title": "外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”",
-      "url": "https://www.aibase.com/news/31931",
-      "primary_url": "https://www.aibase.com/news/31931",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "979d0309f1f3ba384f53790a0e9efa456f0be9b6",
-          "title": "外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”",
-          "title_zh": "外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”",
-          "title_en": null,
-          "title_original": "外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31931",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T16:02:42.989424Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "979d0309f1f3ba384f53790a0e9efa456f0be9b6",
-          "title": "外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”",
-          "title_zh": "外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”",
-          "title_en": null,
-          "title_original": "外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31931",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T16:02:42.989424Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T16:02:42.989424Z",
-      "latest_at": "2026-10-28T16:02:42.989424Z",
-      "primary_item": {
-        "id": "979d0309f1f3ba384f53790a0e9efa456f0be9b6",
-        "title": "外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”",
-        "title_zh": "外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”",
-        "title_en": null,
-        "title_original": "外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31931",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:03:39.665132Z"
-      }
-    },
-    {
-      "story_id": "story_1208d46c9897",
-      "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dd073dd93ed4efbfc7e4d095c7d648605328495e",
-          "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay",
-          "title_zh": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
-          "title_en": "Anthropic’s elaborate plan to keep Wall Street at bay",
-          "title_original": "Anthropic’s elaborate plan to keep Wall Street at bay",
-          "summary": "Anthropic 计划通过长期受益信托和 Founder LLC 等独特治理结构上市，在公开市场融资的同时防止股东迫使公司削弱安全投入。信托的五名投票受托人可通过 Class T 股票任命七名董事中的四席，七位创始人则以 Founder LLC 掌握 50.1% 投票权。法学专家认为法律层面可隔绝逐利压力，但市场竞争、融资需求和创始人离开都可能侵蚀这些保障。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T16:51:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "dd073dd93ed4efbfc7e4d095c7d648605328495e",
-          "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay",
-          "title_zh": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
-          "title_en": "Anthropic’s elaborate plan to keep Wall Street at bay",
-          "title_original": "Anthropic’s elaborate plan to keep Wall Street at bay",
-          "summary": "Anthropic 计划通过长期受益信托和 Founder LLC 等独特治理结构上市，在公开市场融资的同时防止股东迫使公司削弱安全投入。信托的五名投票受托人可通过 Class T 股票任命七名董事中的四席，七位创始人则以 Founder LLC 掌握 50.1% 投票权。法学专家认为法律层面可隔绝逐利压力，但市场竞争、融资需求和创始人离开都可能侵蚀这些保障。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T16:51:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7154,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T16:51:22Z",
-      "latest_at": "2026-10-27T16:51:22Z",
-      "primary_item": {
-        "id": "dd073dd93ed4efbfc7e4d095c7d648605328495e",
-        "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay",
-        "title_zh": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
-        "title_en": "Anthropic’s elaborate plan to keep Wall Street at bay",
-        "title_original": "Anthropic’s elaborate plan to keep Wall Street at bay",
-        "summary": "Anthropic 计划通过长期受益信托和 Founder LLC 等独特治理结构上市，在公开市场融资的同时防止股东迫使公司削弱安全投入。信托的五名投票受托人可通过 Class T 股票任命七名董事中的四席，七位创始人则以 Founder LLC 掌握 50.1% 投票权。法学专家认为法律层面可隔绝逐利压力，但市场竞争、融资需求和创始人离开都可能侵蚀这些保障。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:03:39.665132Z"
-      }
-    },
-    {
-      "story_id": "story_71802914a418",
-      "title": "Azeem Azhar 图解 Anthropic S-1 财务数据 / 🔮 Anthropic’s S-1 in charts",
-      "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
-      "primary_url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
-      "source": "Azeem Azhar：Exponential View（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "314f1dbd620181ccb92f419287d9736a6aedb838",
-          "title": "Azeem Azhar 图解 Anthropic S-1 财务数据 / 🔮 Anthropic’s S-1 in charts",
-          "title_zh": "Azeem Azhar 图解 Anthropic S-1 财务数据",
-          "title_en": "🔮 Anthropic’s S-1 in charts",
-          "title_original": "🔮 Anthropic’s S-1 in charts",
-          "summary": "Azeem Azhar 图解 Anthropic 的 S-1 文件，指出公司已从实验室变成有现金流和资金的业务，看起来能走向可靠盈利。增长仍高但放缓，超过 80% 的营收来自发布不到六个月的模型；Q3 因向基金会付款可能出现边际亏损，客户集中度问题不大。",
-          "recommend_reason_zh": null,
-          "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
-          "source": "Azeem Azhar：Exponential View（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T17:31:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Azeem Azhar：Exponential View（RSS）"
-      ],
-      "items": [
-        {
-          "id": "314f1dbd620181ccb92f419287d9736a6aedb838",
-          "title": "Azeem Azhar 图解 Anthropic S-1 财务数据 / 🔮 Anthropic’s S-1 in charts",
-          "title_zh": "Azeem Azhar 图解 Anthropic S-1 财务数据",
-          "title_en": "🔮 Anthropic’s S-1 in charts",
-          "title_original": "🔮 Anthropic’s S-1 in charts",
-          "summary": "Azeem Azhar 图解 Anthropic 的 S-1 文件，指出公司已从实验室变成有现金流和资金的业务，看起来能走向可靠盈利。增长仍高但放缓，超过 80% 的营收来自发布不到六个月的模型；Q3 因向基金会付款可能出现边际亏损，客户集中度问题不大。",
-          "recommend_reason_zh": null,
-          "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
-          "source": "Azeem Azhar：Exponential View（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T17:31:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7225,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T17:31:56Z",
-      "latest_at": "2026-10-27T17:31:56Z",
-      "primary_item": {
-        "id": "314f1dbd620181ccb92f419287d9736a6aedb838",
-        "title": "Azeem Azhar 图解 Anthropic S-1 财务数据 / 🔮 Anthropic’s S-1 in charts",
-        "title_zh": "Azeem Azhar 图解 Anthropic S-1 财务数据",
-        "title_en": "🔮 Anthropic’s S-1 in charts",
-        "title_original": "🔮 Anthropic’s S-1 in charts",
-        "summary": "Azeem Azhar 图解 Anthropic 的 S-1 文件，指出公司已从实验室变成有现金流和资金的业务，看起来能走向可靠盈利。增长仍高但放缓，超过 80% 的营收来自发布不到六个月的模型；Q3 因向基金会付款可能出现边际亏损，客户集中度问题不大。",
-        "recommend_reason_zh": null,
-        "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
-        "source": "Azeem Azhar：Exponential View（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:03:39.665132Z"
-      }
-    },
-    {
-      "story_id": "story_3a9c6235b650",
-      "title": "Anthropic IPO 最大赢家或为 Amazon 而非 VC / VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
-      "primary_url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2dd0dac57a6c3f600c290dc9567b9091da95caba",
-          "title": "Anthropic IPO 最大赢家或为 Amazon 而非 VC / VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-          "title_zh": "Anthropic IPO 最大赢家或为 Amazon 而非 VC",
-          "title_en": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-          "title_original": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-          "summary": "TechCrunch 根据 Anthropic 的 S-1 分析，VC 持股均不足 5%，而 Amazon 可能是 IPO 最大财务受益方。Amazon 持有 62 亿美元本金可转债、其自估持仓价值 979 亿美元，另投 100 亿美元无投票权优先股，累计投资约 180 亿美元；Anthropic 还承诺未来 10 年在 AWS 至少消费 1100 亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T01:15:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2dd0dac57a6c3f600c290dc9567b9091da95caba",
-          "title": "Anthropic IPO 最大赢家或为 Amazon 而非 VC / VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-          "title_zh": "Anthropic IPO 最大赢家或为 Amazon 而非 VC",
-          "title_en": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-          "title_original": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-          "summary": "TechCrunch 根据 Anthropic 的 S-1 分析，VC 持股均不足 5%，而 Amazon 可能是 IPO 最大财务受益方。Amazon 持有 62 亿美元本金可转债、其自估持仓价值 979 亿美元，另投 100 亿美元无投票权优先股，累计投资约 180 亿美元；Anthropic 还承诺未来 10 年在 AWS 至少消费 1100 亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T01:15:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8077,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T01:15:28Z",
-      "latest_at": "2026-10-28T01:15:28Z",
-      "primary_item": {
-        "id": "2dd0dac57a6c3f600c290dc9567b9091da95caba",
-        "title": "Anthropic IPO 最大赢家或为 Amazon 而非 VC / VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-        "title_zh": "Anthropic IPO 最大赢家或为 Amazon 而非 VC",
-        "title_en": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-        "title_original": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-        "summary": "TechCrunch 根据 Anthropic 的 S-1 分析，VC 持股均不足 5%，而 Amazon 可能是 IPO 最大财务受益方。Amazon 持有 62 亿美元本金可转债、其自估持仓价值 979 亿美元，另投 100 亿美元无投票权优先股，累计投资约 180 亿美元；Anthropic 还承诺未来 10 年在 AWS 至少消费 1100 亿美元。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:03:39.665132Z"
-      }
-    },
-    {
-      "story_id": "story_79e21315ed07",
-      "title": "豆包公关回应\"15 万群演被喂模型\"：传言严重失实",
-      "url": "https://www.aibase.com/news/31932",
-      "primary_url": "https://www.aibase.com/news/31932",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cd782b7737811800804e35452045fb92e658ad60",
-          "title": "豆包公关回应\"15 万群演被喂模型\"：传言严重失实",
-          "title_zh": "豆包公关回应\"15 万群演被喂模型\"：传言严重失实",
-          "title_en": null,
-          "title_original": "豆包公关回应\"15 万群演被喂模型\"：传言严重失实",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31932",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T16:02:42.989424Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cd782b7737811800804e35452045fb92e658ad60",
-          "title": "豆包公关回应\"15 万群演被喂模型\"：传言严重失实",
-          "title_zh": "豆包公关回应\"15 万群演被喂模型\"：传言严重失实",
-          "title_en": null,
-          "title_original": "豆包公关回应\"15 万群演被喂模型\"：传言严重失实",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31932",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T16:02:42.989424Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T16:02:42.989424Z",
-      "latest_at": "2026-10-28T16:02:42.989424Z",
-      "primary_item": {
-        "id": "cd782b7737811800804e35452045fb92e658ad60",
-        "title": "豆包公关回应\"15 万群演被喂模型\"：传言严重失实",
-        "title_zh": "豆包公关回应\"15 万群演被喂模型\"：传言严重失实",
-        "title_en": null,
-        "title_original": "豆包公关回应\"15 万群演被喂模型\"：传言严重失实",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31932",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:03:39.665132Z"
-      }
-    },
-    {
-      "story_id": "story_91713609458b",
-      "title": "AI 让作业变废纸，诺奖级教授退回纸笔考场",
-      "url": "https://www.aibase.com/news/31917",
-      "primary_url": "https://www.aibase.com/news/31917",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "619caa0a6855952f232b4bd0060bb15bff795b56",
-          "title": "AI 让作业变废纸，诺奖级教授退回纸笔考场",
-          "title_zh": "AI 让作业变废纸，诺奖级教授退回纸笔考场",
-          "title_en": null,
-          "title_original": "AI 让作业变废纸，诺奖级教授退回纸笔考场",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31917",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T08:31:49.128471Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "619caa0a6855952f232b4bd0060bb15bff795b56",
-          "title": "AI 让作业变废纸，诺奖级教授退回纸笔考场",
-          "title_zh": "AI 让作业变废纸，诺奖级教授退回纸笔考场",
-          "title_en": null,
-          "title_original": "AI 让作业变废纸，诺奖级教授退回纸笔考场",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31917",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T08:31:49.128471Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8972,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T08:31:49.128471Z",
-      "latest_at": "2026-10-28T08:31:49.128471Z",
-      "primary_item": {
-        "id": "619caa0a6855952f232b4bd0060bb15bff795b56",
-        "title": "AI 让作业变废纸，诺奖级教授退回纸笔考场",
-        "title_zh": "AI 让作业变废纸，诺奖级教授退回纸笔考场",
-        "title_en": null,
-        "title_original": "AI 让作业变废纸，诺奖级教授退回纸笔考场",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31917",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:03:39.665132Z"
-      }
-    },
-    {
-      "story_id": "story_cbd2dae96215",
-      "title": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-      "url": "https://www.aibase.com/news/31923",
-      "primary_url": "https://www.aibase.com/news/31923",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6696fed3d8a5293a6b3ee4bc05cf4d55c70f3a5b",
-          "title": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-          "title_zh": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-          "title_en": null,
-          "title_original": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31923",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T08:31:49.128471Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6696fed3d8a5293a6b3ee4bc05cf4d55c70f3a5b",
-          "title": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-          "title_zh": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-          "title_en": null,
-          "title_original": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31923",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T08:31:49.128471Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8972,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T08:31:49.128471Z",
-      "latest_at": "2026-10-28T08:31:49.128471Z",
-      "primary_item": {
-        "id": "6696fed3d8a5293a6b3ee4bc05cf4d55c70f3a5b",
-        "title": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-        "title_zh": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-        "title_en": null,
-        "title_original": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31923",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:03:39.665132Z"
-      }
-    },
-    {
-      "story_id": "story_3dca0862dabf",
-      "title": "Anthropic 兄妹复盘创业：七人同股同权，才是成功的关键",
-      "url": "https://www.aibase.com/news/31912",
-      "primary_url": "https://www.aibase.com/news/31912",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c4cca19cf41aef2ca887ca7a742ae9f99257fcb9",
-          "title": "Anthropic 兄妹复盘创业：七人同股同权，才是成功的关键",
-          "title_zh": "Anthropic 兄妹复盘创业：七人同股同权，才是成功的关键",
-          "title_en": null,
-          "title_original": "Anthropic 兄妹复盘创业：七人同股同权，才是成功的关键",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31912",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T08:31:49.128471Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c4cca19cf41aef2ca887ca7a742ae9f99257fcb9",
-          "title": "Anthropic 兄妹复盘创业：七人同股同权，才是成功的关键",
-          "title_zh": "Anthropic 兄妹复盘创业：七人同股同权，才是成功的关键",
-          "title_en": null,
-          "title_original": "Anthropic 兄妹复盘创业：七人同股同权，才是成功的关键",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31912",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T08:31:49.128471Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8972,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T08:31:49.128471Z",
-      "latest_at": "2026-10-28T08:31:49.128471Z",
-      "primary_item": {
-        "id": "c4cca19cf41aef2ca887ca7a742ae9f99257fcb9",
-        "title": "Anthropic 兄妹复盘创业：七人同股同权，才是成功的关键",
-        "title_zh": "Anthropic 兄妹复盘创业：七人同股同权，才是成功的关键",
-        "title_en": null,
-        "title_original": "Anthropic 兄妹复盘创业：七人同股同权，才是成功的关键",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31912",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:03:39.665132Z"
+        "scored_at": "2026-10-28T21:26:21.820620Z"
       }
     }
   ]
