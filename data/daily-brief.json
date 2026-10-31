@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-31T12:29:18.536212Z",
+  "generated_at": "2026-10-31T17:43:31.317787Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_3b4867ca19cb",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
+      "score": 0.8077,
+      "importance": 0.8077,
+      "importance_score": 0.8077,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7652,
+        "recency": 0.7095,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,148 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T12:43:42.627243Z"
-      }
-    },
-    {
-      "story_id": "story_54217e411546",
-      "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6c14a361c65aced5a0db8dc9f8018190b69f4b70",
-          "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears",
-          "title_zh": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
-          "title_en": "US tech stocks see sharp falls over AI cost fears",
-          "title_original": "US tech stocks see sharp falls over AI cost fears",
-          "summary": "BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。",
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T14:50:37.797000Z"
-        },
-        {
-          "id": "e06d9d208536879852607392fe6a21e79fc19076",
-          "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
-          "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
-          "title_en": "US tech stocks see sharp falls over AI cost fears",
-          "title_original": "US tech stocks see sharp falls over AI cost fears",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50306008",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-30T16:13:02Z"
-        },
-        {
-          "id": "40e8591821b3a633dce307f3ff9f2123499fc1ce",
-          "title": "人工智能成本担忧导致美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost concerns",
-          "title_zh": "人工智能成本担忧导致美国科技股大幅下跌",
-          "title_en": "US tech stocks see sharp falls over AI cost concerns",
-          "title_original": "US tech stocks see sharp falls over AI cost concerns",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-30T15:01:56Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "BBC News",
-        "Hacker News：AI 热帖",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6c14a361c65aced5a0db8dc9f8018190b69f4b70",
-          "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears",
-          "title_zh": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
-          "title_en": "US tech stocks see sharp falls over AI cost fears",
-          "title_original": "US tech stocks see sharp falls over AI cost fears",
-          "summary": "BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。",
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T14:50:37.797000Z"
-        },
-        {
-          "id": "e06d9d208536879852607392fe6a21e79fc19076",
-          "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
-          "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
-          "title_en": "US tech stocks see sharp falls over AI cost fears",
-          "title_original": "US tech stocks see sharp falls over AI cost fears",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50306008",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-30T16:13:02Z"
-        },
-        {
-          "id": "40e8591821b3a633dce307f3ff9f2123499fc1ce",
-          "title": "人工智能成本担忧导致美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost concerns",
-          "title_zh": "人工智能成本担忧导致美国科技股大幅下跌",
-          "title_en": "US tech stocks see sharp falls over AI cost concerns",
-          "title_original": "US tech stocks see sharp falls over AI cost concerns",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-30T15:01:56Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7933,
-      "importance": 0.7933,
-      "importance_score": 0.7933,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7316,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-30T14:50:37.797000Z",
-      "latest_at": "2026-10-30T16:13:02Z",
-      "primary_item": {
-        "id": "6c14a361c65aced5a0db8dc9f8018190b69f4b70",
-        "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears",
-        "title_zh": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
-        "title_en": "US tech stocks see sharp falls over AI cost fears",
-        "title_original": "US tech stocks see sharp falls over AI cost fears",
-        "summary": "BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。",
-        "recommend_reason_zh": null,
-        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T12:43:42.627243Z"
+        "scored_at": "2026-10-31T18:01:15.245232Z"
       }
     },
     {
@@ -272,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8214,
+        "recency": 0.7616,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -306,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T12:43:42.627243Z"
+        "scored_at": "2026-10-31T18:01:15.245232Z"
       }
     },
     {
@@ -354,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8357,
+        "recency": 0.7749,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -388,7 +247,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T12:43:42.627243Z"
+        "scored_at": "2026-10-31T18:01:15.245232Z"
       }
     },
     {
@@ -436,15 +295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.803,
+        "recency": 0.7445,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -470,7 +329,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T12:43:42.627243Z"
+        "scored_at": "2026-10-31T18:01:15.245232Z"
       }
     },
     {
@@ -518,21 +377,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8773,
+        "recency": 0.8134,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-31T03:25:09.697000Z",
       "latest_at": "2026-10-31T03:25:09.697000Z",
@@ -552,169 +410,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T12:43:42.627243Z"
-      }
-    },
-    {
-      "story_id": "story_7fc9b68d12a5",
-      "title": "Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问 / Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
-      "url": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web",
-      "primary_url": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "00bb94c58d3aa1f9348e39ae2b949c5b71c996fd",
-          "title": "Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问 / Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
-          "title_zh": "Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问",
-          "title_en": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
-          "title_original": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
-          "summary": "Reddit CEO Steve Huffman 表示 10 月 Reddit 每周流失超过 100 万来自 Google 搜索的访问，股价在业绩强劲的情况下仍下跌超 25%。他称 AI Mode 不会带来流量，Reddit 正在美国以外测试登录墙以遏制抓取，并与 AI 提供商继续数据授权谈判。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T17:15:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "00bb94c58d3aa1f9348e39ae2b949c5b71c996fd",
-          "title": "Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问 / Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
-          "title_zh": "Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问",
-          "title_en": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
-          "title_original": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
-          "summary": "Reddit CEO Steve Huffman 表示 10 月 Reddit 每周流失超过 100 万来自 Google 搜索的访问，股价在业绩强劲的情况下仍下跌超 25%。他称 AI Mode 不会带来流量，Reddit 正在美国以外测试登录墙以遏制抓取，并与 AI 提供商继续数据授权谈判。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T17:15:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7575,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T17:15:24Z",
-      "latest_at": "2026-10-30T17:15:24Z",
-      "primary_item": {
-        "id": "00bb94c58d3aa1f9348e39ae2b949c5b71c996fd",
-        "title": "Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问 / Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
-        "title_zh": "Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问",
-        "title_en": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
-        "title_original": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
-        "summary": "Reddit CEO Steve Huffman 表示 10 月 Reddit 每周流失超过 100 万来自 Google 搜索的访问，股价在业绩强劲的情况下仍下跌超 25%。他称 AI Mode 不会带来流量，Reddit 正在美国以外测试登录墙以遏制抓取，并与 AI 提供商继续数据授权谈判。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T12:43:42.627243Z"
-      }
-    },
-    {
-      "story_id": "story_4c05b26f3043",
-      "title": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露 / Silicon Valley wants you to invest in miracles",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d7fb8cbaabd9907004a46c51b82748c25cbea18f",
-          "title": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露 / Silicon Valley wants you to invest in miracles",
-          "title_zh": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露",
-          "title_en": "Silicon Valley wants you to invest in miracles",
-          "title_original": "Silicon Valley wants you to invest in miracles",
-          "summary": "The Verge 分析 Anthropic 提交的 335 页 S-1 招股书，其中创始人信以带来奇迹时代为愿景，同时用 94 页风险因素警告模型可能对人类构成灾难性甚至生存风险。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T13:11:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d7fb8cbaabd9907004a46c51b82748c25cbea18f",
-          "title": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露 / Silicon Valley wants you to invest in miracles",
-          "title_zh": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露",
-          "title_en": "Silicon Valley wants you to invest in miracles",
-          "title_original": "Silicon Valley wants you to invest in miracles",
-          "summary": "The Verge 分析 Anthropic 提交的 335 页 S-1 招股书，其中创始人信以带来奇迹时代为愿景，同时用 94 页风险因素警告模型可能对人类构成灾难性甚至生存风险。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T13:11:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7342,
-      "importance": 0.7342,
-      "importance_score": 0.7342,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7143,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T13:11:05Z",
-      "latest_at": "2026-10-30T13:11:05Z",
-      "primary_item": {
-        "id": "d7fb8cbaabd9907004a46c51b82748c25cbea18f",
-        "title": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露 / Silicon Valley wants you to invest in miracles",
-        "title_zh": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露",
-        "title_en": "Silicon Valley wants you to invest in miracles",
-        "title_original": "Silicon Valley wants you to invest in miracles",
-        "summary": "The Verge 分析 Anthropic 提交的 335 页 S-1 招股书，其中创始人信以带来奇迹时代为愿景，同时用 94 页风险因素警告模型可能对人类构成灾难性甚至生存风险。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T12:43:42.627243Z"
+        "scored_at": "2026-10-31T18:01:15.245232Z"
       }
     },
     {
@@ -762,15 +458,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7319,
-      "importance": 0.7319,
-      "importance_score": 0.7319,
+      "score": 0.721,
+      "importance": 0.721,
+      "importance_score": 0.721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.835,
+        "recency": 0.7742,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -795,7 +491,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T12:43:42.627243Z"
+        "scored_at": "2026-10-31T18:01:15.245232Z"
       }
     },
     {
@@ -843,21 +539,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8512,
+        "recency": 0.7892,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-31T01:20:05Z",
       "latest_at": "2026-10-31T01:20:05Z",
@@ -877,7 +572,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T12:43:42.627243Z"
+        "scored_at": "2026-10-31T18:01:15.245232Z"
       }
     },
     {
@@ -925,15 +620,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8249,
+        "recency": 0.7648,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -958,7 +653,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T12:43:42.627243Z"
+        "scored_at": "2026-10-31T18:01:15.245232Z"
       }
     },
     {
@@ -1064,15 +759,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.652,
-      "importance": 0.652,
-      "importance_score": 0.652,
+      "score": 0.6414,
+      "importance": 0.6414,
+      "importance_score": 0.6414,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8097,
+        "recency": 0.7507,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1097,7 +792,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T12:43:42.627243Z"
+        "scored_at": "2026-10-31T18:01:15.245232Z"
       }
     },
     {
@@ -1173,15 +868,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.574,
-      "importance": 0.574,
-      "importance_score": 0.574,
+      "score": 0.5639,
+      "importance": 0.5639,
+      "importance_score": 0.5639,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7697,
+        "recency": 0.7136,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1206,7 +901,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T12:43:42.627243Z"
+        "scored_at": "2026-10-31T18:01:15.245232Z"
+      }
+    },
+    {
+      "story_id": "story_f00d1511750a",
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+      "primary_url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "3f177b06167d62c2517789bc881e85ec2139520f",
+          "title": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": null,
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T14:29:03Z"
+        },
+        {
+          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
+          "title": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": null,
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50316531",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T14:29:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3f177b06167d62c2517789bc881e85ec2139520f",
+          "title": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": null,
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T14:29:03Z"
+        },
+        {
+          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
+          "title": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": null,
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50316531",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T14:29:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5376,
+      "importance": 0.5376,
+      "importance_score": 0.5376,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9543,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T14:29:03Z",
+      "latest_at": "2026-10-31T14:29:03Z",
+      "primary_item": {
+        "id": "3f177b06167d62c2517789bc881e85ec2139520f",
+        "title": "Malware uses LLMs to rank victims by how much they're worth",
+        "title_zh": null,
+        "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+        "title_original": "Malware uses LLMs to rank victims by how much they're worth",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-31T18:01:15.245232Z"
+      }
+    },
+    {
+      "story_id": "story_17d2ed435a1a",
+      "title": "OpenAI 筹集的资金不到 $30B 目标的一半 / OpenAI raises less than half of $30B target",
+      "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+      "primary_url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "e15d8047f451e0ca10b60c74e9999ae00a8f5ca6",
+          "title": "OpenAI 筹集的资金不到 $30B 目标的一半 / OpenAI raises less than half of $30B target",
+          "title_zh": "OpenAI 筹集的资金不到 $30B 目标的一半",
+          "title_en": "OpenAI raises less than half of $30B target",
+          "title_original": "OpenAI raises less than half of $30B target",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T03:22:44Z"
+        },
+        {
+          "id": "8fefde185160203caca4e96a49d12878938e9cc7",
+          "title": "OpenAI 筹集的资金不到 $30B 目标的一半 / OpenAI raises less than half of $30B target",
+          "title_zh": "OpenAI 筹集的资金不到 $30B 目标的一半",
+          "title_en": "OpenAI raises less than half of $30B target",
+          "title_original": "OpenAI raises less than half of $30B target",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50312922",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T03:22:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e15d8047f451e0ca10b60c74e9999ae00a8f5ca6",
+          "title": "OpenAI 筹集的资金不到 $30B 目标的一半 / OpenAI raises less than half of $30B target",
+          "title_zh": "OpenAI 筹集的资金不到 $30B 目标的一半",
+          "title_en": "OpenAI raises less than half of $30B target",
+          "title_original": "OpenAI raises less than half of $30B target",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T03:22:44Z"
+        },
+        {
+          "id": "8fefde185160203caca4e96a49d12878938e9cc7",
+          "title": "OpenAI 筹集的资金不到 $30B 目标的一半 / OpenAI raises less than half of $30B target",
+          "title_zh": "OpenAI 筹集的资金不到 $30B 目标的一半",
+          "title_en": "OpenAI raises less than half of $30B target",
+          "title_original": "OpenAI raises less than half of $30B target",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50312922",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T03:22:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5121,
+      "importance": 0.5121,
+      "importance_score": 0.5121,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8129,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T03:22:44Z",
+      "latest_at": "2026-10-31T03:22:44Z",
+      "primary_item": {
+        "id": "e15d8047f451e0ca10b60c74e9999ae00a8f5ca6",
+        "title": "OpenAI 筹集的资金不到 $30B 目标的一半 / OpenAI raises less than half of $30B target",
+        "title_zh": "OpenAI 筹集的资金不到 $30B 目标的一半",
+        "title_en": "OpenAI raises less than half of $30B target",
+        "title_original": "OpenAI raises less than half of $30B target",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-31T18:01:15.245232Z"
       }
     },
     {
@@ -1283,15 +1198,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
+      "score": 0.528,
+      "importance": 0.528,
+      "importance_score": 0.528,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9717,
+        "recency": 0.901,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1316,667 +1231,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T12:43:42.627243Z"
-      }
-    },
-    {
-      "story_id": "story_0cd0414225e8",
-      "title": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级 / Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-      "primary_url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "e33bdfa995bef6b51bc7b016f892a8a05e30323d",
-          "title": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级 / Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "title_zh": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级",
-          "title_en": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "title_original": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-30T17:27:25Z"
-        },
-        {
-          "id": "63ca560be736402b27441f9218ac9fa76187dd26",
-          "title": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级 / Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "title_zh": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级",
-          "title_en": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "title_original": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50307219",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-30T17:27:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e33bdfa995bef6b51bc7b016f892a8a05e30323d",
-          "title": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级 / Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "title_zh": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级",
-          "title_en": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "title_original": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-30T17:27:25Z"
-        },
-        {
-          "id": "63ca560be736402b27441f9218ac9fa76187dd26",
-          "title": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级 / Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "title_zh": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级",
-          "title_en": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "title_original": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50307219",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-30T17:27:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5025,
-      "importance": 0.5025,
-      "importance_score": 0.5025,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7597,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-30T17:27:25Z",
-      "latest_at": "2026-10-30T17:27:25Z",
-      "primary_item": {
-        "id": "e33bdfa995bef6b51bc7b016f892a8a05e30323d",
-        "title": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级 / Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-        "title_zh": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级",
-        "title_en": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-        "title_original": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T12:43:42.627243Z"
-      }
-    },
-    {
-      "story_id": "story_17d2ed435a1a",
-      "title": "OpenAI 筹集的资金不到 $30B 目标的一半 / OpenAI raises less than half of $30B target",
-      "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
-      "primary_url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "5dc9d8a1bfaa3e695f0c61c1da0c4823a4d2d11f",
-          "title": "OpenAI 筹集的资金不到 $30B 目标的一半 / OpenAI raises less than half of $30B target",
-          "title_zh": "OpenAI 筹集的资金不到 $30B 目标的一半",
-          "title_en": "OpenAI raises less than half of $30B target",
-          "title_original": "OpenAI raises less than half of $30B target",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T03:22:44Z"
-        },
-        {
-          "id": "8fefde185160203caca4e96a49d12878938e9cc7",
-          "title": "OpenAI 筹集的资金不到 $30B 目标的一半 / OpenAI raises less than half of $30B target",
-          "title_zh": "OpenAI 筹集的资金不到 $30B 目标的一半",
-          "title_en": "OpenAI raises less than half of $30B target",
-          "title_original": "OpenAI raises less than half of $30B target",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50312922",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T03:22:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "5dc9d8a1bfaa3e695f0c61c1da0c4823a4d2d11f",
-          "title": "OpenAI 筹集的资金不到 $30B 目标的一半 / OpenAI raises less than half of $30B target",
-          "title_zh": "OpenAI 筹集的资金不到 $30B 目标的一半",
-          "title_en": "OpenAI raises less than half of $30B target",
-          "title_original": "OpenAI raises less than half of $30B target",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T03:22:44Z"
-        },
-        {
-          "id": "8fefde185160203caca4e96a49d12878938e9cc7",
-          "title": "OpenAI 筹集的资金不到 $30B 目标的一半 / OpenAI raises less than half of $30B target",
-          "title_zh": "OpenAI 筹集的资金不到 $30B 目标的一半",
-          "title_en": "OpenAI raises less than half of $30B target",
-          "title_original": "OpenAI raises less than half of $30B target",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50312922",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T03:22:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5236,
-      "importance": 0.5236,
-      "importance_score": 0.5236,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8767,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T03:22:44Z",
-      "latest_at": "2026-10-31T03:22:44Z",
-      "primary_item": {
-        "id": "5dc9d8a1bfaa3e695f0c61c1da0c4823a4d2d11f",
-        "title": "OpenAI 筹集的资金不到 $30B 目标的一半 / OpenAI raises less than half of $30B target",
-        "title_zh": "OpenAI 筹集的资金不到 $30B 目标的一半",
-        "title_en": "OpenAI raises less than half of $30B target",
-        "title_original": "OpenAI raises less than half of $30B target",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T12:43:42.627243Z"
-      }
-    },
-    {
-      "story_id": "story_70e05b9d043b",
-      "title": "Proton 首席执行官取消人工智能“重新采访” / Proton's CEO Cancels AI 'Re-Interviews'",
-      "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews",
-      "primary_url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "7133c70b319117e5bd58e804340237563c543d94",
-          "title": "Proton 首席执行官取消人工智能“重新采访” / Proton's CEO Cancels AI 'Re-Interviews'",
-          "title_zh": "Proton 首席执行官取消人工智能“重新采访”",
-          "title_en": "Proton's CEO Cancels AI 'Re-Interviews'",
-          "title_original": "Proton's CEO Cancels AI 'Re-Interviews'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-30T17:24:45Z"
-        },
-        {
-          "id": "3e3bf15d0866307d20659209ac56e1c7df290894",
-          "title": "Proton 首席执行官取消人工智能“重新采访” / Proton's CEO Cancels AI 'Re-Interviews'",
-          "title_zh": "Proton 首席执行官取消人工智能“重新采访”",
-          "title_en": "Proton's CEO Cancels AI 'Re-Interviews'",
-          "title_original": "Proton's CEO Cancels AI 'Re-Interviews'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50307183",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-30T17:24:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "7133c70b319117e5bd58e804340237563c543d94",
-          "title": "Proton 首席执行官取消人工智能“重新采访” / Proton's CEO Cancels AI 'Re-Interviews'",
-          "title_zh": "Proton 首席执行官取消人工智能“重新采访”",
-          "title_en": "Proton's CEO Cancels AI 'Re-Interviews'",
-          "title_original": "Proton's CEO Cancels AI 'Re-Interviews'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-30T17:24:45Z"
-        },
-        {
-          "id": "3e3bf15d0866307d20659209ac56e1c7df290894",
-          "title": "Proton 首席执行官取消人工智能“重新采访” / Proton's CEO Cancels AI 'Re-Interviews'",
-          "title_zh": "Proton 首席执行官取消人工智能“重新采访”",
-          "title_en": "Proton's CEO Cancels AI 'Re-Interviews'",
-          "title_original": "Proton's CEO Cancels AI 'Re-Interviews'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50307183",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-30T17:24:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5025,
-      "importance": 0.5025,
-      "importance_score": 0.5025,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7592,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-30T17:24:45Z",
-      "latest_at": "2026-10-30T17:24:45Z",
-      "primary_item": {
-        "id": "7133c70b319117e5bd58e804340237563c543d94",
-        "title": "Proton 首席执行官取消人工智能“重新采访” / Proton's CEO Cancels AI 'Re-Interviews'",
-        "title_zh": "Proton 首席执行官取消人工智能“重新采访”",
-        "title_en": "Proton's CEO Cancels AI 'Re-Interviews'",
-        "title_original": "Proton's CEO Cancels AI 'Re-Interviews'",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T12:43:42.627243Z"
-      }
-    },
-    {
-      "story_id": "story_c3fe6dd57f01",
-      "title": "人工智能并没有取代 SRE，而是降低了他们的技能 / AI isn't replacing SREs, it's deskilling them",
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "primary_url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "ccfc38d7a55f6ca66ff3dea4a06d1fa0aae8226c",
-          "title": "人工智能并没有取代 SRE，而是降低了他们的技能 / AI isn't replacing SREs, it's deskilling them",
-          "title_zh": "人工智能并没有取代 SRE，而是降低了他们的技能",
-          "title_en": "AI isn't replacing SREs, it's deskilling them",
-          "title_original": "AI isn't replacing SREs, it's deskilling them",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-30T15:52:18Z"
-        },
-        {
-          "id": "aa514f7cf9016c28a7db84aa117a350f56ed3623",
-          "title": "人工智能并没有取代 SRE，而是降低了他们的技能 / AI isn't replacing SREs, it's deskilling them",
-          "title_zh": "人工智能并没有取代 SRE，而是降低了他们的技能",
-          "title_en": "AI isn't replacing SREs, it's deskilling them",
-          "title_original": "AI isn't replacing SREs, it's deskilling them",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50305693",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-30T15:52:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ccfc38d7a55f6ca66ff3dea4a06d1fa0aae8226c",
-          "title": "人工智能并没有取代 SRE，而是降低了他们的技能 / AI isn't replacing SREs, it's deskilling them",
-          "title_zh": "人工智能并没有取代 SRE，而是降低了他们的技能",
-          "title_en": "AI isn't replacing SREs, it's deskilling them",
-          "title_original": "AI isn't replacing SREs, it's deskilling them",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-30T15:52:18Z"
-        },
-        {
-          "id": "aa514f7cf9016c28a7db84aa117a350f56ed3623",
-          "title": "人工智能并没有取代 SRE，而是降低了他们的技能 / AI isn't replacing SREs, it's deskilling them",
-          "title_zh": "人工智能并没有取代 SRE，而是降低了他们的技能",
-          "title_en": "AI isn't replacing SREs, it's deskilling them",
-          "title_original": "AI isn't replacing SREs, it's deskilling them",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50305693",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-30T15:52:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4995,
-      "importance": 0.4995,
-      "importance_score": 0.4995,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7425,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-30T15:52:18Z",
-      "latest_at": "2026-10-30T15:52:18Z",
-      "primary_item": {
-        "id": "ccfc38d7a55f6ca66ff3dea4a06d1fa0aae8226c",
-        "title": "人工智能并没有取代 SRE，而是降低了他们的技能 / AI isn't replacing SREs, it's deskilling them",
-        "title_zh": "人工智能并没有取代 SRE，而是降低了他们的技能",
-        "title_en": "AI isn't replacing SREs, it's deskilling them",
-        "title_original": "AI isn't replacing SREs, it's deskilling them",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T12:43:42.627243Z"
-      }
-    },
-    {
-      "story_id": "story_d8de33a67bb7",
-      "title": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary / Show HN: Sketch Stadium – watch your agent play Pictionary",
-      "url": "https://sketch.wakeshift.ai/games/q5ucru",
-      "primary_url": "https://sketch.wakeshift.ai/games/q5ucru",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "02df335aa1704af20934f9f84715f3116f9a69f4",
-          "title": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary / Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "title_zh": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary",
-          "title_en": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "title_original": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sketch.wakeshift.ai/games/q5ucru",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-30T15:23:11Z"
-        },
-        {
-          "id": "1f086bf4a66a3296f1828af657f51edd215d3e5d",
-          "title": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary / Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "title_zh": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary",
-          "title_en": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "title_original": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sketch.wakeshift.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-30T15:23:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "02df335aa1704af20934f9f84715f3116f9a69f4",
-          "title": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary / Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "title_zh": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary",
-          "title_en": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "title_original": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sketch.wakeshift.ai/games/q5ucru",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-30T15:23:11Z"
-        },
-        {
-          "id": "1f086bf4a66a3296f1828af657f51edd215d3e5d",
-          "title": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary / Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "title_zh": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary",
-          "title_en": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "title_original": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sketch.wakeshift.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-30T15:23:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4985,
-      "importance": 0.4985,
-      "importance_score": 0.4985,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7373,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-30T15:23:11Z",
-      "latest_at": "2026-10-30T15:23:11Z",
-      "primary_item": {
-        "id": "02df335aa1704af20934f9f84715f3116f9a69f4",
-        "title": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary / Show HN: Sketch Stadium – watch your agent play Pictionary",
-        "title_zh": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary",
-        "title_en": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-        "title_original": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://sketch.wakeshift.ai/games/q5ucru",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T12:43:42.627243Z"
-      }
-    },
-    {
-      "story_id": "story_5c9ab191da5a",
-      "title": "思科为工程师提供无限的人工智能代币来重写遗留代码 / Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs",
-      "primary_url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "4449f28adc6082015cc57b54227df4a51a74f9da",
-          "title": "思科为工程师提供无限的人工智能代币来重写遗留代码 / Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "title_zh": "思科为工程师提供无限的人工智能代币来重写遗留代码",
-          "title_en": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "title_original": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-30T14:08:20Z"
-        },
-        {
-          "id": "eeb812ad4d2a5f92cc8a0d7407c3c3ffc5883ee0",
-          "title": "思科为工程师提供无限的人工智能代币来重写遗留代码 / Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "title_zh": "思科为工程师提供无限的人工智能代币来重写遗留代码",
-          "title_en": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "title_original": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50304122",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-30T14:08:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "4449f28adc6082015cc57b54227df4a51a74f9da",
-          "title": "思科为工程师提供无限的人工智能代币来重写遗留代码 / Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "title_zh": "思科为工程师提供无限的人工智能代币来重写遗留代码",
-          "title_en": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "title_original": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-30T14:08:20Z"
-        },
-        {
-          "id": "eeb812ad4d2a5f92cc8a0d7407c3c3ffc5883ee0",
-          "title": "思科为工程师提供无限的人工智能代币来重写遗留代码 / Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "title_zh": "思科为工程师提供无限的人工智能代币来重写遗留代码",
-          "title_en": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "title_original": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50304122",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-30T14:08:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4961,
-      "importance": 0.4961,
-      "importance_score": 0.4961,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7242,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-30T14:08:20Z",
-      "latest_at": "2026-10-30T14:08:20Z",
-      "primary_item": {
-        "id": "4449f28adc6082015cc57b54227df4a51a74f9da",
-        "title": "思科为工程师提供无限的人工智能代币来重写遗留代码 / Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-        "title_zh": "思科为工程师提供无限的人工智能代币来重写遗留代码",
-        "title_en": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-        "title_original": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T12:43:42.627243Z"
+        "scored_at": "2026-10-31T18:01:15.245232Z"
       }
     }
   ]
