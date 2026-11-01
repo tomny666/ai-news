@@ -1,20 +1,173 @@
 {
-  "generated_at": "2026-11-01T07:31:43.723453Z",
+  "generated_at": "2026-11-01T15:08:36.527786Z",
   "window_hours": 24,
   "total_items": 8,
   "items": [
     {
-      "story_id": "story_fe78a93aa7e9",
-      "title": "The AI cost of JavaScript frameworks",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
-      "primary_url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_d3473ed57e42",
+      "title": "ChatGPT 和 Codex 的使用限制将合并",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "primary_url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "source": "help.openai.com",
+      "source_name": "Buzzing",
       "sources": [
         {
+          "id": "f2b0bcbd6cc4254a62f3f7ae5c06cca10b5b0522",
+          "title": "ChatGPT 和 Codex 的使用限制将合并",
+          "title_zh": "ChatGPT 和 Codex 的使用限制将合并",
+          "title_en": null,
+          "title_original": "ChatGPT 和 Codex 的使用限制将合并",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+          "source": "help.openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T12:27:13.631000Z"
+        },
+        {
+          "id": "eafcbe69da4dfa03812a20e734473be558c8483d",
+          "title": "ChatGPT 和 Codex 的使用限制将合并 / ChatGPT and Codex usage limits merging",
+          "title_zh": "ChatGPT 和 Codex 的使用限制将合并",
+          "title_en": "ChatGPT and Codex usage limits merging",
+          "title_original": "ChatGPT and Codex usage limits merging",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T21:49:07Z"
+        },
+        {
+          "id": "4b82a17efd51b44486cb9abc366e41282375300e",
+          "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
+          "title_zh": "ChatGPT 和 Codex 使用限制合并",
+          "title_en": "ChatGPT and Codex usage limits merging",
+          "title_original": "ChatGPT and Codex usage limits merging",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50320588",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T21:49:07Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "help.openai.com"
+      ],
+      "items": [
+        {
+          "id": "f2b0bcbd6cc4254a62f3f7ae5c06cca10b5b0522",
+          "title": "ChatGPT 和 Codex 的使用限制将合并",
+          "title_zh": "ChatGPT 和 Codex 的使用限制将合并",
+          "title_en": null,
+          "title_original": "ChatGPT 和 Codex 的使用限制将合并",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+          "source": "help.openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T12:27:13.631000Z"
+        },
+        {
+          "id": "eafcbe69da4dfa03812a20e734473be558c8483d",
+          "title": "ChatGPT 和 Codex 的使用限制将合并 / ChatGPT and Codex usage limits merging",
+          "title_zh": "ChatGPT 和 Codex 的使用限制将合并",
+          "title_en": "ChatGPT and Codex usage limits merging",
+          "title_original": "ChatGPT and Codex usage limits merging",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T21:49:07Z"
+        },
+        {
+          "id": "4b82a17efd51b44486cb9abc366e41282375300e",
+          "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
+          "title_zh": "ChatGPT 和 Codex 使用限制合并",
+          "title_en": "ChatGPT and Codex usage limits merging",
+          "title_original": "ChatGPT and Codex usage limits merging",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50320588",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T21:49:07Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5639,
+      "importance": 0.5639,
+      "importance_score": 0.5639,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9619,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T21:49:07Z",
+      "latest_at": "2026-11-01T12:27:13.631000Z",
+      "primary_item": {
+        "id": "f2b0bcbd6cc4254a62f3f7ae5c06cca10b5b0522",
+        "title": "ChatGPT 和 Codex 的使用限制将合并",
+        "title_zh": "ChatGPT 和 Codex 的使用限制将合并",
+        "title_en": null,
+        "title_original": "ChatGPT 和 Codex 的使用限制将合并",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+        "source": "help.openai.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T15:09:36.238429Z"
+      }
+    },
+    {
+      "story_id": "story_fe78a93aa7e9",
+      "title": "JavaScript 框架的 AI 成本",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+      "primary_url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+      "source": "nolanlawson.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4744caf14833b60d5cf093e7d7a994936da403b3",
+          "title": "JavaScript 框架的 AI 成本",
+          "title_zh": "JavaScript 框架的 AI 成本",
+          "title_en": null,
+          "title_original": "JavaScript 框架的 AI 成本",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+          "source": "nolanlawson.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T12:27:13.785000Z"
+        },
+        {
           "id": "4be52ae5d2d921ea14c314522926b5bc8638a606",
-          "title": "The AI cost of JavaScript frameworks",
-          "title_zh": null,
+          "title": "JavaScript 框架的 AI 成本 / The AI cost of JavaScript frameworks",
+          "title_zh": "JavaScript 框架的 AI 成本",
           "title_en": "The AI cost of JavaScript frameworks",
           "title_original": "The AI cost of JavaScript frameworks",
           "summary": null,
@@ -27,8 +180,8 @@
         },
         {
           "id": "65f9daa1ba8b9ac866c042942145e04ba51a14be",
-          "title": "The AI cost of JavaScript frameworks",
-          "title_zh": null,
+          "title": "JavaScript 框架的人工智能成本 / The AI cost of JavaScript frameworks",
+          "title_zh": "JavaScript 框架的人工智能成本",
           "title_en": "The AI cost of JavaScript frameworks",
           "title_original": "The AI cost of JavaScript frameworks",
           "summary": null,
@@ -38,6 +191,131 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-11-01T06:06:19Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "nolanlawson.com"
+      ],
+      "items": [
+        {
+          "id": "4744caf14833b60d5cf093e7d7a994936da403b3",
+          "title": "JavaScript 框架的 AI 成本",
+          "title_zh": "JavaScript 框架的 AI 成本",
+          "title_en": null,
+          "title_original": "JavaScript 框架的 AI 成本",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+          "source": "nolanlawson.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T12:27:13.785000Z"
+        },
+        {
+          "id": "4be52ae5d2d921ea14c314522926b5bc8638a606",
+          "title": "JavaScript 框架的 AI 成本 / The AI cost of JavaScript frameworks",
+          "title_zh": "JavaScript 框架的 AI 成本",
+          "title_en": "The AI cost of JavaScript frameworks",
+          "title_original": "The AI cost of JavaScript frameworks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T06:06:19Z"
+        },
+        {
+          "id": "65f9daa1ba8b9ac866c042942145e04ba51a14be",
+          "title": "JavaScript 框架的人工智能成本 / The AI cost of JavaScript frameworks",
+          "title_zh": "JavaScript 框架的人工智能成本",
+          "title_en": "The AI cost of JavaScript frameworks",
+          "title_original": "The AI cost of JavaScript frameworks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50323088",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T06:06:19Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5639,
+      "importance": 0.5639,
+      "importance_score": 0.5639,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9619,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T06:06:19Z",
+      "latest_at": "2026-11-01T12:27:13.785000Z",
+      "primary_item": {
+        "id": "4744caf14833b60d5cf093e7d7a994936da403b3",
+        "title": "JavaScript 框架的 AI 成本",
+        "title_zh": "JavaScript 框架的 AI 成本",
+        "title_en": null,
+        "title_original": "JavaScript 框架的 AI 成本",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+        "source": "nolanlawson.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T15:09:36.238429Z"
+      }
+    },
+    {
+      "story_id": "story_9c5748773442",
+      "title": "《我的世界》中的 AI 特工群未能建立文明，淹没在官僚主义中 / AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "0398f931134eab193bfcff9a02feeab826a1d7b0",
+          "title": "《我的世界》中的 AI 特工群未能建立文明，淹没在官僚主义中 / AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+          "title_zh": "《我的世界》中的 AI 特工群未能建立文明，淹没在官僚主义中",
+          "title_en": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+          "title_original": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T13:47:24Z"
+        },
+        {
+          "id": "aff9c4695c51ff8fd303962bbb0aa1ee3b32c58c",
+          "title": "《我的世界》中的 AI 特工群未能建立文明，淹没在官僚主义中 / AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+          "title_zh": "《我的世界》中的 AI 特工群未能建立文明，淹没在官僚主义中",
+          "title_en": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+          "title_original": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50325662",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T13:47:24Z"
         }
       ],
       "source_count": 2,
@@ -47,62 +325,62 @@
       ],
       "items": [
         {
-          "id": "4be52ae5d2d921ea14c314522926b5bc8638a606",
-          "title": "The AI cost of JavaScript frameworks",
-          "title_zh": null,
-          "title_en": "The AI cost of JavaScript frameworks",
-          "title_original": "The AI cost of JavaScript frameworks",
+          "id": "0398f931134eab193bfcff9a02feeab826a1d7b0",
+          "title": "《我的世界》中的 AI 特工群未能建立文明，淹没在官僚主义中 / AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+          "title_zh": "《我的世界》中的 AI 特工群未能建立文明，淹没在官僚主义中",
+          "title_en": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+          "title_original": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-01T06:06:19Z"
+          "published_at": "2026-11-01T13:47:24Z"
         },
         {
-          "id": "65f9daa1ba8b9ac866c042942145e04ba51a14be",
-          "title": "The AI cost of JavaScript frameworks",
-          "title_zh": null,
-          "title_en": "The AI cost of JavaScript frameworks",
-          "title_original": "The AI cost of JavaScript frameworks",
+          "id": "aff9c4695c51ff8fd303962bbb0aa1ee3b32c58c",
+          "title": "《我的世界》中的 AI 特工群未能建立文明，淹没在官僚主义中 / AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+          "title_zh": "《我的世界》中的 AI 特工群未能建立文明，淹没在官僚主义中",
+          "title_en": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+          "title_original": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50323088",
+          "url": "https://news.ycombinator.com/item?id=50325662",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-01T06:06:19Z"
+          "published_at": "2026-11-01T13:47:24Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9797,
+        "recency": 0.9806,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-01T06:06:19Z",
-      "latest_at": "2026-11-01T06:06:19Z",
+      "earliest_at": "2026-11-01T13:47:24Z",
+      "latest_at": "2026-11-01T13:47:24Z",
       "primary_item": {
-        "id": "4be52ae5d2d921ea14c314522926b5bc8638a606",
-        "title": "The AI cost of JavaScript frameworks",
-        "title_zh": null,
-        "title_en": "The AI cost of JavaScript frameworks",
-        "title_original": "The AI cost of JavaScript frameworks",
+        "id": "0398f931134eab193bfcff9a02feeab826a1d7b0",
+        "title": "《我的世界》中的 AI 特工群未能建立文明，淹没在官僚主义中 / AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+        "title_zh": "《我的世界》中的 AI 特工群未能建立文明，淹没在官僚主义中",
+        "title_en": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+        "title_original": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -110,21 +388,174 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T07:42:29.852184Z"
+        "scored_at": "2026-11-01T15:09:36.238429Z"
+      }
+    },
+    {
+      "story_id": "story_4bd396aab7ea",
+      "title": "Anthropic 会因任何涉及训练更大模型的行为而封禁用户",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "primary_url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "source": "twitter.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "91a2987dde61609a78867152fcd240df9120323e",
+          "title": "Anthropic 会因任何涉及训练更大模型的行为而封禁用户",
+          "title_zh": "Anthropic 会因任何涉及训练更大模型的行为而封禁用户",
+          "title_en": null,
+          "title_original": "Anthropic 会因任何涉及训练更大模型的行为而封禁用户",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-31T23:01:54.378000Z"
+        },
+        {
+          "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
+          "title": "Anthropic 会因任何涉及训练更大模型的行为而封禁用户 / Anthropic blocks users for anything touching training larger models",
+          "title_zh": "Anthropic 会因任何涉及训练更大模型的行为而封禁用户",
+          "title_en": "Anthropic blocks users for anything touching training larger models",
+          "title_original": "Anthropic blocks users for anything touching training larger models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T19:39:19Z"
+        },
+        {
+          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
+          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
+          "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
+          "title_en": "Anthropic blocks users for anything touching training larger models",
+          "title_original": "Anthropic blocks users for anything touching training larger models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50319358",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T19:39:19Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "twitter.com"
+      ],
+      "items": [
+        {
+          "id": "91a2987dde61609a78867152fcd240df9120323e",
+          "title": "Anthropic 会因任何涉及训练更大模型的行为而封禁用户",
+          "title_zh": "Anthropic 会因任何涉及训练更大模型的行为而封禁用户",
+          "title_en": null,
+          "title_original": "Anthropic 会因任何涉及训练更大模型的行为而封禁用户",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-31T23:01:54.378000Z"
+        },
+        {
+          "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
+          "title": "Anthropic 会因任何涉及训练更大模型的行为而封禁用户 / Anthropic blocks users for anything touching training larger models",
+          "title_zh": "Anthropic 会因任何涉及训练更大模型的行为而封禁用户",
+          "title_en": "Anthropic blocks users for anything touching training larger models",
+          "title_original": "Anthropic blocks users for anything touching training larger models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T19:39:19Z"
+        },
+        {
+          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
+          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
+          "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
+          "title_en": "Anthropic blocks users for anything touching training larger models",
+          "title_original": "Anthropic blocks users for anything touching training larger models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50319358",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T19:39:19Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7924,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T19:39:19Z",
+      "latest_at": "2026-10-31T23:01:54.378000Z",
+      "primary_item": {
+        "id": "91a2987dde61609a78867152fcd240df9120323e",
+        "title": "Anthropic 会因任何涉及训练更大模型的行为而封禁用户",
+        "title_zh": "Anthropic 会因任何涉及训练更大模型的行为而封禁用户",
+        "title_en": null,
+        "title_original": "Anthropic 会因任何涉及训练更大模型的行为而封禁用户",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+        "source": "twitter.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T15:09:36.238429Z"
       }
     },
     {
       "story_id": "story_147f50f62e45",
-      "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "title": "GPT-5.6 Sol 能在和平模式下击败《Factorio》",
       "url": "https://ryanmadden.net/gpt-56-beats-factorio",
       "primary_url": "https://ryanmadden.net/gpt-56-beats-factorio",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "source": "ryanmadden.net",
+      "source_name": "Buzzing",
       "sources": [
         {
+          "id": "d973e86815df13915f33cdabd83de5d282840167",
+          "title": "GPT-5.6 Sol 能在和平模式下击败《Factorio》",
+          "title_zh": "GPT-5.6 Sol 能在和平模式下击败《Factorio》",
+          "title_en": null,
+          "title_original": "GPT-5.6 Sol 能在和平模式下击败《Factorio》",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+          "source": "ryanmadden.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-31T21:09:38.366000Z"
+        },
+        {
           "id": "d36d681baf902d7645d93823f295c74c99c0984d",
-          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
+          "title": "GPT-5.6 Sol 能在和平模式下击败《Factorio》 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "title_zh": "GPT-5.6 Sol 能在和平模式下击败《Factorio》",
           "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
           "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
           "summary": null,
@@ -148,6 +579,241 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-31T18:50:34Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "ryanmadden.net"
+      ],
+      "items": [
+        {
+          "id": "d973e86815df13915f33cdabd83de5d282840167",
+          "title": "GPT-5.6 Sol 能在和平模式下击败《Factorio》",
+          "title_zh": "GPT-5.6 Sol 能在和平模式下击败《Factorio》",
+          "title_en": null,
+          "title_original": "GPT-5.6 Sol 能在和平模式下击败《Factorio》",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+          "source": "ryanmadden.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-31T21:09:38.366000Z"
+        },
+        {
+          "id": "d36d681baf902d7645d93823f295c74c99c0984d",
+          "title": "GPT-5.6 Sol 能在和平模式下击败《Factorio》 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "title_zh": "GPT-5.6 Sol 能在和平模式下击败《Factorio》",
+          "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T18:50:34Z"
+        },
+        {
+          "id": "2e8329eb78068adcea49f51201d6ba41f2ab907d",
+          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
+          "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50318871",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T18:50:34Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5296,
+      "importance": 0.5296,
+      "importance_score": 0.5296,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7713,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T18:50:34Z",
+      "latest_at": "2026-10-31T21:09:38.366000Z",
+      "primary_item": {
+        "id": "d973e86815df13915f33cdabd83de5d282840167",
+        "title": "GPT-5.6 Sol 能在和平模式下击败《Factorio》",
+        "title_zh": "GPT-5.6 Sol 能在和平模式下击败《Factorio》",
+        "title_en": null,
+        "title_original": "GPT-5.6 Sol 能在和平模式下击败《Factorio》",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+        "source": "ryanmadden.net",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T15:09:36.238429Z"
+      }
+    },
+    {
+      "story_id": "story_57d4dd9aa0cc",
+      "title": "Anthropic 采取措施阻止 Claude 对电子游戏进行逆向工程",
+      "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+      "primary_url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+      "source": "mashable.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a6feb24a618ee3d43878eef55bbb6afe61ce3e39",
+          "title": "Anthropic 采取措施阻止 Claude 对电子游戏进行逆向工程",
+          "title_zh": "Anthropic 采取措施阻止 Claude 对电子游戏进行逆向工程",
+          "title_en": null,
+          "title_original": "Anthropic 采取措施阻止 Claude 对电子游戏进行逆向工程",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+          "source": "mashable.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T02:11:01.020000Z"
+        },
+        {
+          "id": "b483d610ee909a9208dabc37dc44e3a28a49b939",
+          "title": "Anthropic 采取措施阻止 Claude 对电子游戏进行逆向工程 / Anthropic takes steps to block Claude from reverse-engineering video games",
+          "title_zh": "Anthropic 采取措施阻止 Claude 对电子游戏进行逆向工程",
+          "title_en": "Anthropic takes steps to block Claude from reverse-engineering video games",
+          "title_original": "Anthropic takes steps to block Claude from reverse-engineering video games",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-31T21:07:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "mashable.com"
+      ],
+      "items": [
+        {
+          "id": "a6feb24a618ee3d43878eef55bbb6afe61ce3e39",
+          "title": "Anthropic 采取措施阻止 Claude 对电子游戏进行逆向工程",
+          "title_zh": "Anthropic 采取措施阻止 Claude 对电子游戏进行逆向工程",
+          "title_en": null,
+          "title_original": "Anthropic 采取措施阻止 Claude 对电子游戏进行逆向工程",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+          "source": "mashable.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T02:11:01.020000Z"
+        },
+        {
+          "id": "b483d610ee909a9208dabc37dc44e3a28a49b939",
+          "title": "Anthropic 采取措施阻止 Claude 对电子游戏进行逆向工程 / Anthropic takes steps to block Claude from reverse-engineering video games",
+          "title_zh": "Anthropic 采取措施阻止 Claude 对电子游戏进行逆向工程",
+          "title_en": "Anthropic takes steps to block Claude from reverse-engineering video games",
+          "title_original": "Anthropic takes steps to block Claude from reverse-engineering video games",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-31T21:07:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5151,
+      "importance": 0.5151,
+      "importance_score": 0.5151,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8293,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T21:07:58Z",
+      "latest_at": "2026-11-01T02:11:01.020000Z",
+      "primary_item": {
+        "id": "a6feb24a618ee3d43878eef55bbb6afe61ce3e39",
+        "title": "Anthropic 采取措施阻止 Claude 对电子游戏进行逆向工程",
+        "title_zh": "Anthropic 采取措施阻止 Claude 对电子游戏进行逆向工程",
+        "title_en": null,
+        "title_original": "Anthropic 采取措施阻止 Claude 对电子游戏进行逆向工程",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+        "source": "mashable.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T15:09:36.238429Z"
+      }
+    },
+    {
+      "story_id": "story_f4bfb4b46446",
+      "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "primary_url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "738e75433a1ed4dcaa8e3ec5e255793101262030",
+          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+          "title_zh": "AI文本水印和质量损失",
+          "title_en": "AI text watermarking and quality loss",
+          "title_original": "AI text watermarking and quality loss",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T21:50:13Z"
+        },
+        {
+          "id": "74f11109afbab8d53ec8b4ecfa5692ceff29ed42",
+          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+          "title_zh": "AI文本水印和质量损失",
+          "title_en": "AI text watermarking and quality loss",
+          "title_original": "AI text watermarking and quality loss",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50320599",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T21:50:13Z"
         }
       ],
       "source_count": 2,
@@ -157,62 +823,62 @@
       ],
       "items": [
         {
-          "id": "d36d681baf902d7645d93823f295c74c99c0984d",
-          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
-          "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "id": "738e75433a1ed4dcaa8e3ec5e255793101262030",
+          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+          "title_zh": "AI文本水印和质量损失",
+          "title_en": "AI text watermarking and quality loss",
+          "title_original": "AI text watermarking and quality loss",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-31T18:50:34Z"
+          "published_at": "2026-10-31T21:50:13Z"
         },
         {
-          "id": "2e8329eb78068adcea49f51201d6ba41f2ab907d",
-          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
-          "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "id": "74f11109afbab8d53ec8b4ecfa5692ceff29ed42",
+          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+          "title_zh": "AI文本水印和质量损失",
+          "title_en": "AI text watermarking and quality loss",
+          "title_original": "AI text watermarking and quality loss",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50318871",
+          "url": "https://news.ycombinator.com/item?id=50320599",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T18:50:34Z"
+          "published_at": "2026-10-31T21:50:13Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5157,
-      "importance": 0.5157,
-      "importance_score": 0.5157,
+      "score": 0.506,
+      "importance": 0.506,
+      "importance_score": 0.506,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8326,
+        "recency": 0.7789,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-31T18:50:34Z",
-      "latest_at": "2026-10-31T18:50:34Z",
+      "earliest_at": "2026-10-31T21:50:13Z",
+      "latest_at": "2026-10-31T21:50:13Z",
       "primary_item": {
-        "id": "d36d681baf902d7645d93823f295c74c99c0984d",
-        "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-        "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
-        "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-        "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+        "id": "738e75433a1ed4dcaa8e3ec5e255793101262030",
+        "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+        "title_zh": "AI文本水印和质量损失",
+        "title_en": "AI text watermarking and quality loss",
+        "title_original": "AI text watermarking and quality loss",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+        "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       },
@@ -220,12 +886,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T07:42:29.852184Z"
+        "scored_at": "2026-11-01T15:09:36.238429Z"
       }
     },
     {
       "story_id": "story_a8cf7a3536eb",
-      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "title": "巴西法院对在法庭备案中迅速注入的律师进行制裁 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
       "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
       "primary_url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
       "source": "Hacker News (黑客新闻)",
@@ -233,8 +899,8 @@
       "sources": [
         {
           "id": "86dac9685189f611ba8217fa9e0123727ce37172",
-          "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-          "title_zh": null,
+          "title": "巴西法院对在法庭备案中迅速注入的律师进行制裁 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "title_zh": "巴西法院对在法庭备案中迅速注入的律师进行制裁",
           "title_en": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
           "title_original": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
           "summary": null,
@@ -247,8 +913,8 @@
         },
         {
           "id": "6c813980448395c850ee21cd24719bbc76b0d4fc",
-          "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-          "title_zh": null,
+          "title": "巴西法院对在法庭备案中迅速注入的律师进行制裁 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "title_zh": "巴西法院对在法庭备案中迅速注入的律师进行制裁",
           "title_en": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
           "title_original": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
           "summary": null,
@@ -268,8 +934,8 @@
       "items": [
         {
           "id": "86dac9685189f611ba8217fa9e0123727ce37172",
-          "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-          "title_zh": null,
+          "title": "巴西法院对在法庭备案中迅速注入的律师进行制裁 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "title_zh": "巴西法院对在法庭备案中迅速注入的律师进行制裁",
           "title_en": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
           "title_original": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
           "summary": null,
@@ -282,8 +948,8 @@
         },
         {
           "id": "6c813980448395c850ee21cd24719bbc76b0d4fc",
-          "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-          "title_zh": null,
+          "title": "巴西法院对在法庭备案中迅速注入的律师进行制裁 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "title_zh": "巴西法院对在法庭备案中迅速注入的律师进行制裁",
           "title_en": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
           "title_original": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
           "summary": null,
@@ -297,15 +963,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5328,
-      "importance": 0.5328,
-      "importance_score": 0.5328,
+      "score": 0.5154,
+      "importance": 0.5154,
+      "importance_score": 0.5154,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9277,
+        "recency": 0.8311,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -316,8 +982,8 @@
       "latest_at": "2026-11-01T02:19:53Z",
       "primary_item": {
         "id": "86dac9685189f611ba8217fa9e0123727ce37172",
-        "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-        "title_zh": null,
+        "title": "巴西法院对在法庭备案中迅速注入的律师进行制裁 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+        "title_zh": "巴西法院对在法庭备案中迅速注入的律师进行制裁",
         "title_en": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
         "title_original": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
         "summary": null,
@@ -330,585 +996,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T07:42:29.852184Z"
-      }
-    },
-    {
-      "story_id": "story_f00d1511750a",
-      "title": "恶意软件使用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-      "primary_url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "eba10b3c44a3f03d2bb187901f72f10641412f4f",
-          "title": "恶意软件使用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-          "title_zh": "恶意软件使用LLM根据受害者的价值对受害者进行排名",
-          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
-          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-31T14:29:03Z"
-        },
-        {
-          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
-          "title": "恶意软件使用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-          "title_zh": "恶意软件使用LLM根据受害者的价值对受害者进行排名",
-          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
-          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50316531",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T14:29:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "eba10b3c44a3f03d2bb187901f72f10641412f4f",
-          "title": "恶意软件使用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-          "title_zh": "恶意软件使用LLM根据受害者的价值对受害者进行排名",
-          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
-          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-31T14:29:03Z"
-        },
-        {
-          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
-          "title": "恶意软件使用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-          "title_zh": "恶意软件使用LLM根据受害者的价值对受害者进行排名",
-          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
-          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50316531",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T14:29:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5065,
-      "importance": 0.5065,
-      "importance_score": 0.5065,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7818,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T14:29:03Z",
-      "latest_at": "2026-10-31T14:29:03Z",
-      "primary_item": {
-        "id": "eba10b3c44a3f03d2bb187901f72f10641412f4f",
-        "title": "恶意软件使用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-        "title_zh": "恶意软件使用LLM根据受害者的价值对受害者进行排名",
-        "title_en": "Malware uses LLMs to rank victims by how much they're worth",
-        "title_original": "Malware uses LLMs to rank victims by how much they're worth",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T07:42:29.852184Z"
-      }
-    },
-    {
-      "story_id": "story_907920e44382",
-      "title": "算一算：我们是如何接管 ChatGPT 帐户的 / Do the math: How we took over ChatGPT accounts",
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "primary_url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "8b33746b2bb7821b85d3927a406702d63e12eda9",
-          "title": "算一算：我们是如何接管 ChatGPT 帐户的 / Do the math: How we took over ChatGPT accounts",
-          "title_zh": "算一算：我们是如何接管 ChatGPT 帐户的",
-          "title_en": "Do the math: How we took over ChatGPT accounts",
-          "title_original": "Do the math: How we took over ChatGPT accounts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T10:30:11Z"
-        },
-        {
-          "id": "44b7463c3cff3ffb0426ffb964509b84d32ba725",
-          "title": "算一算：我们是如何接管 ChatGPT 帐户的 / Do the math: How we took over ChatGPT accounts",
-          "title_zh": "算一算：我们是如何接管 ChatGPT 帐户的",
-          "title_en": "Do the math: How we took over ChatGPT accounts",
-          "title_original": "Do the math: How we took over ChatGPT accounts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50314699",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T10:30:11Z"
-        },
-        {
-          "id": "934d68c05ad88dcc7c0a9b160d855a9498033dbb",
-          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
-          "title_zh": "我们接管了 ChatGPT 帐户",
-          "title_en": "We Took over ChatGPT Accounts",
-          "title_original": "We Took over ChatGPT Accounts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50314699",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T10:30:11Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8b33746b2bb7821b85d3927a406702d63e12eda9",
-          "title": "算一算：我们是如何接管 ChatGPT 帐户的 / Do the math: How we took over ChatGPT accounts",
-          "title_zh": "算一算：我们是如何接管 ChatGPT 帐户的",
-          "title_en": "Do the math: How we took over ChatGPT accounts",
-          "title_original": "Do the math: How we took over ChatGPT accounts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T10:30:11Z"
-        },
-        {
-          "id": "44b7463c3cff3ffb0426ffb964509b84d32ba725",
-          "title": "算一算：我们是如何接管 ChatGPT 帐户的 / Do the math: How we took over ChatGPT accounts",
-          "title_zh": "算一算：我们是如何接管 ChatGPT 帐户的",
-          "title_en": "Do the math: How we took over ChatGPT accounts",
-          "title_original": "Do the math: How we took over ChatGPT accounts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50314699",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T10:30:11Z"
-        },
-        {
-          "id": "934d68c05ad88dcc7c0a9b160d855a9498033dbb",
-          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
-          "title_zh": "我们接管了 ChatGPT 帐户",
-          "title_en": "We Took over ChatGPT Accounts",
-          "title_original": "We Took over ChatGPT Accounts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50314699",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T10:30:11Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5237,
-      "importance": 0.5237,
-      "importance_score": 0.5237,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7381,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T10:30:11Z",
-      "latest_at": "2026-10-31T10:30:11Z",
-      "primary_item": {
-        "id": "8b33746b2bb7821b85d3927a406702d63e12eda9",
-        "title": "算一算：我们是如何接管 ChatGPT 帐户的 / Do the math: How we took over ChatGPT accounts",
-        "title_zh": "算一算：我们是如何接管 ChatGPT 帐户的",
-        "title_en": "Do the math: How we took over ChatGPT accounts",
-        "title_original": "Do the math: How we took over ChatGPT accounts",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T07:42:29.852184Z"
-      }
-    },
-    {
-      "story_id": "story_f4bfb4b46446",
-      "title": "AI text watermarking and quality loss",
-      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-      "primary_url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "615e183ff6fa57811a3acf5a09051df96c3b8c64",
-          "title": "AI text watermarking and quality loss",
-          "title_zh": null,
-          "title_en": "AI text watermarking and quality loss",
-          "title_original": "AI text watermarking and quality loss",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T21:50:13Z"
-        },
-        {
-          "id": "74f11109afbab8d53ec8b4ecfa5692ceff29ed42",
-          "title": "AI text watermarking and quality loss",
-          "title_zh": null,
-          "title_en": "AI text watermarking and quality loss",
-          "title_original": "AI text watermarking and quality loss",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50320599",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T21:50:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "615e183ff6fa57811a3acf5a09051df96c3b8c64",
-          "title": "AI text watermarking and quality loss",
-          "title_zh": null,
-          "title_en": "AI text watermarking and quality loss",
-          "title_original": "AI text watermarking and quality loss",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T21:50:13Z"
-        },
-        {
-          "id": "74f11109afbab8d53ec8b4ecfa5692ceff29ed42",
-          "title": "AI text watermarking and quality loss",
-          "title_zh": null,
-          "title_en": "AI text watermarking and quality loss",
-          "title_original": "AI text watermarking and quality loss",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50320599",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T21:50:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8694,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T21:50:13Z",
-      "latest_at": "2026-10-31T21:50:13Z",
-      "primary_item": {
-        "id": "615e183ff6fa57811a3acf5a09051df96c3b8c64",
-        "title": "AI text watermarking and quality loss",
-        "title_zh": null,
-        "title_en": "AI text watermarking and quality loss",
-        "title_original": "AI text watermarking and quality loss",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T07:42:29.852184Z"
-      }
-    },
-    {
-      "story_id": "story_d3473ed57e42",
-      "title": "ChatGPT and Codex usage limits merging",
-      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-      "primary_url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "eafcbe69da4dfa03812a20e734473be558c8483d",
-          "title": "ChatGPT and Codex usage limits merging",
-          "title_zh": null,
-          "title_en": "ChatGPT and Codex usage limits merging",
-          "title_original": "ChatGPT and Codex usage limits merging",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T21:49:07Z"
-        },
-        {
-          "id": "4b82a17efd51b44486cb9abc366e41282375300e",
-          "title": "ChatGPT and Codex usage limits merging",
-          "title_zh": null,
-          "title_en": "ChatGPT and Codex usage limits merging",
-          "title_original": "ChatGPT and Codex usage limits merging",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50320588",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T21:49:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "eafcbe69da4dfa03812a20e734473be558c8483d",
-          "title": "ChatGPT and Codex usage limits merging",
-          "title_zh": null,
-          "title_en": "ChatGPT and Codex usage limits merging",
-          "title_original": "ChatGPT and Codex usage limits merging",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T21:49:07Z"
-        },
-        {
-          "id": "4b82a17efd51b44486cb9abc366e41282375300e",
-          "title": "ChatGPT and Codex usage limits merging",
-          "title_zh": null,
-          "title_en": "ChatGPT and Codex usage limits merging",
-          "title_original": "ChatGPT and Codex usage limits merging",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50320588",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T21:49:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5222,
-      "importance": 0.5222,
-      "importance_score": 0.5222,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8692,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T21:49:07Z",
-      "latest_at": "2026-10-31T21:49:07Z",
-      "primary_item": {
-        "id": "eafcbe69da4dfa03812a20e734473be558c8483d",
-        "title": "ChatGPT and Codex usage limits merging",
-        "title_zh": null,
-        "title_en": "ChatGPT and Codex usage limits merging",
-        "title_original": "ChatGPT and Codex usage limits merging",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T07:42:29.852184Z"
-      }
-    },
-    {
-      "story_id": "story_4bd396aab7ea",
-      "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "primary_url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
-          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-          "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
-          "title_en": "Anthropic blocks users for anything touching training larger models",
-          "title_original": "Anthropic blocks users for anything touching training larger models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T19:39:19Z"
-        },
-        {
-          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
-          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-          "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
-          "title_en": "Anthropic blocks users for anything touching training larger models",
-          "title_original": "Anthropic blocks users for anything touching training larger models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50319358",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T19:39:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
-          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-          "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
-          "title_en": "Anthropic blocks users for anything touching training larger models",
-          "title_original": "Anthropic blocks users for anything touching training larger models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T19:39:19Z"
-        },
-        {
-          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
-          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-          "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
-          "title_en": "Anthropic blocks users for anything touching training larger models",
-          "title_original": "Anthropic blocks users for anything touching training larger models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50319358",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T19:39:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5174,
-      "importance": 0.5174,
-      "importance_score": 0.5174,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8424,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T19:39:19Z",
-      "latest_at": "2026-10-31T19:39:19Z",
-      "primary_item": {
-        "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
-        "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-        "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
-        "title_en": "Anthropic blocks users for anything touching training larger models",
-        "title_original": "Anthropic blocks users for anything touching training larger models",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T07:42:29.852184Z"
+        "scored_at": "2026-11-01T15:09:36.238429Z"
       }
     }
   ]
