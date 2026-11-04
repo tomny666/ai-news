@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-11-04T09:12:10.362302Z",
+  "generated_at": "2026-11-04T17:14:54.225660Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_a5ecfede95e9",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "primary_url": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
+          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_zh": null,
+          "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T14:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
+          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_zh": null,
+          "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T14:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.845,
+      "importance": 0.845,
+      "importance_score": 0.845,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9611,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T14:30:00Z",
+      "latest_at": "2026-11-04T14:30:00Z",
+      "primary_item": {
+        "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
+        "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+        "title_zh": null,
+        "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
+        "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/openai-to-acquire-pierre",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T17:16:10.727133Z"
+      }
+    },
     {
       "story_id": "story_e2a9defc33ad",
       "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8308,
-      "importance": 0.8308,
-      "importance_score": 0.8308,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8824,
+        "recency": 0.7856,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T09:12:59.258165Z"
+        "scored_at": "2026-11-04T17:16:10.727133Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.823,
-      "importance": 0.823,
-      "importance_score": 0.823,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7943,
+        "recency": 0.7072,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,113 +249,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T09:12:59.258165Z"
+        "scored_at": "2026-11-04T17:16:10.727133Z"
       }
     },
     {
-      "story_id": "story_7ed8186b6f99",
-      "title": "使用 Google Antigravity 进行代理化学信息学 / Agentic cheminformatics with Google Antigravity",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
-      "primary_url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e8f167f9f2ef53d4b231e0af7a8c6a5895760eec",
-          "title": "使用 Google Antigravity 进行代理化学信息学 / Agentic cheminformatics with Google Antigravity",
-          "title_zh": "使用 Google Antigravity 进行代理化学信息学",
-          "title_en": "Agentic cheminformatics with Google Antigravity",
-          "title_original": "Agentic cheminformatics with Google Antigravity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T17:01:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "e8f167f9f2ef53d4b231e0af7a8c6a5895760eec",
-          "title": "使用 Google Antigravity 进行代理化学信息学 / Agentic cheminformatics with Google Antigravity",
-          "title_zh": "使用 Google Antigravity 进行代理化学信息学",
-          "title_en": "Agentic cheminformatics with Google Antigravity",
-          "title_original": "Agentic cheminformatics with Google Antigravity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T17:01:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7917,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T17:01:49Z",
-      "latest_at": "2026-11-03T17:01:49Z",
-      "primary_item": {
-        "id": "e8f167f9f2ef53d4b231e0af7a8c6a5895760eec",
-        "title": "使用 Google Antigravity 进行代理化学信息学 / Agentic cheminformatics with Google Antigravity",
-        "title_zh": "使用 Google Antigravity 进行代理化学信息学",
-        "title_en": "Agentic cheminformatics with Google Antigravity",
-        "title_original": "Agentic cheminformatics with Google Antigravity",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T09:12:59.258165Z"
-      }
-    },
-    {
-      "story_id": "story_fbd820eb18a9",
-      "title": "加速物理世界的工程 / Accelerating engineering for the physical world",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "primary_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "story_id": "story_909e1b342a31",
+      "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "primary_url": "https://openai.com/index/daybreak-red-aws-govcloud",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d13f76c3352dcac8a644589fc339a10b57268a82",
-          "title": "加速物理世界的工程 / Accelerating engineering for the physical world",
-          "title_zh": "加速物理世界的工程",
-          "title_en": "Accelerating engineering for the physical world",
-          "title_original": "Accelerating engineering for the physical world",
+          "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
+          "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+          "title_zh": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出",
+          "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T12:00:00Z"
+          "published_at": "2026-11-04T07:00:00Z"
         }
       ],
       "source_count": 1,
@@ -281,31 +281,31 @@
       ],
       "items": [
         {
-          "id": "d13f76c3352dcac8a644589fc339a10b57268a82",
-          "title": "加速物理世界的工程 / Accelerating engineering for the physical world",
-          "title_zh": "加速物理世界的工程",
-          "title_en": "Accelerating engineering for the physical world",
-          "title_original": "Accelerating engineering for the physical world",
+          "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
+          "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+          "title_zh": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出",
+          "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T12:00:00Z"
+          "published_at": "2026-11-04T07:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8045,
-      "importance": 0.8045,
-      "importance_score": 0.8045,
+      "score": 0.8332,
+      "importance": 0.8332,
+      "importance_score": 0.8332,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7363,
+        "ai_relevance": 0.94,
+        "recency": 0.8624,
         "story_heat": 0.0
       },
       "category": "official",
@@ -314,17 +314,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T12:00:00Z",
-      "latest_at": "2026-11-03T12:00:00Z",
+      "earliest_at": "2026-11-04T07:00:00Z",
+      "latest_at": "2026-11-04T07:00:00Z",
       "primary_item": {
-        "id": "d13f76c3352dcac8a644589fc339a10b57268a82",
-        "title": "加速物理世界的工程 / Accelerating engineering for the physical world",
-        "title_zh": "加速物理世界的工程",
-        "title_en": "Accelerating engineering for the physical world",
-        "title_original": "Accelerating engineering for the physical world",
+        "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
+        "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+        "title_zh": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出",
+        "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
+        "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+        "url": "https://openai.com/index/daybreak-red-aws-govcloud",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -332,90 +332,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T09:12:59.258165Z"
+        "scored_at": "2026-11-04T17:16:10.727133Z"
       }
     },
     {
-      "story_id": "story_b15c6d459b33",
-      "title": "Palette：教一个小模型用你的设计语言构建牌组 / Palette: teaching a small model to build decks in your design language",
-      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "primary_url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_2cee1d071980",
+      "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+      "url": "https://www.aibase.com/news/32089",
+      "primary_url": "https://www.aibase.com/news/32089",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "01f66537d508479155b2c066e1412153a3e6c3cc",
-          "title": "Palette：教一个小模型用你的设计语言构建牌组 / Palette: teaching a small model to build decks in your design language",
-          "title_zh": "Palette：教一个小模型用你的设计语言构建牌组",
-          "title_en": "Palette: teaching a small model to build decks in your design language",
-          "title_original": "Palette: teaching a small model to build decks in your design language",
+          "id": "5ad830cd72f917c094845028a4281a1db1a229f4",
+          "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+          "title_zh": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+          "title_en": null,
+          "title_original": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T16:35:36Z"
+          "url": "https://www.aibase.com/news/32089",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T17:14:54.225660Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "01f66537d508479155b2c066e1412153a3e6c3cc",
-          "title": "Palette：教一个小模型用你的设计语言构建牌组 / Palette: teaching a small model to build decks in your design language",
-          "title_zh": "Palette：教一个小模型用你的设计语言构建牌组",
-          "title_en": "Palette: teaching a small model to build decks in your design language",
-          "title_original": "Palette: teaching a small model to build decks in your design language",
+          "id": "5ad830cd72f917c094845028a4281a1db1a229f4",
+          "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+          "title_zh": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+          "title_en": null,
+          "title_original": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T16:35:36Z"
+          "url": "https://www.aibase.com/news/32089",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T17:14:54.225660Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8216,
-      "importance": 0.8216,
-      "importance_score": 0.8216,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7867,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T16:35:36Z",
-      "latest_at": "2026-11-03T16:35:36Z",
+      "earliest_at": "2026-11-04T17:14:54.225660Z",
+      "latest_at": "2026-11-04T17:14:54.225660Z",
       "primary_item": {
-        "id": "01f66537d508479155b2c066e1412153a3e6c3cc",
-        "title": "Palette：教一个小模型用你的设计语言构建牌组 / Palette: teaching a small model to build decks in your design language",
-        "title_zh": "Palette：教一个小模型用你的设计语言构建牌组",
-        "title_en": "Palette: teaching a small model to build decks in your design language",
-        "title_original": "Palette: teaching a small model to build decks in your design language",
+        "id": "5ad830cd72f917c094845028a4281a1db1a229f4",
+        "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+        "title_zh": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+        "title_en": null,
+        "title_original": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/32089",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T09:12:59.258165Z"
+        "scored_at": "2026-11-04T17:16:10.727133Z"
       }
     },
     {
@@ -463,15 +462,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
+      "score": 0.7972,
+      "importance": 0.7972,
+      "importance_score": 0.7972,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8312,
+        "recency": 0.7401,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +497,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T09:12:59.258165Z"
+        "scored_at": "2026-11-04T17:16:10.727133Z"
+      }
+    },
+    {
+      "story_id": "story_088b9397ab75",
+      "title": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
+      "url": "https://www.aibase.com/news/32091",
+      "primary_url": "https://www.aibase.com/news/32091",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3811967584c703c8d62335daebae484c6912011d",
+          "title": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
+          "title_zh": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
+          "title_en": null,
+          "title_original": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32091",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T17:14:54.225660Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3811967584c703c8d62335daebae484c6912011d",
+          "title": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
+          "title_zh": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
+          "title_en": null,
+          "title_original": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32091",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T17:14:54.225660Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T17:14:54.225660Z",
+      "latest_at": "2026-11-04T17:14:54.225660Z",
+      "primary_item": {
+        "id": "3811967584c703c8d62335daebae484c6912011d",
+        "title": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
+        "title_zh": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
+        "title_en": null,
+        "title_original": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32091",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T17:16:10.727133Z"
       }
     },
     {
@@ -546,21 +627,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8903,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-04T09:12:10.362302Z",
       "latest_at": "2026-11-04T09:12:10.362302Z",
@@ -580,90 +660,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T09:12:59.258165Z"
-      }
-    },
-    {
-      "story_id": "story_46598a98a79d",
-      "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-      "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-      "primary_url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
-          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-          "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
-          "title_en": "GitHub Copilot is now available in JetBrains Air",
-          "title_original": "GitHub Copilot is now available in JetBrains Air",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T15:11:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
-          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-          "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
-          "title_en": "GitHub Copilot is now available in JetBrains Air",
-          "title_original": "GitHub Copilot is now available in JetBrains Air",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T15:11:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.771,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T15:11:46Z",
-      "latest_at": "2026-11-03T15:11:46Z",
-      "primary_item": {
-        "id": "1085634cdff8720b46af752eefa5379b9834a40a",
-        "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-        "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
-        "title_en": "GitHub Copilot is now available in JetBrains Air",
-        "title_original": "GitHub Copilot is now available in JetBrains Air",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T09:12:59.258165Z"
+        "scored_at": "2026-11-04T17:16:10.727133Z"
       }
     },
     {
@@ -711,21 +708,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8903,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-04T09:12:10.362302Z",
       "latest_at": "2026-11-04T09:12:10.362302Z",
@@ -745,90 +741,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T09:12:59.258165Z"
-      }
-    },
-    {
-      "story_id": "story_6f142f0f742c",
-      "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-      "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "084cee1c34de956c65e4dc4d50a451c898018355",
-          "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-          "title_zh": "使用 GitHub REST API 查找资源的成本中心",
-          "title_en": "Look up a resource’s cost center with the GitHub REST API",
-          "title_original": "Look up a resource’s cost center with the GitHub REST API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T15:27:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "084cee1c34de956c65e4dc4d50a451c898018355",
-          "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-          "title_zh": "使用 GitHub REST API 查找资源的成本中心",
-          "title_en": "Look up a resource’s cost center with the GitHub REST API",
-          "title_original": "Look up a resource’s cost center with the GitHub REST API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T15:27:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7739,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T15:27:13Z",
-      "latest_at": "2026-11-03T15:27:13Z",
-      "primary_item": {
-        "id": "084cee1c34de956c65e4dc4d50a451c898018355",
-        "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-        "title_zh": "使用 GitHub REST API 查找资源的成本中心",
-        "title_en": "Look up a resource’s cost center with the GitHub REST API",
-        "title_original": "Look up a resource’s cost center with the GitHub REST API",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T09:12:59.258165Z"
+        "scored_at": "2026-11-04T17:16:10.727133Z"
       }
     },
     {
@@ -876,21 +789,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8903,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-04T09:12:10.362302Z",
       "latest_at": "2026-11-04T09:12:10.362302Z",
@@ -910,90 +822,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T09:12:59.258165Z"
-      }
-    },
-    {
-      "story_id": "story_4f6706e957ed",
-      "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-      "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
-      "primary_url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d614d57971cd1df8ae60519986a771e876042c89",
-          "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "title_zh": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展",
-          "title_en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "title_original": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T14:56:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d614d57971cd1df8ae60519986a771e876042c89",
-          "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "title_zh": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展",
-          "title_en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "title_original": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T14:56:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7681,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T14:56:03Z",
-      "latest_at": "2026-11-03T14:56:03Z",
-      "primary_item": {
-        "id": "d614d57971cd1df8ae60519986a771e876042c89",
-        "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-        "title_zh": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展",
-        "title_en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-        "title_original": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T09:12:59.258165Z"
+        "scored_at": "2026-11-04T17:16:10.727133Z"
       }
     },
     {
@@ -1041,21 +870,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8903,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-04T09:12:10.362302Z",
       "latest_at": "2026-11-04T09:12:10.362302Z",
@@ -1075,90 +903,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T09:12:59.258165Z"
-      }
-    },
-    {
-      "story_id": "story_456b6b3229d2",
-      "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
-      "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
-      "primary_url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "dd83561245e444032a512d5c31e40958b86264ef",
-          "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
-          "title_zh": "Dependabot 现在支持 Python 3.15",
-          "title_en": "Dependabot now supports Python 3.15",
-          "title_original": "Dependabot now supports Python 3.15",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T13:49:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "dd83561245e444032a512d5c31e40958b86264ef",
-          "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
-          "title_zh": "Dependabot 现在支持 Python 3.15",
-          "title_en": "Dependabot now supports Python 3.15",
-          "title_original": "Dependabot now supports Python 3.15",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T13:49:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7559,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T13:49:32Z",
-      "latest_at": "2026-11-03T13:49:32Z",
-      "primary_item": {
-        "id": "dd83561245e444032a512d5c31e40958b86264ef",
-        "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
-        "title_zh": "Dependabot 现在支持 Python 3.15",
-        "title_en": "Dependabot now supports Python 3.15",
-        "title_original": "Dependabot now supports Python 3.15",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T09:12:59.258165Z"
+        "scored_at": "2026-11-04T17:16:10.727133Z"
       }
     },
     {
@@ -1206,21 +951,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8903,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-04T09:12:10.362302Z",
       "latest_at": "2026-11-04T09:12:10.362302Z",
@@ -1240,171 +984,285 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T09:12:59.258165Z"
+        "scored_at": "2026-11-04T17:16:10.727133Z"
       }
     },
     {
-      "story_id": "story_fe5260413302",
-      "title": "中国开源AI凭什么火遍全球？乌镇峰会揭秘：调用量连续 27 周超越美国，成海外企业和开发者的香饽饽",
-      "url": "https://www.aibase.com/news/32074",
-      "primary_url": "https://www.aibase.com/news/32074",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_fe62fef1d184",
+      "title": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
+      "url": "https://uncracked.city",
+      "primary_url": "https://uncracked.city",
+      "source": "uncracked.city",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "89d31d778984e3de49ab5bb53f55aad042061ff4",
-          "title": "中国开源AI凭什么火遍全球？乌镇峰会揭秘：调用量连续 27 周超越美国，成海外企业和开发者的香饽饽",
-          "title_zh": "中国开源AI凭什么火遍全球？乌镇峰会揭秘：调用量连续 27 周超越美国，成海外企业和开发者的香饽饽",
+          "id": "ea4c5a644193422b17aa6629543f44839f6358e6",
+          "title": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
+          "title_zh": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
           "title_en": null,
-          "title_original": "中国开源AI凭什么火遍全球？乌镇峰会揭秘：调用量连续 27 周超越美国，成海外企业和开发者的香饽饽",
+          "title_original": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32074",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-04T09:12:10.362302Z"
+          "url": "https://uncracked.city",
+          "source": "uncracked.city",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T15:21:20.641000Z"
+        },
+        {
+          "id": "6ceeba31f807217f7dbe9c86e14cb1c7cc46d4a3",
+          "title": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人 / Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+          "title_zh": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
+          "title_en": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+          "title_original": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://uncracked.city",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-03T21:20:03Z"
+        },
+        {
+          "id": "64a6123313d1d91e35e475c4ef8052d59d9b7354",
+          "title": "Show HN: Uncracked City，侦探游戏，您可以在其中质疑LLM怀疑的谎言 / Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+          "title_zh": "Show HN: Uncracked City，侦探游戏，您可以在其中质疑LLM怀疑的谎言",
+          "title_en": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+          "title_original": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50358352",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-03T21:20:03Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "uncracked.city"
       ],
       "items": [
         {
-          "id": "89d31d778984e3de49ab5bb53f55aad042061ff4",
-          "title": "中国开源AI凭什么火遍全球？乌镇峰会揭秘：调用量连续 27 周超越美国，成海外企业和开发者的香饽饽",
-          "title_zh": "中国开源AI凭什么火遍全球？乌镇峰会揭秘：调用量连续 27 周超越美国，成海外企业和开发者的香饽饽",
+          "id": "ea4c5a644193422b17aa6629543f44839f6358e6",
+          "title": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
+          "title_zh": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
           "title_en": null,
-          "title_original": "中国开源AI凭什么火遍全球？乌镇峰会揭秘：调用量连续 27 周超越美国，成海外企业和开发者的香饽饽",
+          "title_original": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32074",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-04T09:12:10.362302Z"
+          "url": "https://uncracked.city",
+          "source": "uncracked.city",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T15:21:20.641000Z"
+        },
+        {
+          "id": "6ceeba31f807217f7dbe9c86e14cb1c7cc46d4a3",
+          "title": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人 / Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+          "title_zh": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
+          "title_en": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+          "title_original": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://uncracked.city",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-03T21:20:03Z"
+        },
+        {
+          "id": "64a6123313d1d91e35e475c4ef8052d59d9b7354",
+          "title": "Show HN: Uncracked City，侦探游戏，您可以在其中质疑LLM怀疑的谎言 / Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+          "title_zh": "Show HN: Uncracked City，侦探游戏，您可以在其中质疑LLM怀疑的谎言",
+          "title_en": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+          "title_original": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50358352",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-03T21:20:03Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5659,
+      "importance": 0.5659,
+      "importance_score": 0.5659,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.973,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-04T09:12:10.362302Z",
-      "latest_at": "2026-11-04T09:12:10.362302Z",
+      "earliest_at": "2026-11-03T21:20:03Z",
+      "latest_at": "2026-11-04T15:21:20.641000Z",
       "primary_item": {
-        "id": "89d31d778984e3de49ab5bb53f55aad042061ff4",
-        "title": "中国开源AI凭什么火遍全球？乌镇峰会揭秘：调用量连续 27 周超越美国，成海外企业和开发者的香饽饽",
-        "title_zh": "中国开源AI凭什么火遍全球？乌镇峰会揭秘：调用量连续 27 周超越美国，成海外企业和开发者的香饽饽",
+        "id": "ea4c5a644193422b17aa6629543f44839f6358e6",
+        "title": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
+        "title_zh": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
         "title_en": null,
-        "title_original": "中国开源AI凭什么火遍全球？乌镇峰会揭秘：调用量连续 27 周超越美国，成海外企业和开发者的香饽饽",
+        "title_original": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32074",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://uncracked.city",
+        "source": "uncracked.city",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T09:12:59.258165Z"
+        "scored_at": "2026-11-04T17:16:10.727133Z"
       }
     },
     {
-      "story_id": "story_ca1ba37ff72a",
-      "title": "创作者最怕的\"版权申诉\"，YouTube 用 AI 配乐一键化解",
-      "url": "https://www.aibase.com/news/32075",
-      "primary_url": "https://www.aibase.com/news/32075",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_73761f466638",
+      "title": "人工智能正迫使我们偿还40年的技术债务",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "primary_url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "source": "spectrum.ieee.org",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "24c6f307fa846b9dfdf64e43385c048b10848e82",
-          "title": "创作者最怕的\"版权申诉\"，YouTube 用 AI 配乐一键化解",
-          "title_zh": "创作者最怕的\"版权申诉\"，YouTube 用 AI 配乐一键化解",
+          "id": "62b2d59afbeb268e0ba276277eed31188601add7",
+          "title": "人工智能正迫使我们偿还40年的技术债务",
+          "title_zh": "人工智能正迫使我们偿还40年的技术债务",
           "title_en": null,
-          "title_original": "创作者最怕的\"版权申诉\"，YouTube 用 AI 配乐一键化解",
+          "title_original": "人工智能正迫使我们偿还40年的技术债务",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32075",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-04T09:12:10.362302Z"
+          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T15:21:22.120000Z"
+        },
+        {
+          "id": "6eac2d5740e9b687f718cc245fbf2cf9410a333a",
+          "title": "人工智能正迫使我们偿还40年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
+          "title_zh": "人工智能正迫使我们偿还40年的技术债务",
+          "title_en": "AI is forcing us to pay off 40 years of technical debt",
+          "title_original": "AI is forcing us to pay off 40 years of technical debt",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T11:52:17Z"
+        },
+        {
+          "id": "92ada4a5d68578102017b863d8a2e24934223fac",
+          "title": "人工智能正在迫使我们偿还 40 年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
+          "title_zh": "人工智能正在迫使我们偿还 40 年的技术债务",
+          "title_en": "AI is forcing us to pay off 40 years of technical debt",
+          "title_original": "AI is forcing us to pay off 40 years of technical debt",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50364336",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T11:52:17Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "spectrum.ieee.org"
       ],
       "items": [
         {
-          "id": "24c6f307fa846b9dfdf64e43385c048b10848e82",
-          "title": "创作者最怕的\"版权申诉\"，YouTube 用 AI 配乐一键化解",
-          "title_zh": "创作者最怕的\"版权申诉\"，YouTube 用 AI 配乐一键化解",
+          "id": "62b2d59afbeb268e0ba276277eed31188601add7",
+          "title": "人工智能正迫使我们偿还40年的技术债务",
+          "title_zh": "人工智能正迫使我们偿还40年的技术债务",
           "title_en": null,
-          "title_original": "创作者最怕的\"版权申诉\"，YouTube 用 AI 配乐一键化解",
+          "title_original": "人工智能正迫使我们偿还40年的技术债务",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32075",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-04T09:12:10.362302Z"
+          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T15:21:22.120000Z"
+        },
+        {
+          "id": "6eac2d5740e9b687f718cc245fbf2cf9410a333a",
+          "title": "人工智能正迫使我们偿还40年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
+          "title_zh": "人工智能正迫使我们偿还40年的技术债务",
+          "title_en": "AI is forcing us to pay off 40 years of technical debt",
+          "title_original": "AI is forcing us to pay off 40 years of technical debt",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T11:52:17Z"
+        },
+        {
+          "id": "92ada4a5d68578102017b863d8a2e24934223fac",
+          "title": "人工智能正在迫使我们偿还 40 年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
+          "title_zh": "人工智能正在迫使我们偿还 40 年的技术债务",
+          "title_en": "AI is forcing us to pay off 40 years of technical debt",
+          "title_original": "AI is forcing us to pay off 40 years of technical debt",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50364336",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T11:52:17Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5659,
+      "importance": 0.5659,
+      "importance_score": 0.5659,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.973,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-04T09:12:10.362302Z",
-      "latest_at": "2026-11-04T09:12:10.362302Z",
+      "earliest_at": "2026-11-04T11:52:17Z",
+      "latest_at": "2026-11-04T15:21:22.120000Z",
       "primary_item": {
-        "id": "24c6f307fa846b9dfdf64e43385c048b10848e82",
-        "title": "创作者最怕的\"版权申诉\"，YouTube 用 AI 配乐一键化解",
-        "title_zh": "创作者最怕的\"版权申诉\"，YouTube 用 AI 配乐一键化解",
+        "id": "62b2d59afbeb268e0ba276277eed31188601add7",
+        "title": "人工智能正迫使我们偿还40年的技术债务",
+        "title_zh": "人工智能正迫使我们偿还40年的技术债务",
         "title_en": null,
-        "title_original": "创作者最怕的\"版权申诉\"，YouTube 用 AI 配乐一键化解",
+        "title_original": "人工智能正迫使我们偿还40年的技术债务",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32075",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+        "source": "spectrum.ieee.org",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T09:12:59.258165Z"
+        "scored_at": "2026-11-04T17:16:10.727133Z"
       }
     },
     {
@@ -1539,15 +1397,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5817,
-      "importance": 0.5817,
-      "importance_score": 0.5817,
+      "score": 0.5635,
+      "importance": 0.5635,
+      "importance_score": 0.5635,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9214,
+        "recency": 0.8204,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1572,194 +1430,466 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T09:12:59.258165Z"
+        "scored_at": "2026-11-04T17:16:10.727133Z"
       }
     },
     {
-      "story_id": "story_a8b082ecc7e6",
-      "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "primary_url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "source": "www.nytimes.com",
-      "source_name": "Buzzing",
+      "story_id": "story_34f5bf26cd71",
+      "title": "让用户信任自己的 MCP 客户端，而不打开网络钓鱼漏洞 / Letting users trust their own MCP clients, without opening a phishing hole",
+      "url": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
+      "primary_url": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "54f3809efad9f83b5601c20b5c2750327a51afb9",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_en": null,
-          "title_original": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+          "id": "eccf71b9bbe76df72131db4252667aaa9199bbec",
+          "title": "让用户信任自己的 MCP 客户端，而不打开网络钓鱼漏洞 / Letting users trust their own MCP clients, without opening a phishing hole",
+          "title_zh": "让用户信任自己的 MCP 客户端，而不打开网络钓鱼漏洞",
+          "title_en": "Letting users trust their own MCP clients, without opening a phishing hole",
+          "title_original": "Letting users trust their own MCP clients, without opening a phishing hole",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-03T17:14:02.313000Z"
+          "url": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T15:30:57Z"
         },
         {
-          "id": "7f7c792a615f6894c2ed7cc120b18d34beac47c6",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google Will Turn Off Search for Schools That Reject A.I.",
-          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_en": "Google Will Turn Off Search for Schools That Reject A.I.",
-          "title_original": "Google Will Turn Off Search for Schools That Reject A.I.",
+          "id": "488b7a8686ff058675a89f803cf54418a5a6ae97",
+          "title": "让用户信任自己的 MCP 客户端，而不打开网络钓鱼漏洞 / Letting users trust their own MCP clients, without opening a phishing hole",
+          "title_zh": "让用户信任自己的 MCP 客户端，而不打开网络钓鱼漏洞",
+          "title_en": "Letting users trust their own MCP clients, without opening a phishing hole",
+          "title_original": "Letting users trust their own MCP clients, without opening a phishing hole",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-03T17:13:03Z"
-        },
-        {
-          "id": "6a0100663a47d31e40afc5770af45b0599ce760b",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google will turn off search for schools that reject AI",
-          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_en": "Google will turn off search for schools that reject AI",
-          "title_original": "Google will turn off search for schools that reject AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-03T15:25:47Z"
-        },
-        {
-          "id": "65f22fd40d251d834b746a6bdcead604327fec02",
-          "title": "谷歌将关闭对拒绝人工智能的学校的搜索 / Google will turn off search for schools that reject AI",
-          "title_zh": "谷歌将关闭对拒绝人工智能的学校的搜索",
-          "title_en": "Google will turn off search for schools that reject AI",
-          "title_original": "Google will turn off search for schools that reject AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50353192",
+          "url": "https://news.ycombinator.com/item?id=50367004",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-03T15:25:47Z"
+          "published_at": "2026-11-04T15:30:57Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "New York Times",
-        "hackernews",
-        "www.nytimes.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "54f3809efad9f83b5601c20b5c2750327a51afb9",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_en": null,
-          "title_original": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+          "id": "eccf71b9bbe76df72131db4252667aaa9199bbec",
+          "title": "让用户信任自己的 MCP 客户端，而不打开网络钓鱼漏洞 / Letting users trust their own MCP clients, without opening a phishing hole",
+          "title_zh": "让用户信任自己的 MCP 客户端，而不打开网络钓鱼漏洞",
+          "title_en": "Letting users trust their own MCP clients, without opening a phishing hole",
+          "title_original": "Letting users trust their own MCP clients, without opening a phishing hole",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-03T17:14:02.313000Z"
+          "url": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T15:30:57Z"
         },
         {
-          "id": "7f7c792a615f6894c2ed7cc120b18d34beac47c6",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google Will Turn Off Search for Schools That Reject A.I.",
-          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_en": "Google Will Turn Off Search for Schools That Reject A.I.",
-          "title_original": "Google Will Turn Off Search for Schools That Reject A.I.",
+          "id": "488b7a8686ff058675a89f803cf54418a5a6ae97",
+          "title": "让用户信任自己的 MCP 客户端，而不打开网络钓鱼漏洞 / Letting users trust their own MCP clients, without opening a phishing hole",
+          "title_zh": "让用户信任自己的 MCP 客户端，而不打开网络钓鱼漏洞",
+          "title_en": "Letting users trust their own MCP clients, without opening a phishing hole",
+          "title_original": "Letting users trust their own MCP clients, without opening a phishing hole",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-03T17:13:03Z"
-        },
-        {
-          "id": "6a0100663a47d31e40afc5770af45b0599ce760b",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google will turn off search for schools that reject AI",
-          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_en": "Google will turn off search for schools that reject AI",
-          "title_original": "Google will turn off search for schools that reject AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-03T15:25:47Z"
-        },
-        {
-          "id": "65f22fd40d251d834b746a6bdcead604327fec02",
-          "title": "谷歌将关闭对拒绝人工智能的学校的搜索 / Google will turn off search for schools that reject AI",
-          "title_zh": "谷歌将关闭对拒绝人工智能的学校的搜索",
-          "title_en": "Google will turn off search for schools that reject AI",
-          "title_original": "Google will turn off search for schools that reject AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50353192",
+          "url": "https://news.ycombinator.com/item?id=50367004",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-03T15:25:47Z"
+          "published_at": "2026-11-04T15:30:57Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5587,
-      "importance": 0.5587,
-      "importance_score": 0.5587,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5414,
+      "importance": 0.5414,
+      "importance_score": 0.5414,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7941,
-        "story_heat": 0.75
+        "recency": 0.9753,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-03T15:25:47Z",
-      "latest_at": "2026-11-03T17:14:02.313000Z",
+      "earliest_at": "2026-11-04T15:30:57Z",
+      "latest_at": "2026-11-04T15:30:57Z",
       "primary_item": {
-        "id": "54f3809efad9f83b5601c20b5c2750327a51afb9",
-        "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-        "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-        "title_en": null,
-        "title_original": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+        "id": "eccf71b9bbe76df72131db4252667aaa9199bbec",
+        "title": "让用户信任自己的 MCP 客户端，而不打开网络钓鱼漏洞 / Letting users trust their own MCP clients, without opening a phishing hole",
+        "title_zh": "让用户信任自己的 MCP 客户端，而不打开网络钓鱼漏洞",
+        "title_en": "Letting users trust their own MCP clients, without opening a phishing hole",
+        "title_original": "Letting users trust their own MCP clients, without opening a phishing hole",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-        "source": "www.nytimes.com",
+        "url": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T17:16:10.727133Z"
+      }
+    },
+    {
+      "story_id": "story_e4cc0fd5206e",
+      "title": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "primary_url": "https://news.ycombinator.com/item?id=50363461",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "527420013f2664c149de05b7de7135de19cf1869",
+          "title": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
+          "title_zh": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
+          "title_en": null,
+          "title_original": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50363461",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T15:21:22.113000Z"
+        },
+        {
+          "id": "99e1c8378b6bf3002726be8be11a80b9cb143933",
+          "title": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外 / Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+          "title_zh": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
+          "title_en": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+          "title_original": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50363461",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T10:10:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "527420013f2664c149de05b7de7135de19cf1869",
+          "title": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
+          "title_zh": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
+          "title_en": null,
+          "title_original": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50363461",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T15:21:22.113000Z"
+        },
+        {
+          "id": "99e1c8378b6bf3002726be8be11a80b9cb143933",
+          "title": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外 / Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+          "title_zh": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
+          "title_en": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+          "title_original": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50363461",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T10:10:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.973,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T10:10:27Z",
+      "latest_at": "2026-11-04T15:21:22.113000Z",
+      "primary_item": {
+        "id": "527420013f2664c149de05b7de7135de19cf1869",
+        "title": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
+        "title_zh": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
+        "title_en": null,
+        "title_original": "Tell HN: Gemini 会根据聊天记录进行训练，订阅用户（个人账户）也不例外",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=50363461",
+        "source": "news.ycombinator.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T09:12:59.258165Z"
+        "scored_at": "2026-11-04T17:16:10.727133Z"
       }
     },
     {
-      "story_id": "story_5f6ae507519e",
-      "title": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
-      "url": "https://www.aibase.com/news/32082",
-      "primary_url": "https://www.aibase.com/news/32082",
+      "story_id": "story_9deeabc8b9a5",
+      "title": "在 Linux 系统上，Nvidia RTX Spark 加密固件将推理速度降至 35%",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "primary_url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "source": "www.mindstudio.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "653fc6a5d9f48326596a363f4aed950aad68b272",
+          "title": "在 Linux 系统上，Nvidia RTX Spark 加密固件将推理速度降至 35%",
+          "title_zh": "在 Linux 系统上，Nvidia RTX Spark 加密固件将推理速度降至 35%",
+          "title_en": null,
+          "title_original": "在 Linux 系统上，Nvidia RTX Spark 加密固件将推理速度降至 35%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+          "source": "www.mindstudio.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T15:21:22.037000Z"
+        },
+        {
+          "id": "2774e07977d227c0d26a8074e97532d2d3fa5568",
+          "title": "在 Linux 系统上，Nvidia RTX Spark 加密固件将推理速度降至 35% / Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+          "title_zh": "在 Linux 系统上，Nvidia RTX Spark 加密固件将推理速度降至 35%",
+          "title_en": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+          "title_original": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T08:46:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.mindstudio.ai"
+      ],
+      "items": [
+        {
+          "id": "653fc6a5d9f48326596a363f4aed950aad68b272",
+          "title": "在 Linux 系统上，Nvidia RTX Spark 加密固件将推理速度降至 35%",
+          "title_zh": "在 Linux 系统上，Nvidia RTX Spark 加密固件将推理速度降至 35%",
+          "title_en": null,
+          "title_original": "在 Linux 系统上，Nvidia RTX Spark 加密固件将推理速度降至 35%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+          "source": "www.mindstudio.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T15:21:22.037000Z"
+        },
+        {
+          "id": "2774e07977d227c0d26a8074e97532d2d3fa5568",
+          "title": "在 Linux 系统上，Nvidia RTX Spark 加密固件将推理速度降至 35% / Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+          "title_zh": "在 Linux 系统上，Nvidia RTX Spark 加密固件将推理速度降至 35%",
+          "title_en": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+          "title_original": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T08:46:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.973,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T08:46:29Z",
+      "latest_at": "2026-11-04T15:21:22.037000Z",
+      "primary_item": {
+        "id": "653fc6a5d9f48326596a363f4aed950aad68b272",
+        "title": "在 Linux 系统上，Nvidia RTX Spark 加密固件将推理速度降至 35%",
+        "title_zh": "在 Linux 系统上，Nvidia RTX Spark 加密固件将推理速度降至 35%",
+        "title_en": null,
+        "title_original": "在 Linux 系统上，Nvidia RTX Spark 加密固件将推理速度降至 35%",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+        "source": "www.mindstudio.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T17:16:10.727133Z"
+      }
+    },
+    {
+      "story_id": "story_c5e2969ff054",
+      "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "primary_url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "source": "www.theguardian.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b61531a3c9ad67272d41d99122f6fca3fa90824f",
+          "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
+          "title_zh": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
+          "title_en": null,
+          "title_original": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T15:21:22.116000Z"
+        },
+        {
+          "id": "121821ef35afed6be6bcc88fb4429f668b8ed62d",
+          "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好 / Geoffrey Hinton: it might turn out we were better off without AI",
+          "title_zh": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
+          "title_en": "Geoffrey Hinton: it might turn out we were better off without AI",
+          "title_original": "Geoffrey Hinton: it might turn out we were better off without AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-04T10:23:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.theguardian.com"
+      ],
+      "items": [
+        {
+          "id": "b61531a3c9ad67272d41d99122f6fca3fa90824f",
+          "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
+          "title_zh": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
+          "title_en": null,
+          "title_original": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T15:21:22.116000Z"
+        },
+        {
+          "id": "121821ef35afed6be6bcc88fb4429f668b8ed62d",
+          "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好 / Geoffrey Hinton: it might turn out we were better off without AI",
+          "title_zh": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
+          "title_en": "Geoffrey Hinton: it might turn out we were better off without AI",
+          "title_original": "Geoffrey Hinton: it might turn out we were better off without AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-04T10:23:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.973,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T10:23:34Z",
+      "latest_at": "2026-11-04T15:21:22.116000Z",
+      "primary_item": {
+        "id": "b61531a3c9ad67272d41d99122f6fca3fa90824f",
+        "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
+        "title_zh": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
+        "title_en": null,
+        "title_original": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+        "source": "www.theguardian.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T17:16:10.727133Z"
+      }
+    },
+    {
+      "story_id": "story_fe5260413302",
+      "title": "中国开源AI凭什么火遍全球？乌镇峰会揭秘：调用量连续 27 周超越美国，成海外企业和开发者的香饽饽",
+      "url": "https://www.aibase.com/news/32074",
+      "primary_url": "https://www.aibase.com/news/32074",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b28a9cfc8e6305ff4790828343e96aff9cf318bd",
-          "title": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
-          "title_zh": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
+          "id": "89d31d778984e3de49ab5bb53f55aad042061ff4",
+          "title": "中国开源AI凭什么火遍全球？乌镇峰会揭秘：调用量连续 27 周超越美国，成海外企业和开发者的香饽饽",
+          "title_zh": "中国开源AI凭什么火遍全球？乌镇峰会揭秘：调用量连续 27 周超越美国，成海外企业和开发者的香饽饽",
           "title_en": null,
-          "title_original": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
+          "title_original": "中国开源AI凭什么火遍全球？乌镇峰会揭秘：调用量连续 27 周超越美国，成海外企业和开发者的香饽饽",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32082",
+          "url": "https://www.aibase.com/news/32074",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1772,14 +1902,14 @@
       ],
       "items": [
         {
-          "id": "b28a9cfc8e6305ff4790828343e96aff9cf318bd",
-          "title": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
-          "title_zh": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
+          "id": "89d31d778984e3de49ab5bb53f55aad042061ff4",
+          "title": "中国开源AI凭什么火遍全球？乌镇峰会揭秘：调用量连续 27 周超越美国，成海外企业和开发者的香饽饽",
+          "title_zh": "中国开源AI凭什么火遍全球？乌镇峰会揭秘：调用量连续 27 周超越美国，成海外企业和开发者的香饽饽",
           "title_en": null,
-          "title_original": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
+          "title_original": "中国开源AI凭什么火遍全球？乌镇峰会揭秘：调用量连续 27 周超越美国，成海外企业和开发者的香饽饽",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32082",
+          "url": "https://www.aibase.com/news/32074",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1788,33 +1918,32 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8903,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-04T09:12:10.362302Z",
       "latest_at": "2026-11-04T09:12:10.362302Z",
       "primary_item": {
-        "id": "b28a9cfc8e6305ff4790828343e96aff9cf318bd",
-        "title": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
-        "title_zh": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
+        "id": "89d31d778984e3de49ab5bb53f55aad042061ff4",
+        "title": "中国开源AI凭什么火遍全球？乌镇峰会揭秘：调用量连续 27 周超越美国，成海外企业和开发者的香饽饽",
+        "title_zh": "中国开源AI凭什么火遍全球？乌镇峰会揭秘：调用量连续 27 周超越美国，成海外企业和开发者的香饽饽",
         "title_en": null,
-        "title_original": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
+        "title_original": "中国开源AI凭什么火遍全球？乌镇峰会揭秘：调用量连续 27 周超越美国，成海外企业和开发者的香饽饽",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32082",
+        "url": "https://www.aibase.com/news/32074",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1822,7 +1951,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T09:12:59.258165Z"
+        "scored_at": "2026-11-04T17:16:10.727133Z"
       }
     }
   ]
