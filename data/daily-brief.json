@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T03:29:38.325755Z",
+  "generated_at": "2026-11-05T12:20:20.859918Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -163,15 +163,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.9212,
-      "importance": 0.9212,
-      "importance_score": 0.9212,
+      "score": 0.9033,
+      "importance": 0.9033,
+      "importance_score": 0.9033,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8289,
+        "recency": 0.7295,
         "story_heat": 1.0
       },
       "category": "official",
@@ -199,30 +199,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T03:42:34.492161Z"
+        "scored_at": "2026-11-05T12:21:20.650309Z"
       }
     },
     {
-      "story_id": "story_a1cac76551fa",
-      "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "story_id": "story_e4f862191cfe",
+      "title": "仔细观察声子 TTS。推出领先基准的高质量设备语音。 / A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "primary_url": "https://huggingface.co/blog/phonon-tts",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
-          "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-          "title_zh": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段",
-          "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-          "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "id": "69ff2c127ffefbc2ab4bc6dd4e0baa5949100cc2",
+          "title": "仔细观察声子 TTS。推出领先基准的高质量设备语音。 / A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+          "title_zh": "仔细观察声子 TTS。推出领先基准的高质量设备语音。",
+          "title_en": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+          "title_original": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "url": "https://huggingface.co/blog/phonon-tts",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-04T17:50:10Z"
+          "published_at": "2026-11-05T00:00:00Z"
         }
       ],
       "source_count": 1,
@@ -231,18 +231,18 @@
       ],
       "items": [
         {
-          "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
-          "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-          "title_zh": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段",
-          "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-          "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "id": "69ff2c127ffefbc2ab4bc6dd4e0baa5949100cc2",
+          "title": "仔细观察声子 TTS。推出领先基准的高质量设备语音。 / A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+          "title_zh": "仔细观察声子 TTS。推出领先基准的高质量设备语音。",
+          "title_en": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+          "title_original": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "url": "https://huggingface.co/blog/phonon-tts",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-04T17:50:10Z"
+          "published_at": "2026-11-05T00:00:00Z"
         }
       ],
       "item_count": 1,
@@ -254,8 +254,8 @@
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8698,
+        "ai_relevance": 0.98,
+        "recency": 0.8368,
         "story_heat": 0.0
       },
       "category": "official",
@@ -264,17 +264,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-04T17:50:10Z",
-      "latest_at": "2026-11-04T17:50:10Z",
+      "earliest_at": "2026-11-05T00:00:00Z",
+      "latest_at": "2026-11-05T00:00:00Z",
       "primary_item": {
-        "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
-        "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-        "title_zh": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段",
-        "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-        "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+        "id": "69ff2c127ffefbc2ab4bc6dd4e0baa5949100cc2",
+        "title": "仔细观察声子 TTS。推出领先基准的高质量设备语音。 / A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+        "title_zh": "仔细观察声子 TTS。推出领先基准的高质量设备语音。",
+        "title_en": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+        "title_original": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+        "url": "https://huggingface.co/blog/phonon-tts",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -282,7 +282,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T03:42:34.492161Z"
+        "scored_at": "2026-11-05T12:21:20.650309Z"
       }
     },
     {
@@ -330,15 +330,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8316,
-      "importance": 0.8316,
-      "importance_score": 0.8316,
+      "score": 0.8125,
+      "importance": 0.8125,
+      "importance_score": 0.8125,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8868,
+        "recency": 0.7805,
         "story_heat": 0.0
       },
       "category": "official",
@@ -365,112 +365,82 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T03:42:34.492161Z"
+        "scored_at": "2026-11-05T12:21:20.650309Z"
       }
     },
     {
-      "story_id": "story_f06268fdc285",
-      "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "primary_url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "story_id": "story_44fc9c8ae05c",
+      "title": "为负责任的人工智能基础设施设定新标准 / Setting a new standard for responsible AI infrastructure",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "primary_url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
-          "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
-          "title_zh": "通往root的路径少了1000条简体中文（大陆）",
-          "title_en": "A thousand fewer paths to root",
-          "title_original": "A thousand fewer paths to root",
+          "id": "0d20fd66080c6b3e00759f5b6deef3ed7a4101b7",
+          "title": "为负责任的人工智能基础设施设定新标准 / Setting a new standard for responsible AI infrastructure",
+          "title_zh": "为负责任的人工智能基础设施设定新标准",
+          "title_en": "Setting a new standard for responsible AI infrastructure",
+          "title_original": "Setting a new standard for responsible AI infrastructure",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-04T08:00:00Z"
-        },
-        {
-          "id": "aa228762a9fff3cb54547c4b48a689f9c48de331",
-          "title": "通往root的路径少了1000条简体中文（大陆）",
-          "title_zh": "通往root的路径少了1000条简体中文（大陆）",
-          "title_en": null,
-          "title_original": "通往root的路径少了1000条简体中文（大陆）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-05T02:01:04.884000Z"
+          "published_at": "2026-11-05T02:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "openai.com"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
-          "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
-          "title_zh": "通往root的路径少了1000条简体中文（大陆）",
-          "title_en": "A thousand fewer paths to root",
-          "title_original": "A thousand fewer paths to root",
+          "id": "0d20fd66080c6b3e00759f5b6deef3ed7a4101b7",
+          "title": "为负责任的人工智能基础设施设定新标准 / Setting a new standard for responsible AI infrastructure",
+          "title_zh": "为负责任的人工智能基础设施设定新标准",
+          "title_en": "Setting a new standard for responsible AI infrastructure",
+          "title_original": "Setting a new standard for responsible AI infrastructure",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-04T08:00:00Z"
-        },
-        {
-          "id": "aa228762a9fff3cb54547c4b48a689f9c48de331",
-          "title": "通往root的路径少了1000条简体中文（大陆）",
-          "title_zh": "通往root的路径少了1000条简体中文（大陆）",
-          "title_en": null,
-          "title_original": "通往root的路径少了1000条简体中文（大陆）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-05T02:01:04.884000Z"
+          "published_at": "2026-11-05T02:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8328,
-      "importance": 0.8328,
-      "importance_score": 0.8328,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.827,
+      "importance": 0.827,
+      "importance_score": 0.827,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7546,
-        "story_heat": 0.25
+        "recency": 0.8613,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-04T08:00:00Z",
-      "latest_at": "2026-11-05T02:01:04.884000Z",
+      "earliest_at": "2026-11-05T02:00:00Z",
+      "latest_at": "2026-11-05T02:00:00Z",
       "primary_item": {
-        "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
-        "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
-        "title_zh": "通往root的路径少了1000条简体中文（大陆）",
-        "title_en": "A thousand fewer paths to root",
-        "title_original": "A thousand fewer paths to root",
+        "id": "0d20fd66080c6b3e00759f5b6deef3ed7a4101b7",
+        "title": "为负责任的人工智能基础设施设定新标准 / Setting a new standard for responsible AI infrastructure",
+        "title_zh": "为负责任的人工智能基础设施设定新标准",
+        "title_en": "Setting a new standard for responsible AI infrastructure",
+        "title_original": "Setting a new standard for responsible AI infrastructure",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+        "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -478,7 +448,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T03:42:34.492161Z"
+        "scored_at": "2026-11-05T12:21:20.650309Z"
+      }
+    },
+    {
+      "story_id": "story_a1cac76551fa",
+      "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
+          "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "title_zh": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段",
+          "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T17:50:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
+          "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "title_zh": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段",
+          "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T17:50:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7655,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T17:50:10Z",
+      "latest_at": "2026-11-04T17:50:10Z",
+      "primary_item": {
+        "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
+        "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+        "title_zh": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段",
+        "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+        "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T12:21:20.650309Z"
       }
     },
     {
@@ -526,15 +579,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8985,
+        "recency": 0.7907,
         "story_heat": 0.0
       },
       "category": "official",
@@ -561,30 +614,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T03:42:34.492161Z"
+        "scored_at": "2026-11-05T12:21:20.650309Z"
       }
     },
     {
-      "story_id": "story_0e832117a16c",
-      "title": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
-      "url": "https://www.aibase.com/news/32094",
-      "primary_url": "https://www.aibase.com/news/32094",
+      "story_id": "story_e4e99ccb9f67",
+      "title": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+      "url": "https://www.aibase.com/news/32125",
+      "primary_url": "https://www.aibase.com/news/32125",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8d88b476ec0bc63aa12aaf564bedc03668d90ffb",
-          "title": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
-          "title_zh": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+          "id": "d38cef93fba4899dfcbd86eb301d41a4619a3355",
+          "title": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+          "title_zh": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
           "title_en": null,
-          "title_original": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+          "title_original": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32094",
+          "url": "https://www.aibase.com/news/32125",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T03:29:38.325755Z"
+          "published_at": "2026-11-05T12:20:20.859918Z"
         }
       ],
       "source_count": 1,
@@ -593,18 +646,18 @@
       ],
       "items": [
         {
-          "id": "8d88b476ec0bc63aa12aaf564bedc03668d90ffb",
-          "title": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
-          "title_zh": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+          "id": "d38cef93fba4899dfcbd86eb301d41a4619a3355",
+          "title": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+          "title_zh": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
           "title_en": null,
-          "title_original": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+          "title_original": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32094",
+          "url": "https://www.aibase.com/news/32125",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T03:29:38.325755Z"
+          "published_at": "2026-11-05T12:20:20.859918Z"
         }
       ],
       "item_count": 1,
@@ -625,17 +678,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-05T03:29:38.325755Z",
-      "latest_at": "2026-11-05T03:29:38.325755Z",
+      "earliest_at": "2026-11-05T12:20:20.859918Z",
+      "latest_at": "2026-11-05T12:20:20.859918Z",
       "primary_item": {
-        "id": "8d88b476ec0bc63aa12aaf564bedc03668d90ffb",
-        "title": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
-        "title_zh": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+        "id": "d38cef93fba4899dfcbd86eb301d41a4619a3355",
+        "title": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+        "title_zh": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
         "title_en": null,
-        "title_original": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+        "title_original": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32094",
+        "url": "https://www.aibase.com/news/32125",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -643,113 +696,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T03:42:34.492161Z"
+        "scored_at": "2026-11-05T12:21:20.650309Z"
       }
     },
     {
-      "story_id": "story_909e1b342a31",
-      "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "primary_url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
-          "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
-          "title_zh": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出",
-          "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
-          "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
-          "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
-          "title_zh": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出",
-          "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
-          "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7438,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-04T07:00:00Z",
-      "latest_at": "2026-11-04T07:00:00Z",
-      "primary_item": {
-        "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
-        "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
-        "title_zh": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出",
-        "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
-        "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T03:42:34.492161Z"
-      }
-    },
-    {
-      "story_id": "story_8b70abe0bcf8",
-      "title": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
-      "url": "https://www.aibase.com/news/32095",
-      "primary_url": "https://www.aibase.com/news/32095",
+      "story_id": "story_13b665bd92e7",
+      "title": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+      "url": "https://www.aibase.com/news/32123",
+      "primary_url": "https://www.aibase.com/news/32123",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "628d21f15f54245a3a0def4ba41e2ac5f02d93e9",
-          "title": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
-          "title_zh": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
+          "id": "efc81c6ef96326d9ebb5c9a4aba2dcee5f4d67ae",
+          "title": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+          "title_zh": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
           "title_en": null,
-          "title_original": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
+          "title_original": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32095",
+          "url": "https://www.aibase.com/news/32123",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T03:29:38.325755Z"
+          "published_at": "2026-11-05T12:20:20.859918Z"
         }
       ],
       "source_count": 1,
@@ -758,18 +728,18 @@
       ],
       "items": [
         {
-          "id": "628d21f15f54245a3a0def4ba41e2ac5f02d93e9",
-          "title": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
-          "title_zh": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
+          "id": "efc81c6ef96326d9ebb5c9a4aba2dcee5f4d67ae",
+          "title": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+          "title_zh": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
           "title_en": null,
-          "title_original": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
+          "title_original": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32095",
+          "url": "https://www.aibase.com/news/32123",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T03:29:38.325755Z"
+          "published_at": "2026-11-05T12:20:20.859918Z"
         }
       ],
       "item_count": 1,
@@ -790,17 +760,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-05T03:29:38.325755Z",
-      "latest_at": "2026-11-05T03:29:38.325755Z",
+      "earliest_at": "2026-11-05T12:20:20.859918Z",
+      "latest_at": "2026-11-05T12:20:20.859918Z",
       "primary_item": {
-        "id": "628d21f15f54245a3a0def4ba41e2ac5f02d93e9",
-        "title": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
-        "title_zh": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
+        "id": "efc81c6ef96326d9ebb5c9a4aba2dcee5f4d67ae",
+        "title": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+        "title_zh": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
         "title_en": null,
-        "title_original": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
+        "title_original": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32095",
+        "url": "https://www.aibase.com/news/32123",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -808,30 +778,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T03:42:34.492161Z"
+        "scored_at": "2026-11-05T12:21:20.650309Z"
       }
     },
     {
-      "story_id": "story_0e8e5272f4db",
-      "title": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
-      "url": "https://www.aibase.com/news/32108",
-      "primary_url": "https://www.aibase.com/news/32108",
+      "story_id": "story_8075cf06dc1d",
+      "title": "Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职",
+      "url": "https://www.aibase.com/news/32120",
+      "primary_url": "https://www.aibase.com/news/32120",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0f4bdfb8bdee7b11ac961ecd194a28ddb74982f7",
-          "title": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
-          "title_zh": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
+          "id": "a0df7c469efe4a814f2be6c13475b00c7a9c883c",
+          "title": "Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职",
+          "title_zh": "Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职",
           "title_en": null,
-          "title_original": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
+          "title_original": "Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32108",
+          "url": "https://www.aibase.com/news/32120",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T03:29:38.325755Z"
+          "published_at": "2026-11-05T12:20:20.859918Z"
         }
       ],
       "source_count": 1,
@@ -840,18 +810,18 @@
       ],
       "items": [
         {
-          "id": "0f4bdfb8bdee7b11ac961ecd194a28ddb74982f7",
-          "title": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
-          "title_zh": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
+          "id": "a0df7c469efe4a814f2be6c13475b00c7a9c883c",
+          "title": "Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职",
+          "title_zh": "Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职",
           "title_en": null,
-          "title_original": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
+          "title_original": "Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32108",
+          "url": "https://www.aibase.com/news/32120",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T03:29:38.325755Z"
+          "published_at": "2026-11-05T12:20:20.859918Z"
         }
       ],
       "item_count": 1,
@@ -872,17 +842,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-05T03:29:38.325755Z",
-      "latest_at": "2026-11-05T03:29:38.325755Z",
+      "earliest_at": "2026-11-05T12:20:20.859918Z",
+      "latest_at": "2026-11-05T12:20:20.859918Z",
       "primary_item": {
-        "id": "0f4bdfb8bdee7b11ac961ecd194a28ddb74982f7",
-        "title": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
-        "title_zh": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
+        "id": "a0df7c469efe4a814f2be6c13475b00c7a9c883c",
+        "title": "Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职",
+        "title_zh": "Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职",
         "title_en": null,
-        "title_original": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
+        "title_original": "Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32108",
+        "url": "https://www.aibase.com/news/32120",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -890,30 +860,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T03:42:34.492161Z"
+        "scored_at": "2026-11-05T12:21:20.650309Z"
       }
     },
     {
-      "story_id": "story_36c313c0fbf0",
-      "title": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
-      "url": "https://www.aibase.com/news/32096",
-      "primary_url": "https://www.aibase.com/news/32096",
+      "story_id": "story_eec3f849fb91",
+      "title": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
+      "url": "https://www.aibase.com/news/32124",
+      "primary_url": "https://www.aibase.com/news/32124",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3aa40abea025579d7ff13ecca5f945430c568bbd",
-          "title": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
-          "title_zh": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+          "id": "d6ad8346d332e7c1a569d4c4704a3df741c86539",
+          "title": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
+          "title_zh": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
           "title_en": null,
-          "title_original": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+          "title_original": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32096",
+          "url": "https://www.aibase.com/news/32124",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T03:29:38.325755Z"
+          "published_at": "2026-11-05T12:20:20.859918Z"
         }
       ],
       "source_count": 1,
@@ -922,18 +892,18 @@
       ],
       "items": [
         {
-          "id": "3aa40abea025579d7ff13ecca5f945430c568bbd",
-          "title": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
-          "title_zh": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+          "id": "d6ad8346d332e7c1a569d4c4704a3df741c86539",
+          "title": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
+          "title_zh": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
           "title_en": null,
-          "title_original": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+          "title_original": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32096",
+          "url": "https://www.aibase.com/news/32124",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T03:29:38.325755Z"
+          "published_at": "2026-11-05T12:20:20.859918Z"
         }
       ],
       "item_count": 1,
@@ -954,17 +924,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-05T03:29:38.325755Z",
-      "latest_at": "2026-11-05T03:29:38.325755Z",
+      "earliest_at": "2026-11-05T12:20:20.859918Z",
+      "latest_at": "2026-11-05T12:20:20.859918Z",
       "primary_item": {
-        "id": "3aa40abea025579d7ff13ecca5f945430c568bbd",
-        "title": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
-        "title_zh": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+        "id": "d6ad8346d332e7c1a569d4c4704a3df741c86539",
+        "title": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
+        "title_zh": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
         "title_en": null,
-        "title_original": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+        "title_original": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32096",
+        "url": "https://www.aibase.com/news/32124",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -972,30 +942,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T03:42:34.492161Z"
+        "scored_at": "2026-11-05T12:21:20.650309Z"
       }
     },
     {
-      "story_id": "story_9079c892a5d0",
-      "title": "OpenAI 新模型自动挖出 948 个 Linux 内核提权漏洞，每个漏洞利用成本仅 1279 美元",
-      "url": "https://www.aibase.com/news/32111",
-      "primary_url": "https://www.aibase.com/news/32111",
+      "story_id": "story_c0226fde6902",
+      "title": "Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码",
+      "url": "https://www.aibase.com/news/32119",
+      "primary_url": "https://www.aibase.com/news/32119",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5792fc96146bc110294bb524ec624812ee7e36f8",
-          "title": "OpenAI 新模型自动挖出 948 个 Linux 内核提权漏洞，每个漏洞利用成本仅 1279 美元",
-          "title_zh": "OpenAI 新模型自动挖出 948 个 Linux 内核提权漏洞，每个漏洞利用成本仅 1279 美元",
+          "id": "e4e38607a015118187dd7b014a4043d11112b565",
+          "title": "Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码",
+          "title_zh": "Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码",
           "title_en": null,
-          "title_original": "OpenAI 新模型自动挖出 948 个 Linux 内核提权漏洞，每个漏洞利用成本仅 1279 美元",
+          "title_original": "Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32111",
+          "url": "https://www.aibase.com/news/32119",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T03:29:38.325755Z"
+          "published_at": "2026-11-05T12:20:20.859918Z"
         }
       ],
       "source_count": 1,
@@ -1004,18 +974,18 @@
       ],
       "items": [
         {
-          "id": "5792fc96146bc110294bb524ec624812ee7e36f8",
-          "title": "OpenAI 新模型自动挖出 948 个 Linux 内核提权漏洞，每个漏洞利用成本仅 1279 美元",
-          "title_zh": "OpenAI 新模型自动挖出 948 个 Linux 内核提权漏洞，每个漏洞利用成本仅 1279 美元",
+          "id": "e4e38607a015118187dd7b014a4043d11112b565",
+          "title": "Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码",
+          "title_zh": "Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码",
           "title_en": null,
-          "title_original": "OpenAI 新模型自动挖出 948 个 Linux 内核提权漏洞，每个漏洞利用成本仅 1279 美元",
+          "title_original": "Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32111",
+          "url": "https://www.aibase.com/news/32119",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T03:29:38.325755Z"
+          "published_at": "2026-11-05T12:20:20.859918Z"
         }
       ],
       "item_count": 1,
@@ -1036,17 +1006,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-05T03:29:38.325755Z",
-      "latest_at": "2026-11-05T03:29:38.325755Z",
+      "earliest_at": "2026-11-05T12:20:20.859918Z",
+      "latest_at": "2026-11-05T12:20:20.859918Z",
       "primary_item": {
-        "id": "5792fc96146bc110294bb524ec624812ee7e36f8",
-        "title": "OpenAI 新模型自动挖出 948 个 Linux 内核提权漏洞，每个漏洞利用成本仅 1279 美元",
-        "title_zh": "OpenAI 新模型自动挖出 948 个 Linux 内核提权漏洞，每个漏洞利用成本仅 1279 美元",
+        "id": "e4e38607a015118187dd7b014a4043d11112b565",
+        "title": "Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码",
+        "title_zh": "Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码",
         "title_en": null,
-        "title_original": "OpenAI 新模型自动挖出 948 个 Linux 内核提权漏洞，每个漏洞利用成本仅 1279 美元",
+        "title_original": "Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32111",
+        "url": "https://www.aibase.com/news/32119",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1054,30 +1024,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T03:42:34.492161Z"
+        "scored_at": "2026-11-05T12:21:20.650309Z"
       }
     },
     {
-      "story_id": "story_d511db0265a2",
-      "title": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
-      "url": "https://www.aibase.com/news/32093",
-      "primary_url": "https://www.aibase.com/news/32093",
+      "story_id": "story_dce17d00d5c1",
+      "title": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
+      "url": "https://www.aibase.com/news/32116",
+      "primary_url": "https://www.aibase.com/news/32116",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "309b16945333dc2cf4f209ec5d71d66565fb7cdf",
-          "title": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
-          "title_zh": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
+          "id": "f501c750233c97c1fbdfdffc5865aefafcfe015c",
+          "title": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
+          "title_zh": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
           "title_en": null,
-          "title_original": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
+          "title_original": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32093",
+          "url": "https://www.aibase.com/news/32116",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T03:29:38.325755Z"
+          "published_at": "2026-11-05T12:20:20.859918Z"
         }
       ],
       "source_count": 1,
@@ -1086,18 +1056,18 @@
       ],
       "items": [
         {
-          "id": "309b16945333dc2cf4f209ec5d71d66565fb7cdf",
-          "title": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
-          "title_zh": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
+          "id": "f501c750233c97c1fbdfdffc5865aefafcfe015c",
+          "title": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
+          "title_zh": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
           "title_en": null,
-          "title_original": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
+          "title_original": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32093",
+          "url": "https://www.aibase.com/news/32116",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T03:29:38.325755Z"
+          "published_at": "2026-11-05T12:20:20.859918Z"
         }
       ],
       "item_count": 1,
@@ -1118,17 +1088,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-05T03:29:38.325755Z",
-      "latest_at": "2026-11-05T03:29:38.325755Z",
+      "earliest_at": "2026-11-05T12:20:20.859918Z",
+      "latest_at": "2026-11-05T12:20:20.859918Z",
       "primary_item": {
-        "id": "309b16945333dc2cf4f209ec5d71d66565fb7cdf",
-        "title": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
-        "title_zh": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
+        "id": "f501c750233c97c1fbdfdffc5865aefafcfe015c",
+        "title": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
+        "title_zh": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
         "title_en": null,
-        "title_original": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
+        "title_original": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32093",
+        "url": "https://www.aibase.com/news/32116",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1136,7 +1106,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T03:42:34.492161Z"
+        "scored_at": "2026-11-05T12:21:20.650309Z"
       }
     },
     {
@@ -1212,15 +1182,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6104,
-      "importance": 0.6104,
-      "importance_score": 0.6104,
+      "score": 0.5909,
+      "importance": 0.5909,
+      "importance_score": 0.5909,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9025,
+        "recency": 0.7943,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1245,30 +1215,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T03:42:34.492161Z"
+        "scored_at": "2026-11-05T12:21:20.650309Z"
       }
     },
     {
-      "story_id": "story_45491d707194",
-      "title": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
-      "url": "https://www.aibase.com/news/32098",
-      "primary_url": "https://www.aibase.com/news/32098",
+      "story_id": "story_ab6b782bbecd",
+      "title": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
+      "url": "https://www.aibase.com/news/32115",
+      "primary_url": "https://www.aibase.com/news/32115",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "330bd5a15cabc7f77c14d8c93f3f001e058ccbe5",
-          "title": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
-          "title_zh": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
+          "id": "a5390b5a2c21dd5f3a09c23f8f73a3bf08c1d684",
+          "title": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
+          "title_zh": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
           "title_en": null,
-          "title_original": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
+          "title_original": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32098",
+          "url": "https://www.aibase.com/news/32115",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T03:29:38.325755Z"
+          "published_at": "2026-11-05T12:20:20.859918Z"
         }
       ],
       "source_count": 1,
@@ -1277,18 +1247,18 @@
       ],
       "items": [
         {
-          "id": "330bd5a15cabc7f77c14d8c93f3f001e058ccbe5",
-          "title": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
-          "title_zh": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
+          "id": "a5390b5a2c21dd5f3a09c23f8f73a3bf08c1d684",
+          "title": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
+          "title_zh": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
           "title_en": null,
-          "title_original": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
+          "title_original": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32098",
+          "url": "https://www.aibase.com/news/32115",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T03:29:38.325755Z"
+          "published_at": "2026-11-05T12:20:20.859918Z"
         }
       ],
       "item_count": 1,
@@ -1309,17 +1279,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-05T03:29:38.325755Z",
-      "latest_at": "2026-11-05T03:29:38.325755Z",
+      "earliest_at": "2026-11-05T12:20:20.859918Z",
+      "latest_at": "2026-11-05T12:20:20.859918Z",
       "primary_item": {
-        "id": "330bd5a15cabc7f77c14d8c93f3f001e058ccbe5",
-        "title": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
-        "title_zh": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
+        "id": "a5390b5a2c21dd5f3a09c23f8f73a3bf08c1d684",
+        "title": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
+        "title_zh": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
         "title_en": null,
-        "title_original": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
+        "title_original": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32098",
+        "url": "https://www.aibase.com/news/32115",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1327,7 +1297,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T03:42:34.492161Z"
+        "scored_at": "2026-11-05T12:21:20.650309Z"
       }
     },
     {
@@ -1404,15 +1374,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.582,
-      "importance": 0.582,
-      "importance_score": 0.582,
+      "score": 0.5619,
+      "importance": 0.5619,
+      "importance_score": 0.5619,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9325,
+        "recency": 0.8206,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1437,7 +1407,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T03:42:34.492161Z"
+        "scored_at": "2026-11-05T12:21:20.650309Z"
+      }
+    },
+    {
+      "story_id": "story_fdeec557c953",
+      "title": "大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%",
+      "url": "https://www.aibase.com/news/32114",
+      "primary_url": "https://www.aibase.com/news/32114",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "fd0450f3dbe4c3c836404431bd29eb8db15d8b25",
+          "title": "大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%",
+          "title_zh": "大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%",
+          "title_en": null,
+          "title_original": "大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32114",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T12:20:20.859918Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "fd0450f3dbe4c3c836404431bd29eb8db15d8b25",
+          "title": "大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%",
+          "title_zh": "大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%",
+          "title_en": null,
+          "title_original": "大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32114",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T12:20:20.859918Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T12:20:20.859918Z",
+      "latest_at": "2026-11-05T12:20:20.859918Z",
+      "primary_item": {
+        "id": "fd0450f3dbe4c3c836404431bd29eb8db15d8b25",
+        "title": "大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%",
+        "title_zh": "大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%",
+        "title_en": null,
+        "title_original": "大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32114",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T12:21:20.650309Z"
       }
     },
     {
@@ -1543,15 +1595,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5663,
-      "importance": 0.5663,
-      "importance_score": 0.5663,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9751,
+        "recency": 0.8581,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1576,7 +1628,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T03:42:34.492161Z"
+        "scored_at": "2026-11-05T12:21:20.650309Z"
       }
     },
     {
@@ -1602,7 +1654,7 @@
           "published_at": "2026-11-04T23:04:46.586000Z"
         },
         {
-          "id": "b46ffa43ce901131c7c8376d9d0a0625b2d50fde",
+          "id": "ee69d5b879a43b91a7e0fa328e5fa10c916302e5",
           "title": "现在什么都是AI骗局了 / Everything is an AI scam now",
           "title_zh": "现在什么都是AI骗局了",
           "title_en": "Everything is an AI scam now",
@@ -1610,9 +1662,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-04T21:05:19Z"
         },
         {
@@ -1632,7 +1684,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.davidralphlewis.co.uk"
       ],
@@ -1652,7 +1704,7 @@
           "published_at": "2026-11-04T23:04:46.586000Z"
         },
         {
-          "id": "b46ffa43ce901131c7c8376d9d0a0625b2d50fde",
+          "id": "ee69d5b879a43b91a7e0fa328e5fa10c916302e5",
           "title": "现在什么都是AI骗局了 / Everything is an AI scam now",
           "title_zh": "现在什么都是AI骗局了",
           "title_en": "Everything is an AI scam now",
@@ -1660,9 +1712,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-04T21:05:19Z"
         },
         {
@@ -1682,15 +1734,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5597,
-      "importance": 0.5597,
-      "importance_score": 0.5597,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9382,
+        "recency": 0.8257,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1715,30 +1767,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T03:42:34.492161Z"
+        "scored_at": "2026-11-05T12:21:20.650309Z"
       }
     },
     {
-      "story_id": "story_21cdaf9c2e2b",
-      "title": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
-      "url": "https://www.aibase.com/news/32092",
-      "primary_url": "https://www.aibase.com/news/32092",
+      "story_id": "story_0c6bd4e4ef6a",
+      "title": "百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA",
+      "url": "https://www.aibase.com/news/32118",
+      "primary_url": "https://www.aibase.com/news/32118",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "991a8d67eea367f7ed9f1ab9add3c245f887065f",
-          "title": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
-          "title_zh": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
+          "id": "24b9df4a87a2c0f9a66fd086fb17d025ec1c83ee",
+          "title": "百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA",
+          "title_zh": "百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA",
           "title_en": null,
-          "title_original": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
+          "title_original": "百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32092",
+          "url": "https://www.aibase.com/news/32118",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T03:29:38.325755Z"
+          "published_at": "2026-11-05T12:20:20.859918Z"
         }
       ],
       "source_count": 1,
@@ -1747,18 +1799,18 @@
       ],
       "items": [
         {
-          "id": "991a8d67eea367f7ed9f1ab9add3c245f887065f",
-          "title": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
-          "title_zh": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
+          "id": "24b9df4a87a2c0f9a66fd086fb17d025ec1c83ee",
+          "title": "百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA",
+          "title_zh": "百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA",
           "title_en": null,
-          "title_original": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
+          "title_original": "百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32092",
+          "url": "https://www.aibase.com/news/32118",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T03:29:38.325755Z"
+          "published_at": "2026-11-05T12:20:20.859918Z"
         }
       ],
       "item_count": 1,
@@ -1779,17 +1831,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-05T03:29:38.325755Z",
-      "latest_at": "2026-11-05T03:29:38.325755Z",
+      "earliest_at": "2026-11-05T12:20:20.859918Z",
+      "latest_at": "2026-11-05T12:20:20.859918Z",
       "primary_item": {
-        "id": "991a8d67eea367f7ed9f1ab9add3c245f887065f",
-        "title": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
-        "title_zh": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
+        "id": "24b9df4a87a2c0f9a66fd086fb17d025ec1c83ee",
+        "title": "百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA",
+        "title_zh": "百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA",
         "title_en": null,
-        "title_original": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
+        "title_original": "百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32092",
+        "url": "https://www.aibase.com/news/32118",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1797,146 +1849,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T03:42:34.492161Z"
-      }
-    },
-    {
-      "story_id": "story_d485cbc703f0",
-      "title": "大型语言模型可证明推理方面的进展",
-      "url": "https://www.anthropic.com/research/provable-inference",
-      "primary_url": "https://www.anthropic.com/research/provable-inference",
-      "source": "www.anthropic.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "34cca887ea7f44444830c0131f4780de4c1cc6b8",
-          "title": "大型语言模型可证明推理方面的进展",
-          "title_zh": "大型语言模型可证明推理方面的进展",
-          "title_en": null,
-          "title_original": "大型语言模型可证明推理方面的进展",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/provable-inference",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T19:37:46.946000Z"
-        },
-        {
-          "id": "348d9e158e28595c981f0e9a280b0642db152915",
-          "title": "大型语言模型可证明推理方面的进展 / Progress on provable inference for large language models",
-          "title_zh": "大型语言模型可证明推理方面的进展",
-          "title_en": "Progress on provable inference for large language models",
-          "title_original": "Progress on provable inference for large language models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/provable-inference",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T17:17:46Z"
-        },
-        {
-          "id": "98c7ef865b048e2bf6e83592103193e50ed23812",
-          "title": "大型语言模型可证明推理方面的进展 / Anthropic: Progress on provable inference for large language models",
-          "title_zh": "大型语言模型可证明推理方面的进展",
-          "title_en": "Anthropic: Progress on provable inference for large language models",
-          "title_original": "Anthropic: Progress on provable inference for large language models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/provable-inference",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-11-04T07:57:06Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "Hacker News (黑客新闻)",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "34cca887ea7f44444830c0131f4780de4c1cc6b8",
-          "title": "大型语言模型可证明推理方面的进展",
-          "title_zh": "大型语言模型可证明推理方面的进展",
-          "title_en": null,
-          "title_original": "大型语言模型可证明推理方面的进展",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/provable-inference",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T19:37:46.946000Z"
-        },
-        {
-          "id": "348d9e158e28595c981f0e9a280b0642db152915",
-          "title": "大型语言模型可证明推理方面的进展 / Progress on provable inference for large language models",
-          "title_zh": "大型语言模型可证明推理方面的进展",
-          "title_en": "Progress on provable inference for large language models",
-          "title_original": "Progress on provable inference for large language models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/provable-inference",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T17:17:46Z"
-        },
-        {
-          "id": "98c7ef865b048e2bf6e83592103193e50ed23812",
-          "title": "大型语言模型可证明推理方面的进展 / Anthropic: Progress on provable inference for large language models",
-          "title_zh": "大型语言模型可证明推理方面的进展",
-          "title_en": "Anthropic: Progress on provable inference for large language models",
-          "title_original": "Anthropic: Progress on provable inference for large language models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/provable-inference",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-11-04T07:57:06Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5515,
-      "importance": 0.5515,
-      "importance_score": 0.5515,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8926,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-04T07:57:06Z",
-      "latest_at": "2026-11-04T19:37:46.946000Z",
-      "primary_item": {
-        "id": "34cca887ea7f44444830c0131f4780de4c1cc6b8",
-        "title": "大型语言模型可证明推理方面的进展",
-        "title_zh": "大型语言模型可证明推理方面的进展",
-        "title_en": null,
-        "title_original": "大型语言模型可证明推理方面的进展",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/research/provable-inference",
-        "source": "www.anthropic.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T03:42:34.492161Z"
+        "scored_at": "2026-11-05T12:21:20.650309Z"
       }
     },
     {
@@ -2013,15 +1926,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5427,
-      "importance": 0.5427,
-      "importance_score": 0.5427,
+      "score": 0.5215,
+      "importance": 0.5215,
+      "importance_score": 0.5215,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9827,
+        "recency": 0.8648,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2046,7 +1959,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T03:42:34.492161Z"
+        "scored_at": "2026-11-05T12:21:20.650309Z"
       }
     }
   ]
