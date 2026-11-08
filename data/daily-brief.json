@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T00:35:36.027508Z",
+  "generated_at": "2026-11-08T07:20:12.677753Z",
   "window_hours": 24,
   "total_items": 6,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5835,
-      "importance": 0.5835,
-      "importance_score": 0.5835,
+      "score": 0.5679,
+      "importance": 0.5679,
+      "importance_score": 0.5679,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9315,
+        "recency": 0.8451,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -168,7 +168,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T00:36:25.561014Z"
+        "scored_at": "2026-11-08T07:20:56.484080Z"
       }
     },
     {
@@ -274,15 +274,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
+      "score": 0.553,
+      "importance": 0.553,
+      "importance_score": 0.553,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9931,
+        "recency": 0.9009,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -307,7 +307,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T00:36:25.561014Z"
+        "scored_at": "2026-11-08T07:20:56.484080Z"
+      }
+    },
+    {
+      "story_id": "story_daac9443a692",
+      "title": "再见Claude，你好皮 / Goodbye Claude, Hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "primary_url": "https://caleb.software/posts/claude-to-pi.html",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "e7fe2cecfcd23f7afe0f7ec86eeaecb9a3bb623b",
+          "title": "再见Claude，你好皮 / Goodbye Claude, Hello Pi",
+          "title_zh": "再见Claude，你好皮",
+          "title_en": "Goodbye Claude, Hello Pi",
+          "title_original": "Goodbye Claude, Hello Pi",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://caleb.software/posts/claude-to-pi.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T03:11:48Z"
+        },
+        {
+          "id": "f9e6a111a822d959b2ebb2618203323831a1dd64",
+          "title": "再见Claude，你好皮 / Goodbye Claude, Hello Pi",
+          "title_zh": "再见Claude，你好皮",
+          "title_en": "Goodbye Claude, Hello Pi",
+          "title_original": "Goodbye Claude, Hello Pi",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50410107",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T03:11:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e7fe2cecfcd23f7afe0f7ec86eeaecb9a3bb623b",
+          "title": "再见Claude，你好皮 / Goodbye Claude, Hello Pi",
+          "title_zh": "再见Claude，你好皮",
+          "title_en": "Goodbye Claude, Hello Pi",
+          "title_original": "Goodbye Claude, Hello Pi",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://caleb.software/posts/claude-to-pi.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T03:11:48Z"
+        },
+        {
+          "id": "f9e6a111a822d959b2ebb2618203323831a1dd64",
+          "title": "再见Claude，你好皮 / Goodbye Claude, Hello Pi",
+          "title_zh": "再见Claude，你好皮",
+          "title_en": "Goodbye Claude, Hello Pi",
+          "title_original": "Goodbye Claude, Hello Pi",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50410107",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T03:11:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.942,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T03:11:48Z",
+      "latest_at": "2026-11-08T03:11:48Z",
+      "primary_item": {
+        "id": "e7fe2cecfcd23f7afe0f7ec86eeaecb9a3bb623b",
+        "title": "再见Claude，你好皮 / Goodbye Claude, Hello Pi",
+        "title_zh": "再见Claude，你好皮",
+        "title_en": "Goodbye Claude, Hello Pi",
+        "title_original": "Goodbye Claude, Hello Pi",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://caleb.software/posts/claude-to-pi.html",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-08T07:20:56.484080Z"
       }
     },
     {
@@ -384,15 +494,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.536,
-      "importance": 0.536,
-      "importance_score": 0.536,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9458,
+        "recency": 0.858,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -417,117 +527,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T00:36:25.561014Z"
-      }
-    },
-    {
-      "story_id": "story_ba8c8d10129f",
-      "title": "代理记忆的组成部分",
-      "url": "https://www.anthropic.com/research/components-of-agent-memory",
-      "primary_url": "https://www.anthropic.com/research/components-of-agent-memory",
-      "source": "www.anthropic.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "901fc25d1d664105705b5aefdddf7fc632369ea5",
-          "title": "代理记忆的组成部分",
-          "title_zh": "代理记忆的组成部分",
-          "title_en": null,
-          "title_original": "代理记忆的组成部分",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/components-of-agent-memory",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T16:12:43.696000Z"
-        },
-        {
-          "id": "b3468306bce10afbca790582cd6cefc5c8f9066c",
-          "title": "代理记忆的组成部分 / The Components of Agent Memory",
-          "title_zh": "代理记忆的组成部分",
-          "title_en": "The Components of Agent Memory",
-          "title_original": "The Components of Agent Memory",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/components-of-agent-memory",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T06:39:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "901fc25d1d664105705b5aefdddf7fc632369ea5",
-          "title": "代理记忆的组成部分",
-          "title_zh": "代理记忆的组成部分",
-          "title_en": null,
-          "title_original": "代理记忆的组成部分",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/components-of-agent-memory",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T16:12:43.696000Z"
-        },
-        {
-          "id": "b3468306bce10afbca790582cd6cefc5c8f9066c",
-          "title": "代理记忆的组成部分 / The Components of Agent Memory",
-          "title_zh": "代理记忆的组成部分",
-          "title_en": "The Components of Agent Memory",
-          "title_original": "The Components of Agent Memory",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/components-of-agent-memory",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T06:39:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5253,
-      "importance": 0.5253,
-      "importance_score": 0.5253,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.886,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T06:39:04Z",
-      "latest_at": "2026-11-07T16:12:43.696000Z",
-      "primary_item": {
-        "id": "901fc25d1d664105705b5aefdddf7fc632369ea5",
-        "title": "代理记忆的组成部分",
-        "title_zh": "代理记忆的组成部分",
-        "title_en": null,
-        "title_original": "代理记忆的组成部分",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/research/components-of-agent-memory",
-        "source": "www.anthropic.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-08T00:36:25.561014Z"
+        "scored_at": "2026-11-08T07:20:56.484080Z"
       }
     },
     {
@@ -535,11 +535,11 @@
       "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
       "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
       "primary_url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "8471286aa152fe12fa5fd1a5c09e81563c12b77f",
+          "id": "21d9df437718fa920d9892ade2924765dbb15afa",
           "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
           "title_zh": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8",
           "title_en": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
@@ -547,9 +547,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-07T15:16:01Z"
         },
         {
@@ -569,12 +569,12 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "8471286aa152fe12fa5fd1a5c09e81563c12b77f",
+          "id": "21d9df437718fa920d9892ade2924765dbb15afa",
           "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
           "title_zh": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8",
           "title_en": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
@@ -582,9 +582,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-07T15:16:01Z"
         },
         {
@@ -604,15 +604,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5231,
-      "importance": 0.5231,
-      "importance_score": 0.5231,
+      "score": 0.5085,
+      "importance": 0.5085,
+      "importance_score": 0.5085,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.874,
+        "recency": 0.7929,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -622,7 +622,7 @@
       "earliest_at": "2026-11-07T15:16:01Z",
       "latest_at": "2026-11-07T15:16:01Z",
       "primary_item": {
-        "id": "8471286aa152fe12fa5fd1a5c09e81563c12b77f",
+        "id": "21d9df437718fa920d9892ade2924765dbb15afa",
         "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
         "title_zh": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8",
         "title_en": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
@@ -630,14 +630,14 @@
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T00:36:25.561014Z"
+        "scored_at": "2026-11-08T07:20:56.484080Z"
       }
     },
     {
@@ -714,15 +714,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5158,
-      "importance": 0.5158,
-      "importance_score": 0.5158,
+      "score": 0.5019,
+      "importance": 0.5019,
+      "importance_score": 0.5019,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8333,
+        "recency": 0.756,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -747,7 +747,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T00:36:25.561014Z"
+        "scored_at": "2026-11-08T07:20:56.484080Z"
       }
     }
   ]
