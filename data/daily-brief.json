@@ -1,29 +1,195 @@
 {
-  "generated_at": "2026-11-09T06:27:49.837164Z",
+  "generated_at": "2026-11-09T17:28:54.166234Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_1d48875ccb6b",
-      "title": "Anthropic 斥资 34 亿美元抢购发电设备，为数据中心补充能源",
-      "url": "https://www.aibase.com/news/32162",
-      "primary_url": "https://www.aibase.com/news/32162",
+      "story_id": "story_2b2972b2424d",
+      "title": "Nemotron-Personas-Finance-Japan：捕捉日本人口统计和金融背景的综合数据集 / Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "54170f7bc75122eecdc2fce6ca02f61da42c8503",
+          "title": "Nemotron-Personas-Finance-Japan：捕捉日本人口统计和金融背景的综合数据集 / Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+          "title_zh": "Nemotron-Personas-Finance-Japan：捕捉日本人口统计和金融背景的综合数据集",
+          "title_en": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+          "title_original": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T15:05:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "54170f7bc75122eecdc2fce6ca02f61da42c8503",
+          "title": "Nemotron-Personas-Finance-Japan：捕捉日本人口统计和金融背景的综合数据集 / Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+          "title_zh": "Nemotron-Personas-Finance-Japan：捕捉日本人口统计和金融背景的综合数据集",
+          "title_en": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+          "title_original": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T15:05:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8639,
+      "importance": 0.8639,
+      "importance_score": 0.8639,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9662,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T15:05:57Z",
+      "latest_at": "2026-11-09T15:05:57Z",
+      "primary_item": {
+        "id": "54170f7bc75122eecdc2fce6ca02f61da42c8503",
+        "title": "Nemotron-Personas-Finance-Japan：捕捉日本人口统计和金融背景的综合数据集 / Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+        "title_zh": "Nemotron-Personas-Finance-Japan：捕捉日本人口统计和金融背景的综合数据集",
+        "title_en": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+        "title_original": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T17:29:56.829183Z"
+      }
+    },
+    {
+      "story_id": "story_3631798e1948",
+      "title": "您的专家有合作伙伴。让他们在一起是有希望的 / Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "primary_url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5efec1cd5bcd76249e5afb10fa5d26a1e3bcf316",
+          "title": "您的专家有合作伙伴。让他们在一起是有希望的 / Your Experts Have Partners. There's HOPE for Keeping Them Together",
+          "title_zh": "您的专家有合作伙伴。让他们在一起是有希望的",
+          "title_en": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+          "title_original": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T12:34:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "5efec1cd5bcd76249e5afb10fa5d26a1e3bcf316",
+          "title": "您的专家有合作伙伴。让他们在一起是有希望的 / Your Experts Have Partners. There's HOPE for Keeping Them Together",
+          "title_zh": "您的专家有合作伙伴。让他们在一起是有希望的",
+          "title_en": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+          "title_original": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T12:34:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8477,
+      "importance": 0.8477,
+      "importance_score": 0.8477,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9316,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T12:34:29Z",
+      "latest_at": "2026-11-09T12:34:29Z",
+      "primary_item": {
+        "id": "5efec1cd5bcd76249e5afb10fa5d26a1e3bcf316",
+        "title": "您的专家有合作伙伴。让他们在一起是有希望的 / Your Experts Have Partners. There's HOPE for Keeping Them Together",
+        "title_zh": "您的专家有合作伙伴。让他们在一起是有希望的",
+        "title_en": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+        "title_original": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T17:29:56.829183Z"
+      }
+    },
+    {
+      "story_id": "story_2c09fe85f3a9",
+      "title": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
+      "url": "https://www.aibase.com/news/32187",
+      "primary_url": "https://www.aibase.com/news/32187",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "725715869b05cd7443f7b044b85b142382ac015b",
-          "title": "Anthropic 斥资 34 亿美元抢购发电设备，为数据中心补充能源",
-          "title_zh": "Anthropic 斥资 34 亿美元抢购发电设备，为数据中心补充能源",
+          "id": "a9aef4bfdd7669502341ee720a9c948c2c48b223",
+          "title": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
+          "title_zh": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
           "title_en": null,
-          "title_original": "Anthropic 斥资 34 亿美元抢购发电设备，为数据中心补充能源",
+          "title_original": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32162",
+          "url": "https://www.aibase.com/news/32187",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T06:27:49.837164Z"
+          "published_at": "2026-11-09T17:28:54.166234Z"
         }
       ],
       "source_count": 1,
@@ -32,18 +198,18 @@
       ],
       "items": [
         {
-          "id": "725715869b05cd7443f7b044b85b142382ac015b",
-          "title": "Anthropic 斥资 34 亿美元抢购发电设备，为数据中心补充能源",
-          "title_zh": "Anthropic 斥资 34 亿美元抢购发电设备，为数据中心补充能源",
+          "id": "a9aef4bfdd7669502341ee720a9c948c2c48b223",
+          "title": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
+          "title_zh": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
           "title_en": null,
-          "title_original": "Anthropic 斥资 34 亿美元抢购发电设备，为数据中心补充能源",
+          "title_original": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32162",
+          "url": "https://www.aibase.com/news/32187",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T06:27:49.837164Z"
+          "published_at": "2026-11-09T17:28:54.166234Z"
         }
       ],
       "item_count": 1,
@@ -64,17 +230,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-09T06:27:49.837164Z",
-      "latest_at": "2026-11-09T06:27:49.837164Z",
+      "earliest_at": "2026-11-09T17:28:54.166234Z",
+      "latest_at": "2026-11-09T17:28:54.166234Z",
       "primary_item": {
-        "id": "725715869b05cd7443f7b044b85b142382ac015b",
-        "title": "Anthropic 斥资 34 亿美元抢购发电设备，为数据中心补充能源",
-        "title_zh": "Anthropic 斥资 34 亿美元抢购发电设备，为数据中心补充能源",
+        "id": "a9aef4bfdd7669502341ee720a9c948c2c48b223",
+        "title": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
+        "title_zh": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
         "title_en": null,
-        "title_original": "Anthropic 斥资 34 亿美元抢购发电设备，为数据中心补充能源",
+        "title_original": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32162",
+        "url": "https://www.aibase.com/news/32187",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -82,30 +248,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T06:28:59.821468Z"
+        "scored_at": "2026-11-09T17:29:56.829183Z"
       }
     },
     {
-      "story_id": "story_3f0dbd80a497",
-      "title": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
-      "url": "https://www.aibase.com/news/32172",
-      "primary_url": "https://www.aibase.com/news/32172",
+      "story_id": "story_9a636bf906b5",
+      "title": "字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板",
+      "url": "https://www.aibase.com/news/32186",
+      "primary_url": "https://www.aibase.com/news/32186",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4b7a80444e22cf178c908b5c55f7886059e5f017",
-          "title": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
-          "title_zh": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
+          "id": "44a171dc5eb08a855f2ad3fde4fc744f223b356a",
+          "title": "字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板",
+          "title_zh": "字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板",
           "title_en": null,
-          "title_original": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
+          "title_original": "字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32172",
+          "url": "https://www.aibase.com/news/32186",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T06:27:49.837164Z"
+          "published_at": "2026-11-09T17:28:54.166234Z"
         }
       ],
       "source_count": 1,
@@ -114,18 +280,18 @@
       ],
       "items": [
         {
-          "id": "4b7a80444e22cf178c908b5c55f7886059e5f017",
-          "title": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
-          "title_zh": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
+          "id": "44a171dc5eb08a855f2ad3fde4fc744f223b356a",
+          "title": "字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板",
+          "title_zh": "字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板",
           "title_en": null,
-          "title_original": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
+          "title_original": "字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32172",
+          "url": "https://www.aibase.com/news/32186",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T06:27:49.837164Z"
+          "published_at": "2026-11-09T17:28:54.166234Z"
         }
       ],
       "item_count": 1,
@@ -146,17 +312,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-09T06:27:49.837164Z",
-      "latest_at": "2026-11-09T06:27:49.837164Z",
+      "earliest_at": "2026-11-09T17:28:54.166234Z",
+      "latest_at": "2026-11-09T17:28:54.166234Z",
       "primary_item": {
-        "id": "4b7a80444e22cf178c908b5c55f7886059e5f017",
-        "title": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
-        "title_zh": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
+        "id": "44a171dc5eb08a855f2ad3fde4fc744f223b356a",
+        "title": "字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板",
+        "title_zh": "字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板",
         "title_en": null,
-        "title_original": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
+        "title_original": "字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32172",
+        "url": "https://www.aibase.com/news/32186",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -164,111 +330,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T06:28:59.821468Z"
+        "scored_at": "2026-11-09T17:29:56.829183Z"
       }
     },
     {
-      "story_id": "story_55b8a01511e9",
-      "title": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "4ed0d205bde53569c251b831b5277e17b8e1cbaa",
-          "title": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
-          "title_zh": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-11-08T11:34:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "4ed0d205bde53569c251b831b5277e17b8e1cbaa",
-          "title": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
-          "title_zh": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-11-08T11:34:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7246,
-      "importance": 0.7246,
-      "importance_score": 0.7246,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7613,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-08T11:34:35Z",
-      "latest_at": "2026-11-08T11:34:35Z",
-      "primary_item": {
-        "id": "4ed0d205bde53569c251b831b5277e17b8e1cbaa",
-        "title": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
-        "title_zh": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
-        "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T06:28:59.821468Z"
-      }
-    },
-    {
-      "story_id": "story_b7889a30c75d",
-      "title": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
-      "url": "https://www.aibase.com/news/32170",
-      "primary_url": "https://www.aibase.com/news/32170",
+      "story_id": "story_a1b7baa37fd3",
+      "title": "火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏",
+      "url": "https://www.aibase.com/news/32185",
+      "primary_url": "https://www.aibase.com/news/32185",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1f361be10a908f7d3e797b3b4085ae925ad44cea",
-          "title": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
-          "title_zh": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
+          "id": "f1b510a471379de6750ff189741d6d501e9955b8",
+          "title": "火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏",
+          "title_zh": "火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏",
           "title_en": null,
-          "title_original": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
+          "title_original": "火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32170",
+          "url": "https://www.aibase.com/news/32185",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T06:27:49.837164Z"
+          "published_at": "2026-11-09T17:26:54.166234Z"
         }
       ],
       "source_count": 1,
@@ -277,31 +362,31 @@
       ],
       "items": [
         {
-          "id": "1f361be10a908f7d3e797b3b4085ae925ad44cea",
-          "title": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
-          "title_zh": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
+          "id": "f1b510a471379de6750ff189741d6d501e9955b8",
+          "title": "火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏",
+          "title_zh": "火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏",
           "title_en": null,
-          "title_original": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
+          "title_original": "火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32170",
+          "url": "https://www.aibase.com/news/32185",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T06:27:49.837164Z"
+          "published_at": "2026-11-09T17:26:54.166234Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9995,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -309,17 +394,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-09T06:27:49.837164Z",
-      "latest_at": "2026-11-09T06:27:49.837164Z",
+      "earliest_at": "2026-11-09T17:26:54.166234Z",
+      "latest_at": "2026-11-09T17:26:54.166234Z",
       "primary_item": {
-        "id": "1f361be10a908f7d3e797b3b4085ae925ad44cea",
-        "title": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
-        "title_zh": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
+        "id": "f1b510a471379de6750ff189741d6d501e9955b8",
+        "title": "火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏",
+        "title_zh": "火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏",
         "title_en": null,
-        "title_original": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
+        "title_original": "火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32170",
+        "url": "https://www.aibase.com/news/32185",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -327,30 +412,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T06:28:59.821468Z"
+        "scored_at": "2026-11-09T17:29:56.829183Z"
       }
     },
     {
-      "story_id": "story_6064b26c32e1",
-      "title": "Meta 迎来重磅升级：基于 Muse Wonder 训练的专用模型全面登陆 Muse 与 Meta AI",
-      "url": "https://www.aibase.com/news/32176",
-      "primary_url": "https://www.aibase.com/news/32176",
+      "story_id": "story_78eaea812a9d",
+      "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
+      "url": "https://www.aibase.com/news/32184",
+      "primary_url": "https://www.aibase.com/news/32184",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "657312a6e962615d65152f7f0b9ded899888afbe",
-          "title": "Meta 迎来重磅升级：基于 Muse Wonder 训练的专用模型全面登陆 Muse 与 Meta AI",
-          "title_zh": "Meta 迎来重磅升级：基于 Muse Wonder 训练的专用模型全面登陆 Muse 与 Meta AI",
+          "id": "ce073b21d9f36a3fb06e9c268114287fc958bad9",
+          "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
+          "title_zh": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
           "title_en": null,
-          "title_original": "Meta 迎来重磅升级：基于 Muse Wonder 训练的专用模型全面登陆 Muse 与 Meta AI",
+          "title_original": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32176",
+          "url": "https://www.aibase.com/news/32184",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T06:27:49.837164Z"
+          "published_at": "2026-11-09T17:17:54.166234Z"
         }
       ],
       "source_count": 1,
@@ -359,31 +444,31 @@
       ],
       "items": [
         {
-          "id": "657312a6e962615d65152f7f0b9ded899888afbe",
-          "title": "Meta 迎来重磅升级：基于 Muse Wonder 训练的专用模型全面登陆 Muse 与 Meta AI",
-          "title_zh": "Meta 迎来重磅升级：基于 Muse Wonder 训练的专用模型全面登陆 Muse 与 Meta AI",
+          "id": "ce073b21d9f36a3fb06e9c268114287fc958bad9",
+          "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
+          "title_zh": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
           "title_en": null,
-          "title_original": "Meta 迎来重磅升级：基于 Muse Wonder 训练的专用模型全面登陆 Muse 与 Meta AI",
+          "title_original": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32176",
+          "url": "https://www.aibase.com/news/32184",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T06:27:49.837164Z"
+          "published_at": "2026-11-09T17:17:54.166234Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9974,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -391,17 +476,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-09T06:27:49.837164Z",
-      "latest_at": "2026-11-09T06:27:49.837164Z",
+      "earliest_at": "2026-11-09T17:17:54.166234Z",
+      "latest_at": "2026-11-09T17:17:54.166234Z",
       "primary_item": {
-        "id": "657312a6e962615d65152f7f0b9ded899888afbe",
-        "title": "Meta 迎来重磅升级：基于 Muse Wonder 训练的专用模型全面登陆 Muse 与 Meta AI",
-        "title_zh": "Meta 迎来重磅升级：基于 Muse Wonder 训练的专用模型全面登陆 Muse 与 Meta AI",
+        "id": "ce073b21d9f36a3fb06e9c268114287fc958bad9",
+        "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
+        "title_zh": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
         "title_en": null,
-        "title_original": "Meta 迎来重磅升级：基于 Muse Wonder 训练的专用模型全面登陆 Muse 与 Meta AI",
+        "title_original": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32176",
+        "url": "https://www.aibase.com/news/32184",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -409,30 +494,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T06:28:59.821468Z"
+        "scored_at": "2026-11-09T17:29:56.829183Z"
       }
     },
     {
-      "story_id": "story_cd2ae0731493",
-      "title": "MiniMax 创始人闫俊杰：靠极致提效做大后训练规模，坚持开源直至 AGI 实现",
-      "url": "https://www.aibase.com/news/32159",
-      "primary_url": "https://www.aibase.com/news/32159",
+      "story_id": "story_9937cd9505af",
+      "title": "当 20 万员工遇上 2000 万智能体：纳德拉描绘微软新编制",
+      "url": "https://www.aibase.com/news/32182",
+      "primary_url": "https://www.aibase.com/news/32182",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "54bda2a61ba33244823a1d4e8a1407dc5775228e",
-          "title": "MiniMax 创始人闫俊杰：靠极致提效做大后训练规模，坚持开源直至 AGI 实现",
-          "title_zh": "MiniMax 创始人闫俊杰：靠极致提效做大后训练规模，坚持开源直至 AGI 实现",
+          "id": "f411abc95014d360d15a501ab0fe29cba4e733c6",
+          "title": "当 20 万员工遇上 2000 万智能体：纳德拉描绘微软新编制",
+          "title_zh": "当 20 万员工遇上 2000 万智能体：纳德拉描绘微软新编制",
           "title_en": null,
-          "title_original": "MiniMax 创始人闫俊杰：靠极致提效做大后训练规模，坚持开源直至 AGI 实现",
+          "title_original": "当 20 万员工遇上 2000 万智能体：纳德拉描绘微软新编制",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32159",
+          "url": "https://www.aibase.com/news/32182",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T06:27:49.837164Z"
+          "published_at": "2026-11-09T16:28:54.166234Z"
         }
       ],
       "source_count": 1,
@@ -441,31 +526,31 @@
       ],
       "items": [
         {
-          "id": "54bda2a61ba33244823a1d4e8a1407dc5775228e",
-          "title": "MiniMax 创始人闫俊杰：靠极致提效做大后训练规模，坚持开源直至 AGI 实现",
-          "title_zh": "MiniMax 创始人闫俊杰：靠极致提效做大后训练规模，坚持开源直至 AGI 实现",
+          "id": "f411abc95014d360d15a501ab0fe29cba4e733c6",
+          "title": "当 20 万员工遇上 2000 万智能体：纳德拉描绘微软新编制",
+          "title_zh": "当 20 万员工遇上 2000 万智能体：纳德拉描绘微软新编制",
           "title_en": null,
-          "title_original": "MiniMax 创始人闫俊杰：靠极致提效做大后训练规模，坚持开源直至 AGI 实现",
+          "title_original": "当 20 万员工遇上 2000 万智能体：纳德拉描绘微软新编制",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32159",
+          "url": "https://www.aibase.com/news/32182",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T06:27:49.837164Z"
+          "published_at": "2026-11-09T16:28:54.166234Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -473,17 +558,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-09T06:27:49.837164Z",
-      "latest_at": "2026-11-09T06:27:49.837164Z",
+      "earliest_at": "2026-11-09T16:28:54.166234Z",
+      "latest_at": "2026-11-09T16:28:54.166234Z",
       "primary_item": {
-        "id": "54bda2a61ba33244823a1d4e8a1407dc5775228e",
-        "title": "MiniMax 创始人闫俊杰：靠极致提效做大后训练规模，坚持开源直至 AGI 实现",
-        "title_zh": "MiniMax 创始人闫俊杰：靠极致提效做大后训练规模，坚持开源直至 AGI 实现",
+        "id": "f411abc95014d360d15a501ab0fe29cba4e733c6",
+        "title": "当 20 万员工遇上 2000 万智能体：纳德拉描绘微软新编制",
+        "title_zh": "当 20 万员工遇上 2000 万智能体：纳德拉描绘微软新编制",
         "title_en": null,
-        "title_original": "MiniMax 创始人闫俊杰：靠极致提效做大后训练规模，坚持开源直至 AGI 实现",
+        "title_original": "当 20 万员工遇上 2000 万智能体：纳德拉描绘微软新编制",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32159",
+        "url": "https://www.aibase.com/news/32182",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -491,30 +576,140 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T06:28:59.821468Z"
+        "scored_at": "2026-11-09T17:29:56.829183Z"
       }
     },
     {
-      "story_id": "story_517fdf1f5f53",
-      "title": "OpenAI新一轮融资筹集110亿美元，估值达1.25万亿美元",
-      "url": "https://www.aibase.com/news/32165",
-      "primary_url": "https://www.aibase.com/news/32165",
+      "story_id": "story_9a69fc205c58",
+      "title": "[百万人工智能工程师特辑]斯坦福大学如何教授人工智能原生工程 — Mihail Eric，摩纳哥 / [One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+      "url": "https://www.youtube.com/watch?v=dpY7YzZo4kE",
+      "primary_url": "https://www.youtube.com/watch?v=dpY7YzZo4kE",
+      "source": "Follow Builders · Podcast · Latent Space",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "84a9e83b89a29349ba27459332c9a0f38255ca5d",
+          "title": "[百万人工智能工程师特辑]斯坦福大学如何教授人工智能原生工程 — Mihail Eric，摩纳哥 / [One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+          "title_zh": "[百万人工智能工程师特辑]斯坦福大学如何教授人工智能原生工程 — Mihail Eric，摩纳哥",
+          "title_en": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+          "title_original": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=dpY7YzZo4kE",
+          "source": "Follow Builders · Podcast · Latent Space",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-11-08T21:23:29Z"
+        },
+        {
+          "id": "273fd0254d684b08c284e786fc0c5b64fd2cc69f",
+          "title": "Etsy 更改了条款，在您的创作上训练人工智能，同时阻止您这样做 [视频] / Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+          "title_zh": "Etsy 更改了条款，在您的创作上训练人工智能，同时阻止您这样做 [视频]",
+          "title_en": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+          "title_original": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T19:14:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · Podcast · Latent Space",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "84a9e83b89a29349ba27459332c9a0f38255ca5d",
+          "title": "[百万人工智能工程师特辑]斯坦福大学如何教授人工智能原生工程 — Mihail Eric，摩纳哥 / [One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+          "title_zh": "[百万人工智能工程师特辑]斯坦福大学如何教授人工智能原生工程 — Mihail Eric，摩纳哥",
+          "title_en": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+          "title_original": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=dpY7YzZo4kE",
+          "source": "Follow Builders · Podcast · Latent Space",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-11-08T21:23:29Z"
+        },
+        {
+          "id": "273fd0254d684b08c284e786fc0c5b64fd2cc69f",
+          "title": "Etsy 更改了条款，在您的创作上训练人工智能，同时阻止您这样做 [视频] / Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+          "title_zh": "Etsy 更改了条款，在您的创作上训练人工智能，同时阻止您这样做 [视频]",
+          "title_en": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+          "title_original": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T19:14:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6164,
+      "importance": 0.6164,
+      "importance_score": 0.6164,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5544,
+        "source_tier": 0.62,
+        "ai_relevance": 0.77,
+        "recency": 0.7482,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T19:14:41Z",
+      "latest_at": "2026-11-08T21:23:29Z",
+      "primary_item": {
+        "id": "84a9e83b89a29349ba27459332c9a0f38255ca5d",
+        "title": "[百万人工智能工程师特辑]斯坦福大学如何教授人工智能原生工程 — Mihail Eric，摩纳哥 / [One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+        "title_zh": "[百万人工智能工程师特辑]斯坦福大学如何教授人工智能原生工程 — Mihail Eric，摩纳哥",
+        "title_en": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+        "title_original": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.youtube.com/watch?v=dpY7YzZo4kE",
+        "source": "Follow Builders · Podcast · Latent Space",
+        "source_name": "Follow Builders"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T17:29:56.829183Z"
+      }
+    },
+    {
+      "story_id": "story_11bf36fea7a6",
+      "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
+      "url": "https://www.aibase.com/news/32181",
+      "primary_url": "https://www.aibase.com/news/32181",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a0c2af644bca072d58ae44cc465c5f6d6787dcad",
-          "title": "OpenAI新一轮融资筹集110亿美元，估值达1.25万亿美元",
-          "title_zh": "OpenAI新一轮融资筹集110亿美元，估值达1.25万亿美元",
+          "id": "1193b4cf0b1dfa9b16e1c268204e5a9d4c4ddccd",
+          "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
+          "title_zh": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
           "title_en": null,
-          "title_original": "OpenAI新一轮融资筹集110亿美元，估值达1.25万亿美元",
+          "title_original": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32165",
+          "url": "https://www.aibase.com/news/32181",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T06:27:49.837164Z"
+          "published_at": "2026-11-09T16:28:54.166234Z"
         }
       ],
       "source_count": 1,
@@ -523,31 +718,31 @@
       ],
       "items": [
         {
-          "id": "a0c2af644bca072d58ae44cc465c5f6d6787dcad",
-          "title": "OpenAI新一轮融资筹集110亿美元，估值达1.25万亿美元",
-          "title_zh": "OpenAI新一轮融资筹集110亿美元，估值达1.25万亿美元",
+          "id": "1193b4cf0b1dfa9b16e1c268204e5a9d4c4ddccd",
+          "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
+          "title_zh": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
           "title_en": null,
-          "title_original": "OpenAI新一轮融资筹集110亿美元，估值达1.25万亿美元",
+          "title_original": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32165",
+          "url": "https://www.aibase.com/news/32181",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T06:27:49.837164Z"
+          "published_at": "2026-11-09T16:28:54.166234Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -555,17 +750,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-09T06:27:49.837164Z",
-      "latest_at": "2026-11-09T06:27:49.837164Z",
+      "earliest_at": "2026-11-09T16:28:54.166234Z",
+      "latest_at": "2026-11-09T16:28:54.166234Z",
       "primary_item": {
-        "id": "a0c2af644bca072d58ae44cc465c5f6d6787dcad",
-        "title": "OpenAI新一轮融资筹集110亿美元，估值达1.25万亿美元",
-        "title_zh": "OpenAI新一轮融资筹集110亿美元，估值达1.25万亿美元",
+        "id": "1193b4cf0b1dfa9b16e1c268204e5a9d4c4ddccd",
+        "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
+        "title_zh": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
         "title_en": null,
-        "title_original": "OpenAI新一轮融资筹集110亿美元，估值达1.25万亿美元",
+        "title_original": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32165",
+        "url": "https://www.aibase.com/news/32181",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -573,30 +768,139 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T06:28:59.821468Z"
+        "scored_at": "2026-11-09T17:29:56.829183Z"
       }
     },
     {
-      "story_id": "story_3c1aa2e82ff3",
-      "title": "SpaceXAI 扩大 Grok Bot 访问范围，覆盖 SuperGrok 与 Cursor 全线套餐",
-      "url": "https://www.aibase.com/news/32164",
-      "primary_url": "https://www.aibase.com/news/32164",
+      "story_id": "story_8a739bd8f9f9",
+      "title": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的隐形底座？",
+      "url": "https://www.infoq.cn/article/icMBWWjE3LTzEY1tHKr8",
+      "primary_url": "https://www.infoq.cn/article/icMBWWjE3LTzEY1tHKr8",
+      "source": "InfoQ CN",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "cb7355972a66c303ba03e9d8e5c38ffda4ae0926",
+          "title": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的隐形底座？",
+          "title_zh": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的隐形底座？",
+          "title_en": null,
+          "title_original": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的隐形底座？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.infoq.cn/article/icMBWWjE3LTzEY1tHKr8",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-09T13:40:24Z"
+        },
+        {
+          "id": "31a4edcbd9066cb40bd7a8f87199e1da037f7bfb",
+          "title": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的\"隐形底座\"？",
+          "title_zh": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的\"隐形底座\"？",
+          "title_en": null,
+          "title_original": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的\"隐形底座\"？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.infoq.cn/article/icMBWWjE3LTzEY1tHKr8",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-09T05:40:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "InfoQ CN"
+      ],
+      "items": [
+        {
+          "id": "cb7355972a66c303ba03e9d8e5c38ffda4ae0926",
+          "title": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的隐形底座？",
+          "title_zh": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的隐形底座？",
+          "title_en": null,
+          "title_original": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的隐形底座？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.infoq.cn/article/icMBWWjE3LTzEY1tHKr8",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-09T13:40:24Z"
+        },
+        {
+          "id": "31a4edcbd9066cb40bd7a8f87199e1da037f7bfb",
+          "title": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的\"隐形底座\"？",
+          "title_zh": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的\"隐形底座\"？",
+          "title_en": null,
+          "title_original": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的\"隐形底座\"？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.infoq.cn/article/icMBWWjE3LTzEY1tHKr8",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-09T05:40:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5841,
+      "importance": 0.5841,
+      "importance_score": 0.5841,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4824,
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9465,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-09T05:40:23Z",
+      "latest_at": "2026-11-09T13:40:24Z",
+      "primary_item": {
+        "id": "cb7355972a66c303ba03e9d8e5c38ffda4ae0926",
+        "title": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的隐形底座？",
+        "title_zh": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的隐形底座？",
+        "title_en": null,
+        "title_original": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的隐形底座？",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.infoq.cn/article/icMBWWjE3LTzEY1tHKr8",
+        "source": "InfoQ CN",
+        "source_name": "OPML RSS"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T17:29:56.829183Z"
+      }
+    },
+    {
+      "story_id": "story_9eed38dc8eb1",
+      "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
+      "url": "https://www.aibase.com/news/32180",
+      "primary_url": "https://www.aibase.com/news/32180",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ad92ef36f757fcb7d1d3038a7c086fa40112aaaf",
-          "title": "SpaceXAI 扩大 Grok Bot 访问范围，覆盖 SuperGrok 与 Cursor 全线套餐",
-          "title_zh": "SpaceXAI 扩大 Grok Bot 访问范围，覆盖 SuperGrok 与 Cursor 全线套餐",
+          "id": "0964a3f8f0de8510498713d41cb2f356774b8051",
+          "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
+          "title_zh": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
           "title_en": null,
-          "title_original": "SpaceXAI 扩大 Grok Bot 访问范围，覆盖 SuperGrok 与 Cursor 全线套餐",
+          "title_original": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32164",
+          "url": "https://www.aibase.com/news/32180",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T06:27:49.837164Z"
+          "published_at": "2026-11-09T15:28:54.166234Z"
         }
       ],
       "source_count": 1,
@@ -605,31 +909,31 @@
       ],
       "items": [
         {
-          "id": "ad92ef36f757fcb7d1d3038a7c086fa40112aaaf",
-          "title": "SpaceXAI 扩大 Grok Bot 访问范围，覆盖 SuperGrok 与 Cursor 全线套餐",
-          "title_zh": "SpaceXAI 扩大 Grok Bot 访问范围，覆盖 SuperGrok 与 Cursor 全线套餐",
+          "id": "0964a3f8f0de8510498713d41cb2f356774b8051",
+          "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
+          "title_zh": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
           "title_en": null,
-          "title_original": "SpaceXAI 扩大 Grok Bot 访问范围，覆盖 SuperGrok 与 Cursor 全线套餐",
+          "title_original": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32164",
+          "url": "https://www.aibase.com/news/32180",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T06:27:49.837164Z"
+          "published_at": "2026-11-09T15:28:54.166234Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -637,17 +941,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-09T06:27:49.837164Z",
-      "latest_at": "2026-11-09T06:27:49.837164Z",
+      "earliest_at": "2026-11-09T15:28:54.166234Z",
+      "latest_at": "2026-11-09T15:28:54.166234Z",
       "primary_item": {
-        "id": "ad92ef36f757fcb7d1d3038a7c086fa40112aaaf",
-        "title": "SpaceXAI 扩大 Grok Bot 访问范围，覆盖 SuperGrok 与 Cursor 全线套餐",
-        "title_zh": "SpaceXAI 扩大 Grok Bot 访问范围，覆盖 SuperGrok 与 Cursor 全线套餐",
+        "id": "0964a3f8f0de8510498713d41cb2f356774b8051",
+        "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
+        "title_zh": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
         "title_en": null,
-        "title_original": "SpaceXAI 扩大 Grok Bot 访问范围，覆盖 SuperGrok 与 Cursor 全线套餐",
+        "title_original": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32164",
+        "url": "https://www.aibase.com/news/32180",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -655,7 +959,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T06:28:59.821468Z"
+        "scored_at": "2026-11-09T17:29:56.829183Z"
+      }
+    },
+    {
+      "story_id": "story_f54dd1ec0e96",
+      "title": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
+      "url": "https://www.aibase.com/news/32179",
+      "primary_url": "https://www.aibase.com/news/32179",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5611e0b24730334ce2201865fd02e92895ff9e2b",
+          "title": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
+          "title_zh": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
+          "title_en": null,
+          "title_original": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32179",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-09T15:28:54.166234Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5611e0b24730334ce2201865fd02e92895ff9e2b",
+          "title": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
+          "title_zh": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
+          "title_en": null,
+          "title_original": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32179",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-09T15:28:54.166234Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9715,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T15:28:54.166234Z",
+      "latest_at": "2026-11-09T15:28:54.166234Z",
+      "primary_item": {
+        "id": "5611e0b24730334ce2201865fd02e92895ff9e2b",
+        "title": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
+        "title_zh": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
+        "title_en": null,
+        "title_original": "英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32179",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T17:29:56.829183Z"
       }
     },
     {
@@ -761,15 +1147,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5669,
-      "importance": 0.5669,
-      "importance_score": 0.5669,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9786,
+        "recency": 0.8347,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -794,89 +1180,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T06:28:59.821468Z"
+        "scored_at": "2026-11-09T17:29:56.829183Z"
       }
     },
     {
-      "story_id": "story_6e2a7da57c49",
-      "title": "xAI 全面升级 Grok Bot，重点优化 Token 效率与智能表现",
-      "url": "https://www.aibase.com/news/32171",
-      "primary_url": "https://www.aibase.com/news/32171",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_4abedad85259",
+      "title": "苹果将工程师的每日人工智能预算上限设定为200美元",
+      "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
+      "primary_url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
+      "source": "www.stork.ai",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "37536558876fc9f9188b6e5d407d3400838ea0da",
-          "title": "xAI 全面升级 Grok Bot，重点优化 Token 效率与智能表现",
-          "title_zh": "xAI 全面升级 Grok Bot，重点优化 Token 效率与智能表现",
+          "id": "5c1d388099b8b3163f42f4dae883f09e4fa04be9",
+          "title": "苹果将工程师的每日人工智能预算上限设定为200美元",
+          "title_zh": "苹果将工程师的每日人工智能预算上限设定为200美元",
           "title_en": null,
-          "title_original": "xAI 全面升级 Grok Bot，重点优化 Token 效率与智能表现",
+          "title_original": "苹果将工程师的每日人工智能预算上限设定为200美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32171",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T06:27:49.837164Z"
+          "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
+          "source": "www.stork.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-09T15:18:41.370000Z"
+        },
+        {
+          "id": "af3790f6becefe81c1b2bbedd1eea069fa70b927",
+          "title": "苹果将工程师的每日人工智能预算上限设定为200美元 / Apple capped engineers at a $200 daily AI budget",
+          "title_zh": "苹果将工程师的每日人工智能预算上限设定为200美元",
+          "title_en": "Apple capped engineers at a $200 daily AI budget",
+          "title_original": "Apple capped engineers at a $200 daily AI budget",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-09T05:30:11Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "www.stork.ai"
       ],
       "items": [
         {
-          "id": "37536558876fc9f9188b6e5d407d3400838ea0da",
-          "title": "xAI 全面升级 Grok Bot，重点优化 Token 效率与智能表现",
-          "title_zh": "xAI 全面升级 Grok Bot，重点优化 Token 效率与智能表现",
+          "id": "5c1d388099b8b3163f42f4dae883f09e4fa04be9",
+          "title": "苹果将工程师的每日人工智能预算上限设定为200美元",
+          "title_zh": "苹果将工程师的每日人工智能预算上限设定为200美元",
           "title_en": null,
-          "title_original": "xAI 全面升级 Grok Bot，重点优化 Token 效率与智能表现",
+          "title_original": "苹果将工程师的每日人工智能预算上限设定为200美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32171",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T06:27:49.837164Z"
+          "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
+          "source": "www.stork.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-09T15:18:41.370000Z"
+        },
+        {
+          "id": "af3790f6becefe81c1b2bbedd1eea069fa70b927",
+          "title": "苹果将工程师的每日人工智能预算上限设定为200美元 / Apple capped engineers at a $200 daily AI budget",
+          "title_zh": "苹果将工程师的每日人工智能预算上限设定为200美元",
+          "title_en": "Apple capped engineers at a $200 daily AI budget",
+          "title_original": "Apple capped engineers at a $200 daily AI budget",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-09T05:30:11Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9691,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-09T06:27:49.837164Z",
-      "latest_at": "2026-11-09T06:27:49.837164Z",
+      "earliest_at": "2026-11-09T05:30:11Z",
+      "latest_at": "2026-11-09T15:18:41.370000Z",
       "primary_item": {
-        "id": "37536558876fc9f9188b6e5d407d3400838ea0da",
-        "title": "xAI 全面升级 Grok Bot，重点优化 Token 效率与智能表现",
-        "title_zh": "xAI 全面升级 Grok Bot，重点优化 Token 效率与智能表现",
+        "id": "5c1d388099b8b3163f42f4dae883f09e4fa04be9",
+        "title": "苹果将工程师的每日人工智能预算上限设定为200美元",
+        "title_zh": "苹果将工程师的每日人工智能预算上限设定为200美元",
         "title_en": null,
-        "title_original": "xAI 全面升级 Grok Bot，重点优化 Token 效率与智能表现",
+        "title_original": "苹果将工程师的每日人工智能预算上限设定为200美元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32171",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
+        "source": "www.stork.ai",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T06:28:59.821468Z"
+        "scored_at": "2026-11-09T17:29:56.829183Z"
+      }
+    },
+    {
+      "story_id": "story_3861a4134a57",
+      "title": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
+      "url": "https://news.ycombinator.com/item?id=50422628",
+      "primary_url": "https://news.ycombinator.com/item?id=50422628",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e2e3e9486213268f50aab7f02f8c8aa847814bcc",
+          "title": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
+          "title_zh": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
+          "title_en": null,
+          "title_original": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50422628",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-09T14:46:44.465000Z"
+        },
+        {
+          "id": "4c64eec1eb7478061428b15d3f5722b60c0ddedd",
+          "title": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器 / ChatGPT Desktop forwards your SSH agent to remote machines",
+          "title_zh": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
+          "title_en": "ChatGPT Desktop forwards your SSH agent to remote machines",
+          "title_original": "ChatGPT Desktop forwards your SSH agent to remote machines",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50422628",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-09T08:17:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "e2e3e9486213268f50aab7f02f8c8aa847814bcc",
+          "title": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
+          "title_zh": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
+          "title_en": null,
+          "title_original": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50422628",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-09T14:46:44.465000Z"
+        },
+        {
+          "id": "4c64eec1eb7478061428b15d3f5722b60c0ddedd",
+          "title": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器 / ChatGPT Desktop forwards your SSH agent to remote machines",
+          "title_zh": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
+          "title_en": "ChatGPT Desktop forwards your SSH agent to remote machines",
+          "title_original": "ChatGPT Desktop forwards your SSH agent to remote machines",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50422628",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-09T08:17:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9617,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-09T08:17:49Z",
+      "latest_at": "2026-11-09T14:46:44.465000Z",
+      "primary_item": {
+        "id": "e2e3e9486213268f50aab7f02f8c8aa847814bcc",
+        "title": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
+        "title_zh": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
+        "title_en": null,
+        "title_original": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=50422628",
+        "source": "news.ycombinator.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T17:29:56.829183Z"
       }
     },
     {
@@ -982,15 +1506,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5508,
-      "importance": 0.5508,
-      "importance_score": 0.5508,
+      "score": 0.5273,
+      "importance": 0.5273,
+      "importance_score": 0.5273,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8892,
+        "recency": 0.7584,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1015,165 +1539,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T06:28:59.821468Z"
+        "scored_at": "2026-11-09T17:29:56.829183Z"
       }
     },
     {
-      "story_id": "story_553c073cf47e",
-      "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
-      "url": "https://github.com/synchopate/llama-modchip",
-      "primary_url": "https://github.com/synchopate/llama-modchip",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "358b1f60ce95f575914da4e0562788c199a8cea0",
-          "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
-          "title_zh": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
-          "title_en": null,
-          "title_original": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/synchopate/llama-modchip",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T20:56:03.367000Z"
-        },
-        {
-          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
-          "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "title_zh": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
-          "title_en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "title_original": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/synchopate/llama-modchip",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T10:22:04Z"
-        },
-        {
-          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
-          "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "title_zh": null,
-          "title_en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "title_original": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50411961",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T10:22:04Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "358b1f60ce95f575914da4e0562788c199a8cea0",
-          "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
-          "title_zh": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
-          "title_en": null,
-          "title_original": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/synchopate/llama-modchip",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T20:56:03.367000Z"
-        },
-        {
-          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
-          "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "title_zh": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
-          "title_en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "title_original": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/synchopate/llama-modchip",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T10:22:04Z"
-        },
-        {
-          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
-          "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "title_zh": null,
-          "title_en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "title_original": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50411961",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T10:22:04Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5477,
-      "importance": 0.5477,
-      "importance_score": 0.5477,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8714,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T10:22:04Z",
-      "latest_at": "2026-11-08T20:56:03.367000Z",
-      "primary_item": {
-        "id": "358b1f60ce95f575914da4e0562788c199a8cea0",
-        "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
-        "title_zh": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
-        "title_en": null,
-        "title_original": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/synchopate/llama-modchip",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T06:28:59.821468Z"
-      }
-    },
-    {
-      "story_id": "story_c894cb3e0d85",
-      "title": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-      "url": "https://www.aibase.com/news/32178",
-      "primary_url": "https://www.aibase.com/news/32178",
+      "story_id": "story_1d48875ccb6b",
+      "title": "Anthropic 斥资 34 亿美元抢购发电设备，为数据中心补充能源",
+      "url": "https://www.aibase.com/news/32162",
+      "primary_url": "https://www.aibase.com/news/32162",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d753d42b6a65cb304e3101e48c75d503d7aab471",
-          "title": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-          "title_zh": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
+          "id": "725715869b05cd7443f7b044b85b142382ac015b",
+          "title": "Anthropic 斥资 34 亿美元抢购发电设备，为数据中心补充能源",
+          "title_zh": "Anthropic 斥资 34 亿美元抢购发电设备，为数据中心补充能源",
           "title_en": null,
-          "title_original": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
+          "title_original": "Anthropic 斥资 34 亿美元抢购发电设备，为数据中心补充能源",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32178",
+          "url": "https://www.aibase.com/news/32162",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1186,14 +1571,14 @@
       ],
       "items": [
         {
-          "id": "d753d42b6a65cb304e3101e48c75d503d7aab471",
-          "title": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-          "title_zh": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
+          "id": "725715869b05cd7443f7b044b85b142382ac015b",
+          "title": "Anthropic 斥资 34 亿美元抢购发电设备，为数据中心补充能源",
+          "title_zh": "Anthropic 斥资 34 亿美元抢购发电设备，为数据中心补充能源",
           "title_en": null,
-          "title_original": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
+          "title_original": "Anthropic 斥资 34 亿美元抢购发电设备，为数据中心补充能源",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32178",
+          "url": "https://www.aibase.com/news/32162",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1202,33 +1587,32 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8529,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-09T06:27:49.837164Z",
       "latest_at": "2026-11-09T06:27:49.837164Z",
       "primary_item": {
-        "id": "d753d42b6a65cb304e3101e48c75d503d7aab471",
-        "title": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-        "title_zh": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
+        "id": "725715869b05cd7443f7b044b85b142382ac015b",
+        "title": "Anthropic 斥资 34 亿美元抢购发电设备，为数据中心补充能源",
+        "title_zh": "Anthropic 斥资 34 亿美元抢购发电设备，为数据中心补充能源",
         "title_en": null,
-        "title_original": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
+        "title_original": "Anthropic 斥资 34 亿美元抢购发电设备，为数据中心补充能源",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32178",
+        "url": "https://www.aibase.com/news/32162",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1236,227 +1620,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T06:28:59.821468Z"
-      }
-    },
-    {
-      "story_id": "story_44b10c0b36c9",
-      "title": "为什么我不会在编程中使用大型语言模型",
-      "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-      "primary_url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-      "source": "www.polso.info",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2704834de82acc4f58d1989254432d7e63eef624",
-          "title": "为什么我不会在编程中使用大型语言模型",
-          "title_zh": "为什么我不会在编程中使用大型语言模型",
-          "title_en": null,
-          "title_original": "为什么我不会在编程中使用大型语言模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-          "source": "www.polso.info",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T21:47:44Z"
-        },
-        {
-          "id": "ac79346a3ad19a65c99641bc0c1849913acd53e7",
-          "title": "为什么我不会在编程中使用大型语言模型 / I will not be using LLMs in my coding",
-          "title_zh": "为什么我不会在编程中使用大型语言模型",
-          "title_en": "I will not be using LLMs in my coding",
-          "title_original": "I will not be using LLMs in my coding",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-08T12:14:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.polso.info"
-      ],
-      "items": [
-        {
-          "id": "2704834de82acc4f58d1989254432d7e63eef624",
-          "title": "为什么我不会在编程中使用大型语言模型",
-          "title_zh": "为什么我不会在编程中使用大型语言模型",
-          "title_en": null,
-          "title_original": "为什么我不会在编程中使用大型语言模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-          "source": "www.polso.info",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T21:47:44Z"
-        },
-        {
-          "id": "ac79346a3ad19a65c99641bc0c1849913acd53e7",
-          "title": "为什么我不会在编程中使用大型语言模型 / I will not be using LLMs in my coding",
-          "title_zh": "为什么我不会在编程中使用大型语言模型",
-          "title_en": "I will not be using LLMs in my coding",
-          "title_original": "I will not be using LLMs in my coding",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-08T12:14:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5246,
-      "importance": 0.5246,
-      "importance_score": 0.5246,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8823,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T12:14:10Z",
-      "latest_at": "2026-11-08T21:47:44Z",
-      "primary_item": {
-        "id": "2704834de82acc4f58d1989254432d7e63eef624",
-        "title": "为什么我不会在编程中使用大型语言模型",
-        "title_zh": "为什么我不会在编程中使用大型语言模型",
-        "title_en": null,
-        "title_original": "为什么我不会在编程中使用大型语言模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-        "source": "www.polso.info",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T06:28:59.821468Z"
-      }
-    },
-    {
-      "story_id": "story_11c5bedf092a",
-      "title": "OpenAI以1.25万亿美元估值融资110亿美元",
-      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-      "primary_url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-      "source": "247wallst.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4ce2bead2f9eceac6f778755e823b34b9d40f5a0",
-          "title": "OpenAI以1.25万亿美元估值融资110亿美元",
-          "title_zh": "OpenAI以1.25万亿美元估值融资110亿美元",
-          "title_en": null,
-          "title_original": "OpenAI以1.25万亿美元估值融资110亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-          "source": "247wallst.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T20:56:03.911000Z"
-        },
-        {
-          "id": "2d02cd05dea16af32f1e53f8275e579854f25c61",
-          "title": "OpenAI以1.25万亿美元估值融资110亿美元 / OpenAI raises $11B at a $1.25T valuation",
-          "title_zh": "OpenAI以1.25万亿美元估值融资110亿美元",
-          "title_en": "OpenAI raises $11B at a $1.25T valuation",
-          "title_original": "OpenAI raises $11B at a $1.25T valuation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-08T14:49:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "247wallst.com",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "4ce2bead2f9eceac6f778755e823b34b9d40f5a0",
-          "title": "OpenAI以1.25万亿美元估值融资110亿美元",
-          "title_zh": "OpenAI以1.25万亿美元估值融资110亿美元",
-          "title_en": null,
-          "title_original": "OpenAI以1.25万亿美元估值融资110亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-          "source": "247wallst.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T20:56:03.911000Z"
-        },
-        {
-          "id": "2d02cd05dea16af32f1e53f8275e579854f25c61",
-          "title": "OpenAI以1.25万亿美元估值融资110亿美元 / OpenAI raises $11B at a $1.25T valuation",
-          "title_zh": "OpenAI以1.25万亿美元估值融资110亿美元",
-          "title_en": "OpenAI raises $11B at a $1.25T valuation",
-          "title_original": "OpenAI raises $11B at a $1.25T valuation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-08T14:49:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5227,
-      "importance": 0.5227,
-      "importance_score": 0.5227,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8714,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T14:49:23Z",
-      "latest_at": "2026-11-08T20:56:03.911000Z",
-      "primary_item": {
-        "id": "4ce2bead2f9eceac6f778755e823b34b9d40f5a0",
-        "title": "OpenAI以1.25万亿美元估值融资110亿美元",
-        "title_zh": "OpenAI以1.25万亿美元估值融资110亿美元",
-        "title_en": null,
-        "title_original": "OpenAI以1.25万亿美元估值融资110亿美元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-        "source": "247wallst.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T06:28:59.821468Z"
+        "scored_at": "2026-11-09T17:29:56.829183Z"
       }
     },
     {
@@ -1533,15 +1697,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5177,
-      "importance": 0.5177,
-      "importance_score": 0.5177,
+      "score": 0.4954,
+      "importance": 0.4954,
+      "importance_score": 0.4954,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.844,
+        "recency": 0.7199,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1563,10 +1727,10 @@
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T06:28:59.821468Z"
+        "scored_at": "2026-11-09T17:29:56.829183Z"
       }
     },
     {
@@ -1643,15 +1807,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5167,
-      "importance": 0.5167,
-      "importance_score": 0.5167,
+      "score": 0.4945,
+      "importance": 0.4945,
+      "importance_score": 0.4945,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8385,
+        "recency": 0.7152,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1673,29 +1837,29 @@
         "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T06:28:59.821468Z"
+        "scored_at": "2026-11-09T17:29:56.829183Z"
       }
     },
     {
-      "story_id": "story_d11862b63063",
-      "title": "优惠悄悄结束惹争议，Workbuddy 给 DeepSeek 用户退一半积分",
-      "url": "https://www.aibase.com/news/32161",
-      "primary_url": "https://www.aibase.com/news/32161",
+      "story_id": "story_3f0dbd80a497",
+      "title": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
+      "url": "https://www.aibase.com/news/32172",
+      "primary_url": "https://www.aibase.com/news/32172",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e09edc23648b2104bae637934505d50a00ed9b0a",
-          "title": "优惠悄悄结束惹争议，Workbuddy 给 DeepSeek 用户退一半积分",
-          "title_zh": "优惠悄悄结束惹争议，Workbuddy 给 DeepSeek 用户退一半积分",
+          "id": "4b7a80444e22cf178c908b5c55f7886059e5f017",
+          "title": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
+          "title_zh": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
           "title_en": null,
-          "title_original": "优惠悄悄结束惹争议，Workbuddy 给 DeepSeek 用户退一半积分",
+          "title_original": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32161",
+          "url": "https://www.aibase.com/news/32172",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1708,14 +1872,14 @@
       ],
       "items": [
         {
-          "id": "e09edc23648b2104bae637934505d50a00ed9b0a",
-          "title": "优惠悄悄结束惹争议，Workbuddy 给 DeepSeek 用户退一半积分",
-          "title_zh": "优惠悄悄结束惹争议，Workbuddy 给 DeepSeek 用户退一半积分",
+          "id": "4b7a80444e22cf178c908b5c55f7886059e5f017",
+          "title": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
+          "title_zh": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
           "title_en": null,
-          "title_original": "优惠悄悄结束惹争议，Workbuddy 给 DeepSeek 用户退一半积分",
+          "title_original": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32161",
+          "url": "https://www.aibase.com/news/32172",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1724,33 +1888,32 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8529,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-09T06:27:49.837164Z",
       "latest_at": "2026-11-09T06:27:49.837164Z",
       "primary_item": {
-        "id": "e09edc23648b2104bae637934505d50a00ed9b0a",
-        "title": "优惠悄悄结束惹争议，Workbuddy 给 DeepSeek 用户退一半积分",
-        "title_zh": "优惠悄悄结束惹争议，Workbuddy 给 DeepSeek 用户退一半积分",
+        "id": "4b7a80444e22cf178c908b5c55f7886059e5f017",
+        "title": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
+        "title_zh": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
         "title_en": null,
-        "title_original": "优惠悄悄结束惹争议，Workbuddy 给 DeepSeek 用户退一半积分",
+        "title_original": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32161",
+        "url": "https://www.aibase.com/news/32172",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1758,171 +1921,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T06:28:59.821468Z"
-      }
-    },
-    {
-      "story_id": "story_e56feadcd864",
-      "title": "几秒钟“复刻”巨星?Suno再因侵权被告上法庭",
-      "url": "https://www.aibase.com/news/32174",
-      "primary_url": "https://www.aibase.com/news/32174",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "54edf22330731feadb1d992fd0685d67c0762183",
-          "title": "几秒钟“复刻”巨星?Suno再因侵权被告上法庭",
-          "title_zh": "几秒钟“复刻”巨星?Suno再因侵权被告上法庭",
-          "title_en": null,
-          "title_original": "几秒钟“复刻”巨星?Suno再因侵权被告上法庭",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32174",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T06:27:49.837164Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "54edf22330731feadb1d992fd0685d67c0762183",
-          "title": "几秒钟“复刻”巨星?Suno再因侵权被告上法庭",
-          "title_zh": "几秒钟“复刻”巨星?Suno再因侵权被告上法庭",
-          "title_en": null,
-          "title_original": "几秒钟“复刻”巨星?Suno再因侵权被告上法庭",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32174",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T06:27:49.837164Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T06:27:49.837164Z",
-      "latest_at": "2026-11-09T06:27:49.837164Z",
-      "primary_item": {
-        "id": "54edf22330731feadb1d992fd0685d67c0762183",
-        "title": "几秒钟“复刻”巨星?Suno再因侵权被告上法庭",
-        "title_zh": "几秒钟“复刻”巨星?Suno再因侵权被告上法庭",
-        "title_en": null,
-        "title_original": "几秒钟“复刻”巨星?Suno再因侵权被告上法庭",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32174",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T06:28:59.821468Z"
-      }
-    },
-    {
-      "story_id": "story_147823fd68e3",
-      "title": "古尔曼爆料：Siri 最快明年变身自主代理，正面硬刚 OpenAI 与 Meta",
-      "url": "https://www.aibase.com/news/32175",
-      "primary_url": "https://www.aibase.com/news/32175",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1b16522c7d5109de18ec7838b76f9d44174c2604",
-          "title": "古尔曼爆料：Siri 最快明年变身自主代理，正面硬刚 OpenAI 与 Meta",
-          "title_zh": "古尔曼爆料：Siri 最快明年变身自主代理，正面硬刚 OpenAI 与 Meta",
-          "title_en": null,
-          "title_original": "古尔曼爆料：Siri 最快明年变身自主代理，正面硬刚 OpenAI 与 Meta",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32175",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T06:27:49.837164Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1b16522c7d5109de18ec7838b76f9d44174c2604",
-          "title": "古尔曼爆料：Siri 最快明年变身自主代理，正面硬刚 OpenAI 与 Meta",
-          "title_zh": "古尔曼爆料：Siri 最快明年变身自主代理，正面硬刚 OpenAI 与 Meta",
-          "title_en": null,
-          "title_original": "古尔曼爆料：Siri 最快明年变身自主代理，正面硬刚 OpenAI 与 Meta",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32175",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T06:27:49.837164Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T06:27:49.837164Z",
-      "latest_at": "2026-11-09T06:27:49.837164Z",
-      "primary_item": {
-        "id": "1b16522c7d5109de18ec7838b76f9d44174c2604",
-        "title": "古尔曼爆料：Siri 最快明年变身自主代理，正面硬刚 OpenAI 与 Meta",
-        "title_zh": "古尔曼爆料：Siri 最快明年变身自主代理，正面硬刚 OpenAI 与 Meta",
-        "title_en": null,
-        "title_original": "古尔曼爆料：Siri 最快明年变身自主代理，正面硬刚 OpenAI 与 Meta",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32175",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T06:28:59.821468Z"
+        "scored_at": "2026-11-09T17:29:56.829183Z"
       }
     }
   ]
