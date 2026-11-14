@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14T10:32:37.533171Z",
+  "generated_at": "2026-11-14T17:07:44.402893Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 18,
   "items": [
     {
       "story_id": "story_010ac45cd0c9",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8278,
-      "importance": 0.8278,
-      "importance_score": 0.8278,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7876,
+        "recency": 0.7162,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T10:33:26.218220Z"
+        "scored_at": "2026-11-14T17:09:03.705131Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
+      "score": 0.8096,
+      "importance": 0.8096,
+      "importance_score": 0.8096,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.792,
+        "recency": 0.7202,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,173 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T10:33:26.218220Z"
-      }
-    },
-    {
-      "story_id": "story_a9f8b4a664f6",
-      "title": "Introducing ChatGPT Wallet",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "primary_url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
-          "title": "Introducing ChatGPT Wallet",
-          "title_zh": null,
-          "title_en": "Introducing ChatGPT Wallet",
-          "title_original": "Introducing ChatGPT Wallet",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-chatgpt-wallet",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
-          "title": "Introducing ChatGPT Wallet",
-          "title_zh": null,
-          "title_en": "Introducing ChatGPT Wallet",
-          "title_original": "Introducing ChatGPT Wallet",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-chatgpt-wallet",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7541,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T15:00:00Z",
-      "latest_at": "2026-11-13T15:00:00Z",
-      "primary_item": {
-        "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
-        "title": "Introducing ChatGPT Wallet",
-        "title_zh": null,
-        "title_en": "Introducing ChatGPT Wallet",
-        "title_original": "Introducing ChatGPT Wallet",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/introducing-chatgpt-wallet",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T10:33:26.218220Z"
-      }
-    },
-    {
-      "story_id": "story_65948bc08832",
-      "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
-      "url": "https://huggingface.co/blog/allenai/xybench",
-      "primary_url": "https://huggingface.co/blog/allenai/xybench",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
-          "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
-          "title_zh": "XYBench：帮助解决问题背后的问题",
-          "title_en": "XYBench: Helping with the problem behind the question",
-          "title_original": "XYBench: Helping with the problem behind the question",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/xybench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T17:02:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
-          "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
-          "title_zh": "XYBench：帮助解决问题背后的问题",
-          "title_en": "XYBench: Helping with the problem behind the question",
-          "title_original": "XYBench: Helping with the problem behind the question",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/xybench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T17:02:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7767,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T17:02:35Z",
-      "latest_at": "2026-11-13T17:02:35Z",
-      "primary_item": {
-        "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
-        "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
-        "title_zh": "XYBench：帮助解决问题背后的问题",
-        "title_en": "XYBench: Helping with the problem behind the question",
-        "title_original": "XYBench: Helping with the problem behind the question",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/xybench",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T10:33:26.218220Z"
+        "scored_at": "2026-11-14T17:09:03.705131Z"
       }
     },
     {
@@ -380,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8193,
-      "importance": 0.8193,
-      "importance_score": 0.8193,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8184,
+        "recency": 0.7442,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T10:33:26.218220Z"
+        "scored_at": "2026-11-14T17:09:03.705131Z"
       }
     },
     {
@@ -463,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9093,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,7 +331,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T10:33:26.218220Z"
+        "scored_at": "2026-11-14T17:09:03.705131Z"
       }
     },
     {
@@ -545,15 +379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8147,
-      "importance": 0.8147,
-      "importance_score": 0.8147,
+      "score": 0.8017,
+      "importance": 0.8017,
+      "importance_score": 0.8017,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7927,
+        "recency": 0.7208,
         "story_heat": 0.0
       },
       "category": "official",
@@ -580,416 +414,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T10:33:26.218220Z"
+        "scored_at": "2026-11-14T17:09:03.705131Z"
       }
     },
     {
-      "story_id": "story_9113026e72af",
-      "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "primary_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_da2163dae89b",
+      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "primary_url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "The Verge",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
-          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "id": "6af52e3783fbd5c80a30d1506e49dfb29b46bea4",
+          "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+          "title_zh": null,
+          "title_en": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+          "title_original": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T14:05:22Z"
+          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-14T15:00:00Z"
+        },
+        {
+          "id": "07c57064317e0b14edfba41d485fa8d7e0849883",
+          "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+          "title_zh": null,
+          "title_en": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+          "title_original": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-14T15:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hugging Face Blog"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
-          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "id": "6af52e3783fbd5c80a30d1506e49dfb29b46bea4",
+          "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+          "title_zh": null,
+          "title_en": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+          "title_original": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T14:05:22Z"
+          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-14T15:00:00Z"
+        },
+        {
+          "id": "07c57064317e0b14edfba41d485fa8d7e0849883",
+          "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+          "title_zh": null,
+          "title_en": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+          "title_original": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-14T15:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6225,
+      "importance": 0.6225,
+      "importance_score": 0.6225,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7443,
-        "story_heat": 0.0
+        "editorial": 0.5112,
+        "source_tier": 0.58,
+        "ai_relevance": 0.71,
+        "recency": 0.9697,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "watch",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-13T14:05:22Z",
-      "latest_at": "2026-11-13T14:05:22Z",
+      "earliest_at": "2026-11-14T15:00:00Z",
+      "latest_at": "2026-11-14T15:00:00Z",
       "primary_item": {
-        "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-        "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-        "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
-        "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-        "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "id": "6af52e3783fbd5c80a30d1506e49dfb29b46bea4",
+        "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+        "title_zh": null,
+        "title_en": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+        "title_original": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T10:33:26.218220Z"
-      }
-    },
-    {
-      "story_id": "story_83023b0bea9d",
-      "title": "使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API",
-      "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "80ac462642d08ac454ccc85158579adc912e472c",
-          "title": "使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API",
-          "title_zh": "使用 REST API 管理代码仓库的 AI Scan",
-          "title_en": "Manage AI Scan for repositories using the REST API",
-          "title_original": "Manage AI Scan for repositories using the REST API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T12:22:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "80ac462642d08ac454ccc85158579adc912e472c",
-          "title": "使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API",
-          "title_zh": "使用 REST API 管理代码仓库的 AI Scan",
-          "title_en": "Manage AI Scan for repositories using the REST API",
-          "title_original": "Manage AI Scan for repositories using the REST API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T12:22:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7947,
-      "importance": 0.7947,
-      "importance_score": 0.7947,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7261,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T12:22:41Z",
-      "latest_at": "2026-11-13T12:22:41Z",
-      "primary_item": {
-        "id": "80ac462642d08ac454ccc85158579adc912e472c",
-        "title": "使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API",
-        "title_zh": "使用 REST API 管理代码仓库的 AI Scan",
-        "title_en": "Manage AI Scan for repositories using the REST API",
-        "title_original": "Manage AI Scan for repositories using the REST API",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T10:33:26.218220Z"
-      }
-    },
-    {
-      "story_id": "story_0946096a5431",
-      "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-      "url": "https://www.aibase.com/news/32317",
-      "primary_url": "https://www.aibase.com/news/32317",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
-          "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-          "title_zh": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-          "title_en": null,
-          "title_original": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32317",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T16:23:36.620474Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
-          "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-          "title_zh": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-          "title_en": null,
-          "title_original": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32317",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T16:23:36.620474Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7694,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-13T16:23:36.620474Z",
-      "latest_at": "2026-11-13T16:23:36.620474Z",
-      "primary_item": {
-        "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
-        "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-        "title_zh": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-        "title_en": null,
-        "title_original": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32317",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T10:33:26.218220Z"
-      }
-    },
-    {
-      "story_id": "story_cf4a6103a8ec",
-      "title": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
-      "url": "https://www.aibase.com/news/32318",
-      "primary_url": "https://www.aibase.com/news/32318",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "409724ecc54343400155240e8c1b7fb7022a0cc7",
-          "title": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
-          "title_zh": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
-          "title_en": null,
-          "title_original": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32318",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T16:23:36.620474Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "409724ecc54343400155240e8c1b7fb7022a0cc7",
-          "title": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
-          "title_zh": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
-          "title_en": null,
-          "title_original": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32318",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T16:23:36.620474Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7694,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-13T16:23:36.620474Z",
-      "latest_at": "2026-11-13T16:23:36.620474Z",
-      "primary_item": {
-        "id": "409724ecc54343400155240e8c1b7fb7022a0cc7",
-        "title": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
-        "title_zh": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
-        "title_en": null,
-        "title_original": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32318",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T10:33:26.218220Z"
-      }
-    },
-    {
-      "story_id": "story_e3631194f721",
-      "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
-      "url": "https://www.aibase.com/news/32320",
-      "primary_url": "https://www.aibase.com/news/32320",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6c71f2d9404d8bd44d517c143c5be2aaac6dc151",
-          "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
-          "title_zh": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
-          "title_en": null,
-          "title_original": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32320",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T16:23:36.620474Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6c71f2d9404d8bd44d517c143c5be2aaac6dc151",
-          "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
-          "title_zh": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
-          "title_en": null,
-          "title_original": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32320",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T16:23:36.620474Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7694,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-13T16:23:36.620474Z",
-      "latest_at": "2026-11-13T16:23:36.620474Z",
-      "primary_item": {
-        "id": "6c71f2d9404d8bd44d517c143c5be2aaac6dc151",
-        "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
-        "title_zh": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
-        "title_en": null,
-        "title_original": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32320",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T10:33:26.218220Z"
+        "scored_at": "2026-11-14T17:09:03.705131Z"
       }
     },
     {
@@ -1066,15 +600,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6202,
-      "importance": 0.6202,
-      "importance_score": 0.6202,
+      "score": 0.6072,
+      "importance": 0.6072,
+      "importance_score": 0.6072,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.7952,
+        "recency": 0.7231,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1099,300 +633,109 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T10:33:26.218220Z"
+        "scored_at": "2026-11-14T17:09:03.705131Z"
       }
     },
     {
-      "story_id": "story_bf0c061cd80d",
-      "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-      "url": "https://www.aibase.com/news/32321",
-      "primary_url": "https://www.aibase.com/news/32321",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "299acdd956cdad513ff6a759adb2eec679532916",
-          "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-          "title_zh": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-          "title_en": null,
-          "title_original": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32321",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T16:23:36.620474Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "299acdd956cdad513ff6a759adb2eec679532916",
-          "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-          "title_zh": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-          "title_en": null,
-          "title_original": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32321",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T16:23:36.620474Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7694,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-13T16:23:36.620474Z",
-      "latest_at": "2026-11-13T16:23:36.620474Z",
-      "primary_item": {
-        "id": "299acdd956cdad513ff6a759adb2eec679532916",
-        "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-        "title_zh": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-        "title_en": null,
-        "title_original": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32321",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T10:33:26.218220Z"
-      }
-    },
-    {
-      "story_id": "story_abb7247ae009",
-      "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-      "url": "https://www.aibase.com/news/32322",
-      "primary_url": "https://www.aibase.com/news/32322",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a402eef3d8bbb4a0cec313cce19c66e73cf2fa99",
-          "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-          "title_zh": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-          "title_en": null,
-          "title_original": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32322",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T16:23:36.620474Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a402eef3d8bbb4a0cec313cce19c66e73cf2fa99",
-          "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-          "title_zh": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-          "title_en": null,
-          "title_original": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32322",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T16:23:36.620474Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7694,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-13T16:23:36.620474Z",
-      "latest_at": "2026-11-13T16:23:36.620474Z",
-      "primary_item": {
-        "id": "a402eef3d8bbb4a0cec313cce19c66e73cf2fa99",
-        "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-        "title_zh": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-        "title_en": null,
-        "title_original": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32322",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T10:33:26.218220Z"
-      }
-    },
-    {
-      "story_id": "story_e1cd227ad611",
-      "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-      "primary_url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+      "story_id": "story_e41159d50cfe",
+      "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
+      "url": "https://github.com/paul-nameless/agweb",
+      "primary_url": "https://github.com/paul-nameless/agweb",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
-          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
-          "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "id": "61c23c96bc1425c7f168b3af65c4e58dea2c638b",
+          "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
+          "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
+          "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
+          "title_original": "Show HN: Agweb – a browser for agents that stays out of your way",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+          "url": "https://github.com/paul-nameless/agweb",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-14T00:28:11Z"
+          "published_at": "2026-11-14T14:08:12Z"
         },
         {
-          "id": "09c03475580e31d548233207197f9127496e8641",
-          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
-          "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "id": "44ac6481a0513fd306ff2b36e1109fc05add60ca",
+          "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
+          "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
+          "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
+          "title_original": "Show HN: Agweb – a browser for agents that stays out of your way",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50492141",
+          "url": "https://news.ycombinator.com/item?id=50497147",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-14T00:28:11Z"
-        },
-        {
-          "id": "66d12209692eec3def727ca53357b4e371faa565",
-          "title": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员 / Anthropic upgrades Claude Code Projects to run parallel AI workers",
-          "title_zh": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员",
-          "title_en": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-          "title_original": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/resources/articles/projects-redesigned",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T00:28:11Z"
+          "published_at": "2026-11-14T14:08:12Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
-          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
-          "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "id": "61c23c96bc1425c7f168b3af65c4e58dea2c638b",
+          "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
+          "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
+          "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
+          "title_original": "Show HN: Agweb – a browser for agents that stays out of your way",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+          "url": "https://github.com/paul-nameless/agweb",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-14T00:28:11Z"
+          "published_at": "2026-11-14T14:08:12Z"
         },
         {
-          "id": "09c03475580e31d548233207197f9127496e8641",
-          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
-          "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "id": "44ac6481a0513fd306ff2b36e1109fc05add60ca",
+          "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
+          "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
+          "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
+          "title_original": "Show HN: Agweb – a browser for agents that stays out of your way",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50492141",
+          "url": "https://news.ycombinator.com/item?id=50497147",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-14T00:28:11Z"
-        },
-        {
-          "id": "66d12209692eec3def727ca53357b4e371faa565",
-          "title": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员 / Anthropic upgrades Claude Code Projects to run parallel AI workers",
-          "title_zh": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员",
-          "title_en": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-          "title_original": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/resources/articles/projects-redesigned",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T00:28:11Z"
+          "published_at": "2026-11-14T14:08:12Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5464,
-      "importance": 0.5464,
-      "importance_score": 0.5464,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8646,
-        "story_heat": 0.5
+        "recency": 0.9577,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-14T00:28:11Z",
-      "latest_at": "2026-11-14T00:28:11Z",
+      "earliest_at": "2026-11-14T14:08:12Z",
+      "latest_at": "2026-11-14T14:08:12Z",
       "primary_item": {
-        "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
-        "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-        "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
-        "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-        "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+        "id": "61c23c96bc1425c7f168b3af65c4e58dea2c638b",
+        "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
+        "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
+        "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
+        "title_original": "Show HN: Agweb – a browser for agents that stays out of your way",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+        "url": "https://github.com/paul-nameless/agweb",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -1400,7 +743,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T10:33:26.218220Z"
+        "scored_at": "2026-11-14T17:09:03.705131Z"
+      }
+    },
+    {
+      "story_id": "story_253cc06321ab",
+      "title": "克劳德会议",
+      "url": "https://claude.com/resources/articles/claude-meetings",
+      "primary_url": "https://claude.com/resources/articles/claude-meetings",
+      "source": "claude.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "70a2b8edc02f30ab27e6a8ea9df7cd95089875a1",
+          "title": "克劳德会议",
+          "title_zh": "克劳德会议",
+          "title_en": null,
+          "title_original": "克劳德会议",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/resources/articles/claude-meetings",
+          "source": "claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T10:44:27.205000Z"
+        },
+        {
+          "id": "c7ad6451d622eeb9017ca3f5dbad957b2cf1ea32",
+          "title": "Claude会议 / Claude Meetings",
+          "title_zh": "Claude会议",
+          "title_en": "Claude Meetings",
+          "title_original": "Claude Meetings",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/resources/articles/claude-meetings",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-13T22:39:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "claude.com"
+      ],
+      "items": [
+        {
+          "id": "70a2b8edc02f30ab27e6a8ea9df7cd95089875a1",
+          "title": "克劳德会议",
+          "title_zh": "克劳德会议",
+          "title_en": null,
+          "title_original": "克劳德会议",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/resources/articles/claude-meetings",
+          "source": "claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T10:44:27.205000Z"
+        },
+        {
+          "id": "c7ad6451d622eeb9017ca3f5dbad957b2cf1ea32",
+          "title": "Claude会议 / Claude Meetings",
+          "title_zh": "Claude会议",
+          "title_en": "Claude Meetings",
+          "title_original": "Claude Meetings",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/resources/articles/claude-meetings",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-13T22:39:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5299,
+      "importance": 0.5299,
+      "importance_score": 0.5299,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9119,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T22:39:15Z",
+      "latest_at": "2026-11-14T10:44:27.205000Z",
+      "primary_item": {
+        "id": "70a2b8edc02f30ab27e6a8ea9df7cd95089875a1",
+        "title": "克劳德会议",
+        "title_zh": "克劳德会议",
+        "title_en": null,
+        "title_original": "克劳德会议",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://claude.com/resources/articles/claude-meetings",
+        "source": "claude.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T17:09:03.705131Z"
+      }
+    },
+    {
+      "story_id": "story_c6f5f334f60e",
+      "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "primary_url": "https://unsloth.ai/docs/models/qwen3.8",
+      "source": "unsloth.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "12903a53c9546f10f167828099cb78396294e480",
+          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+          "title_zh": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+          "title_en": null,
+          "title_original": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://unsloth.ai/docs/models/qwen3.8",
+          "source": "unsloth.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T10:32:03.410000Z"
+        },
+        {
+          "id": "b5ce038019dead0f758119ef2bc643b995a8c5de",
+          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新 / Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+          "title_zh": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+          "title_en": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+          "title_original": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://unsloth.ai/docs/models/qwen3.8",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T00:06:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "unsloth.ai"
+      ],
+      "items": [
+        {
+          "id": "12903a53c9546f10f167828099cb78396294e480",
+          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+          "title_zh": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+          "title_en": null,
+          "title_original": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://unsloth.ai/docs/models/qwen3.8",
+          "source": "unsloth.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T10:32:03.410000Z"
+        },
+        {
+          "id": "b5ce038019dead0f758119ef2bc643b995a8c5de",
+          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新 / Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+          "title_zh": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+          "title_en": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+          "title_original": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://unsloth.ai/docs/models/qwen3.8",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T00:06:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9092,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T00:06:04Z",
+      "latest_at": "2026-11-14T10:32:03.410000Z",
+      "primary_item": {
+        "id": "12903a53c9546f10f167828099cb78396294e480",
+        "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+        "title_zh": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+        "title_en": null,
+        "title_original": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://unsloth.ai/docs/models/qwen3.8",
+        "source": "unsloth.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T17:09:03.705131Z"
       }
     },
     {
@@ -1506,15 +1069,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5408,
-      "importance": 0.5408,
-      "importance_score": 0.5408,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8331,
+        "recency": 0.7575,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1539,7 +1102,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T10:33:26.218220Z"
+        "scored_at": "2026-11-14T17:09:03.705131Z"
       }
     },
     {
@@ -1645,15 +1208,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
+      "score": 0.5256,
+      "importance": 0.5256,
+      "importance_score": 0.5256,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8235,
+        "recency": 0.7488,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1678,7 +1241,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T10:33:26.218220Z"
+        "scored_at": "2026-11-14T17:09:03.705131Z"
       }
     },
     {
@@ -1784,15 +1347,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.534,
-      "importance": 0.534,
-      "importance_score": 0.534,
+      "score": 0.521,
+      "importance": 0.521,
+      "importance_score": 0.521,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7954,
+        "recency": 0.7233,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1817,146 +1380,586 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T10:33:26.218220Z"
+        "scored_at": "2026-11-14T17:09:03.705131Z"
       }
     },
     {
-      "story_id": "story_c470ec9e7583",
-      "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
-      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "primary_url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "source": "www.youtube.com",
-      "source_name": "Buzzing",
+      "story_id": "story_02d4b9d325b4",
+      "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://news.ycombinator.com/item?id=50493251",
+      "primary_url": "https://news.ycombinator.com/item?id=50493251",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "3a55bfcc69f4ee51a74becfcb6b60d6c77555f4d",
-          "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
-          "title_zh": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
-          "title_en": null,
-          "title_original": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
+          "id": "2d7623a763c69046c3901343648bd636f62daa03",
+          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "title_zh": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性",
+          "title_en": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "title_original": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-13T17:54:54.250000Z"
-        },
-        {
-          "id": "f8eb3fcad27cb89dc08a29cd24291f3745addd4c",
-          "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频] / Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-          "title_zh": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
-          "title_en": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-          "title_original": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-13T15:08:44Z"
-        },
-        {
-          "id": "95d21eb882efec96a087f8f28005924a3282843d",
-          "title": "Jonathan Blow – 如果人工智能解决了编码问题，为什么我的软件还是一样？ [视频] / Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-          "title_zh": "Jonathan Blow – 如果人工智能解决了编码问题，为什么我的软件还是一样？ [视频]",
-          "title_en": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-          "title_original": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50484658",
+          "url": "https://news.ycombinator.com/item?id=50493251",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-13T15:08:44Z"
+          "published_at": "2026-11-14T02:52:59Z"
+        },
+        {
+          "id": "3407e04f6d5018786e57dd9263b2b0159ae0a47f",
+          "title": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性 / NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
+          "title_zh": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性",
+          "title_en": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
+          "title_original": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T02:10:01Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.youtube.com"
+        "Reddit (热门)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "3a55bfcc69f4ee51a74becfcb6b60d6c77555f4d",
-          "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
-          "title_zh": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
-          "title_en": null,
-          "title_original": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
+          "id": "2d7623a763c69046c3901343648bd636f62daa03",
+          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "title_zh": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性",
+          "title_en": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "title_original": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-13T17:54:54.250000Z"
-        },
-        {
-          "id": "f8eb3fcad27cb89dc08a29cd24291f3745addd4c",
-          "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频] / Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-          "title_zh": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
-          "title_en": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-          "title_original": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-13T15:08:44Z"
-        },
-        {
-          "id": "95d21eb882efec96a087f8f28005924a3282843d",
-          "title": "Jonathan Blow – 如果人工智能解决了编码问题，为什么我的软件还是一样？ [视频] / Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-          "title_zh": "Jonathan Blow – 如果人工智能解决了编码问题，为什么我的软件还是一样？ [视频]",
-          "title_en": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-          "title_original": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50484658",
+          "url": "https://news.ycombinator.com/item?id=50493251",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-13T15:08:44Z"
+          "published_at": "2026-11-14T02:52:59Z"
+        },
+        {
+          "id": "3407e04f6d5018786e57dd9263b2b0159ae0a47f",
+          "title": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性 / NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
+          "title_zh": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性",
+          "title_en": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
+          "title_original": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T02:10:01Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5324,
-      "importance": 0.5324,
-      "importance_score": 0.5324,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5123,
+      "importance": 0.5123,
+      "importance_score": 0.5123,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7865,
-        "story_heat": 0.5
+        "recency": 0.8141,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-13T15:08:44Z",
-      "latest_at": "2026-11-13T17:54:54.250000Z",
+      "earliest_at": "2026-11-14T02:10:01Z",
+      "latest_at": "2026-11-14T02:52:59Z",
       "primary_item": {
-        "id": "3a55bfcc69f4ee51a74becfcb6b60d6c77555f4d",
-        "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
-        "title_zh": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
-        "title_en": null,
-        "title_original": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
+        "id": "2d7623a763c69046c3901343648bd636f62daa03",
+        "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+        "title_zh": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性",
+        "title_en": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+        "title_original": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-        "source": "www.youtube.com",
+        "url": "https://news.ycombinator.com/item?id=50493251",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T17:09:03.705131Z"
+      }
+    },
+    {
+      "story_id": "story_4f653b7130ea",
+      "title": "Perplexity Decider v1.3：训练、评估及应用场景",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "primary_url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "source": "www.perplexity.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7291c4476b2dfa6b4903699500d8ade2b3b7d8bf",
+          "title": "Perplexity Decider v1.3：训练、评估及应用场景",
+          "title_zh": "Perplexity Decider v1.3：训练、评估及应用场景",
+          "title_en": null,
+          "title_original": "Perplexity Decider v1.3：训练、评估及应用场景",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+          "source": "www.perplexity.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T02:39:53.814000Z"
+        },
+        {
+          "id": "bb54ee24d70dd3b94f1dccfdce3ee044b1b878e2",
+          "title": "Perplexity Decider v1.3：训练、评估及应用场景 / Perplexity Decider v1.3: Training, eval, and use cases",
+          "title_zh": "Perplexity Decider v1.3：训练、评估及应用场景",
+          "title_en": "Perplexity Decider v1.3: Training, eval, and use cases",
+          "title_original": "Perplexity Decider v1.3: Training, eval, and use cases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-13T19:24:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.perplexity.ai"
+      ],
+      "items": [
+        {
+          "id": "7291c4476b2dfa6b4903699500d8ade2b3b7d8bf",
+          "title": "Perplexity Decider v1.3：训练、评估及应用场景",
+          "title_zh": "Perplexity Decider v1.3：训练、评估及应用场景",
+          "title_en": null,
+          "title_original": "Perplexity Decider v1.3：训练、评估及应用场景",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+          "source": "www.perplexity.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T02:39:53.814000Z"
+        },
+        {
+          "id": "bb54ee24d70dd3b94f1dccfdce3ee044b1b878e2",
+          "title": "Perplexity Decider v1.3：训练、评估及应用场景 / Perplexity Decider v1.3: Training, eval, and use cases",
+          "title_zh": "Perplexity Decider v1.3：训练、评估及应用场景",
+          "title_en": "Perplexity Decider v1.3: Training, eval, and use cases",
+          "title_original": "Perplexity Decider v1.3: Training, eval, and use cases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-13T19:24:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5119,
+      "importance": 0.5119,
+      "importance_score": 0.5119,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8115,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T19:24:47Z",
+      "latest_at": "2026-11-14T02:39:53.814000Z",
+      "primary_item": {
+        "id": "7291c4476b2dfa6b4903699500d8ade2b3b7d8bf",
+        "title": "Perplexity Decider v1.3：训练、评估及应用场景",
+        "title_zh": "Perplexity Decider v1.3：训练、评估及应用场景",
+        "title_en": null,
+        "title_original": "Perplexity Decider v1.3：训练、评估及应用场景",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+        "source": "www.perplexity.ai",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T10:33:26.218220Z"
+        "scored_at": "2026-11-14T17:09:03.705131Z"
+      }
+    },
+    {
+      "story_id": "story_f7d3b237183e",
+      "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+      "primary_url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "521bf0670814346061bd747307a915a263dc009d",
+          "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "title_zh": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务",
+          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T14:09:25Z"
+        },
+        {
+          "id": "195b954efe87d3eb4915c0f699c2435562f638f9",
+          "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "title_zh": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务",
+          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50497155",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T14:09:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "521bf0670814346061bd747307a915a263dc009d",
+          "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "title_zh": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务",
+          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T14:09:25Z"
+        },
+        {
+          "id": "195b954efe87d3eb4915c0f699c2435562f638f9",
+          "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "title_zh": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务",
+          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50497155",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T14:09:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.958,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T14:09:25Z",
+      "latest_at": "2026-11-14T14:09:25Z",
+      "primary_item": {
+        "id": "521bf0670814346061bd747307a915a263dc009d",
+        "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+        "title_zh": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务",
+        "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+        "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T17:09:03.705131Z"
+      }
+    },
+    {
+      "story_id": "story_e1cd227ad611",
+      "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+      "primary_url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
+          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
+          "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T00:28:11Z"
+        },
+        {
+          "id": "09c03475580e31d548233207197f9127496e8641",
+          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
+          "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50492141",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T00:28:11Z"
+        },
+        {
+          "id": "66d12209692eec3def727ca53357b4e371faa565",
+          "title": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员 / Anthropic upgrades Claude Code Projects to run parallel AI workers",
+          "title_zh": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员",
+          "title_en": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+          "title_original": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/resources/articles/projects-redesigned",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T00:28:11Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
+          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
+          "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T00:28:11Z"
+        },
+        {
+          "id": "09c03475580e31d548233207197f9127496e8641",
+          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
+          "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50492141",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T00:28:11Z"
+        },
+        {
+          "id": "66d12209692eec3def727ca53357b4e371faa565",
+          "title": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员 / Anthropic upgrades Claude Code Projects to run parallel AI workers",
+          "title_zh": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员",
+          "title_en": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+          "title_original": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/resources/articles/projects-redesigned",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T00:28:11Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5323,
+      "importance": 0.5323,
+      "importance_score": 0.5323,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7862,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T00:28:11Z",
+      "latest_at": "2026-11-14T00:28:11Z",
+      "primary_item": {
+        "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
+        "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+        "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
+        "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+        "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T17:09:03.705131Z"
+      }
+    },
+    {
+      "story_id": "story_fbea0d258a93",
+      "title": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富 / Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+      "url": "https://atg.science/careers",
+      "primary_url": "https://atg.science/careers",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "9dd5d00576c2d903dcffa21c2c15faf5c5375649",
+          "title": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富 / Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+          "title_zh": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富",
+          "title_en": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+          "title_original": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://atg.science/careers",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-13T21:01:11Z"
+        },
+        {
+          "id": "95eb34b04dace089987da89f0718ac44919b2269",
+          "title": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富 / Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+          "title_zh": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富",
+          "title_en": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+          "title_original": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50489589",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T21:01:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9dd5d00576c2d903dcffa21c2c15faf5c5375649",
+          "title": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富 / Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+          "title_zh": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富",
+          "title_en": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+          "title_original": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://atg.science/careers",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-13T21:01:11Z"
+        },
+        {
+          "id": "95eb34b04dace089987da89f0718ac44919b2269",
+          "title": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富 / Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+          "title_zh": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富",
+          "title_en": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+          "title_original": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50489589",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T21:01:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5004,
+      "importance": 0.5004,
+      "importance_score": 0.5004,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.748,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T21:01:11Z",
+      "latest_at": "2026-11-13T21:01:11Z",
+      "primary_item": {
+        "id": "9dd5d00576c2d903dcffa21c2c15faf5c5375649",
+        "title": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富 / Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+        "title_zh": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富",
+        "title_en": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+        "title_original": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://atg.science/careers",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T17:09:03.705131Z"
       }
     }
   ]
